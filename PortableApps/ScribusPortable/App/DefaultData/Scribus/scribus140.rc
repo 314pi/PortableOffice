@@ -1,0 +1,340 @@
+<SCRIBUSRC VERSION="1.4.0">
+ <GUI STILT="" GapVertical="40.000" STYLEPREVIEW="1" STEFONT="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" STECOLOR="#ffffff" SHOWLAYERM="0" SHOWMARGIN="1" UNIT="0" StartUp="1" SCRIPTS="X:/PortableApps/ScribusPortable/Data/Scripts" ScratchRight="100" PROFILES="" ScratchLeft="100" FRV="1" RCD="5" UseSmallWidgets="0" GRAB="4" showBleed="1" APF="8" ToolTips="1" rulerMode="1" PFS="8" SHOWLINK="0" ScratchTop="20" DOC="X:/PortableApps/ScribusPortable/Data/Documents" stickyTools="0" SHOWBASE="0" showcolborders="1" SHOWControl="0" SHOWGUIDES="1" SHOWPICT="1" RAD="40" TEMPLATES="X:/PortableApps/ScribusPortable/Data/Templates" rulersShown="1" ScratchBottom="20" showMouseCoordinates="1" GapHorizontal="0.000" MOVT="150"/>
+ <GRID MINOR="20.000" MAJOR="100.000" GuideC="#000080" MAJORC="#00ff00" GuideZ="10.000" BACKG="1" SHOW="0" MINORC="#00ff00" BaseC="#c0c0c0"/>
+ <PAGE DPageBorderColor="#ff0000" DFrameLinkColor="#ff0000" DControlCharColor="#800000" DFrameNormColor="#000000" SELEC="#ff0000" DFrameLockColor="#800000" MARGC="#0000ff" DScale="1.333333" DFrameGroupColor="#008080" ShowPageShadow="1" RANDF="0" PAGEC="#ffffff" DFrameAnnotationColor="#0000ff"/>
+ <TYPO BASE="14.400" StrikeThruWidth="-1" TIEF="33" TIEFSC="66" BASEO="0.000" AUTOL="20" HOCH="33" SMCAPS="75" UnderlinePos="-1" StrikeThruPos="-1" HOCHSC="66" UnderlineWidth="-1"/>
+ <TOOLS StrokeText="Black" WIDTHLINE="1.000" POLYCUR="0.000" BRUSHSHADE="100" MAGMAX="3200" PENTEXT="Black" POLYC="4" STILLINE="1" POLYF="0.500" TextBackGroundShade="100" PENSHADE="100" TextLineColor="None" PEN="Black" TextLineShade="100" HalfRes="1" PICTSHADE="100" POLYR="0.000" POLYS="0" StartArrow="0" TEXTGAP="0.000" TEXTCOL="1" LINESHADE="100" dispX="10.000" dispY="10.000" TabFill="" BRUSH="None" MAGSTEP="200" TabWidth="36.000" EmbeddedPath="0" PICTSCX="1.000" constrain="15.000" PENLINE="Black" PICTSCY="1.000" STIL="1" TextPenShade="100" WIDTH="1.000" EndArrow="0" TextBackGround="None" PASPECT="1" POLYFD="0" TextStrokeShade="100" MAGMIN="10" CPICT="None" PSCALE="1"/>
+ <MAINWINDOW WIDTH="640" MAXIMIZED="0" HEIGHT="480" YPOS="124" XPOS="363"/>
+ <SCRAPBOOK numScrapbookCopies="10" CopyToScrapbook="1" persistentScrapbook="0"/>
+ <PAGEPALETTE NAMES="1" THUMBS="0"/>
+ <DOKUMENT PAGESIZE="A4" RANDL="40.000" DOPPEL="0" BleedLeft="0.000" BleedBottom="0.000" RANDO="40.000" BREITE="595.276" AUSRICHTUNG="0" RANDR="40.000" AutoSave="1" HOEHE="841.890" BleedTop="0.000" AutoSaveTime="600000" RANDU="40.000" BleedRight="0.000" PRESET="0"/>
+ <PageSets>
+  <Set Columns="1" Rows="1" Name="Single Page" FirstPage="0"/>
+  <Set Columns="2" Rows="1" Name="Double Sided" FirstPage="1">
+   <PageNames Name="Left Page"/>
+   <PageNames Name="Right Page"/>
+  </Set>
+  <Set Columns="3" Rows="1" Name="3-Fold" FirstPage="0">
+   <PageNames Name="Left Page"/>
+   <PageNames Name="Middle"/>
+   <PageNames Name="Right Page"/>
+  </Set>
+  <Set Columns="4" Rows="1" Name="4-Fold" FirstPage="0">
+   <PageNames Name="Left Page"/>
+   <PageNames Name="Middle Left"/>
+   <PageNames Name="Middle Right"/>
+   <PageNames Name="Right Page"/>
+  </Set>
+ </PageSets>
+ <Checker currentProfile="PostScript"/>
+ <CheckProfile autoCheck="1" maxResolution="2400.000" checkTransparency="1" checkRasterPDF="1" checkOrphans="1" ignoreErrors="0" checkGlyphs="1" Name="PDF 1.3" checkPictures="1" checkOverflow="1" checkForGIF="1" minResolution="144.000" ignoreOffLayers="0" checkResolution="1" checkOffConflictLayers="0" checkAnnotations="0"/>
+ <CheckProfile autoCheck="1" maxResolution="2400.000" checkTransparency="0" checkRasterPDF="1" checkOrphans="1" ignoreErrors="0" checkGlyphs="1" Name="PDF 1.4" checkPictures="1" checkOverflow="1" checkForGIF="1" minResolution="144.000" ignoreOffLayers="0" checkResolution="1" checkOffConflictLayers="0" checkAnnotations="0"/>
+ <CheckProfile autoCheck="1" maxResolution="2400.000" checkTransparency="0" checkRasterPDF="1" checkOrphans="1" ignoreErrors="0" checkGlyphs="1" Name="PDF 1.5" checkPictures="1" checkOverflow="1" checkForGIF="1" minResolution="144.000" ignoreOffLayers="0" checkResolution="1" checkOffConflictLayers="0" checkAnnotations="0"/>
+ <CheckProfile autoCheck="1" maxResolution="2400.000" checkTransparency="1" checkRasterPDF="1" checkOrphans="1" ignoreErrors="0" checkGlyphs="1" Name="PDF/X-3" checkPictures="1" checkOverflow="1" checkForGIF="1" minResolution="144.000" ignoreOffLayers="0" checkResolution="1" checkOffConflictLayers="0" checkAnnotations="1"/>
+ <CheckProfile autoCheck="1" maxResolution="2400.000" checkTransparency="1" checkRasterPDF="1" checkOrphans="1" ignoreErrors="0" checkGlyphs="1" Name="PostScript" checkPictures="1" checkOverflow="1" checkForGIF="1" minResolution="144.000" ignoreOffLayers="0" checkResolution="1" checkOffConflictLayers="0" checkAnnotations="0"/>
+ <CMS DPgam="0" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DPSo="0" DPuse="0" DPInCMYK="Fogra27L CMYK Coated Press" DPbla="1" DIIm="0" DPSFo="0" DPMo="sRGB IEC61966-2.1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1"/>
+ <PRINTER CLIPMARGIN="0" COMMAND="" GMODE="0" NAME="" FILE=""/>
+ <PRINTPREVIEW Mode="0" Magenta="1" Yellow="1" Transparency="0" InkThreshold="250" Black="1" GcrMode="1" AntiAliasing="0" InkCoverage="0" Cyan="1"/>
+ <EXTERNAL AlphaText="1" Resolution="72" GIMP="" AlphaGraphics="1" LatexStartWithEmptyFrames="0" WebBrowser="" LatexEditor="" LatexResolution="72" LatexForceDpi="1" GS="">
+  <LatexConfig command="" file="100_latex.xml"/>
+  <LatexConfig command="" file="200_gnuplot.xml"/>
+  <LatexConfig command="" file="300_lilypond.xml"/>
+  <LatexConfig command="" file="400_dot.xml"/>
+  <LatexConfig command="" file="500_povray.xml"/>
+ </EXTERNAL>
+ <HYPHEN MODE="1" HYCOUNT="2" INMODE="0" LANG="English" WORDLEN="3"/>
+ <COLOR Spot="0" Register="0" NAME="Black" CMYK="#000000ff"/>
+ <COLOR Spot="0" RGB="#0000ff" Register="0" NAME="Blue"/>
+ <COLOR Spot="0" Register="0" NAME="Cool Black" CMYK="#990000ff"/>
+ <COLOR Spot="0" Register="0" NAME="Cyan" CMYK="#ff000000"/>
+ <COLOR Spot="0" RGB="#00ff00" Register="0" NAME="Green"/>
+ <COLOR Spot="0" Register="0" NAME="Magenta" CMYK="#00ff0000"/>
+ <COLOR Spot="0" RGB="#ff0000" Register="0" NAME="Red"/>
+ <COLOR Spot="0" Register="1" NAME="Registration" CMYK="#ffffffff"/>
+ <COLOR Spot="0" Register="0" NAME="Rich Black" CMYK="#996666ff"/>
+ <COLOR Spot="0" Register="0" NAME="Warm Black" CMYK="#00994cff"/>
+ <COLOR Spot="0" Register="0" NAME="White" CMYK="#00000000"/>
+ <COLOR Spot="0" Register="0" NAME="Yellow" CMYK="#0000ff00"/>
+ <SHORTCUT ACTION="Barcode Generator" SEQUENCE=""/>
+ <SHORTCUT ACTION="ColorWheel" SEQUENCE=""/>
+ <SHORTCUT ACTION="ExportAsImage" SEQUENCE="Ctrl+Shift+E"/>
+ <SHORTCUT ACTION="ExportAsSVG" SEQUENCE=""/>
+ <SHORTCUT ACTION="FontPreview" SEQUENCE=""/>
+ <SHORTCUT ACTION="LensEffects" SEQUENCE=""/>
+ <SHORTCUT ACTION="MeshDistortion" SEQUENCE=""/>
+ <SHORTCUT ACTION="NewFromDocumentTemplate" SEQUENCE="Ctrl+Alt+N"/>
+ <SHORTCUT ACTION="PathAlongPath" SEQUENCE=""/>
+ <SHORTCUT ACTION="PathConnect" SEQUENCE=""/>
+ <SHORTCUT ACTION="PathCutter" SEQUENCE=""/>
+ <SHORTCUT ACTION="PathFinder" SEQUENCE=""/>
+ <SHORTCUT ACTION="PathStroker" SEQUENCE=""/>
+ <SHORTCUT ACTION="PrintPreview" SEQUENCE="Ctrl+Alt+P"/>
+ <SHORTCUT ACTION="SaveAsDocumentTemplate" SEQUENCE="Ctrl+Alt+S"/>
+ <SHORTCUT ACTION="ShortWords" SEQUENCE=""/>
+ <SHORTCUT ACTION="Subdivide" SEQUENCE=""/>
+ <SHORTCUT ACTION="TransformEffect" SEQUENCE=""/>
+ <SHORTCUT ACTION="alignBlock" SEQUENCE=""/>
+ <SHORTCUT ACTION="alignCenter" SEQUENCE=""/>
+ <SHORTCUT ACTION="alignForced" SEQUENCE=""/>
+ <SHORTCUT ACTION="alignLeft" SEQUENCE=""/>
+ <SHORTCUT ACTION="alignRight" SEQUENCE=""/>
+ <SHORTCUT ACTION="editActionMode" SEQUENCE=""/>
+ <SHORTCUT ACTION="editClearContents" SEQUENCE=""/>
+ <SHORTCUT ACTION="editColors" SEQUENCE=""/>
+ <SHORTCUT ACTION="editCopy" SEQUENCE="Ctrl+C"/>
+ <SHORTCUT ACTION="editCopyContents" SEQUENCE="Ctrl+Shift+C"/>
+ <SHORTCUT ACTION="editCut" SEQUENCE="Ctrl+X"/>
+ <SHORTCUT ACTION="editDeselectAll" SEQUENCE="Ctrl+Shift+A"/>
+ <SHORTCUT ACTION="editEditRenderSource" SEQUENCE=""/>
+ <SHORTCUT ACTION="editEditWithImageEditor" SEQUENCE=""/>
+ <SHORTCUT ACTION="editJavascripts" SEQUENCE=""/>
+ <SHORTCUT ACTION="editMasterPages" SEQUENCE=""/>
+ <SHORTCUT ACTION="editPaste" SEQUENCE="Ctrl+V"/>
+ <SHORTCUT ACTION="editPasteContents" SEQUENCE="Ctrl+Shift+V"/>
+ <SHORTCUT ACTION="editPasteContentsAbs" SEQUENCE="Ctrl+Alt+Shift+V"/>
+ <SHORTCUT ACTION="editPasteImageFromClipboard" SEQUENCE=""/>
+ <SHORTCUT ACTION="editPatterns" SEQUENCE=""/>
+ <SHORTCUT ACTION="editRedoAction" SEQUENCE="Ctrl+Y"/>
+ <SHORTCUT ACTION="editReplaceColors" SEQUENCE=""/>
+ <SHORTCUT ACTION="editSearchReplace" SEQUENCE="Ctrl+F"/>
+ <SHORTCUT ACTION="editSelectAll" SEQUENCE="Ctrl+A"/>
+ <SHORTCUT ACTION="editSelectAllOnLayer" SEQUENCE="Ctrl+Alt+A"/>
+ <SHORTCUT ACTION="editStyles" SEQUENCE="F3"/>
+ <SHORTCUT ACTION="editUndoAction" SEQUENCE="Ctrl+Z"/>
+ <SHORTCUT ACTION="extrasDeHyphenateText" SEQUENCE=""/>
+ <SHORTCUT ACTION="extrasGenerateTableOfContents" SEQUENCE=""/>
+ <SHORTCUT ACTION="extrasHyphenateText" SEQUENCE=""/>
+ <SHORTCUT ACTION="extrasManageImages" SEQUENCE=""/>
+ <SHORTCUT ACTION="fileClose" SEQUENCE="Ctrl+F4"/>
+ <SHORTCUT ACTION="fileCollect" SEQUENCE=""/>
+ <SHORTCUT ACTION="fileDocSetup" SEQUENCE=""/>
+ <SHORTCUT ACTION="fileExportAsEPS" SEQUENCE=""/>
+ <SHORTCUT ACTION="fileExportAsPDF" SEQUENCE=""/>
+ <SHORTCUT ACTION="fileExportText" SEQUENCE=""/>
+ <SHORTCUT ACTION="fileImportAppendText" SEQUENCE=""/>
+ <SHORTCUT ACTION="fileImportImage" SEQUENCE="Ctrl+I"/>
+ <SHORTCUT ACTION="fileImportText" SEQUENCE="Ctrl+I"/>
+ <SHORTCUT ACTION="fileImportText2" SEQUENCE=""/>
+ <SHORTCUT ACTION="fileImportVector" SEQUENCE=""/>
+ <SHORTCUT ACTION="fileNew" SEQUENCE="Ctrl+N"/>
+ <SHORTCUT ACTION="fileNewFromTemplate" SEQUENCE="Ctrl+Alt+N"/>
+ <SHORTCUT ACTION="fileOpen" SEQUENCE="Ctrl+O"/>
+ <SHORTCUT ACTION="filePreferences" SEQUENCE=""/>
+ <SHORTCUT ACTION="filePrint" SEQUENCE="Ctrl+P"/>
+ <SHORTCUT ACTION="fileQuit" SEQUENCE="Ctrl+Q"/>
+ <SHORTCUT ACTION="fileRevert" SEQUENCE=""/>
+ <SHORTCUT ACTION="fileSave" SEQUENCE="Ctrl+S"/>
+ <SHORTCUT ACTION="fileSaveAs" SEQUENCE="Ctrl+Shift+S"/>
+ <SHORTCUT ACTION="fontSize10" SEQUENCE=""/>
+ <SHORTCUT ACTION="fontSize11" SEQUENCE=""/>
+ <SHORTCUT ACTION="fontSize12" SEQUENCE=""/>
+ <SHORTCUT ACTION="fontSize14" SEQUENCE=""/>
+ <SHORTCUT ACTION="fontSize18" SEQUENCE=""/>
+ <SHORTCUT ACTION="fontSize24" SEQUENCE=""/>
+ <SHORTCUT ACTION="fontSize36" SEQUENCE=""/>
+ <SHORTCUT ACTION="fontSize48" SEQUENCE=""/>
+ <SHORTCUT ACTION="fontSize60" SEQUENCE=""/>
+ <SHORTCUT ACTION="fontSize7" SEQUENCE=""/>
+ <SHORTCUT ACTION="fontSize72" SEQUENCE=""/>
+ <SHORTCUT ACTION="fontSize9" SEQUENCE=""/>
+ <SHORTCUT ACTION="fontSizeOther" SEQUENCE=""/>
+ <SHORTCUT ACTION="helpAboutPlugins" SEQUENCE=""/>
+ <SHORTCUT ACTION="helpAboutQt" SEQUENCE=""/>
+ <SHORTCUT ACTION="helpAboutScribus" SEQUENCE=""/>
+ <SHORTCUT ACTION="helpCheckUpdates" SEQUENCE=""/>
+ <SHORTCUT ACTION="helpManual" SEQUENCE="F1"/>
+ <SHORTCUT ACTION="helpOnlineDocs" SEQUENCE=""/>
+ <SHORTCUT ACTION="helpOnlineTutorial1" SEQUENCE=""/>
+ <SHORTCUT ACTION="helpOnlineWWW" SEQUENCE=""/>
+ <SHORTCUT ACTION="helpOnlineWiki" SEQUENCE=""/>
+ <SHORTCUT ACTION="helpTooltips" SEQUENCE=""/>
+ <SHORTCUT ACTION="insertFrame" SEQUENCE=""/>
+ <SHORTCUT ACTION="insertGlyph" SEQUENCE=""/>
+ <SHORTCUT ACTION="insertSampleText" SEQUENCE=""/>
+ <SHORTCUT ACTION="itemAdjustFrameToImage" SEQUENCE=""/>
+ <SHORTCUT ACTION="itemAdjustImageToFrame" SEQUENCE=""/>
+ <SHORTCUT ACTION="itemAttachTextToPath" SEQUENCE=""/>
+ <SHORTCUT ACTION="itemAttributes" SEQUENCE=""/>
+ <SHORTCUT ACTION="itemCombinePolygons" SEQUENCE=""/>
+ <SHORTCUT ACTION="itemConvertToBezierCurve" SEQUENCE=""/>
+ <SHORTCUT ACTION="itemConvertToImageFrame" SEQUENCE=""/>
+ <SHORTCUT ACTION="itemConvertToOutlines" SEQUENCE=""/>
+ <SHORTCUT ACTION="itemConvertToPolygon" SEQUENCE=""/>
+ <SHORTCUT ACTION="itemConvertToTextFrame" SEQUENCE=""/>
+ <SHORTCUT ACTION="itemDelete" SEQUENCE="Ctrl+K"/>
+ <SHORTCUT ACTION="itemDetachTextFromPath" SEQUENCE=""/>
+ <SHORTCUT ACTION="itemDuplicate" SEQUENCE="Ctrl+D"/>
+ <SHORTCUT ACTION="itemExtendedImageProperties" SEQUENCE=""/>
+ <SHORTCUT ACTION="itemFlipH" SEQUENCE=""/>
+ <SHORTCUT ACTION="itemFlipV" SEQUENCE=""/>
+ <SHORTCUT ACTION="itemGroup" SEQUENCE="Ctrl+G"/>
+ <SHORTCUT ACTION="itemImageInfo" SEQUENCE=""/>
+ <SHORTCUT ACTION="itemImageIsVisible" SEQUENCE=""/>
+ <SHORTCUT ACTION="itemLock" SEQUENCE="Ctrl+L"/>
+ <SHORTCUT ACTION="itemLockSize" SEQUENCE="Ctrl+Shift+L"/>
+ <SHORTCUT ACTION="itemLower" SEQUENCE="Ctrl+End"/>
+ <SHORTCUT ACTION="itemLowerToBottom" SEQUENCE="End"/>
+ <SHORTCUT ACTION="itemMulDuplicate" SEQUENCE="Ctrl+Shift+D"/>
+ <SHORTCUT ACTION="itemPDFAnnotationProps" SEQUENCE=""/>
+ <SHORTCUT ACTION="itemPDFFieldProps" SEQUENCE=""/>
+ <SHORTCUT ACTION="itemPDFIsAnnotation" SEQUENCE=""/>
+ <SHORTCUT ACTION="itemPDFIsBookmark" SEQUENCE=""/>
+ <SHORTCUT ACTION="itemPreviewFull" SEQUENCE=""/>
+ <SHORTCUT ACTION="itemPreviewLow" SEQUENCE=""/>
+ <SHORTCUT ACTION="itemPreviewNormal" SEQUENCE=""/>
+ <SHORTCUT ACTION="itemPrintingEnabled" SEQUENCE=""/>
+ <SHORTCUT ACTION="itemRaise" SEQUENCE="Ctrl+Home"/>
+ <SHORTCUT ACTION="itemRaiseToTop" SEQUENCE="Home"/>
+ <SHORTCUT ACTION="itemSendToPattern" SEQUENCE=""/>
+ <SHORTCUT ACTION="itemShapeEdit" SEQUENCE=""/>
+ <SHORTCUT ACTION="itemSplitPolygons" SEQUENCE=""/>
+ <SHORTCUT ACTION="itemUngroup" SEQUENCE="Ctrl+Shift+G"/>
+ <SHORTCUT ACTION="itemUpdateImage" SEQUENCE=""/>
+ <SHORTCUT ACTION="pageApplyMasterPage" SEQUENCE=""/>
+ <SHORTCUT ACTION="pageCopy" SEQUENCE=""/>
+ <SHORTCUT ACTION="pageCopyToMasterPage" SEQUENCE=""/>
+ <SHORTCUT ACTION="pageDelete" SEQUENCE=""/>
+ <SHORTCUT ACTION="pageImport" SEQUENCE=""/>
+ <SHORTCUT ACTION="pageInsert" SEQUENCE=""/>
+ <SHORTCUT ACTION="pageManageGuides" SEQUENCE=""/>
+ <SHORTCUT ACTION="pageManageMargins" SEQUENCE=""/>
+ <SHORTCUT ACTION="pageMove" SEQUENCE=""/>
+ <SHORTCUT ACTION="showMouseCoordinates" SEQUENCE=""/>
+ <SHORTCUT ACTION="specialToggleAllGuides" SEQUENCE="F11"/>
+ <SHORTCUT ACTION="specialToggleAllPalettes" SEQUENCE="F12"/>
+ <SHORTCUT ACTION="specialUnicodeSequenceBegin" SEQUENCE="Ctrl+Shift+U"/>
+ <SHORTCUT ACTION="stickyTools" SEQUENCE=""/>
+ <SHORTCUT ACTION="styleImageEffects" SEQUENCE="Ctrl+E"/>
+ <SHORTCUT ACTION="styleTabulators" SEQUENCE=""/>
+ <SHORTCUT ACTION="toolsActionHistory" SEQUENCE=""/>
+ <SHORTCUT ACTION="toolsAlignDistribute" SEQUENCE=""/>
+ <SHORTCUT ACTION="toolsBookmarks" SEQUENCE=""/>
+ <SHORTCUT ACTION="toolsCopyProperties" SEQUENCE=""/>
+ <SHORTCUT ACTION="toolsEditContents" SEQUENCE="E"/>
+ <SHORTCUT ACTION="toolsEditWithStoryEditor" SEQUENCE="Ctrl+T"/>
+ <SHORTCUT ACTION="toolsEyeDropper" SEQUENCE="Y"/>
+ <SHORTCUT ACTION="toolsInsertBezier" SEQUENCE="B"/>
+ <SHORTCUT ACTION="toolsInsertFreehandLine" SEQUENCE="F"/>
+ <SHORTCUT ACTION="toolsInsertImageFrame" SEQUENCE="I"/>
+ <SHORTCUT ACTION="toolsInsertLine" SEQUENCE="L"/>
+ <SHORTCUT ACTION="toolsInsertPolygon" SEQUENCE="P"/>
+ <SHORTCUT ACTION="toolsInsertRenderFrame" SEQUENCE="D"/>
+ <SHORTCUT ACTION="toolsInsertShape" SEQUENCE="S"/>
+ <SHORTCUT ACTION="toolsInsertTableFrame" SEQUENCE="A"/>
+ <SHORTCUT ACTION="toolsInsertTextFrame" SEQUENCE="T"/>
+ <SHORTCUT ACTION="toolsLayers" SEQUENCE="F6"/>
+ <SHORTCUT ACTION="toolsLinkTextFrame" SEQUENCE="N"/>
+ <SHORTCUT ACTION="toolsMeasurements" SEQUENCE=""/>
+ <SHORTCUT ACTION="toolsOutline" SEQUENCE=""/>
+ <SHORTCUT ACTION="toolsPDFAnnotLink" SEQUENCE=""/>
+ <SHORTCUT ACTION="toolsPDFAnnotText" SEQUENCE=""/>
+ <SHORTCUT ACTION="toolsPDFCheckBox" SEQUENCE=""/>
+ <SHORTCUT ACTION="toolsPDFComboBox" SEQUENCE=""/>
+ <SHORTCUT ACTION="toolsPDFListBox" SEQUENCE=""/>
+ <SHORTCUT ACTION="toolsPDFPushButton" SEQUENCE=""/>
+ <SHORTCUT ACTION="toolsPDFTextField" SEQUENCE=""/>
+ <SHORTCUT ACTION="toolsPages" SEQUENCE=""/>
+ <SHORTCUT ACTION="toolsPreflightVerifier" SEQUENCE=""/>
+ <SHORTCUT ACTION="toolsProperties" SEQUENCE="F2"/>
+ <SHORTCUT ACTION="toolsRotate" SEQUENCE="R"/>
+ <SHORTCUT ACTION="toolsScrapbook" SEQUENCE=""/>
+ <SHORTCUT ACTION="toolsSelect" SEQUENCE="C"/>
+ <SHORTCUT ACTION="toolsToolbarPDF" SEQUENCE=""/>
+ <SHORTCUT ACTION="toolsToolbarTools" SEQUENCE=""/>
+ <SHORTCUT ACTION="toolsUnlinkTextFrame" SEQUENCE="U"/>
+ <SHORTCUT ACTION="toolsZoom" SEQUENCE="Z"/>
+ <SHORTCUT ACTION="toolsZoomIn" SEQUENCE="Ctrl++"/>
+ <SHORTCUT ACTION="toolsZoomOut" SEQUENCE="Ctrl+-"/>
+ <SHORTCUT ACTION="typeEffectAllCaps" SEQUENCE=""/>
+ <SHORTCUT ACTION="typeEffectNormal" SEQUENCE=""/>
+ <SHORTCUT ACTION="typeEffectOutline" SEQUENCE=""/>
+ <SHORTCUT ACTION="typeEffectShadow" SEQUENCE=""/>
+ <SHORTCUT ACTION="typeEffectSmallCaps" SEQUENCE=""/>
+ <SHORTCUT ACTION="typeEffectStrikeThrough" SEQUENCE=""/>
+ <SHORTCUT ACTION="typeEffectSubscript" SEQUENCE=""/>
+ <SHORTCUT ACTION="typeEffectSuperscript" SEQUENCE=""/>
+ <SHORTCUT ACTION="typeEffectUnderline" SEQUENCE=""/>
+ <SHORTCUT ACTION="typeEffectUnderlineWords" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeBullet" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeColumnBreak" SEQUENCE="Ctrl+Shift+Return"/>
+ <SHORTCUT ACTION="unicodeCopyRight" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeDashEm" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeDashEn" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeDashFigure" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeDashQuotation" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeFrameBreak" SEQUENCE="Ctrl+Return"/>
+ <SHORTCUT ACTION="unicodeLigature_ff" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeLigature_ffi" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeLigature_ffl" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeLigature_fi" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeLigature_fl" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeLigature_ft" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeLigature_st" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeMidpoint" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeNewLine" SEQUENCE="Shift+Return"/>
+ <SHORTCUT ACTION="unicodeNonBreakingHyphen" SEQUENCE="Ctrl+Alt+-"/>
+ <SHORTCUT ACTION="unicodeNonBreakingSpace" SEQUENCE="Ctrl+Space"/>
+ <SHORTCUT ACTION="unicodePageCount" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodePageNumber" SEQUENCE="Ctrl+Alt+Shift+P"/>
+ <SHORTCUT ACTION="unicodeQuoteApostrophe" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeQuoteCJKDoubleLeft" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeQuoteCJKDoubleRight" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeQuoteCJKSingleLeft" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeQuoteCJKSingleRight" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeQuoteDoubleLeft" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeQuoteDoubleLeftGuillemet" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeQuoteDoubleReversed" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeQuoteDoubleRight" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeQuoteDoubleRightGuillemet" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeQuoteLowDoubleComma" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeQuoteLowSingleComma" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeQuoteSingleLeft" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeQuoteSingleLeftGuillemet" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeQuoteSingleReversed" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeQuoteSingleRight" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeQuoteSingleRightGuillemet" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeQuoteStraight" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeRegdTM" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeSmartHyphen" SEQUENCE="Ctrl+Shift+-"/>
+ <SHORTCUT ACTION="unicodeSolidus" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeSpaceEM" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeSpaceEN" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeSpaceHair" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeSpaceMid" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeSpaceThick" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeSpaceThin" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeTM" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeZerowidthNonBreakingSpace" SEQUENCE=""/>
+ <SHORTCUT ACTION="unicodeZerowidthSpace" SEQUENCE=""/>
+ <SHORTCUT ACTION="viewFit100" SEQUENCE="Ctrl+1"/>
+ <SHORTCUT ACTION="viewFit200" SEQUENCE=""/>
+ <SHORTCUT ACTION="viewFit400" SEQUENCE=""/>
+ <SHORTCUT ACTION="viewFit50" SEQUENCE=""/>
+ <SHORTCUT ACTION="viewFit75" SEQUENCE=""/>
+ <SHORTCUT ACTION="viewFitInWindow" SEQUENCE="Ctrl+0"/>
+ <SHORTCUT ACTION="viewFitPreview" SEQUENCE=""/>
+ <SHORTCUT ACTION="viewFitWidth" SEQUENCE=""/>
+ <SHORTCUT ACTION="viewRulerMode" SEQUENCE=""/>
+ <SHORTCUT ACTION="viewShowBaseline" SEQUENCE=""/>
+ <SHORTCUT ACTION="viewShowBleeds" SEQUENCE=""/>
+ <SHORTCUT ACTION="viewShowColumnBorders" SEQUENCE=""/>
+ <SHORTCUT ACTION="viewShowContextMenu" SEQUENCE="Menu"/>
+ <SHORTCUT ACTION="viewShowFrames" SEQUENCE=""/>
+ <SHORTCUT ACTION="viewShowGrid" SEQUENCE=""/>
+ <SHORTCUT ACTION="viewShowGuides" SEQUENCE=""/>
+ <SHORTCUT ACTION="viewShowImages" SEQUENCE=""/>
+ <SHORTCUT ACTION="viewShowLayerMarkers" SEQUENCE=""/>
+ <SHORTCUT ACTION="viewShowMargins" SEQUENCE=""/>
+ <SHORTCUT ACTION="viewShowRulers" SEQUENCE="Ctrl+Shift+R"/>
+ <SHORTCUT ACTION="viewShowTextChain" SEQUENCE=""/>
+ <SHORTCUT ACTION="viewShowTextControls" SEQUENCE=""/>
+ <SHORTCUT ACTION="viewSnapToGrid" SEQUENCE=""/>
+ <SHORTCUT ACTION="viewSnapToGuides" SEQUENCE=""/>
+ <SHORTCUT ACTION="windowsCascade" SEQUENCE=""/>
+ <SHORTCUT ACTION="windowsTile" SEQUENCE=""/>
+ <DCOLORSET NAME="Scribus Basic"/>
+ <PDF BTop="0.000" Bookmarks="0" BLeft="0.000" bleedMarks="0" BRight="0.000" displayFullscreen="0" PicRes="300" cropMarks="0" Intent="0" Articles="0" Intent2="0" RGBMode="1" RotateDeg="0" MirrorH="0" ImagePr="0" EmbedPDF="0" PrintP="" UseProfiles2="0" UseLayers="0" doMultiFile="0" Clip="0" Compress="1" docInfoMarks="0" UseLpi="0" CMethod="0" Grayscale="0" BBottom="0.000" PassOwner="" ImageP="" MirrorV="0" UseProfiles="0" Permissions="-4" Encrypt="0" SolidP="" markOffset="0" PageLayout="0" RecalcPic="0" Version="14" PresentMode="0" Thumbnails="0" colorMarks="0" InfoString="" Resolution="300" UseSpotColors="1" useDocBleeds="1" PassUser="" registrationMarks="0" displayThumbs="0" Quality="0" displayBookmarks="0" Binding="0" displayLayers="0" openAction=""/>
+ <DefaultItemAttributes/>
+ <TablesOfContents/>
+ <LoremIpsum paragraphsLI="10" useStandardLI="0"/>
+</SCRIBUSRC>

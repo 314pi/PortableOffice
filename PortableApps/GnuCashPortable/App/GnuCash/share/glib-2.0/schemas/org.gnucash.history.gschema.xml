@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="gnucash">
+  <schema path="/org/gnucash/history/" id="org.gnucash.history">
+    <key type="i" name="maxfiles">
+      <default>4</default>
+      <summary>Number of files in history</summary>
+      <description>This setting contains the number of files to keep in the Recently Opened Files menu. This value may be set to zero to disable the file history. This number has a maximum value of 10.</description>
+    </key>
+    <key type="s" name="file0">
+      <default>''</default>
+      <summary>Most recently opened file</summary>
+      <description>This field contains the full path of the most recently opened file.</description>
+    </key>
+    <key type="s" name="file1">
+      <default>''</default>
+      <summary>Next most recently opened file</summary>
+      <description>This field contains the full path of the next most recently opened file.</description>
+    </key>
+    <key type="s" name="file2">
+      <default>''</default>
+      <summary>Next most recently opened file</summary>
+      <description>This field contains the full path of the next most recently opened file.</description>
+    </key>
+    <key type="s" name="file3">
+      <default>''</default>
+      <summary>Next most recently opened file</summary>
+      <description>This field contains the full path of the next most recently opened file.</description>
+    </key>
+    <key type="s" name="file4">
+      <default>''</default>
+      <summary>Next most recently opened file</summary>
+      <description>This field contains the full path of the next most recently opened file.</description>
+    </key>
+    <key type="s" name="file5">
+      <default>''</default>
+      <summary>Next most recently opened file</summary>
+      <description>This field contains the full path of the next most recently opened file.</description>
+    </key>
+    <key type="s" name="file6">
+      <default>''</default>
+      <summary>Next most recently opened file</summary>
+      <description>This field contains the full path of the next most recently opened file.</description>
+    </key>
+    <key type="s" name="file7">
+      <default>''</default>
+      <summary>Next most recently opened file</summary>
+      <description>This field contains the full path of the next most recently opened file.</description>
+    </key>
+    <key type="s" name="file8">
+      <default>''</default>
+      <summary>Next most recently opened file</summary>
+      <description>This field contains the full path of the next most recently opened file.</description>
+    </key>
+    <key type="s" name="file9">
+      <default>''</default>
+      <summary>Next most recently opened file</summary>
+      <description>This field contains the full path of the next most recently opened file.</description>
+    </key>
+  </schema>
+</schemalist>

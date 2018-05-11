@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="gnucash">
+  <schema path="/org/gnucash/dialogs/" id="org.gnucash.dialogs">
+    <child schema="org.gnucash.dialogs.account" name="account"/>
+    <child schema="org.gnucash.dialogs.preferences" name="preferences"/>
+    <child schema="org.gnucash.dialogs.price-editor" name="price-editor"/>
+    <child schema="org.gnucash.dialogs.pricedb-editor" name="pricedb-editor"/>
+    <child schema="org.gnucash.dialogs.reset-warnings" name="reset-warnings"/>
+    <child schema="org.gnucash.dialogs.tax-info" name="tax-info"/>
+    <child schema="org.gnucash.dialogs.fincalc" name="fincalc"/>
+    <child schema="org.gnucash.dialogs.find" name="find"/>
+    <child schema="org.gnucash.dialogs.export-accounts" name="export-accounts"/>
+    <child schema="org.gnucash.dialogs.log-replay" name="log-replay"/>
+    <child schema="org.gnucash.dialogs.open-save" name="open-save"/>
+    <child schema="org.gnucash.dialogs.report" name="report"/>
+    <child schema="org.gnucash.dialogs.report-saved-configs" name="report-saved-configs"/>
+    <child schema="org.gnucash.dialogs.lot-viewer" name="lot-viewer"/>
+    <child schema="org.gnucash.dialogs.new-user" name="new-user"/>
+    <child schema="org.gnucash.dialogs.new-hierarchy" name="new-hierarchy"/>
+    <child schema="org.gnucash.dialogs.search" name="search"/>
+    <child schema="org.gnucash.dialogs.transfer" name="transfer"/>
+  </schema>
+
+  <schema path="/org/gnucash/dialogs/account/" id="org.gnucash.dialogs.account">
+    <key type="(iiii)" name="last-geometry">
+      <default>(-1,-1,-1,-1)</default>
+      <summary>Last window position and size</summary>
+      <description>This setting describes the size and position of the window when it was last closed.
+        The numbers are the X and Y coordinates of the top left corner of the window
+        followed by the width and height of the window.</description>
+    </key>
+  </schema>
+
+  <schema path="/org/gnucash/dialogs/preferences/" id="org.gnucash.dialogs.preferences">
+    <key type="(iiii)" name="last-geometry">
+      <default>(-1,-1,-1,-1)</default>
+      <summary>Last window position and size</summary>
+      <description>This setting describes the size and position of the window when it was last closed.
+        The numbers are the X and Y coordinates of the top left corner of the window
+        followed by the width and height of the window.</description>
+    </key>
+  </schema>
+
+  <schema path="/org/gnucash/dialogs/price-editor/" id="org.gnucash.dialogs.price-editor">
+    <key type="(iiii)" name="last-geometry">
+      <default>(-1,-1,-1,-1)</default>
+      <summary>Last window position and size</summary>
+      <description>This setting describes the size and position of the window when it was last closed.
+        The numbers are the X and Y coordinates of the top left corner of the window
+        followed by the width and height of the window.</description>
+    </key>
+  </schema>
+  
+  <schema path="/org/gnucash/dialogs/pricedb-editor/" id="org.gnucash.dialogs.pricedb-editor">
+    <key type="(iiii)" name="last-geometry">
+      <default>(-1,-1,-1,-1)</default>
+      <summary>Last window position and size</summary>
+      <description>This setting describes the size and position of the window when it was last closed.
+        The numbers are the X and Y coordinates of the top left corner of the window
+        followed by the width and height of the window.</description>
+    </key>
+  </schema>
+
+  <schema path="/org/gnucash/dialogs/reset-warnings/" id="org.gnucash.dialogs.reset-warnings">
+    <key type="(iiii)" name="last-geometry">
+      <default>(-1,-1,-1,-1)</default>
+      <summary>Last window position and size</summary>
+      <description>This setting describes the size and position of the window when it was last closed.
+        The numbers are the X and Y coordinates of the top left corner of the window
+        followed by the width and height of the window.</description>
+    </key>
+  </schema>
+
+  <schema path="/org/gnucash/dialogs/tax-info/" id="org.gnucash.dialogs.tax-info">
+    <key type="i" name="paned-position">
+      <default>0</default>
+      <summary>Position of the horizontal pane divider.</summary>
+      <description>Position of the horizontal pane divider.</description>
+    </key>
+    <key type="(iiii)" name="last-geometry">
+      <default>(-1,-1,-1,-1)</default>
+      <summary>Last window position and size</summary>
+      <description>This setting describes the size and position of the window when it was last closed.
+        The numbers are the X and Y coordinates of the top left corner of the window
+        followed by the width and height of the window.</description>
+    </key>
+  </schema>
+
+  <schema path="/org/gnucash/dialogs/fincalc/" id="org.gnucash.dialogs.fincalc">
+    <key type="(iiii)" name="last-geometry">
+      <default>(-1,-1,-1,-1)</default>
+      <summary>Last window position and size</summary>
+      <description>This setting describes the size and position of the window when it was last closed.
+        The numbers are the X and Y coordinates of the top left corner of the window
+        followed by the width and height of the window.</description>
+    </key>
+  </schema>
+
+  <schema path="/org/gnucash/dialogs/find/" id="org.gnucash.dialogs.find">
+    <key type="(iiii)" name="last-geometry">
+      <default>(-1,-1,-1,-1)</default>
+      <summary>Last window position and size</summary>
+      <description>This setting describes the size and position of the window when it was last closed.
+        The numbers are the X and Y coordinates of the top left corner of the window
+        followed by the width and height of the window.</description>
+    </key>
+    <key type="b" name="search-for-active-only">
+      <default>false</default>
+      <summary>Search only in active items</summary>
+      <description>This setting indicates whether to search in all items in the current class, or only in 'active' items in the current class.</description>
+    </key>
+  </schema>
+
+  <schema path="/org/gnucash/dialogs/export-accounts/" id="org.gnucash.dialogs.export-accounts">
+    <key type="s" name="last-path">
+      <default>''</default>
+      <summary>Last pathname used</summary>
+      <description>This field contains the last pathname used by this window. It will be used as the initial filename/pathname the next time this window is opened.</description>
+    </key>
+  </schema>
+
+  <schema path="/org/gnucash/dialogs/log-replay/" id="org.gnucash.dialogs.log-replay">
+    <key type="s" name="last-path">
+      <default>''</default>
+      <summary>Last pathname used</summary>
+      <description>This field contains the last pathname used by this window. It will be used as the initial filename/pathname the next time this window is opened.</description>
+    </key>
+  </schema>
+
+  <schema path="/org/gnucash/dialogs/open-save/" id="org.gnucash.dialogs.open-save">
+    <key type="s" name="last-path">
+      <default>''</default>
+      <summary>Last pathname used</summary>
+      <description>This field contains the last pathname used by this window. It will be used as the initial filename/pathname the next time this window is opened.</description>
+    </key>
+  </schema>
+
+  <schema path="/org/gnucash/dialogs/report/" id="org.gnucash.dialogs.report">
+    <key type="s" name="last-path">
+      <default>''</default>
+      <summary>Last pathname used</summary>
+      <description>This field contains the last pathname used by this window. It will be used as the initial filename/pathname the next time this window is opened.</description>
+    </key>
+  </schema>
+
+  <schema path="/org/gnucash/dialogs/report-saved-configs/" id="org.gnucash.dialogs.report-saved-configs">
+    <key type="(iiii)" name="last-geometry">
+      <default>(-1,-1,-1,-1)</default>
+      <summary>Last window position and size</summary>
+      <description>This setting describes the size and position of the window when it was last closed.
+        The numbers are the X and Y coordinates of the top left corner of the window
+        followed by the width and height of the window.</description>
+    </key>
+  </schema>
+
+  <schema path="/org/gnucash/dialogs/lot-viewer/" id="org.gnucash.dialogs.lot-viewer">
+    <key type="i" name="hpane-position">
+      <default>200</default>
+      <summary>Position of the horizontal pane divider.</summary>
+      <description>Position of the horizontal pane divider.</description>
+    </key>
+    <key type="i" name="vpane-position">
+      <default>200</default>
+      <summary>Position of the vertical pane divider.</summary>
+      <description>Position of the vertical pane divider.</description>
+    </key>
+    <key type="(iiii)" name="last-geometry">
+      <default>(-1,-1,-1,-1)</default>
+      <summary>Last window position and size</summary>
+      <description>This setting describes the size and position of the window when it was last closed.
+        The numbers are the X and Y coordinates of the top left corner of the window
+        followed by the width and height of the window.</description>
+    </key>
+  </schema>
+
+  <schema path="/org/gnucash/dialogs/new-user/" id="org.gnucash.dialogs.new-user">
+    <key type="b" name="first-startup">
+      <default>true</default>
+      <summary>Show the new user window</summary>
+      <description>If active, the new user window will be shown. Otherwise it will not be shown.</description>
+    </key>
+  </schema>
+
+  <schema path="/org/gnucash/dialogs/new-hierarchy/" id="org.gnucash.dialogs.new-hierarchy">
+    <key type="(iiii)" name="last-geometry">
+      <default>(-1,-1,-1,-1)</default>
+      <summary>Last window position and size</summary>
+      <description>This setting describes the size and position of the window when it was last closed.
+        The numbers are the X and Y coordinates of the top left corner of the window
+        followed by the width and height of the window.</description>
+    </key>
+    <key type="b" name="show-on-new-file">
+      <default>true</default>
+      <summary>New hierarchy window on "New File"</summary>
+      <description>If active, the "New Hierarchy" window will be shown whenever the "New File" menu item is chosen. Otherwise it will not be shown.</description>
+    </key>
+  </schema>
+
+  <schema path="/org/gnucash/dialogs/search/" id="org.gnucash.dialogs.search">
+    <key type="d" name="new-search-limit">
+      <default>1.0</default>
+      <summary>Default to 'new search' if fewer than this number of items is returned</summary>
+      <description>Default to 'new search' if fewer than this number of items is returned</description>
+    </key>
+  </schema>
+
+  <schema path="/org/gnucash/dialogs/transfer/" id="org.gnucash.dialogs.transfer">
+    <key type="(iiii)" name="last-geometry">
+      <default>(-1,-1,-1,-1)</default>
+      <summary>Last window position and size</summary>
+      <description>This setting describes the size and position of the window when it was last closed.
+        The numbers are the X and Y coordinates of the top left corner of the window
+        followed by the width and height of the window.</description>
+    </key>
+  </schema>
+</schemalist>

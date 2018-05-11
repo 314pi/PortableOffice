@@ -1,0 +1,8 @@
+#!/bin/sh
+PATH="c:/gcdev/gnucash-2.6.19/gnucash/inst/libexec/gnucash/overrides:${PATH}"
+export PATH
+
+GUILE_WARN_DEPRECATED="no"
+export GUILE_WARN_DEPRECATED
+
+exec "gnucash-make-guids" "$@"

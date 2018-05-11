@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="gnucash">
+  <schema path="/org/gnucash/warnings/" id="org.gnucash.warnings">
+    <child schema="org.gnucash.warnings.permanent" name="permanent"/>
+    <child schema="org.gnucash.warnings.temporary" name="temporary"/>
+  </schema>
+  <schema path="/org/gnucash/warnings/permanent/" id="org.gnucash.warnings.permanent">
+    <key type="i" name="checkprinting-multi-acct">
+      <default>0</default>
+      <summary>Print checks from multiple accounts</summary>
+      <description>This dialog is presented if you try to print checks from multiple accounts at the same time.</description>
+    </key>
+    <key type="i" name="inv-entry-mod">
+      <default>0</default>
+      <summary>Commit changes to a invoice entry</summary>
+      <description>This dialog is presented when you attempt to move out of a modified invoice entry. The changed data must be either saved or discarded.</description>
+    </key>
+    <key type="i" name="inv-entry-dup">
+      <default>0</default>
+      <summary>Duplicating a changed invoice entry</summary>
+      <description>This dialog is presented when you attempt to duplicate a modified invoice entry. The changed data must be saved or the duplication canceled.</description>
+    </key>
+    <key type="i" name="price-comm-del">
+      <default>0</default>
+      <summary>Delete a commodity</summary>
+      <description>This dialog is presented before allowing you to delete a commodity.</description>
+    </key>
+    <key type="i" name="price-comm-del-quotes">
+      <default>0</default>
+      <summary>Delete a commodity with price quotes</summary>
+      <description>This dialog is presented before allowing you to delete a commodity that has price quotes attached. Deleting the commodity will delete the quotes as well.</description>
+    </key>
+    <key type="i" name="price-quotes-del">
+      <default>0</default>
+      <summary>Delete multiple price quotes</summary>
+      <description>This dialog is presented before allowing you to delete multiple price quotes at one time.</description>
+    </key>
+    <key type="i" name="reg-is-acct-pay-rec">
+      <default>0</default>
+      <summary>Edit account payable/accounts receivable register</summary>
+      <description>This dialog is presented before allowing you to edit an accounts payable/accounts receivable account. These account types are reserved for the business features and should rarely be manipulated manually.</description>
+    </key>
+    <key type="i" name="reg-is-read-only">
+      <default>0</default>
+      <summary>Read only register</summary>
+      <description>This dialog is presented when a read-only register is opened.</description>
+    </key>
+    <key type="i" name="reg-recd-split-mod">
+      <default>0</default>
+      <summary>Change contents of reconciled split</summary>
+      <description>This dialog is presented before allowing you to change the contents of a reconciled split. Allowing these changes can make it hard to perform future reconciliations.</description>
+    </key>
+    <key type="i" name="reg-recd-split-unrec">
+      <default>0</default>
+      <summary>Mark transaction split as unreconciled</summary>
+      <description>This dialog is presented before allowing you to mark a transaction split as unreconciled. Doing so will throw off the reconciled value of the register and can make it hard to perform future reconciliations.</description>
+    </key>
+    <key type="i" name="reg-split-del">
+      <default>0</default>
+      <summary>Remove a split from a transaction</summary>
+      <description>This dialog is presented before allowing you to remove a split from a transaction.</description>
+    </key>
+    <key type="i" name="reg-split-del-recd">
+      <default>0</default>
+      <summary>Remove a reconciled split from a transaction</summary>
+      <description>This dialog is presented before allowing you to remove a reconciled split from a transaction. Doing so will throw off the reconciled value of the register and can make it hard to perform future reconciliations.</description>
+    </key>
+    <key type="i" name="reg-split-del-all">
+      <default>0</default>
+      <summary>Remove all the splits from a transaction</summary>
+      <description>This dialog is presented before allowing you to remove all splits from a transaction.</description>
+    </key>
+    <key type="i" name="reg-split-del-all-recd">
+      <default>0</default>
+      <summary>Remove all the splits from a transaction</summary>
+      <description>This dialog is presented before allowing you to remove all splits (including some reconciled splits) from a transaction. Doing so will throw off the reconciled value of the register and can make it hard to perform future reconciliations.</description>
+    </key>
+    <key type="i" name="reg-trans-del">
+      <default>0</default>
+      <summary>Delete a transaction</summary>
+      <description>This dialog is presented before allowing you to delete a transaction.</description>
+    </key>
+    <key type="i" name="reg-trans-del-recd">
+      <default>0</default>
+      <summary>Delete a transaction with reconciled splits</summary>
+      <description>This dialog is presented before allowing you to delete a transaction that contains reconciled splits. Doing so will throw off the reconciled value of the register and can make it hard to perform future reconciliations.</description>
+    </key>
+    <key type="i" name="reg-trans-dup">
+      <default>0</default>
+      <summary>Duplicating a changed transaction</summary>
+      <description>This dialog is presented when you attempt to duplicate a modified transaction. The changed data must be saved or the duplication canceled.</description>
+    </key>
+    <key type="i" name="reg-trans-mod">
+      <default>0</default>
+      <summary>Commit changes to a transaction</summary>
+      <description>This dialog is presented when you attempt to move out of a modified transaction. The changed data must be either saved or discarded.</description>
+    </key>
+  </schema>
+  
+  <schema path="/org/gnucash/warnings/temporary/" id="org.gnucash.warnings.temporary">
+    <key type="i" name="checkprinting-multi-acct">
+      <default>0</default>
+      <summary>Print checks from multiple accounts</summary>
+      <description>This dialog is presented if you try to print checks from multiple accounts at the same time.</description>
+    </key>
+    <key type="i" name="inv-entry-mod">
+      <default>0</default>
+      <summary>Commit changes to a invoice entry</summary>
+      <description>This dialog is presented when you attempt to move out of a modified invoice entry. The changed data must be either saved or discarded.</description>
+    </key>
+    <key type="i" name="inv-entry-dup">
+      <default>0</default>
+      <summary>Duplicating a changed invoice entry</summary>
+      <description>This dialog is presented when you attempt to duplicate a modified invoice entry. The changed data must be saved or the duplication canceled.</description>
+    </key>
+    <key type="i" name="price-comm-del">
+      <default>0</default>
+      <summary>Delete a commodity</summary>
+      <description>This dialog is presented before allowing you to delete a commodity.</description>
+    </key>
+    <key type="i" name="price-comm-del-quotes">
+      <default>0</default>
+      <summary>Delete a commodity with price quotes</summary>
+      <description>This dialog is presented before allowing you to delete a commodity that has price quotes attached. Deleting the commodity will delete the quotes as well.</description>
+    </key>
+    <key type="i" name="price-quotes-del">
+      <default>0</default>
+      <summary>Delete multiple price quotes</summary>
+      <description>This dialog is presented before allowing you to delete multiple price quotes at one time.</description>
+    </key>
+    <key type="i" name="reg-is-acct-pay-rec">
+      <default>0</default>
+      <summary>Edit account payable/accounts receivable register</summary>
+      <description>This dialog is presented before allowing you to edit an accounts payable/accounts receivable account. These account types are reserved for the business features and should rarely be manipulated manually.</description>
+    </key>
+    <key type="i" name="reg-is-read-only">
+      <default>0</default>
+      <summary>Read only register</summary>
+      <description>This dialog is presented when a read-only register is opened.</description>
+    </key>
+    <key type="i" name="reg-recd-split-mod">
+      <default>0</default>
+      <summary>Change contents of reconciled split</summary>
+      <description>This dialog is presented before allowing you to change the contents of a reconciled split. Allowing these changes can make it hard to perform future reconciliations.</description>
+    </key>
+    <key type="i" name="reg-recd-split-unrec">
+      <default>0</default>
+      <summary>Mark transaction split as unreconciled</summary>
+      <description>This dialog is presented before allowing you to mark a transaction split as unreconciled. Doing so will throw off the reconciled value of the register and can make it hard to perform future reconciliations.</description>
+    </key>
+    <key type="i" name="reg-split-del">
+      <default>0</default>
+      <summary>Remove a split from a transaction</summary>
+      <description>This dialog is presented before allowing you to remove a split from a transaction.</description>
+    </key>
+    <key type="i" name="reg-split-del-recd">
+      <default>0</default>
+      <summary>Remove a reconciled split from a transaction</summary>
+      <description>This dialog is presented before allowing you to remove a reconciled split from a transaction. Doing so will throw off the reconciled value of the register and can make it hard to perform future reconciliations.</description>
+    </key>
+    <key type="i" name="reg-split-del-all">
+      <default>0</default>
+      <summary>Remove all the splits from a transaction</summary>
+      <description>This dialog is presented before allowing you to remove all splits from a transaction.</description>
+    </key>
+    <key type="i" name="reg-split-del-all-recd">
+      <default>0</default>
+      <summary>Remove all the splits from a transaction</summary>
+      <description>This dialog is presented before allowing you to remove all splits (including some reconciled splits) from a transaction. Doing so will throw off the reconciled value of the register and can make it hard to perform future reconciliations.</description>
+    </key>
+    <key type="i" name="reg-trans-del">
+      <default>0</default>
+      <summary>Delete a transaction</summary>
+      <description>This dialog is presented before allowing you to delete a transaction.</description>
+    </key>
+    <key type="i" name="reg-trans-del-recd">
+      <default>0</default>
+      <summary>Delete a transaction with reconciled splits</summary>
+      <description>This dialog is presented before allowing you to delete a transaction that contains reconciled splits. Doing so will throw off the reconciled value of the register and can make it hard to perform future reconciliations.</description>
+    </key>
+    <key type="i" name="reg-trans-dup">
+      <default>0</default>
+      <summary>Duplicating a changed transaction</summary>
+      <description>This dialog is presented when you attempt to duplicate a modified transaction. The changed data must be saved or the duplication canceled.</description>
+    </key>
+    <key type="i" name="reg-trans-mod">
+      <default>0</default>
+      <summary>Commit changes to a transaction</summary>
+      <description>This dialog is presented when you attempt to move out of a modified transaction. The changed data must be either saved or discarded.</description>
+    </key>
+  </schema>
+</schemalist>
