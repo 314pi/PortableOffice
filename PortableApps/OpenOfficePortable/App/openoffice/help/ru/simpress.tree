@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+<tree_view version="24-Aug-2004">
+	<help_section application="simpress" id="04" title="Презентации и рисунки">
+		<node id="0401" title="Общие сведения и использование пользовательского интерфейса">
+<topic id="simpress/text/simpress/main0000.xhp">Добро пожаловать в справку %PRODUCTNAME Impress</topic>
+<topic id="sdraw/text/sdraw/main0000.xhp">Добро пожаловать в справку %PRODUCTNAME Draw</topic>
+<topic id="simpress/text/simpress/main0503.xhp">Возможности %PRODUCTNAME Impress</topic>
+<topic id="sdraw/text/sdraw/main0503.xhp">Возможности %PRODUCTNAME Draw</topic>
+<topic id="simpress/text/simpress/guide/keyboard.xhp">Использование сочетаний клавиш в %PRODUCTNAME Impress </topic>
+<topic id="sdraw/text/sdraw/guide/keyboard.xhp">Сочетания клавиш для рисованных объектов</topic>
+<topic id="simpress/text/simpress/04/01020000.xhp">Сочетания клавиш для %PRODUCTNAME Impress</topic>
+<topic id="sdraw/text/sdraw/04/01020000.xhp">Сочетания клавиш для рисунков</topic>
+<topic id="simpress/text/simpress/guide/main.xhp">Инструкции по использованию %PRODUCTNAME Impress</topic>
+<topic id="sdraw/text/sdraw/guide/main.xhp">Инструкции по использованию %PRODUCTNAME Draw</topic>
+		</node>
+		<node id="0402" title="Справочник по командам и меню">
+			<node id="040201" title="Презентации (%PRODUCTNAME Impress)">
+				<node id="04020101" title="Меню">
+<topic id="simpress/text/simpress/main0100.xhp">Меню</topic>
+<topic id="simpress/text/simpress/main0101.xhp">Файл</topic>
+<topic id="simpress/text/simpress/main0102.xhp">Правка</topic>
+<topic id="simpress/text/simpress/main0103.xhp">Вид</topic>
+<topic id="simpress/text/simpress/main0104.xhp">Вставка</topic>
+<topic id="simpress/text/simpress/main0105.xhp">Формат</topic>
+<topic id="simpress/text/simpress/main0106.xhp">Сервис</topic>
+<topic id="simpress/text/simpress/main0107.xhp">Окно</topic>
+<topic id="simpress/text/simpress/main0114.xhp">Показ слайдов</topic>
+				</node>
+				<node id="04020102" title="Панели инструментов">
+<topic id="simpress/text/simpress/main0200.xhp">Панели инструментов</topic>
+<topic id="simpress/text/simpress/main0202.xhp">Панель "Линия и заливка"</topic>
+<topic id="simpress/text/simpress/main0203.xhp">Панель "Форматирование текста"</topic>
+<topic id="simpress/text/simpress/main0204.xhp">Панель "Слайды"</topic>
+<topic id="simpress/text/simpress/main0206.xhp">Строка состояния</topic>
+<topic id="simpress/text/simpress/main0209.xhp">Линейки</topic>
+<topic id="simpress/text/simpress/main0210.xhp">Панель "Рисование"</topic>
+<topic id="simpress/text/simpress/main0211.xhp">Панель "Структура"</topic>
+<topic id="simpress/text/simpress/main0212.xhp">Панель "Сортировщик слайдов"</topic>
+<topic id="simpress/text/simpress/main0213.xhp">Панель "Параметры"</topic>
+<topic id="simpress/text/simpress/main0214.xhp">Панель "Рисунок"</topic>
+<topic id="shared/text/shared/main0201.xhp">Стандартная панель</topic>
+<topic id="shared/text/shared/main0209.xhp">Панель гиперссылки</topic>
+<topic id="shared/text/shared/main0213.xhp">Панель "Навигатор форм"</topic>
+<topic id="shared/text/shared/main0226.xhp">Панель инструментов конструктора форм</topic>
+<topic id="shared/text/shared/main0227.xhp">Панель изменения геометрии</topic>
+				</node>
+			</node>
+			<node id="040202" title="Рисунки (%PRODUCTNAME Draw)">
+				<node id="04020201" title="Меню">
+<topic id="sdraw/text/sdraw/main0100.xhp">Меню</topic>
+<topic id="sdraw/text/sdraw/main0101.xhp">Файл</topic>
+<topic id="sdraw/text/sdraw/main0102.xhp">Правка</topic>
+<topic id="sdraw/text/sdraw/main0103.xhp">Вид</topic>
+<topic id="sdraw/text/sdraw/main0104.xhp">Вставить</topic>
+<topic id="sdraw/text/sdraw/main0105.xhp">Формат</topic>
+<topic id="sdraw/text/sdraw/main0106.xhp">Сервис</topic>
+<topic id="simpress/text/simpress/main0113.xhp">Изменить</topic>
+				</node>
+				<node id="04020202" title="Панели инструментов">
+<topic id="sdraw/text/sdraw/main0200.xhp">Панели инструментов</topic>
+<topic id="sdraw/text/sdraw/main0210.xhp">Панель инструментов рисования</topic>
+<topic id="sdraw/text/sdraw/main0213.xhp">Панель "Параметры"</topic>
+<topic id="shared/text/shared/main0201.xhp">Стандартная панель</topic>
+<topic id="shared/text/shared/main0209.xhp">Панель гиперссылки</topic>
+<topic id="shared/text/shared/main0213.xhp">Панель "Навигатор форм"</topic>
+<topic id="shared/text/shared/main0226.xhp">Панель инструментов конструктора форм</topic>
+<topic id="shared/text/shared/main0227.xhp">Панель изменения геометрии</topic>
+				</node>
+			</node>
+		</node>
+		<node id="0403" title="Загрузка, сохранение, импорт и экспорт">
+<topic id="simpress/text/simpress/guide/html_export.xhp">Сохранение презентации в формате HTML</topic>
+<topic id="simpress/text/simpress/guide/html_import.xhp">Импорт страниц HTML в презентации </topic>
+<topic id="simpress/text/simpress/guide/palette_files.xhp">Загрузка списков цветов, градиентов и штриховок</topic>
+<topic id="simpress/text/simpress/guide/animated_gif_save.xhp">Экспорт анимации в формат GIF</topic>
+<topic id="simpress/text/simpress/guide/table_insert.xhp">Вставка в слайды электронных таблиц</topic>
+<topic id="sdraw/text/sdraw/guide/graphic_insert.xhp">Вставка графических объектов</topic>
+<topic id="simpress/text/simpress/guide/page_copy.xhp">Копирование слайдов из других презентаций</topic>
+		</node>
+		<node id="0404" title="Форматирование">
+<topic id="simpress/text/simpress/guide/palette_files.xhp">Загрузка списков цветов, градиентов и штриховок</topic>
+<topic id="simpress/text/simpress/guide/line_arrow_styles.xhp">Загрузка стилей линий и стрелок</topic>
+<topic id="sdraw/text/sdraw/guide/color_define.xhp">Определение дополнительных цветов</topic>
+<topic id="sdraw/text/sdraw/guide/gradient.xhp">Создание градиентной заливки</topic>
+<topic id="sdraw/text/sdraw/guide/eyedropper.xhp">Замена цветов</topic>
+<topic id="sdraw/text/sdraw/guide/align_arrange.xhp">Расположение, выравнивание и распределение объектов</topic>
+<topic id="simpress/text/simpress/guide/background.xhp">Изменение заливки для фона слайда</topic>
+<topic id="simpress/text/simpress/guide/footer.xhp">Добавление колонтитула во все слайды</topic>
+<topic id="simpress/text/simpress/guide/masterpage.xhp">Применение дизайна слайда к образцу слайдов </topic>
+<topic id="simpress/text/simpress/guide/move_object.xhp">Перемещение объектов</topic>
+		</node>
+		<node id="0405" title="Печать">
+<topic id="simpress/text/simpress/guide/printing.xhp">Печать презентаций</topic>
+<topic id="simpress/text/simpress/guide/print_tofit.xhp">Печать слайда с настройкой по размеру бумаги</topic>
+		</node>
+		<node id="0406" title="Эффекты">
+<topic id="simpress/text/simpress/guide/animated_gif_save.xhp">Экспорт анимации в формат GIF</topic>
+<topic id="simpress/text/simpress/guide/animated_objects.xhp">Анимированные объекты на слайдах презентации</topic>
+<topic id="simpress/text/simpress/guide/animated_slidechange.xhp">Анимированная смена слайдов</topic>
+<topic id="sdraw/text/sdraw/guide/cross_fading.xhp">Затенение двух объектов</topic>
+<topic id="simpress/text/simpress/guide/animated_gif_create.xhp">Создание анимированных изображений формата GIF</topic>
+		</node>
+		<node id="0407" title="Объекты, графические объекты и растровые изображения">
+<topic id="sdraw/text/sdraw/guide/combine_etc.xhp">Комбинирование объектов и построение фигур</topic>
+<topic id="sdraw/text/sdraw/guide/draw_sector.xhp">Рисование секторов и сегментов</topic>
+<topic id="sdraw/text/sdraw/guide/duplicate_object.xhp">Дублирование объектов</topic>
+<topic id="sdraw/text/sdraw/guide/rotate_object.xhp">Вращение объектов</topic>
+<topic id="sdraw/text/sdraw/guide/join_objects3d.xhp">Группировка трехмерных объектов</topic>
+<topic id="sdraw/text/sdraw/guide/join_objects.xhp">Соединение линий</topic>
+<topic id="simpress/text/simpress/guide/text2curve.xhp">Преобразование текста в рисованные объекты</topic>
+<topic id="simpress/text/simpress/guide/vectorize.xhp">Преобразование растровых изображений в векторные графические объекты</topic>
+<topic id="simpress/text/simpress/guide/3d_create.xhp">Преобразование двумерных объектов в кривые, многоугольники и трехмерные объекты</topic>
+<topic id="simpress/text/simpress/guide/line_arrow_styles.xhp">Загрузка стилей линий и стрелок</topic>
+<topic id="simpress/text/simpress/guide/line_draw.xhp">Рисование кривых</topic>
+<topic id="simpress/text/simpress/guide/line_edit.xhp">Изменение кривых</topic>
+<topic id="sdraw/text/sdraw/guide/graphic_insert.xhp">Вставка графических объектов</topic>
+<topic id="simpress/text/simpress/guide/table_insert.xhp">Вставка в слайды электронных таблиц</topic>
+<topic id="simpress/text/simpress/guide/move_object.xhp">Перемещение объектов</topic>
+<topic id="simpress/text/simpress/guide/select_object.xhp">Выделить скрытые объекты</topic>
+<topic id="simpress/text/simpress/guide/orgchart.xhp">Создание блок-схемы</topic>
+		</node>
+		<node id="0408" title="Группы и слои">
+<topic id="sdraw/text/sdraw/guide/groups.xhp">Группировка объектов</topic>
+<topic id="simpress/text/simpress/guide/layers.xhp">Общие сведения о слоях</topic>
+<topic id="simpress/text/simpress/guide/layer_new.xhp">Вставка слоев</topic>
+<topic id="simpress/text/simpress/guide/layer_tipps.xhp">Работа со слоями</topic>
+<topic id="simpress/text/simpress/guide/layer_move.xhp">Перемещение объектов в другой слой</topic>
+		</node>
+		<node id="0409" title="Текст в презентациях и рисунках">
+<!-- removed sdraw/text/sdraw/guide/text_3d.xhp -->
+<!-- removed sdraw/text/sdraw/guide/text_to_bitmap.xhp -->
+<topic id="sdraw/text/sdraw/guide/text_enter.xhp">Добавление текста</topic>
+<topic id="simpress/text/simpress/guide/text2curve.xhp">Преобразование текста в рисованные объекты</topic>
+		</node>
+		<node id="0410" title="Просмотр">
+<topic id="simpress/text/simpress/guide/individual.xhp">Создание настраиваемого показа слайдов</topic>
+<topic id="simpress/text/simpress/guide/arrange_slides.xhp">Изменение порядка слайдов</topic>
+<topic id="simpress/text/simpress/guide/change_scale.xhp">Изменение масштаба изображения с помощью клавиатуры</topic>
+<!-- removed simpress/text/simpress/guide/livemode.xhp -->
+<topic id="simpress/text/simpress/guide/rehearse_timings.xhp">Настройка времени для смены слайдов</topic>
+		</node>
+	</help_section>
+</tree_view>

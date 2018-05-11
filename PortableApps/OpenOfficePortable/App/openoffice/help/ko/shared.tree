@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+<tree_view version="24-Aug-2004">
+	<help_section application="swriter" id="01" title="설치">
+<topic id="shared/text/shared/guide/ms_doctypes.xhp">Microsoft Office 문서 유형 연결 변경</topic>
+	</help_section>
+	<help_section application="swriter" id="10" title="일반 도움말 항목">
+		<node id="1001" title="일반 정보">
+<topic id="shared/text/shared/main0400.xhp">단축키</topic>
+<topic id="shared/text/shared/00/00000005.xhp">일반 용어집</topic>
+<topic id="shared/text/shared/00/00000002.xhp">인터넷 용어 용어집</topic>
+<topic id="shared/text/shared/guide/accessibility.xhp">%PRODUCTNAME의 내게 필요한 옵션</topic>
+<topic id="shared/text/shared/guide/keyboard.xhp">바로 가기(%PRODUCTNAME 내게 필요한 옵션)</topic>
+<topic id="shared/text/shared/04/01010000.xhp">%PRODUCTNAME의 일반 단축키</topic>
+<topic id="shared/text/shared/guide/version_number.xhp">버전 및 빌드 번호</topic>
+</node>
+		<node id="1002" title="%PRODUCTNAME 및 Microsoft Office">
+<topic id="shared/text/shared/guide/ms_user.xhp">Microsoft Office와 %PRODUCTNAME 사용</topic>
+<topic id="shared/text/shared/guide/microsoft_terms.xhp">Microsoft Office와 %PRODUCTNAME 용어 비교</topic>
+<topic id="shared/text/shared/guide/ms_import_export_limitations.xhp">Microsoft Office 문서 변환 정보</topic>
+<topic id="shared/text/shared/guide/ms_doctypes.xhp">Microsoft Office 문서 유형 연결 변경</topic>
+		</node>
+		<node id="1004" title="%PRODUCTNAME 옵션">
+<topic id="shared/text/shared/optionen/01000000.xhp">옵션</topic>
+<topic id="shared/text/shared/optionen/01010100.xhp">사용자 데이터</topic>
+<topic id="shared/text/shared/optionen/01010200.xhp">일반</topic>
+<topic id="shared/text/shared/optionen/01010300.xhp">경로</topic>
+<topic id="shared/text/shared/optionen/01010400.xhp">맞춤법 교정</topic>
+<topic id="shared/text/shared/optionen/01010500.xhp">색상</topic>
+<topic id="shared/text/shared/optionen/01010600.xhp">일반</topic>
+<topic id="shared/text/shared/optionen/01010700.xhp">글꼴</topic>
+<topic id="shared/text/shared/optionen/01010800.xhp">보기</topic>
+<topic id="shared/text/shared/optionen/01010900.xhp">인쇄 옵션</topic>
+<topic id="shared/text/shared/optionen/01011000.xhp">메모리</topic>
+<topic id="shared/text/shared/optionen/01012000.xhp">모양</topic>
+<topic id="shared/text/shared/optionen/01013000.xhp">내게 필요한 옵션</topic>
+<topic id="shared/text/shared/optionen/01020000.xhp">로드/저장 옵션</topic>
+<topic id="shared/text/shared/optionen/01030000.xhp">인터넷 옵션</topic>
+<topic id="shared/text/shared/optionen/01040000.xhp">텍스트 문서 옵션</topic>
+<topic id="shared/text/shared/optionen/01050000.xhp">HTML 문서 옵션</topic>
+<topic id="shared/text/shared/optionen/01060000.xhp">스프레드시트 옵션</topic>
+<topic id="shared/text/shared/optionen/01070000.xhp">프레젠테이션 옵션</topic>
+<topic id="shared/text/shared/optionen/01080000.xhp">그리기 옵션</topic>
+<topic id="shared/text/shared/optionen/01090000.xhp">수식</topic>
+<topic id="shared/text/shared/optionen/01110000.xhp">차트 옵션</topic>
+<topic id="shared/text/shared/optionen/01130100.xhp">VBA 속성</topic>
+<topic id="shared/text/shared/optionen/01130200.xhp">Microsoft Office</topic>
+<topic id="shared/text/shared/optionen/01140000.xhp">언어</topic>
+<topic id="shared/text/shared/optionen/01150000.xhp">언어 설정 옵션</topic>
+<topic id="shared/text/shared/optionen/01160000.xhp">데이터 원본 옵션</topic>
+		</node>
+		<node id="1005" title="Wizards">
+<topic id="shared/text/shared/autopi/01000000.xhp">마법사</topic>
+			<node id="100501" title="Letter Wizard">
+<topic id="shared/text/shared/autopi/01010000.xhp">편지 마법사</topic>
+			</node>
+			<node id="100502" title="Fax Wizard">
+<topic id="shared/text/shared/autopi/01020000.xhp">팩스 마법사</topic>
+			</node>
+			<node id="100504" title="Agenda Wizard">
+<topic id="shared/text/shared/autopi/01040000.xhp">자동 파일럿 일정</topic>
+			</node>
+			<node id="100505" title="프레젠테이션 마법사">
+<topic id="shared/text/shared/autopi/01050000.xhp">프레젠테이션 마법사</topic>
+			</node>
+			<node id="100506" title="HTML Export Wizard">
+<topic id="shared/text/shared/autopi/01110000.xhp">HTML 내보내기</topic>
+			</node>
+			<node id="100510" title="문서 변환기 마법사">
+<topic id="shared/text/shared/autopi/01130000.xhp">문서 변환기</topic>
+			</node>
+<topic id="shared/text/shared/autopi/01150000.xhp">유로 변환기 마법사</topic>
+		</node>
+		<node id="1006" title="%PRODUCTNAME 구성">
+<topic id="shared/text/shared/guide/configure_overview.xhp">%PRODUCTNAME 구성</topic>
+<topic id="shared/text/shared/01/packagemanager.xhp">확장 관리자</topic>
+<topic id="shared/text/shared/guide/flat_icons.xhp">아이콘 보기 변경</topic>
+<topic id="shared/text/shared/guide/edit_symbolbar.xhp">도구 모음에 버튼 추가</topic>
+<topic id="shared/text/shared/guide/workfolder.xhp">작업 디렉토리 변경</topic>
+<topic id="shared/text/shared/guide/standard_template.xhp">기본 서식 파일 변경</topic>
+<topic id="shared/text/shared/guide/data_addressbook.xhp">주소록 등록</topic>
+<topic id="shared/text/shared/guide/formfields.xhp">버튼 삽입 및 편집</topic>
+		</node>
+		<node id="1007" title="사용자 인터페이스 사용 작업">
+<topic id="shared/text/shared/guide/navigator_setcursor.xhp">탐색을 통해 개체에 빨리 도달</topic>
+<topic id="shared/text/shared/guide/navigator.xhp">문서 개요 네비게이터</topic>
+<topic id="shared/text/shared/guide/autohide.xhp">창 표시, 고정 및 숨기기</topic>
+<topic id="shared/text/shared/guide/navpane_on.xhp">도움말 탐색 창 표시</topic>
+<topic id="shared/text/shared/guide/textmode_change.xhp">삽입 모드와 덮어쓰기 모드 전환</topic>
+<topic id="shared/text/shared/guide/floating_toolbar.xhp">도구 모음 사용</topic>
+<topic id="shared/text/shared/guide/sidebar_window.xhp">사이드바 창</topic>
+		</node>
+		<node id="1008" title="인쇄, 팩스 및 보내기">
+<topic id="shared/text/shared/guide/labels_database.xhp">주소 레이블 인쇄</topic>
+<topic id="shared/text/shared/guide/print_blackwhite.xhp">흑백 인쇄</topic>
+<topic id="shared/text/shared/guide/email.xhp">문서를 전자 메일로 보내기</topic>
+<topic id="shared/text/shared/guide/fax.xhp">팩스 보내기 및 %PRODUCTNAME에서 팩스 구성</topic>
+		</node>
+		<node id="1009" title="끌어 놓기">
+<topic id="shared/text/shared/guide/dragdrop.xhp">%PRODUCTNAME 문서 내에서 끌어서 놓기</topic>
+<topic id="swriter/text/swriter/guide/dragdroptext.xhp">문서의 텍스트 이동 및 복사</topic>
+<topic id="shared/text/shared/guide/dragdrop_table.xhp">스프레드시트 영역을 텍스트 문서에 복사</topic>
+<topic id="shared/text/shared/guide/dragdrop_graphic.xhp">다른 문서의 그림 복사</topic>
+<topic id="shared/text/shared/guide/dragdrop_fromgallery.xhp">갤러리에서 그림 복사</topic>
+<topic id="shared/text/shared/guide/dragdrop_beamer.xhp">데이터 원본 보기를 사용하여 끌어서 놓기</topic>
+		</node>
+		<node id="1010" title="복사 및 붙여넣기">
+<topic id="shared/text/shared/guide/copy_drawfunctions.xhp">그리기 개체를 다른 문서에 복사</topic>
+<topic id="shared/text/shared/guide/dragdrop_graphic.xhp">다른 문서의 그림 복사</topic>
+<topic id="shared/text/shared/guide/dragdrop_fromgallery.xhp">갤러리에서 그림 복사</topic>
+<topic id="shared/text/shared/guide/dragdrop_table.xhp">스프레드시트 영역을 텍스트 문서에 복사</topic>
+		</node>
+		<node id="1012" title="차트 및 Diagrams">
+<topic id="shared/text/shared/guide/chart_insert.xhp">차트 삽입</topic>
+<topic id="schart/text/schart/main0000.xhp">%PRODUCTNAME의 차트</topic>
+		</node>
+		<node id="1013" title="로드, 저장, 가져오기 및 내보내기">
+<topic id="shared/text/shared/guide/doc_open.xhp">문서 열기</topic>
+<topic id="shared/text/shared/guide/import_ms.xhp">다른 형식으로 저장된 문서 열기</topic>
+<topic id="shared/text/shared/guide/doc_save.xhp">문서 저장</topic>
+<topic id="shared/text/shared/guide/doc_autosave.xhp">자동으로 문서 저장</topic>
+<topic id="shared/text/shared/guide/export_ms.xhp">문서를 다른 형식으로 저장</topic>
+<topic id="shared/text/shared/guide/data_dbase2office.xhp">텍스트 형식으로 데이터 가져오기 및 내보내기</topic>
+		</node>
+		<node id="1014" title="링크 및 참조">
+<topic id="shared/text/shared/guide/hyperlink_insert.xhp">하이퍼링크 삽입</topic>
+<topic id="shared/text/shared/guide/hyperlink_rel_abs.xhp">상대 및 절대 링크</topic>
+<topic id="shared/text/shared/guide/hyperlink_edit.xhp">하이퍼링크 편집</topic>
+		</node>
+		<node id="1015" title="문서 버전 추적">
+<topic id="shared/text/shared/guide/redlining_doccompare.xhp">문서 버전 비교</topic>
+<topic id="shared/text/shared/guide/redlining_docmerge.xhp">Merging Versions</topic>
+<topic id="shared/text/shared/guide/redlining_enter.xhp">변경 사항 기록</topic>
+<topic id="shared/text/shared/guide/redlining.xhp">변경 사항 기록 및 표시</topic>
+<topic id="shared/text/shared/guide/redlining_accept.xhp">변경 사항 적용 또는 취소</topic>
+<topic id="shared/text/shared/guide/redlining_versions.xhp">버전 관리</topic>
+		</node>
+		<node id="1016" title="레이블 및 명함">
+<topic id="shared/text/shared/guide/labels.xhp">레이블과 명함 만들기 및 인쇄</topic>
+		</node>
+		<node id="1018" title="외부 데이터 삽입">
+<topic id="shared/text/shared/guide/copytable2application.xhp">스프레드시트에서 데이터 삽입</topic>
+<topic id="shared/text/shared/guide/copytext2application.xhp">텍스트 문서에서 데이터 삽입</topic>
+<topic id="shared/text/shared/guide/insert_bitmap.xhp">비트맵 삽입, 편집 및 저장</topic>
+<topic id="shared/text/shared/guide/dragdrop_gallery.xhp">갤러리에 그림 추가</topic>
+		</node>
+		<node id="1019" title="자동 함수">
+<topic id="shared/text/shared/guide/autocorr_url.xhp">자동 URL 인식 기능 끄기</topic>
+		</node>
+		<node id="1020" title="찾기 및 바꾸기">
+<topic id="shared/text/shared/guide/data_search2.xhp">양식 필터를 사용하여 검색</topic>
+<topic id="shared/text/shared/guide/hyperlink_search.xhp">하이퍼링크 도구 모음을 사용하여 검색</topic>
+<topic id="shared/text/shared/guide/data_search.xhp">테이블 및 양식 문서 검색</topic>
+<topic id="shared/text/shared/01/02100001.xhp">정규식 목록</topic>
+		</node>
+		<node id="1021" title="안내선">
+<topic id="shared/text/shared/guide/linestyles.xhp">선 스타일 적용</topic>
+<topic id="shared/text/shared/guide/text_color.xhp">텍스트 색상 변경</topic>
+<topic id="shared/text/shared/guide/change_title.xhp">문서 제목 변경</topic>
+<topic id="shared/text/shared/guide/round_corner.xhp">둥근 모서리 만들기</topic>
+<topic id="shared/text/shared/guide/background.xhp">배경색 또는 배경 그림 지정</topic>
+<topic id="shared/text/shared/guide/lineend_define.xhp">선 끝 지정</topic>
+<topic id="shared/text/shared/guide/linestyle_define.xhp">선 스타일 지정</topic>
+<topic id="shared/text/shared/guide/insert_graphic_drawit.xhp">그래픽 개체 편집</topic>
+<topic id="shared/text/shared/guide/line_intext.xhp">텍스트에 선 그리기</topic>
+<topic id="shared/text/shared/guide/aaa_start.xhp">첫 단계</topic>
+<topic id="shared/text/shared/guide/gallery_insert.xhp">갤러리에서 개체 삽입</topic>
+<topic id="shared/text/shared/guide/space_hyphen.xhp">보호된 공백, 하이픈 및 조건부 구분 기호 삽입</topic>
+<topic id="shared/text/shared/guide/insert_specialchar.xhp">특수 문자 삽입</topic>
+<topic id="shared/text/shared/guide/tabs.xhp">탭 간격 삽입 및 편집</topic>
+<topic id="shared/text/shared/guide/protection.xhp">%PRODUCTNAME에서 내용 보호</topic>
+<topic id="shared/text/shared/guide/redlining_protect.xhp">레코드 보호</topic>
+<topic id="shared/text/shared/guide/pageformat_max.xhp">페이지의 최대 인쇄 가능 영역 선택</topic>
+<topic id="shared/text/shared/guide/measurement_units.xhp">치수 단위 선택</topic>
+<topic id="shared/text/shared/guide/language_select.xhp">문서 언어 선택</topic>
+<topic id="shared/text/shared/guide/data_tabledefine.xhp">테이블 디자인</topic>
+<topic id="shared/text/shared/guide/numbering_stop.xhp">개별 단락의 번호 매기기/글머리 기호 해제</topic>
+		</node>
+	</help_section>
+	<help_section application="swriter" id="09" title="데이터베이스 기능">
+		<node id="0901" title="일반 정보">
+<topic id="shared/text/shared/explorer/database/main.xhp">%PRODUCTNAME 데이터베이스</topic>
+<topic id="shared/text/shared/guide/database_main.xhp">데이터베이스 개요</topic>
+<topic id="shared/text/shared/guide/data_new.xhp">새 데이터베이스 만들기</topic>
+<topic id="shared/text/shared/guide/data_tables.xhp">테이블 사용</topic>
+<topic id="shared/text/shared/guide/data_queries.xhp">쿼리 사용</topic>
+<topic id="shared/text/shared/guide/data_forms.xhp">양식 사용</topic>
+<topic id="shared/text/shared/guide/data_reports.xhp">보고서 생성</topic>
+<topic id="shared/text/shared/guide/data_register.xhp">데이터베이스 등록 및 삭제</topic>
+<topic id="shared/text/shared/guide/data_im_export.xhp">Base의 데이터 가져오기 및 내보내기</topic>
+<topic id="shared/text/shared/guide/data_enter_sql.xhp">SQL 명령 실행</topic>
+		</node>
+	</help_section>
+</tree_view>

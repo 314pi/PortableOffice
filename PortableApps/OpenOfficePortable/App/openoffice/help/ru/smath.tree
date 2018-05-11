@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+<tree_view version="24-Aug-2004">
+	<help_section application="smath" id="03" title="Формулы">
+		<node id="0301" title="Общие сведения и использование пользовательского интерфейса">
+<topic id="smath/text/smath/main0000.xhp">Добро пожаловать в справку приложения %PRODUCTNAME Math</topic>
+<topic id="smath/text/smath/main0503.xhp">Возможности приложения %PRODUCTNAME Math</topic>
+<topic id="smath/text/smath/guide/main.xhp">Инструкции по использованию %PRODUCTNAME Math</topic>
+<topic id="smath/text/smath/guide/keyboard.xhp">Ярлыки (специальные возможности %PRODUCTNAME Math)</topic>
+		</node>
+		<node id="0302" title="Справочник по командам и меню">
+<topic id="smath/text/smath/main0100.xhp">Меню</topic>
+<topic id="smath/text/smath/main0200.xhp">Панели инструментов</topic>
+		</node>
+		<node id="0303" title="Работа с формулами">
+<topic id="smath/text/smath/guide/align.xhp">Выравнивание частей формулы вручную</topic>
+<topic id="smath/text/smath/guide/attributes.xhp">Изменение значений атрибутов по умолчанию</topic>
+<topic id="smath/text/smath/guide/brackets.xhp">Объединение частей формулы с помощью скобок </topic>
+<topic id="smath/text/smath/guide/comment.xhp">Ввод комментариев</topic>
+<topic id="smath/text/smath/guide/newline.xhp">Ввод разрывов строки</topic>
+<topic id="smath/text/smath/guide/parentheses.xhp">Вставка скобок</topic>
+		</node>
+	</help_section>
+</tree_view>

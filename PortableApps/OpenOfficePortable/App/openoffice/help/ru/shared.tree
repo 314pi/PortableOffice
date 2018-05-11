@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+<tree_view version="24-Aug-2004">
+	<help_section application="swriter" id="01" title="Установка">
+<topic id="shared/text/shared/guide/ms_doctypes.xhp">Изменение сопоставлений типов документов Microsoft Office</topic>
+	</help_section>
+	<help_section application="swriter" id="10" title="Общие разделы справки">
+		<node id="1001" title="Общие сведения">
+<topic id="shared/text/shared/main0400.xhp">Сочетания клавиш</topic>
+<topic id="shared/text/shared/00/00000005.xhp">Общий глоссарий</topic>
+<topic id="shared/text/shared/00/00000002.xhp">Глоссарий терминов Интернета</topic>
+<topic id="shared/text/shared/guide/accessibility.xhp">Специальные возможности в %PRODUCTNAME</topic>
+<topic id="shared/text/shared/guide/keyboard.xhp">Сочетания клавиш (специальные возможности %PRODUCTNAME)</topic>
+<topic id="shared/text/shared/04/01010000.xhp">Общие сочетания клавиш в %PRODUCTNAME</topic>
+<topic id="shared/text/shared/guide/version_number.xhp">Номера версии и сборки</topic>
+</node>
+		<node id="1002" title="%PRODUCTNAME и Microsoft Office">
+<topic id="shared/text/shared/guide/ms_user.xhp">Работа в Microsoft Office и %PRODUCTNAME</topic>
+<topic id="shared/text/shared/guide/microsoft_terms.xhp">Сравнение терминов Microsoft Office и %PRODUCTNAME</topic>
+<topic id="shared/text/shared/guide/ms_import_export_limitations.xhp">О преобразовании документов Microsoft Office</topic>
+<topic id="shared/text/shared/guide/ms_doctypes.xhp">Изменение сопоставлений типов документов Microsoft Office</topic>
+		</node>
+		<node id="1004" title="Параметры %PRODUCTNAME">
+<topic id="shared/text/shared/optionen/01000000.xhp">Параметры</topic>
+<topic id="shared/text/shared/optionen/01010100.xhp">Сведения о пользователе</topic>
+<topic id="shared/text/shared/optionen/01010200.xhp">Общие</topic>
+<topic id="shared/text/shared/optionen/01010300.xhp">Пути</topic>
+<topic id="shared/text/shared/optionen/01010400.xhp">Вспомогательные средства</topic>
+<topic id="shared/text/shared/optionen/01010500.xhp">Цвета</topic>
+<topic id="shared/text/shared/optionen/01010600.xhp">Общие</topic>
+<topic id="shared/text/shared/optionen/01010700.xhp">Шрифты</topic>
+<topic id="shared/text/shared/optionen/01010800.xhp">Вид</topic>
+<topic id="shared/text/shared/optionen/01010900.xhp">Печать</topic>
+<topic id="shared/text/shared/optionen/01011000.xhp">Память</topic>
+<topic id="shared/text/shared/optionen/01012000.xhp">Внешний вид</topic>
+<topic id="shared/text/shared/optionen/01013000.xhp">Специальные возможности</topic>
+<topic id="shared/text/shared/optionen/01020000.xhp">Параметры загрузки/сохранения</topic>
+<topic id="shared/text/shared/optionen/01030000.xhp">Интернет</topic>
+<topic id="shared/text/shared/optionen/01040000.xhp">Параметры текстового документа</topic>
+<topic id="shared/text/shared/optionen/01050000.xhp">Параметры HTML-документа</topic>
+<topic id="shared/text/shared/optionen/01060000.xhp">Параметры электронной таблицы</topic>
+<topic id="shared/text/shared/optionen/01070000.xhp">Параметры презентации</topic>
+<topic id="shared/text/shared/optionen/01080000.xhp">Параметры рисунков</topic>
+<topic id="shared/text/shared/optionen/01090000.xhp">Формула</topic>
+<topic id="shared/text/shared/optionen/01110000.xhp">Диаграммы</topic>
+<topic id="shared/text/shared/optionen/01130100.xhp">Свойства VBA</topic>
+<topic id="shared/text/shared/optionen/01130200.xhp">Microsoft Office</topic>
+<topic id="shared/text/shared/optionen/01140000.xhp">Языки</topic>
+<topic id="shared/text/shared/optionen/01150000.xhp">Параметры настройки языка</topic>
+<topic id="shared/text/shared/optionen/01160000.xhp">Параметры источников данных</topic>
+		</node>
+		<node id="1005" title="Мастера">
+<topic id="shared/text/shared/autopi/01000000.xhp">Мастер</topic>
+			<node id="100501" title="Мастер писем">
+<topic id="shared/text/shared/autopi/01010000.xhp">Мастер писем</topic>
+			</node>
+			<node id="100502" title="Мастер факсов">
+<topic id="shared/text/shared/autopi/01020000.xhp">Мастер факсов</topic>
+			</node>
+			<node id="100504" title="Мастер повестки дня">
+<topic id="shared/text/shared/autopi/01040000.xhp">Мастер повестки дня</topic>
+			</node>
+			<node id="100505" title="Мастер презентаций">
+<topic id="shared/text/shared/autopi/01050000.xhp">Мастер презентаций</topic>
+			</node>
+			<node id="100506" title="Мастер экспорта HTML">
+<topic id="shared/text/shared/autopi/01110000.xhp">Экспорт HTML</topic>
+			</node>
+			<node id="100510" title="Мастер преобразования документов">
+<topic id="shared/text/shared/autopi/01130000.xhp">Преобразование документов</topic>
+			</node>
+<topic id="shared/text/shared/autopi/01150000.xhp">Мастер конвертера евро</topic>
+		</node>
+		<node id="1006" title="Настройка %PRODUCTNAME">
+<topic id="shared/text/shared/guide/configure_overview.xhp">Настройка %PRODUCTNAME</topic>
+<topic id="shared/text/shared/01/packagemanager.xhp">Управление расширениями</topic>
+<topic id="shared/text/shared/guide/flat_icons.xhp">Изменение вида значков</topic>
+<topic id="shared/text/shared/guide/edit_symbolbar.xhp">Настройка панелей инструментов </topic>
+<topic id="shared/text/shared/guide/workfolder.xhp">Изменение рабочего каталога </topic>
+<topic id="shared/text/shared/guide/standard_template.xhp">Изменение шаблонов по умолчанию</topic>
+<topic id="shared/text/shared/guide/data_addressbook.xhp">Регистрация адресной книги</topic>
+<topic id="shared/text/shared/guide/formfields.xhp">Вставка и изменение кнопок</topic>
+		</node>
+		<node id="1007" title="Работа с пользовательским интерфейсом">
+<topic id="shared/text/shared/guide/navigator_setcursor.xhp">Быстрые переходы к объектам</topic>
+<topic id="shared/text/shared/guide/navigator.xhp">Общее представление о навигаторе для документов</topic>
+<topic id="shared/text/shared/guide/autohide.xhp">Отображение, закрепление и скрытие окон</topic>
+<topic id="shared/text/shared/guide/navpane_on.xhp">Отображение области переходов в справке</topic>
+<topic id="shared/text/shared/guide/textmode_change.xhp">Переключение между режимами вставки и замены</topic>
+<topic id="shared/text/shared/guide/floating_toolbar.xhp">Использование панелей инструментов</topic>
+<topic id="shared/text/shared/guide/sidebar_window.xhp">Sidebar Window</topic>
+		</node>
+		<node id="1008" title="Принтеры, факсы, отправка">
+<topic id="shared/text/shared/guide/labels_database.xhp">Печать этикеток с адресами</topic>
+<topic id="shared/text/shared/guide/print_blackwhite.xhp">Черно-белая печать</topic>
+<topic id="shared/text/shared/guide/email.xhp">Отправка документов электронной почтой</topic>
+<topic id="shared/text/shared/guide/fax.xhp">Отправка факсов и настройка %PRODUCTNAME для отправки факсов</topic>
+		</node>
+		<node id="1009" title="Перетаскивание">
+<topic id="shared/text/shared/guide/dragdrop.xhp">Перетаскивание в документе %PRODUCTNAME</topic>
+<topic id="swriter/text/swriter/guide/dragdroptext.xhp">Перемещение и копирование текста в документах</topic>
+<topic id="shared/text/shared/guide/dragdrop_table.xhp">Копирование областей электронной таблицы в текстовые документы</topic>
+<topic id="shared/text/shared/guide/dragdrop_graphic.xhp">Копирование графических объектов из документа в документ</topic>
+<topic id="shared/text/shared/guide/dragdrop_fromgallery.xhp">Копирование рисунков из галереи</topic>
+<topic id="shared/text/shared/guide/dragdrop_beamer.xhp">Перетаскивание в представлении источника данных</topic>
+		</node>
+		<node id="1010" title="Копирование и вставка">
+<topic id="shared/text/shared/guide/copy_drawfunctions.xhp">Копирование рисованных объектов в другие документы</topic>
+<topic id="shared/text/shared/guide/dragdrop_graphic.xhp">Копирование графических объектов из документа в документ</topic>
+<topic id="shared/text/shared/guide/dragdrop_fromgallery.xhp">Копирование рисунков из галереи</topic>
+<topic id="shared/text/shared/guide/dragdrop_table.xhp">Копирование областей электронной таблицы в текстовые документы</topic>
+		</node>
+		<node id="1012" title="Диаграммы и схемы">
+<topic id="shared/text/shared/guide/chart_insert.xhp">Вставка диаграмм</topic>
+<topic id="schart/text/schart/main0000.xhp">Диаграммы в %PRODUCTNAME</topic>
+		</node>
+		<node id="1013" title="Загрузка, сохранение, импорт, экспорт">
+<topic id="shared/text/shared/guide/doc_open.xhp">Открытие документов</topic>
+<topic id="shared/text/shared/guide/import_ms.xhp">Открытие документов, сохраненных в других форматах</topic>
+<topic id="shared/text/shared/guide/doc_save.xhp">Сохранение документов</topic>
+<topic id="shared/text/shared/guide/doc_autosave.xhp">Автоматическое сохранение документов</topic>
+<topic id="shared/text/shared/guide/export_ms.xhp">Сохранение документов в других форматах</topic>
+<topic id="shared/text/shared/guide/data_dbase2office.xhp">Импорт и экспорт данных в текстовом формате</topic>
+		</node>
+		<node id="1014" title="Связи и ссылки">
+<topic id="shared/text/shared/guide/hyperlink_insert.xhp">Вставка гиперссылок</topic>
+<topic id="shared/text/shared/guide/hyperlink_rel_abs.xhp">Относительные и абсолютные ссылки</topic>
+<topic id="shared/text/shared/guide/hyperlink_edit.xhp">Редактирование гиперссылок</topic>
+		</node>
+		<node id="1015" title="Отслеживание версий документа">
+<topic id="shared/text/shared/guide/redlining_doccompare.xhp">Сравнение версий документа</topic>
+<topic id="shared/text/shared/guide/redlining_docmerge.xhp">Объединение версий</topic>
+<topic id="shared/text/shared/guide/redlining_enter.xhp">Запись изменений</topic>
+<topic id="shared/text/shared/guide/redlining.xhp">Запись и отображение изменений</topic>
+<topic id="shared/text/shared/guide/redlining_accept.xhp">Принятие и отклонение изменений</topic>
+<topic id="shared/text/shared/guide/redlining_versions.xhp">Управление версиями</topic>
+		</node>
+		<node id="1016" title="Подписи и визитные карточки">
+<topic id="shared/text/shared/guide/labels.xhp">Создание и печать этикеток и визитных карточек</topic>
+		</node>
+		<node id="1018" title="Вставка внешних данных">
+<topic id="shared/text/shared/guide/copytable2application.xhp">Вставка данных из электронных таблиц</topic>
+<topic id="shared/text/shared/guide/copytext2application.xhp">Вставка данных из текстовых документов</topic>
+<topic id="shared/text/shared/guide/insert_bitmap.xhp">Вставка, редактирование, сохранение растровых изображений</topic>
+<topic id="shared/text/shared/guide/dragdrop_gallery.xhp">Добавление рисунков в галерею</topic>
+		</node>
+		<node id="1019" title="Автоматические функции">
+<topic id="shared/text/shared/guide/autocorr_url.xhp">Выключение автораспознавания URL-адресов</topic>
+		</node>
+		<node id="1020" title="Поиск и замена">
+<topic id="shared/text/shared/guide/data_search2.xhp">Поиск с помощью фильтра форм</topic>
+<topic id="shared/text/shared/guide/hyperlink_search.xhp">Поиск с помощью панели гиперссылки</topic>
+<topic id="shared/text/shared/guide/data_search.xhp">Поиск по документам таблиц и форм</topic>
+<topic id="shared/text/shared/01/02100001.xhp">Список регулярных выражений</topic>
+		</node>
+		<node id="1021" title="Инструкции">
+<topic id="shared/text/shared/guide/linestyles.xhp">Применение стилей линии</topic>
+<topic id="shared/text/shared/guide/text_color.xhp">Изменение цвета текста</topic>
+<topic id="shared/text/shared/guide/change_title.xhp">Изменение заголовка документа</topic>
+<topic id="shared/text/shared/guide/round_corner.xhp">Создание закругленных углов</topic>
+<topic id="shared/text/shared/guide/background.xhp">Определение цвета или рисунка фона</topic>
+<topic id="shared/text/shared/guide/lineend_define.xhp">Определение концов линий</topic>
+<topic id="shared/text/shared/guide/linestyle_define.xhp">Определение стилей линий</topic>
+<topic id="shared/text/shared/guide/insert_graphic_drawit.xhp">Редактирование графических объектов </topic>
+<topic id="shared/text/shared/guide/line_intext.xhp">Рисование линий в тексте</topic>
+<topic id="shared/text/shared/guide/aaa_start.xhp">Первые шаги</topic>
+<topic id="shared/text/shared/guide/gallery_insert.xhp">Вставка объектов из галереи</topic>
+<topic id="shared/text/shared/guide/space_hyphen.xhp">Вставка защищенных пробелов, переносов и условных разделителей</topic>
+<topic id="shared/text/shared/guide/insert_specialchar.xhp">Вставка специальных символов</topic>
+<topic id="shared/text/shared/guide/tabs.xhp">Вставка и изменение позиций табуляции</topic>
+<topic id="shared/text/shared/guide/protection.xhp">Защита содержимого в %PRODUCTNAME</topic>
+<topic id="shared/text/shared/guide/redlining_protect.xhp">Защита записей</topic>
+<topic id="shared/text/shared/guide/pageformat_max.xhp">Выбор оптимальной печатаемой области на странице</topic>
+<topic id="shared/text/shared/guide/measurement_units.xhp">Выбор единиц измерения</topic>
+<topic id="shared/text/shared/guide/language_select.xhp">Выбор языка документа</topic>
+<topic id="shared/text/shared/guide/data_tabledefine.xhp">Конструктор таблиц</topic>
+<topic id="shared/text/shared/guide/numbering_stop.xhp">Отключение маркеров и нумерации для отдельных абзацев</topic>
+		</node>
+	</help_section>
+	<help_section application="swriter" id="09" title="Функциональные возможности базы данных">
+		<node id="0901" title="Общие сведения">
+<topic id="shared/text/shared/explorer/database/main.xhp">База данных %PRODUCTNAME</topic>
+<topic id="shared/text/shared/guide/database_main.xhp">Обзор базы данных</topic>
+<topic id="shared/text/shared/guide/data_new.xhp">Создание новой базы данных</topic>
+<topic id="shared/text/shared/guide/data_tables.xhp">Работа с таблицами</topic>
+<topic id="shared/text/shared/guide/data_queries.xhp">Работа с запросами</topic>
+<topic id="shared/text/shared/guide/data_forms.xhp">Работа с формами</topic>
+<topic id="shared/text/shared/guide/data_reports.xhp">Создание отчетов </topic>
+<topic id="shared/text/shared/guide/data_register.xhp">Регистрация и удаление базы данных</topic>
+<topic id="shared/text/shared/guide/data_im_export.xhp">Импорт и экспорт данных в базу </topic>
+<topic id="shared/text/shared/guide/data_enter_sql.xhp">Выполнение команд SQL</topic>
+		</node>
+	</help_section>
+</tree_view>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+<tree_view version="24-Aug-2004">
+	<help_section application="simpress" id="04" title="Presentaciones y dibujos">
+		<node id="0401" title="Información general y uso de interfaz de usuario">
+<topic id="simpress/text/simpress/main0000.xhp">Bienvenido a la ayuda de %PRODUCTNAME Impress</topic>
+<topic id="sdraw/text/sdraw/main0000.xhp">Bienvenido a la ayuda de %PRODUCTNAME Draw</topic>
+<topic id="simpress/text/simpress/main0503.xhp">Funciones de %PRODUCTNAME Impress</topic>
+<topic id="sdraw/text/sdraw/main0503.xhp">Funciones de %PRODUCTNAME Draw</topic>
+<topic id="simpress/text/simpress/guide/keyboard.xhp">Utilizar teclas de acceso directo de %PRODUCTNAME Impress </topic>
+<topic id="sdraw/text/sdraw/guide/keyboard.xhp">Teclas de acceso directo para objetos de dibujo</topic>
+<topic id="simpress/text/simpress/04/01020000.xhp">Teclas de acceso directo de %PRODUCTNAME Impress</topic>
+<topic id="sdraw/text/sdraw/04/01020000.xhp">Combinaciones de Teclas para Dibujos</topic>
+<topic id="simpress/text/simpress/guide/main.xhp">Instrucciones para utilizar %PRODUCTNAME Impress</topic>
+<topic id="sdraw/text/sdraw/guide/main.xhp">Instrucciones para Utilizar %PRODUCTNAME Draw</topic>
+		</node>
+		<node id="0402" title="Comandos y referencias de menus">
+			<node id="040201" title="Presentaciones (%PRODUCTNAME Impress)">
+				<node id="04020101" title="Menús">
+<topic id="simpress/text/simpress/main0100.xhp">Menús</topic>
+<topic id="simpress/text/simpress/main0101.xhp">Archivo</topic>
+<topic id="simpress/text/simpress/main0102.xhp">Editar</topic>
+<topic id="simpress/text/simpress/main0103.xhp">Ver</topic>
+<topic id="simpress/text/simpress/main0104.xhp">Insertar</topic>
+<topic id="simpress/text/simpress/main0105.xhp">Formato</topic>
+<topic id="simpress/text/simpress/main0106.xhp">Herramientas</topic>
+<topic id="simpress/text/simpress/main0107.xhp">Ventana</topic>
+<topic id="simpress/text/simpress/main0114.xhp">Presentación</topic>
+				</node>
+				<node id="04020102" title="Barra de herramientas">
+<topic id="simpress/text/simpress/main0200.xhp">Barras de herramientas</topic>
+<topic id="simpress/text/simpress/main0202.xhp">Barra Líneas y relleno</topic>
+<topic id="simpress/text/simpress/main0203.xhp">Barra Formato de texto</topic>
+<topic id="simpress/text/simpress/main0204.xhp">Barra de objetos en el Modo diapositivas</topic>
+<topic id="simpress/text/simpress/main0206.xhp">Barra de estado</topic>
+<topic id="simpress/text/simpress/main0209.xhp">Reglas</topic>
+<topic id="simpress/text/simpress/main0210.xhp">Barra Dibujo</topic>
+<topic id="simpress/text/simpress/main0211.xhp">Barra Esquema</topic>
+<topic id="simpress/text/simpress/main0212.xhp">Barra Clasificador de diapositivas</topic>
+<topic id="simpress/text/simpress/main0213.xhp">Barra de opciones</topic>
+<topic id="simpress/text/simpress/main0214.xhp">Barra Imagen</topic>
+<topic id="shared/text/shared/main0201.xhp">Barra Estándar</topic>
+<topic id="shared/text/shared/main0209.xhp">Barra de hipervínculos</topic>
+<topic id="shared/text/shared/main0213.xhp">Barra de herramientas de formulario</topic>
+<topic id="shared/text/shared/main0226.xhp">Barra de herramientas Diseño de formularios</topic>
+<topic id="shared/text/shared/main0227.xhp">Barra Editar puntos</topic>
+				</node>
+			</node>
+			<node id="040202" title="Dibujo (%PRODUCTNAME Draw)">
+				<node id="04020201" title="Menús">
+<topic id="sdraw/text/sdraw/main0100.xhp">Menús</topic>
+<topic id="sdraw/text/sdraw/main0101.xhp">Archivo</topic>
+<topic id="sdraw/text/sdraw/main0102.xhp">Editar</topic>
+<topic id="sdraw/text/sdraw/main0103.xhp">Ver</topic>
+<topic id="sdraw/text/sdraw/main0104.xhp">Insertar</topic>
+<topic id="sdraw/text/sdraw/main0105.xhp">Formato</topic>
+<topic id="sdraw/text/sdraw/main0106.xhp">Herramientas</topic>
+<topic id="simpress/text/simpress/main0113.xhp">Modificar</topic>
+				</node>
+				<node id="04020202" title="Barra de herramientas">
+<topic id="sdraw/text/sdraw/main0200.xhp">Barras de herramientas</topic>
+<topic id="sdraw/text/sdraw/main0210.xhp">Barra Dibujo</topic>
+<topic id="sdraw/text/sdraw/main0213.xhp">Barra de Opciones</topic>
+<topic id="shared/text/shared/main0201.xhp">Barra Estándar</topic>
+<topic id="shared/text/shared/main0209.xhp">Barra de hipervínculos</topic>
+<topic id="shared/text/shared/main0213.xhp">Barra de herramientas de formulario</topic>
+<topic id="shared/text/shared/main0226.xhp">Barra de herramientas Diseño de formularios</topic>
+<topic id="shared/text/shared/main0227.xhp">Barra Editar puntos</topic>
+				</node>
+			</node>
+		</node>
+		<node id="0403" title="Cargando, Guardando, Importando, y Exportando">
+<topic id="simpress/text/simpress/guide/html_export.xhp">Guardar una presentación en formato HTML</topic>
+<topic id="simpress/text/simpress/guide/html_import.xhp">Importar diapositivas HTML en presentaciones</topic>
+<topic id="simpress/text/simpress/guide/palette_files.xhp">Cargar color, gradiente y listas de tramas</topic>
+<topic id="simpress/text/simpress/guide/animated_gif_save.xhp">Exportar animaciones en formato GIF</topic>
+<topic id="simpress/text/simpress/guide/table_insert.xhp">Incorporar hojas de cálculo en las diapositivas</topic>
+<topic id="sdraw/text/sdraw/guide/graphic_insert.xhp">Insertar imagen</topic>
+<topic id="simpress/text/simpress/guide/page_copy.xhp">Copiar diapositivas de otras presentaciones</topic>
+		</node>
+		<node id="0404" title="Formatear">
+<topic id="simpress/text/simpress/guide/palette_files.xhp">Cargar color, gradiente y listas de tramas</topic>
+<topic id="simpress/text/simpress/guide/line_arrow_styles.xhp">Cargar estilos de línea y de fin de línea</topic>
+<topic id="sdraw/text/sdraw/guide/color_define.xhp">Definir colores personalizados</topic>
+<topic id="sdraw/text/sdraw/guide/gradient.xhp">Crear rellenos de gradientes</topic>
+<topic id="sdraw/text/sdraw/guide/eyedropper.xhp">Sustituir colores</topic>
+<topic id="sdraw/text/sdraw/guide/align_arrange.xhp">Organizar, alinear y distribuir objetos</topic>
+<topic id="simpress/text/simpress/guide/background.xhp">Cambiar el relleno del fondo de la diapositiva</topic>
+<topic id="simpress/text/simpress/guide/footer.xhp">Agregar un encabezado o un pie de página a todas las diapositivas</topic>
+<topic id="simpress/text/simpress/guide/masterpage.xhp">Aplicar un diseño de diapositiva a un patrón de diapositivas </topic>
+<topic id="simpress/text/simpress/guide/move_object.xhp">Mover objetos</topic>
+		</node>
+		<node id="0405" title="Imprimir">
+<topic id="simpress/text/simpress/guide/printing.xhp">Imprimir presentaciones</topic>
+<topic id="simpress/text/simpress/guide/print_tofit.xhp">Imprimir diapositivas ajustadas al tamaño del papel</topic>
+		</node>
+		<node id="0406" title="Efectos">
+<topic id="simpress/text/simpress/guide/animated_gif_save.xhp">Exportar animaciones en formato GIF</topic>
+<topic id="simpress/text/simpress/guide/animated_objects.xhp">Animar objetos en diapositivas de presentaciones</topic>
+<topic id="simpress/text/simpress/guide/animated_slidechange.xhp">Animar transiciones de diapositivas</topic>
+<topic id="sdraw/text/sdraw/guide/cross_fading.xhp">Disolvencia de Dos Objetos</topic>
+<topic id="simpress/text/simpress/guide/animated_gif_create.xhp">Crear imágenes GIF animadas</topic>
+		</node>
+		<node id="0407" title="Objetos, Gráficos, y Mapas de bits">
+<topic id="sdraw/text/sdraw/guide/combine_etc.xhp">Combinar objetos y construir formas</topic>
+<topic id="sdraw/text/sdraw/guide/draw_sector.xhp">Dibujar sectores y segmentos</topic>
+<topic id="sdraw/text/sdraw/guide/duplicate_object.xhp">Duplicar Objetos</topic>
+<topic id="sdraw/text/sdraw/guide/rotate_object.xhp">Girar objetos</topic>
+<topic id="sdraw/text/sdraw/guide/join_objects3d.xhp">Montar objetos 3D</topic>
+<topic id="sdraw/text/sdraw/guide/join_objects.xhp">Conectar líneas</topic>
+<topic id="simpress/text/simpress/guide/text2curve.xhp">Convertir caracteres de texto en objetos de dibujo</topic>
+<topic id="simpress/text/simpress/guide/vectorize.xhp">Convertir imágenes bitmap en imágenes vectoriales</topic>
+<topic id="simpress/text/simpress/guide/3d_create.xhp">Convertir objetos 2D en curvas, polígonos y objetos 3D</topic>
+<topic id="simpress/text/simpress/guide/line_arrow_styles.xhp">Cargar estilos de línea y de fin de línea</topic>
+<topic id="simpress/text/simpress/guide/line_draw.xhp">Dibujar curvas</topic>
+<topic id="simpress/text/simpress/guide/line_edit.xhp">Editar curvas</topic>
+<topic id="sdraw/text/sdraw/guide/graphic_insert.xhp">Insertar imagen</topic>
+<topic id="simpress/text/simpress/guide/table_insert.xhp">Incorporar hojas de cálculo en las diapositivas</topic>
+<topic id="simpress/text/simpress/guide/move_object.xhp">Mover objetos</topic>
+<topic id="simpress/text/simpress/guide/select_object.xhp">Seleccionar objetos subyacentes</topic>
+<topic id="simpress/text/simpress/guide/orgchart.xhp">Crear un diagrama de flujo</topic>
+		</node>
+		<node id="0408" title="Grupos y capas">
+<topic id="sdraw/text/sdraw/guide/groups.xhp">Agrupar objetos</topic>
+<topic id="simpress/text/simpress/guide/layers.xhp">Acerca de las capas</topic>
+<topic id="simpress/text/simpress/guide/layer_new.xhp">Insertar capas</topic>
+<topic id="simpress/text/simpress/guide/layer_tipps.xhp">Trabajar con capas</topic>
+<topic id="simpress/text/simpress/guide/layer_move.xhp">Mover objetos a una capa distinta</topic>
+		</node>
+		<node id="0409" title="Texto en Presentaciones y Dibujos">
+<!-- removed sdraw/text/sdraw/guide/text_3d.xhp -->
+<!-- removed sdraw/text/sdraw/guide/text_to_bitmap.xhp -->
+<topic id="sdraw/text/sdraw/guide/text_enter.xhp">Agregar texto</topic>
+<topic id="simpress/text/simpress/guide/text2curve.xhp">Convertir caracteres de texto en objetos de dibujo</topic>
+		</node>
+		<node id="0410" title="Visualización">
+<topic id="simpress/text/simpress/guide/individual.xhp">Crear una presentación personalizada</topic>
+<topic id="simpress/text/simpress/guide/arrange_slides.xhp">Cambiar el orden de las diapositivas</topic>
+<topic id="simpress/text/simpress/guide/change_scale.xhp">Escalar con el teclado numérico</topic>
+<!-- removed simpress/text/simpress/guide/livemode.xhp -->
+<topic id="simpress/text/simpress/guide/rehearse_timings.xhp">Ensayar intervalos de cambios de diapositiva</topic>
+		</node>
+	</help_section>
+</tree_view>

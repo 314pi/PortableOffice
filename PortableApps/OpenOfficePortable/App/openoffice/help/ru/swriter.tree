@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+<tree_view version="24-Aug-2004">
+	<help_section application="swriter" id="02" title="Текстовые документы">
+		<node id="0201" title="Общие сведения и использование пользовательского интерфейса">
+<topic id="swriter/text/swriter/main0000.xhp">Добро пожаловать в справку приложения %PRODUCTNAME Writer</topic>
+<topic id="swriter/text/swriter/main0503.xhp">Возможности приложения %PRODUCTNAME Writer</topic>
+<topic id="swriter/text/swriter/guide/main.xhp">Инструкции по работе с %PRODUCTNAME Writer</topic>
+<topic id="swriter/text/swriter/guide/resize_navigator.xhp">Закрепление окон и изменение их размера</topic>
+<topic id="swriter/text/swriter/04/01020000.xhp">Сочетания клавиш для %PRODUCTNAME Writer</topic>
+<topic id="swriter/text/swriter/guide/words_count.xhp">Подсчет слов</topic>
+<topic id="swriter/text/swriter/guide/keyboard.xhp">Использование сочетаний клавиш (специальные возможности %PRODUCTNAME Writer)</topic>
+		</node>
+		<node id="0202" title="Справочник по командам и меню">
+			<node id="020201" title="Меню">
+<topic id="swriter/text/swriter/main0100.xhp">Меню</topic>
+<topic id="swriter/text/swriter/main0101.xhp">Файл</topic>
+<topic id="swriter/text/swriter/main0102.xhp">Правка</topic>
+<topic id="swriter/text/swriter/main0103.xhp">Вид</topic>
+<topic id="swriter/text/swriter/main0104.xhp">Вставка</topic>
+<topic id="swriter/text/swriter/main0105.xhp">Формат</topic>
+<topic id="swriter/text/swriter/main0106.xhp">Сервис</topic>
+<topic id="swriter/text/swriter/main0107.xhp">Окно</topic>
+			</node>
+			<node id="020202" title="Панели инструментов">
+<topic id="swriter/text/swriter/main0200.xhp">Панели инструментов</topic>
+<topic id="swriter/text/swriter/main0202.xhp">Панель форматирования</topic>
+<topic id="swriter/text/swriter/main0203.xhp">Панель графических объектов</topic>
+<topic id="swriter/text/swriter/main0204.xhp">Панель таблицы</topic>
+<topic id="swriter/text/swriter/main0205.xhp">Панель свойств рисованного объекта</topic>
+<topic id="swriter/text/swriter/main0206.xhp">Панель "Маркеры и нумерация"</topic>
+<topic id="swriter/text/swriter/main0208.xhp">Строка состояния</topic>
+<topic id="swriter/text/swriter/main0210.xhp">Предварительный просмотр</topic>
+<topic id="swriter/text/swriter/main0213.xhp">Линейки</topic>
+<topic id="swriter/text/swriter/main0214.xhp">Панель формул</topic>
+<topic id="swriter/text/swriter/main0215.xhp">Панель рамки</topic>
+<topic id="swriter/text/swriter/main0216.xhp">Панель объектов OLE</topic>
+<topic id="swriter/text/swriter/main0220.xhp">Панель текстового объекта</topic>
+<topic id="shared/text/shared/main0201.xhp">Стандартная панель</topic>
+<topic id="shared/text/shared/main0209.xhp">Панель гиперссылки</topic>
+<topic id="shared/text/shared/main0212.xhp">Панель таблицы данных</topic>
+<topic id="shared/text/shared/main0213.xhp">Панель "Навигатор форм"</topic>
+<topic id="shared/text/shared/main0214.xhp">Панель конструктора запросов</topic>
+<topic id="shared/text/shared/main0226.xhp">Панель инструментов конструктора форм</topic>
+
+
+			</node>
+		</node>
+		<node id="0203" title="Создание текстовых документов">
+<topic id="swriter/text/swriter/guide/text_nav_keyb.xhp">Перемещение и выделение с помощью клавиатуры</topic>
+<topic id="swriter/text/swriter/guide/text_direct_cursor.xhp">Использование свободного ввода</topic>
+		</node>
+		<node id="0204" title="Графические объекты в текстовых документах">
+<topic id="swriter/text/swriter/guide/insert_graphic.xhp">Вставка графических объектов</topic>
+<topic id="swriter/text/swriter/guide/insert_graphic_dialog.xhp">Вставка графического объекта из файла</topic>
+<topic id="swriter/text/swriter/guide/insert_graphic_gallery.xhp">Вставка графического объекта из галереи путем перетаскивания</topic>
+<topic id="swriter/text/swriter/guide/insert_graphic_scan.xhp">Вставка сканированного изображения</topic>
+<topic id="swriter/text/swriter/guide/insert_graphic_fromchart.xhp">Вставка диаграммы Calc в текстовый документ</topic>
+<topic id="swriter/text/swriter/guide/insert_graphic_fromdraw.xhp">Вставка графического объекта из %PRODUCTNAME Draw или Impress</topic>
+<topic id="swriter/text/swriter/guide/insert_line.xhp">Вставка горизонтальной линии</topic>
+		</node>
+		<node id="0205" title="Таблицы в текстовых документах">
+<topic id="swriter/text/swriter/guide/number_date_conv.xhp">Включение и выключение распознавания чисел в таблицах</topic>
+<topic id="swriter/text/swriter/guide/tablemode.xhp">Изменение строк и столбцов с помощью клавиатуры</topic>
+<topic id="swriter/text/swriter/guide/table_delete.xhp">Удаление таблиц или содержимого таблиц</topic>
+<topic id="swriter/text/swriter/guide/table_insert.xhp">Вставка таблиц</topic>
+<topic id="swriter/text/swriter/guide/table_repeat_multiple_headers.xhp">Повторение заголовка таблицы на новой странице</topic>
+<topic id="swriter/text/swriter/guide/table_sizing.xhp">Изменение размера строк и столбцов в текстовой таблице </topic>
+<topic id="swriter/text/swriter/guide/table_cells.xhp">Добавление и удаление строк и столбцов таблицы с помощью клавиатуры</topic>
+		</node>
+		<node id="0206" title="Объекты в текстовых документах">
+<topic id="swriter/text/swriter/guide/anchor_object.xhp">Задание положения объектов</topic>
+<topic id="swriter/text/swriter/guide/wrap.xhp">Обтекание текста вокруг объектов</topic>
+		</node>
+		<node id="0207" title="Разделы и рамки в текстовых документах">
+<topic id="swriter/text/swriter/guide/sections.xhp">Использование разделов</topic>
+<topic id="swriter/text/swriter/guide/text_frame.xhp">Вставка, редактирование и связывание текстовых врезок</topic>
+<topic id="swriter/text/swriter/guide/section_edit.xhp">Редактирование разделов</topic>
+<topic id="swriter/text/swriter/guide/section_insert.xhp">Вставка разделов</topic>
+		</node>
+		<node id="0208" title="Оглавления и указатели">
+<topic id="swriter/text/swriter/guide/chapter_numbering.xhp">Структура нумерации</topic>
+<topic id="swriter/text/swriter/guide/indices_userdef.xhp">Пользовательские указатели</topic>
+<topic id="swriter/text/swriter/guide/indices_toc.xhp">Создание оглавления</topic>
+<topic id="swriter/text/swriter/guide/indices_index.xhp">Создание алфавитных указателей</topic>
+<topic id="swriter/text/swriter/guide/indices_multidoc.xhp">Указатели, охватывающие несколько документов</topic>
+<topic id="swriter/text/swriter/guide/indices_literature.xhp">Создание библиографии</topic>
+<topic id="swriter/text/swriter/guide/indices_delete.xhp">Правка и удаление элементов указателей и оглавлений</topic>
+<topic id="swriter/text/swriter/guide/indices_edit.xhp">Обновление, изменение и удаление указателей и оглавлений</topic>
+<topic id="swriter/text/swriter/guide/indices_enter.xhp">Определение элементов указателей и оглавлений</topic>
+<topic id="swriter/text/swriter/guide/indices_form.xhp">Форматирование указателей и оглавлений</topic>
+		</node>
+		<node id="0209" title="Поля в текстовых документах">
+<topic id="swriter/text/swriter/guide/fields.xhp">Поля</topic>
+<topic id="swriter/text/swriter/guide/fields_date.xhp">Вставка фиксированного или изменяемого поля даты</topic>
+<topic id="swriter/text/swriter/guide/field_convert.xhp">Преобразование поля в текст</topic>
+		</node>
+		<node id="0210" title="Навигация в текстовых документах">
+<topic id="swriter/text/swriter/guide/dragdroptext.xhp">Перемещение и копирование текста в документах</topic>
+<topic id="swriter/text/swriter/guide/arrange_chapters.xhp">Изменение структуры документа с помощью навигатора</topic>
+<topic id="swriter/text/swriter/guide/hyperlinks.xhp">Вставка гиперссылок с помощью навигатора</topic>
+<topic id="swriter/text/swriter/guide/navigator.xhp">Навигатор для текстовых документов</topic>
+		</node>
+		<node id="0211" title="Вычисления в текстовых документах">
+<topic id="swriter/text/swriter/guide/calculate_multitable.xhp">Вычисления по нескольким таблицам</topic>
+<topic id="swriter/text/swriter/guide/calculate.xhp">Вычисления в текстовых документах</topic>
+<topic id="swriter/text/swriter/guide/calculate_clipboard.xhp">Вычисление формулы и вставка результата в текстовый документ</topic>
+<topic id="swriter/text/swriter/guide/calculate_intable.xhp">Вычисление сумм для ячеек в таблицах</topic>
+<topic id="swriter/text/swriter/guide/calculate_intext.xhp">Вычисления по сложным формулам в текстовых документах</topic>
+<topic id="swriter/text/swriter/guide/calculate_intext2.xhp">Отображение результатов вычисления в другой таблице</topic>
+		</node>
+		<node id="0212" title="Форматирование текстовых документов">
+			<node id="021201" title="Шаблоны и стили">
+<topic id="swriter/text/swriter/guide/templates_styles.xhp">Шаблоны и стили</topic>
+<topic id="swriter/text/swriter/guide/even_odd_sdw.xhp">Чередование стилей страницы на нечетных и четных страницах</topic>
+<topic id="swriter/text/swriter/guide/change_header.xhp">Создание стиля страницы по образцу текущей страницы</topic>
+<topic id="swriter/text/swriter/guide/load_styles.xhp">Использование стилей из другого документа или шаблона</topic>
+<topic id="swriter/text/swriter/guide/stylist_fromselect.xhp">Создание новых стилей на основе выделенных фрагментов</topic>
+<topic id="swriter/text/swriter/guide/stylist_update.xhp">Обновление стилей на основе выделенных фрагментов</topic>
+<topic id="swriter/text/swriter/guide/template_create.xhp">Создание шаблона документа</topic>
+<topic id="swriter/text/swriter/guide/template_default.xhp">Изменение шаблона по умолчанию</topic>
+			</node>
+<topic id="swriter/text/swriter/guide/pageorientation.xhp">Изменение ориентации страницы (альбомная или книжная)</topic>
+<topic id="swriter/text/swriter/guide/text_capital.xhp">Изменение регистра текста</topic>
+<topic id="swriter/text/swriter/guide/hidden_text.xhp">Скрытие текста</topic>
+<topic id="swriter/text/swriter/guide/header_pagestyles.xhp">Определение разных верхних и нижних колонтитулов</topic>
+<topic id="swriter/text/swriter/guide/header_with_chapter.xhp">Вставка названия и номера главы в верхний или нижний колонтитул</topic>
+<topic id="swriter/text/swriter/guide/shortcut_writing.xhp">Применение форматирования текста при вводе</topic>
+<topic id="swriter/text/swriter/guide/reset_format.xhp">Восстановление атрибутов шрифта</topic>
+<topic id="swriter/text/swriter/guide/stylist_fillformat.xhp">Применение стилей в режиме заполнения форматов</topic>
+<topic id="swriter/text/swriter/guide/wrap.xhp">Обтекание текста вокруг объектов</topic>
+<topic id="swriter/text/swriter/guide/text_centervert.xhp">Использование рамки для выравнивания текста по центру страницы</topic>
+<topic id="swriter/text/swriter/guide/text_emphasize.xhp">Выделение текста</topic>
+<topic id="swriter/text/swriter/guide/text_rotate.xhp">Вращение текста</topic>
+<topic id="swriter/text/swriter/guide/page_break.xhp">Вставка и удаление разрывов страниц</topic>
+<topic id="swriter/text/swriter/guide/pagestyles.xhp">Создание и применение стилей страниц</topic>
+<topic id="swriter/text/swriter/guide/subscript.xhp">Преобразование текста в надстрочный или подстрочный</topic>
+		</node>
+		<node id="0213" title="Специальные элементы текста">
+<topic id="swriter/text/swriter/guide/captions.xhp">Использование названий </topic>
+<topic id="swriter/text/swriter/guide/conditional_text.xhp">Условный текст</topic>
+<topic id="swriter/text/swriter/guide/conditional_text2.xhp">Условный текст для количества страниц</topic>
+<topic id="swriter/text/swriter/guide/fields_date.xhp">Вставка фиксированного или изменяемого поля даты</topic>
+<topic id="swriter/text/swriter/guide/fields_enter.xhp">Добавление полей ввода</topic>
+<topic id="swriter/text/swriter/guide/footer_nextpage.xhp">Вставка номеров последующих страниц</topic>
+<topic id="swriter/text/swriter/guide/footer_pagenumber.xhp">Вставка номеров страниц в нижние колонтитулы</topic>
+<topic id="swriter/text/swriter/guide/hidden_text.xhp">Скрытие текста</topic>
+<topic id="swriter/text/swriter/guide/header_pagestyles.xhp">Определение разных верхних и нижних колонтитулов</topic>
+<topic id="swriter/text/swriter/guide/header_with_chapter.xhp">Вставка названия и номера главы в верхний или нижний колонтитул</topic>
+<topic id="swriter/text/swriter/guide/fields_userdata.xhp">Запросы данных пользователя в полях и условиях</topic>
+<!-- removed swriter/text/swriter/guide/fontwork.xhp -->
+<topic id="swriter/text/swriter/guide/footnote_usage.xhp">Вставка и редактирование сносок и концевых сносок</topic>
+<topic id="swriter/text/swriter/guide/footnote_with_line.xhp">Интервалы между сносками</topic>
+<topic id="swriter/text/swriter/guide/header_footer.xhp">Верхние и нижние колонтитулы</topic>
+<topic id="swriter/text/swriter/guide/header_with_line.xhp">Форматирование колонтитулов</topic>
+<topic id="swriter/text/swriter/guide/text_animation.xhp">Анимирование текста</topic>
+<topic id="swriter/text/swriter/guide/form_letters_main.xhp">Создание стандартного письма</topic>
+		</node>
+		<node id="0214" title="Автоматические функции">
+<topic id="swriter/text/swriter/guide/autocorr_except.xhp">Добавление исключений в список автозамены</topic>
+<topic id="swriter/text/swriter/guide/autotext.xhp">Использование автотекста</topic>
+<topic id="swriter/text/swriter/guide/auto_numbering.xhp">Создание нумерованных и маркированных списков при вводе</topic>
+<topic id="swriter/text/swriter/guide/auto_off.xhp">Выключение Автозамены </topic>
+<topic id="swriter/text/swriter/guide/auto_spellcheck.xhp">Автоматическая проверка орфографии</topic>
+<topic id="swriter/text/swriter/guide/number_date_conv.xhp">Включение и выключение распознавания чисел в таблицах</topic>
+<topic id="swriter/text/swriter/guide/select_language.xhp">Checking Spelling in Other Languages</topic>
+<topic id="swriter/text/swriter/guide/using_hyphen.xhp">Расстановка переносов</topic>
+		</node>
+		<node id="0215" title="Нумерация и списки">
+<topic id="swriter/text/swriter/guide/captions_numbers.xhp">Добавление номеров глав к названиям</topic>
+<topic id="swriter/text/swriter/guide/auto_numbering.xhp">Создание нумерованных и маркированных списков при вводе</topic>
+<topic id="swriter/text/swriter/guide/chapter_numbering.xhp">Структура нумерации</topic>
+<topic id="swriter/text/swriter/guide/insert_tab_innumbering.xhp">Изменение уровней структуры нумерованных и маркированных списков</topic>
+<topic id="swriter/text/swriter/guide/join_numbered_lists.xhp">Объединение нумерованных списков</topic>
+<topic id="swriter/text/swriter/guide/numbering_lines.xhp">Добавление номеров строк</topic>
+<topic id="swriter/text/swriter/guide/numbering_paras.xhp">Изменение нумерации в нумерованном списке</topic>
+<topic id="swriter/text/swriter/guide/number_sequence.xhp">Определение диапазонов нумерации</topic>
+<topic id="swriter/text/swriter/guide/using_numbered_lists2.xhp">Добавление нумерации</topic>
+<topic id="swriter/text/swriter/guide/using_numbering.xhp">Нумерация и стили нумерации</topic>
+<topic id="swriter/text/swriter/guide/using_numbered_lists.xhp">Добавление маркеров</topic>
+		</node>
+		<node id="0216" title="Проверка орфографии, тезаурус и языки">
+<topic id="swriter/text/swriter/guide/auto_spellcheck.xhp">Автоматическая проверка орфографии</topic>
+<topic id="swriter/text/swriter/guide/delete_from_dict.xhp">Удаление слов из словаря пользователя</topic>
+<topic id="swriter/text/swriter/guide/using_thesaurus.xhp">Тезаурус</topic>
+<topic id="swriter/text/swriter/guide/select_language.xhp">Checking Spelling in Other Languages</topic>
+<topic id="swriter/text/swriter/guide/spellcheck_dialog.xhp">Проверка орфографии и грамматики</topic>
+		</node>
+		<node id="0218" title="Советы по устранению неполадок">
+<topic id="swriter/text/swriter/guide/insert_beforetable.xhp">Вставка текста перед таблицей в начале страницы</topic>
+<topic id="swriter/text/swriter/guide/jump2statusbar.xhp">Переход к определенной закладке</topic>
+<topic id="swriter/text/swriter/guide/link_edit.xhp">Editing  Hyperlinks</topic>
+		</node>
+		<node id="0219" title="Загрузка, сохранение, импорт и экспорт">
+<topic id="swriter/text/swriter/guide/send2html.xhp">Сохранение текстовых документов в формате HTML</topic>
+<topic id="swriter/text/swriter/guide/textdoc_inframe.xhp">Вставка целого текстового документа</topic>
+		</node>
+		<node id="0220" title="Составные документы">
+<topic id="swriter/text/swriter/guide/globaldoc.xhp">Составные документы и вложенные документы</topic>
+		</node>
+		<node id="0221" title="Связи и ссылки">
+<topic id="swriter/text/swriter/guide/references.xhp">Вставка перекрестных ссылок</topic>
+<topic id="swriter/text/swriter/guide/hyperlinks.xhp">Вставка гиперссылок с помощью навигатора</topic>
+		</node>
+		<node id="0222" title="Печать">
+<topic id="swriter/text/swriter/guide/printer_tray.xhp">Выбор источника подачи бумаги при печати</topic>
+<topic id="swriter/text/swriter/guide/print_preview.xhp">Предварительный просмотр страницы перед печатью</topic>
+<topic id="swriter/text/swriter/guide/print_small.xhp">Печать нескольких страниц на одном листе</topic>
+<topic id="swriter/text/swriter/guide/pagestyles.xhp">Создание и применение стилей страниц</topic>
+		</node>
+		<node id="0223" title="Поиск и замена">
+<topic id="swriter/text/swriter/guide/search_regexp.xhp">Использование подстановочных знаков при поиске текста</topic>
+<topic id="shared/text/shared/01/02100001.xhp">Список регулярных выражений</topic>
+		</node>
+	</help_section>
+	<help_section application="swriter" id="06" title="Документы HTML">
+<topic id="shared/text/shared/07/09000000.xhp">Веб-страницы</topic>
+<topic id="shared/text/shared/02/01170700.xhp">Фильтры и формы HTML</topic>
+<topic id="swriter/text/swriter/guide/send2html.xhp">Сохранение текстовых документов в формате HTML</topic>
+	</help_section>
+</tree_view>

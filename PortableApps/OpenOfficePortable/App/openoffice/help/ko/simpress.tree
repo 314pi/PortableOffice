@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+<tree_view version="24-Aug-2004">
+	<help_section application="simpress" id="04" title="프레젠테이션 및 그리기">
+		<node id="0401" title="일반 정보 및 사용자 인터페이스 사용법">
+<topic id="simpress/text/simpress/main0000.xhp">%PRODUCTNAME Impress 도움말 시작</topic>
+<topic id="sdraw/text/sdraw/main0000.xhp">%PRODUCTNAME Draw 도움말 시작</topic>
+<topic id="simpress/text/simpress/main0503.xhp">%PRODUCTNAME Impress의 기능</topic>
+<topic id="sdraw/text/sdraw/main0503.xhp">%PRODUCTNAME Draw의 기능</topic>
+<topic id="simpress/text/simpress/guide/keyboard.xhp">%PRODUCTNAME Impress에서 단축키 사용</topic>
+<topic id="sdraw/text/sdraw/guide/keyboard.xhp">그리기 개체 단축키</topic>
+<topic id="simpress/text/simpress/04/01020000.xhp">%PRODUCTNAME Impress 단축키</topic>
+<topic id="sdraw/text/sdraw/04/01020000.xhp">그리기 단축키</topic>
+<topic id="simpress/text/simpress/guide/main.xhp">%PRODUCTNAME Impress 사용에 대한 참고 사항</topic>
+<topic id="sdraw/text/sdraw/guide/main.xhp">%PRODUCTNAME Draw 사용에 대한 참고 사항</topic>
+		</node>
+		<node id="0402" title="명령 및 메뉴 참조">
+			<node id="040201" title="프레젠테이션(%PRODUCTNAME Impress)">
+				<node id="04020101" title="메뉴">
+<topic id="simpress/text/simpress/main0100.xhp">메뉴</topic>
+<topic id="simpress/text/simpress/main0101.xhp">파일</topic>
+<topic id="simpress/text/simpress/main0102.xhp">편집</topic>
+<topic id="simpress/text/simpress/main0103.xhp">보기</topic>
+<topic id="simpress/text/simpress/main0104.xhp">삽입</topic>
+<topic id="simpress/text/simpress/main0105.xhp">서식</topic>
+<topic id="simpress/text/simpress/main0106.xhp">도구</topic>
+<topic id="simpress/text/simpress/main0107.xhp">창</topic>
+<topic id="simpress/text/simpress/main0114.xhp">슬라이드 쇼</topic>
+				</node>
+				<node id="04020102" title="도구 모음">
+<topic id="simpress/text/simpress/main0200.xhp">도구 모음</topic>
+<topic id="simpress/text/simpress/main0202.xhp">선 및 채우기 도구 모음</topic>
+<topic id="simpress/text/simpress/main0203.xhp">텍스트 서식 도구 모음</topic>
+<topic id="simpress/text/simpress/main0204.xhp">슬라이드 보기의 개체 모음</topic>
+<topic id="simpress/text/simpress/main0206.xhp">상태 표시줄</topic>
+<topic id="simpress/text/simpress/main0209.xhp">눈금자</topic>
+<topic id="simpress/text/simpress/main0210.xhp">그리기 도구 모음</topic>
+<topic id="simpress/text/simpress/main0211.xhp">개요 도구 모음</topic>
+<topic id="simpress/text/simpress/main0212.xhp">여러 슬라이드 도구 모음</topic>
+<topic id="simpress/text/simpress/main0213.xhp">옵션 모음</topic>
+<topic id="simpress/text/simpress/main0214.xhp">그림 도구 모음</topic>
+<topic id="shared/text/shared/main0201.xhp">표준 도구 모음</topic>
+<topic id="shared/text/shared/main0209.xhp">하이퍼링크 도구 모음</topic>
+<topic id="shared/text/shared/main0213.xhp">양식 도구 모음</topic>
+<topic id="shared/text/shared/main0226.xhp">양식 디자인 도구 모음</topic>
+<topic id="shared/text/shared/main0227.xhp">점 편집 도구 모음</topic>
+				</node>
+			</node>
+			<node id="040202" title="그리기(%PRODUCTNAME Draw)">
+				<node id="04020201" title="메뉴">
+<topic id="sdraw/text/sdraw/main0100.xhp">메뉴</topic>
+<topic id="sdraw/text/sdraw/main0101.xhp">파일</topic>
+<topic id="sdraw/text/sdraw/main0102.xhp">편집</topic>
+<topic id="sdraw/text/sdraw/main0103.xhp">보기</topic>
+<topic id="sdraw/text/sdraw/main0104.xhp">삽입</topic>
+<topic id="sdraw/text/sdraw/main0105.xhp">서식</topic>
+<topic id="sdraw/text/sdraw/main0106.xhp">도구</topic>
+<topic id="simpress/text/simpress/main0113.xhp">수정</topic>
+				</node>
+				<node id="04020202" title="도구 모음">
+<topic id="sdraw/text/sdraw/main0200.xhp">도구 모음</topic>
+<topic id="sdraw/text/sdraw/main0210.xhp">그리기 도구 모음</topic>
+<topic id="sdraw/text/sdraw/main0213.xhp">옵션 모음</topic>
+<topic id="shared/text/shared/main0201.xhp">표준 도구 모음</topic>
+<topic id="shared/text/shared/main0209.xhp">하이퍼링크 도구 모음</topic>
+<topic id="shared/text/shared/main0213.xhp">양식 도구 모음</topic>
+<topic id="shared/text/shared/main0226.xhp">양식 디자인 도구 모음</topic>
+<topic id="shared/text/shared/main0227.xhp">점 편집 도구 모음</topic>
+				</node>
+			</node>
+		</node>
+		<node id="0403" title="로드, 저장, 가져오기 및 내보내기">
+<topic id="simpress/text/simpress/guide/html_export.xhp">HTML 형식으로 프레젠테이션 저장</topic>
+<topic id="simpress/text/simpress/guide/html_import.xhp">HTML 페이지를 프레젠테이션으로 가져오기</topic>
+<topic id="simpress/text/simpress/guide/palette_files.xhp">색상, 그라디언트 및 해칭 목록 로드</topic>
+<topic id="simpress/text/simpress/guide/animated_gif_save.xhp">애니메이션을 GIF 형식으로 내보내기</topic>
+<topic id="simpress/text/simpress/guide/table_insert.xhp">슬라이드에 스프레드시트 포함</topic>
+<topic id="sdraw/text/sdraw/guide/graphic_insert.xhp">그림 삽입</topic>
+<topic id="simpress/text/simpress/guide/page_copy.xhp">다른 프레젠테이션의 슬라이드 복사</topic>
+		</node>
+		<node id="0404" title="서식 설정">
+<topic id="simpress/text/simpress/guide/palette_files.xhp">색상, 그라디언트 및 해칭 목록 로드</topic>
+<topic id="simpress/text/simpress/guide/line_arrow_styles.xhp">선 및 화살표 스타일 로드</topic>
+<topic id="sdraw/text/sdraw/guide/color_define.xhp">사용자 정의 색상 지정</topic>
+<topic id="sdraw/text/sdraw/guide/gradient.xhp">그라디언트 채우기 만들기</topic>
+<topic id="sdraw/text/sdraw/guide/eyedropper.xhp">색상 바꾸기</topic>
+<topic id="sdraw/text/sdraw/guide/align_arrange.xhp">개체 배치, 맞춤 및 배포</topic>
+<topic id="simpress/text/simpress/guide/background.xhp">슬라이드 배경 채우기 변경</topic>
+<topic id="simpress/text/simpress/guide/footer.xhp">모든 슬라이드에 머리글 또는 바닥글 추가</topic>
+<topic id="simpress/text/simpress/guide/masterpage.xhp">슬라이드 마스터에 슬라이드 디자인 적용</topic>
+<topic id="simpress/text/simpress/guide/move_object.xhp">개체 이동</topic>
+		</node>
+		<node id="0405" title="인쇄">
+<topic id="simpress/text/simpress/guide/printing.xhp">프레젠테이션 인쇄</topic>
+<topic id="simpress/text/simpress/guide/print_tofit.xhp">슬라이드를 용지 크기에 맞게 인쇄</topic>
+		</node>
+		<node id="0406" title="효과">
+<topic id="simpress/text/simpress/guide/animated_gif_save.xhp">애니메이션을 GIF 형식으로 내보내기</topic>
+<topic id="simpress/text/simpress/guide/animated_objects.xhp">프레젠테이션 슬라이드의 개체 애니메이션</topic>
+<topic id="simpress/text/simpress/guide/animated_slidechange.xhp">슬라이드 전환 애니메이션</topic>
+<topic id="sdraw/text/sdraw/guide/cross_fading.xhp">두 개체 교차 페이드</topic>
+<topic id="simpress/text/simpress/guide/animated_gif_create.xhp">애니메이션된 GIF 이미지 만들기</topic>
+		</node>
+		<node id="0407" title="개체, 그림 및 비트맵">
+<topic id="sdraw/text/sdraw/guide/combine_etc.xhp">개체 결합 및 도형 생성</topic>
+<topic id="sdraw/text/sdraw/guide/draw_sector.xhp">부채꼴 및 세그먼트 그리기</topic>
+<topic id="sdraw/text/sdraw/guide/duplicate_object.xhp">개체 복제</topic>
+<topic id="sdraw/text/sdraw/guide/rotate_object.xhp">개체 회전</topic>
+<topic id="sdraw/text/sdraw/guide/join_objects3d.xhp">3D 개체 결합</topic>
+<topic id="sdraw/text/sdraw/guide/join_objects.xhp">선 연결</topic>
+<topic id="simpress/text/simpress/guide/text2curve.xhp">텍스트 문자를 그리기 개체로 변환</topic>
+<topic id="simpress/text/simpress/guide/vectorize.xhp">비트맵 이미지를 벡터 그림으로 변환</topic>
+<topic id="simpress/text/simpress/guide/3d_create.xhp">2D 개체를 곡선, 다각형 및 3D 개체로 변환</topic>
+<topic id="simpress/text/simpress/guide/line_arrow_styles.xhp">선 및 화살표 스타일 로드</topic>
+<topic id="simpress/text/simpress/guide/line_draw.xhp">곡선 그리기</topic>
+<topic id="simpress/text/simpress/guide/line_edit.xhp">곡선 편집</topic>
+<topic id="sdraw/text/sdraw/guide/graphic_insert.xhp">그림 삽입</topic>
+<topic id="simpress/text/simpress/guide/table_insert.xhp">슬라이드에 스프레드시트 포함</topic>
+<topic id="simpress/text/simpress/guide/move_object.xhp">개체 이동</topic>
+<topic id="simpress/text/simpress/guide/select_object.xhp">아래에 있는 개체 선택</topic>
+<topic id="simpress/text/simpress/guide/orgchart.xhp">순서도 만들기</topic>
+		</node>
+		<node id="0408" title="그룹 및 계층">
+<topic id="sdraw/text/sdraw/guide/groups.xhp">그룹화 개체</topic>
+<topic id="simpress/text/simpress/guide/layers.xhp">계층 정보</topic>
+<topic id="simpress/text/simpress/guide/layer_new.xhp">계층 삽입</topic>
+<topic id="simpress/text/simpress/guide/layer_tipps.xhp">계층 작업</topic>
+<topic id="simpress/text/simpress/guide/layer_move.xhp">개체를 다른 계층으로 이동</topic>
+		</node>
+		<node id="0409" title="프레젠테이션 및 그리기의 텍스트">
+<!-- removed sdraw/text/sdraw/guide/text_3d.xhp -->
+<!-- removed sdraw/text/sdraw/guide/text_to_bitmap.xhp -->
+<topic id="sdraw/text/sdraw/guide/text_enter.xhp">텍스트 추가</topic>
+<topic id="simpress/text/simpress/guide/text2curve.xhp">텍스트 문자를 그리기 개체로 변환</topic>
+		</node>
+		<node id="0410" title="보기">
+<topic id="simpress/text/simpress/guide/individual.xhp">사용자 정의 슬라이드 쇼 만들기</topic>
+<topic id="simpress/text/simpress/guide/arrange_slides.xhp">슬라이드 순서 변경</topic>
+<topic id="simpress/text/simpress/guide/change_scale.xhp">키패드를 사용하여 확대/축소</topic>
+<!-- removed simpress/text/simpress/guide/livemode.xhp -->
+<topic id="simpress/text/simpress/guide/rehearse_timings.xhp">슬라이드 변경 예행 연습</topic>
+		</node>
+	</help_section>
+</tree_view>

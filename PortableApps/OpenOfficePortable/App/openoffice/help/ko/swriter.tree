@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+<tree_view version="24-Aug-2004">
+	<help_section application="swriter" id="02" title="텍스트 문서">
+		<node id="0201" title="일반 정보 및 사용자 인터페이스 사용법">
+<topic id="swriter/text/swriter/main0000.xhp">%PRODUCTNAME Writer 도움말에 오신 것을 환영합니다.</topic>
+<topic id="swriter/text/swriter/main0503.xhp">%PRODUCTNAME Writer 기능</topic>
+<topic id="swriter/text/swriter/guide/main.xhp">%PRODUCTNAME Writer 사용 지침</topic>
+<topic id="swriter/text/swriter/guide/resize_navigator.xhp">창 고정 및 크기 변경</topic>
+<topic id="swriter/text/swriter/04/01020000.xhp">%PRODUCTNAME Writer 단축키</topic>
+<topic id="swriter/text/swriter/guide/words_count.xhp">단어 세기</topic>
+<topic id="swriter/text/swriter/guide/keyboard.xhp">단축키 사용(%PRODUCTNAME Writer 내게 필요한 옵션)</topic>
+		</node>
+		<node id="0202" title="명령 및 메뉴 참조">
+			<node id="020201" title="메뉴">
+<topic id="swriter/text/swriter/main0100.xhp">메뉴</topic>
+<topic id="swriter/text/swriter/main0101.xhp">파일</topic>
+<topic id="swriter/text/swriter/main0102.xhp">편집</topic>
+<topic id="swriter/text/swriter/main0103.xhp">보기</topic>
+<topic id="swriter/text/swriter/main0104.xhp">삽입</topic>
+<topic id="swriter/text/swriter/main0105.xhp">형식</topic>
+<topic id="swriter/text/swriter/main0106.xhp">도구</topic>
+<topic id="swriter/text/swriter/main0107.xhp">창</topic>
+			</node>
+			<node id="020202" title="도구 모음">
+<topic id="swriter/text/swriter/main0200.xhp">도구모음</topic>
+<topic id="swriter/text/swriter/main0202.xhp">서식 설정 도구 모음</topic>
+<topic id="swriter/text/swriter/main0203.xhp">그림 도구 모음</topic>
+<topic id="swriter/text/swriter/main0204.xhp">표 도구 모음</topic>
+<topic id="swriter/text/swriter/main0205.xhp">그리기 개체 속성 모음</topic>
+<topic id="swriter/text/swriter/main0206.xhp">글머리 기호 및 번호 매기기</topic>
+<topic id="swriter/text/swriter/main0208.xhp">상태 표시줄</topic>
+<topic id="swriter/text/swriter/main0210.xhp">페이지 미리보기</topic>
+<topic id="swriter/text/swriter/main0213.xhp">눈금자</topic>
+<topic id="swriter/text/swriter/main0214.xhp">수식 도구 모음</topic>
+<topic id="swriter/text/swriter/main0215.xhp">프레임 도구 모음</topic>
+<topic id="swriter/text/swriter/main0216.xhp">OLE-개체 도구 모음</topic>
+<topic id="swriter/text/swriter/main0220.xhp">텍스트 개체 도구 모음</topic>
+<topic id="shared/text/shared/main0201.xhp">표준 도구 모음</topic>
+<topic id="shared/text/shared/main0209.xhp">하이퍼링크 도구 모음</topic>
+<topic id="shared/text/shared/main0212.xhp">표 데이터 도구 모음</topic>
+<topic id="shared/text/shared/main0213.xhp">양식 도구 모음</topic>
+<topic id="shared/text/shared/main0214.xhp">쿼리 디자인 도구 모음</topic>
+<topic id="shared/text/shared/main0226.xhp">양식 디자인 도구 모음</topic>
+
+
+			</node>
+		</node>
+		<node id="0203" title="텍스트 문서 만들기">
+<topic id="swriter/text/swriter/guide/text_nav_keyb.xhp">키보드를 통한 탐색과 선택</topic>
+<topic id="swriter/text/swriter/guide/text_direct_cursor.xhp">직접 조정 커서 사용</topic>
+		</node>
+		<node id="0204" title="텍스트 문서의 그림">
+<topic id="swriter/text/swriter/guide/insert_graphic.xhp">그래픽 삽입</topic>
+<topic id="swriter/text/swriter/guide/insert_graphic_dialog.xhp">파일에서 그림 삽입</topic>
+<topic id="swriter/text/swriter/guide/insert_graphic_gallery.xhp">갤러리에서 그림 끌어서 놓기로 삽입</topic>
+<topic id="swriter/text/swriter/guide/insert_graphic_scan.xhp">스캔한 이미지 삽입</topic>
+<topic id="swriter/text/swriter/guide/insert_graphic_fromchart.xhp">Clac 차트를 텍스트 문서에 삽입</topic>
+<topic id="swriter/text/swriter/guide/insert_graphic_fromdraw.xhp">%PRODUCTNAME Draw나 Impress의 그래픽 삽입</topic>
+<topic id="swriter/text/swriter/guide/insert_line.xhp">가로선 삽입</topic>
+		</node>
+		<node id="0205" title="텍스트 문서의 표">
+<topic id="swriter/text/swriter/guide/number_date_conv.xhp">표에서 숫자 인식 적용 또는 해제</topic>
+<topic id="swriter/text/swriter/guide/tablemode.xhp">키보드로 행과 열 수정</topic>
+<topic id="swriter/text/swriter/guide/table_delete.xhp">표 또는 표의 내용 삭제</topic>
+<topic id="swriter/text/swriter/guide/table_insert.xhp">표 삽입</topic>
+<topic id="swriter/text/swriter/guide/table_repeat_multiple_headers.xhp">새 페이지에서 표 머리글 반복</topic>
+<topic id="swriter/text/swriter/guide/table_sizing.xhp">텍스트 표에서 행 및 열의 크기 변경</topic>
+<topic id="swriter/text/swriter/guide/table_cells.xhp">키보드를 사용하여 표에 행이나 열 추가 또는 삭제</topic>
+		</node>
+		<node id="0206" title="텍스트 문서의 개체">
+<topic id="swriter/text/swriter/guide/anchor_object.xhp">개체 위치 지정</topic>
+<topic id="swriter/text/swriter/guide/wrap.xhp">개체 주위에 텍스트 배치</topic>
+		</node>
+		<node id="0207" title="텍스트 문서의 구역 및 프레임">
+<topic id="swriter/text/swriter/guide/sections.xhp">구역 사용</topic>
+<topic id="swriter/text/swriter/guide/text_frame.xhp">텍스트 프레임 삽입, 편집 및 연결</topic>
+<topic id="swriter/text/swriter/guide/section_edit.xhp">구역 편집</topic>
+<topic id="swriter/text/swriter/guide/section_insert.xhp">구역 삽입</topic>
+		</node>
+		<node id="0208" title="목차와 색인">
+<topic id="swriter/text/swriter/guide/chapter_numbering.xhp">개요 번호 매기기</topic>
+<topic id="swriter/text/swriter/guide/indices_userdef.xhp">사용자 정의 색인</topic>
+<topic id="swriter/text/swriter/guide/indices_toc.xhp">목차 만들기</topic>
+<topic id="swriter/text/swriter/guide/indices_index.xhp">사전순 색인 만들기</topic>
+<topic id="swriter/text/swriter/guide/indices_multidoc.xhp">여러 문서를 다루는 색인</topic>
+<topic id="swriter/text/swriter/guide/indices_literature.xhp">참고 문헌 만들기</topic>
+<topic id="swriter/text/swriter/guide/indices_delete.xhp">색인 및 목차 항목 편집 또는 삭제</topic>
+<topic id="swriter/text/swriter/guide/indices_edit.xhp">색인 및 목차 업데이트, 편집 및 삭제</topic>
+<topic id="swriter/text/swriter/guide/indices_enter.xhp">색인 또는 목차 항목 지정</topic>
+<topic id="swriter/text/swriter/guide/indices_form.xhp">색인이나 목차 서식 설정</topic>
+		</node>
+		<node id="0209" title="텍스트 문서의 필드">
+<topic id="swriter/text/swriter/guide/fields.xhp">필드 정보</topic>
+<topic id="swriter/text/swriter/guide/fields_date.xhp">고정 날짜 또는 가변 날짜 필드 삽입</topic>
+<topic id="swriter/text/swriter/guide/field_convert.xhp">필드를 텍스트로 변환</topic>
+		</node>
+		<node id="0210" title="텍스트 문서 탐색">
+<topic id="swriter/text/swriter/guide/dragdroptext.xhp">문서의 텍스트 이동 및 복사</topic>
+<topic id="swriter/text/swriter/guide/arrange_chapters.xhp">네비게이터를 사용하여 문서 다시 배치</topic>
+<topic id="swriter/text/swriter/guide/hyperlinks.xhp">네비게이터를 사용하여 하이퍼링크 삽입</topic>
+<topic id="swriter/text/swriter/guide/navigator.xhp">텍스트 문서용 네비게이터</topic>
+		</node>
+		<node id="0211" title="텍스트 문서에서 계산">
+<topic id="swriter/text/swriter/guide/calculate_multitable.xhp">여러 표에서 계산</topic>
+<topic id="swriter/text/swriter/guide/calculate.xhp">텍스트 문서에서의 계산</topic>
+<topic id="swriter/text/swriter/guide/calculate_clipboard.xhp">텍스트 문서에서 수식의 결과 계산 및 붙여넣기</topic>
+<topic id="swriter/text/swriter/guide/calculate_intable.xhp">표의 셀 합계 계산</topic>
+<topic id="swriter/text/swriter/guide/calculate_intext.xhp">텍스트 문서의 복잡한 수식 계산</topic>
+<topic id="swriter/text/swriter/guide/calculate_intext2.xhp">표 계산 결과를 다른 표에 표시</topic>
+		</node>
+		<node id="0212" title="텍스트 문서 서식 설정">
+			<node id="021201" title="서식 파일 및 문서">
+<topic id="swriter/text/swriter/guide/templates_styles.xhp">서식 파일 및 스타일</topic>
+<topic id="swriter/text/swriter/guide/even_odd_sdw.xhp">짝수와 홀수 페이지에서 페이지 스타일 전환</topic>
+<topic id="swriter/text/swriter/guide/change_header.xhp">현재 페이지에 기초하여 페이지 스타일 만들기</topic>
+<topic id="swriter/text/swriter/guide/load_styles.xhp">다른 문서 또는 서식 파일의 스타일 사용</topic>
+<topic id="swriter/text/swriter/guide/stylist_fromselect.xhp">선택 스타일로부터 새로 만들기</topic>
+<topic id="swriter/text/swriter/guide/stylist_update.xhp">선택한 스타일로부터 업데이트</topic>
+<topic id="swriter/text/swriter/guide/template_create.xhp">문서 서식 파일 만들기</topic>
+<topic id="swriter/text/swriter/guide/template_default.xhp">기본 서식 파일 변경</topic>
+			</node>
+<topic id="swriter/text/swriter/guide/pageorientation.xhp">페이지 방향 변경(가로 또는 세로)</topic>
+<topic id="swriter/text/swriter/guide/text_capital.xhp">텍스트의 대/소문자 변경</topic>
+<topic id="swriter/text/swriter/guide/hidden_text.xhp">텍스트 숨기기</topic>
+<topic id="swriter/text/swriter/guide/header_pagestyles.xhp">다양한 머리글과 바닥글 지정</topic>
+<topic id="swriter/text/swriter/guide/header_with_chapter.xhp">머리글이나 바닥글에 장 이름과 번호 삽입</topic>
+<topic id="swriter/text/swriter/guide/shortcut_writing.xhp">입력하는 동안 텍스트 서식 적용</topic>
+<topic id="swriter/text/swriter/guide/reset_format.xhp">글꼴 속성 다시 설정</topic>
+<topic id="swriter/text/swriter/guide/stylist_fillformat.xhp">채우기 모드에서 스타일 적용</topic>
+<topic id="swriter/text/swriter/guide/wrap.xhp">개체 주위에 텍스트 배치</topic>
+<topic id="swriter/text/swriter/guide/text_centervert.xhp">프레임을 사용하여 페이지 가운데에 텍스트 맞추기</topic>
+<topic id="swriter/text/swriter/guide/text_emphasize.xhp">텍스트 강조</topic>
+<topic id="swriter/text/swriter/guide/text_rotate.xhp">텍스트 회전</topic>
+<topic id="swriter/text/swriter/guide/page_break.xhp">페이지 나누기 삽입 및 삭제</topic>
+<topic id="swriter/text/swriter/guide/pagestyles.xhp">페이지 스타일 만들기 및 적용</topic>
+<topic id="swriter/text/swriter/guide/subscript.xhp">텍스트를 위 첨자 또는 아래 첨자로 만들기</topic>
+		</node>
+		<node id="0213" title="특수 텍스트 요소">
+<topic id="swriter/text/swriter/guide/captions.xhp">캡션 사용</topic>
+<topic id="swriter/text/swriter/guide/conditional_text.xhp">조건부 텍스트</topic>
+<topic id="swriter/text/swriter/guide/conditional_text2.xhp">페이지 수에 대한 조건부 텍스트</topic>
+<topic id="swriter/text/swriter/guide/fields_date.xhp">고정 날짜 또는 가변 날짜 필드 삽입</topic>
+<topic id="swriter/text/swriter/guide/fields_enter.xhp">입력 필드 추가</topic>
+<topic id="swriter/text/swriter/guide/footer_nextpage.xhp">다음 페이지의 페이지 번호 삽입</topic>
+<topic id="swriter/text/swriter/guide/footer_pagenumber.xhp">바닥글에 페이지 번호 삽입</topic>
+<topic id="swriter/text/swriter/guide/hidden_text.xhp">텍스트 숨기기</topic>
+<topic id="swriter/text/swriter/guide/header_pagestyles.xhp">다양한 머리글과 바닥글 지정</topic>
+<topic id="swriter/text/swriter/guide/header_with_chapter.xhp">머리글이나 바닥글에 장 이름과 번호 삽입</topic>
+<topic id="swriter/text/swriter/guide/fields_userdata.xhp">필드 또는 조건에서 사용자 데이터 쿼리</topic>
+<!-- removed swriter/text/swriter/guide/fontwork.xhp -->
+<topic id="swriter/text/swriter/guide/footnote_usage.xhp">각주/미주 삽입 및 편집</topic>
+<topic id="swriter/text/swriter/guide/footnote_with_line.xhp">각주 사이의 간격</topic>
+<topic id="swriter/text/swriter/guide/header_footer.xhp">머리글 및 바닥글 정보</topic>
+<topic id="swriter/text/swriter/guide/header_with_line.xhp">머리글이나 바닥글의 서식 설정</topic>
+<topic id="swriter/text/swriter/guide/text_animation.xhp">텍스트 애니메이션 적용</topic>
+<topic id="swriter/text/swriter/guide/form_letters_main.xhp">편지 양식 만들기</topic>
+		</node>
+		<node id="0214" title="자동 기능">
+<topic id="swriter/text/swriter/guide/autocorr_except.xhp">자동 고침 목록에 예외 추가</topic>
+<topic id="swriter/text/swriter/guide/autotext.xhp">자동 텍스트 사용</topic>
+<topic id="swriter/text/swriter/guide/auto_numbering.xhp">입력 시 번호 매기기 또는 글머리 기호 목록 만들기</topic>
+<topic id="swriter/text/swriter/guide/auto_off.xhp">자동 고침 해제</topic>
+<topic id="swriter/text/swriter/guide/auto_spellcheck.xhp">자동 맞춤법 검사</topic>
+<topic id="swriter/text/swriter/guide/number_date_conv.xhp">표에서 숫자 인식 적용 또는 해제</topic>
+<topic id="swriter/text/swriter/guide/select_language.xhp">Checking Spelling in Other Languages</topic>
+<topic id="swriter/text/swriter/guide/using_hyphen.xhp">하이픈 넣기</topic>
+		</node>
+		<node id="0215" title="번호 매기기 및 목록">
+<topic id="swriter/text/swriter/guide/captions_numbers.xhp">장 번호를 캡션에 추가</topic>
+<topic id="swriter/text/swriter/guide/auto_numbering.xhp">입력 시 번호 매기기 또는 글머리 기호 목록 만들기</topic>
+<topic id="swriter/text/swriter/guide/chapter_numbering.xhp">개요 번호 매기기</topic>
+<topic id="swriter/text/swriter/guide/insert_tab_innumbering.xhp">번호 매기기와 글머리 기호 목록의 개요 수준 변경</topic>
+<topic id="swriter/text/swriter/guide/join_numbered_lists.xhp">번호 매기기 목록 결합</topic>
+<topic id="swriter/text/swriter/guide/numbering_lines.xhp">줄 번호 추가</topic>
+<topic id="swriter/text/swriter/guide/numbering_paras.xhp">번호 매기기 목록에서 번호 매기기 수정</topic>
+<topic id="swriter/text/swriter/guide/number_sequence.xhp">번호 범위 정의</topic>
+<topic id="swriter/text/swriter/guide/using_numbered_lists2.xhp">번호 매기기 추가</topic>
+<topic id="swriter/text/swriter/guide/using_numbering.xhp">번호 매기기와 번호 매기기 스타일</topic>
+<topic id="swriter/text/swriter/guide/using_numbered_lists.xhp">글머리 기호 추가</topic>
+		</node>
+		<node id="0216" title="맞춤법 검사, 동의어 사전 및 언어">
+<topic id="swriter/text/swriter/guide/auto_spellcheck.xhp">자동 맞춤법 검사</topic>
+<topic id="swriter/text/swriter/guide/delete_from_dict.xhp">사용자 정의 사전에서 단어 제거</topic>
+<topic id="swriter/text/swriter/guide/using_thesaurus.xhp">동의어 사전</topic>
+<topic id="swriter/text/swriter/guide/select_language.xhp">Checking Spelling in Other Languages</topic>
+<topic id="swriter/text/swriter/guide/spellcheck_dialog.xhp">맞춤법 및 문법 검사</topic>
+		</node>
+		<node id="0218" title="문제 해결 팁">
+<topic id="swriter/text/swriter/guide/insert_beforetable.xhp">페이지 맨 위의 표 앞에 텍스트 삽입</topic>
+<topic id="swriter/text/swriter/guide/jump2statusbar.xhp">특정 책갈피로 이동</topic>
+<topic id="swriter/text/swriter/guide/link_edit.xhp">Editing  Hyperlinks</topic>
+		</node>
+		<node id="0219" title="로드, 저장, 가져오기 및 내보내기">
+<topic id="swriter/text/swriter/guide/send2html.xhp">HTML 서식으로 텍스트 문서 저장</topic>
+<topic id="swriter/text/swriter/guide/textdoc_inframe.xhp">전체 텍스트 문서 삽입</topic>
+		</node>
+		<node id="0220" title="마스터 문서">
+<topic id="swriter/text/swriter/guide/globaldoc.xhp">마스터 문서 및 하위 문서</topic>
+		</node>
+		<node id="0221" title="링크 및 참조">
+<topic id="swriter/text/swriter/guide/references.xhp">상호 참조 삽입</topic>
+<topic id="swriter/text/swriter/guide/hyperlinks.xhp">네비게이터를 사용하여 하이퍼링크 삽입</topic>
+		</node>
+		<node id="0222" title="인쇄">
+<topic id="swriter/text/swriter/guide/printer_tray.xhp">프린터 용지 공급함 선택</topic>
+<topic id="swriter/text/swriter/guide/print_preview.xhp">인쇄 전 페이지 미리 보기</topic>
+<topic id="swriter/text/swriter/guide/print_small.xhp">시트 하나에 여러 페이지 인쇄</topic>
+<topic id="swriter/text/swriter/guide/pagestyles.xhp">페이지 스타일 만들기 및 적용</topic>
+		</node>
+		<node id="0223" title="찾기 및 바꾸기">
+<topic id="swriter/text/swriter/guide/search_regexp.xhp">텍스트 검색 시 와일드카드 사용</topic>
+<topic id="shared/text/shared/01/02100001.xhp">정규식 목록</topic>
+		</node>
+	</help_section>
+	<help_section application="swriter" id="06" title="HTML 문서">
+<topic id="shared/text/shared/07/09000000.xhp">웹 페이지</topic>
+<topic id="shared/text/shared/02/01170700.xhp">HTML 필터 및 양식</topic>
+<topic id="swriter/text/swriter/guide/send2html.xhp">HTML 서식으로 텍스트 문서 저장</topic>
+	</help_section>
+</tree_view>

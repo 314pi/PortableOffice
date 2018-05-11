@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+<tree_view version="24-Aug-2004">
+	<help_section application="sbasic" id="07" title="Макросы и программирование">
+		<node id="0701" title="Общие сведения и использование пользовательского интерфейса">
+<topic id="sbasic/text/sbasic/shared/main0601.xhp">Справка по %PRODUCTNAME Basic</topic>
+<topic id="sbasic/text/sbasic/shared/01000000.xhp">Программирование с помощью %PRODUCTNAME Basic </topic>
+<topic id="sbasic/text/sbasic/shared/00000002.xhp">Глоссарий %PRODUCTNAME Basic</topic>
+<topic id="sbasic/text/sbasic/shared/01010210.xhp">Основы</topic>
+<topic id="sbasic/text/sbasic/shared/01020000.xhp">Синтаксис</topic>
+<topic id="sbasic/text/sbasic/shared/01050000.xhp">%PRODUCTNAME Basic IDE</topic>
+<topic id="sbasic/text/sbasic/shared/01030100.xhp">Общее представление об IDE</topic>
+<topic id="sbasic/text/sbasic/shared/01030200.xhp">Редактор Basic</topic>
+<topic id="sbasic/text/sbasic/shared/01050100.xhp">Окно "Контрольное значение"</topic>
+<topic id="sbasic/text/sbasic/shared/main0211.xhp">Панель макроса</topic>
+<topic id="sbasic/text/sbasic/shared/05060700.xhp">Макрос</topic>
+		</node>
+		<node id="0702" title="Справочник команд">
+<topic id="sbasic/text/sbasic/shared/01020300.xhp">Использование процедур и функций</topic>
+<topic id="sbasic/text/sbasic/shared/01020500.xhp">Библиотеки, модули и диалоговые окна</topic>
+			<node id="070202" title="Функции, инструкции и операторы времени выполнения">
+<topic id="sbasic/text/sbasic/shared/03010000.xhp">Функции экранного ввода/вывода</topic>
+<topic id="sbasic/text/sbasic/shared/03020000.xhp">Функции файлового ввода/вывода</topic>
+<topic id="sbasic/text/sbasic/shared/03030000.xhp">Функции даты и времени</topic>
+<topic id="sbasic/text/sbasic/shared/03050000.xhp">Функции обработки ошибок</topic>
+<topic id="sbasic/text/sbasic/shared/03060000.xhp">Логические операторы</topic>
+<topic id="sbasic/text/sbasic/shared/03070000.xhp">Математические операторы</topic>
+<topic id="sbasic/text/sbasic/shared/03080000.xhp">Числовые функции</topic>
+<topic id="sbasic/text/sbasic/shared/03090000.xhp">Управление выполнением программы</topic>
+<topic id="sbasic/text/sbasic/shared/03100000.xhp">Переменные</topic>
+<topic id="sbasic/text/sbasic/shared/03110000.xhp">Операторы сравнения</topic>
+<topic id="sbasic/text/sbasic/shared/03120000.xhp">Строки</topic>
+<topic id="sbasic/text/sbasic/shared/03130000.xhp">Другие команды</topic>
+			</node>
+			<node id="070201" title="Алфавитный список функций, инструкций и операторов">
+<topic id="sbasic/text/sbasic/shared/03080601.xhp">Функция Abs [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03060100.xhp">Оператор AND [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03104200.xhp">Функция Array [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03120101.xhp">Функция Asc [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03080101.xhp">Функция Atn [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03130100.xhp">Инструкция Beep [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03010301.xhp">Функция Blue [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03100100.xhp">Функция CBool [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03120105.xhp">Функция CByte [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03030108.xhp">Функция CDateFromIso [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03030107.xhp">Функция CDateToIso [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03100300.xhp">Функция CDate [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03100400.xhp">Функция CDbl [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03100500.xhp">Функция CInt [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03100600.xhp">Функция CLng [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03100900.xhp">Функция CSng [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03101000.xhp">Функция CStr [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03090401.xhp">Инструкция Call [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03020401.xhp">Инструкция ChDir [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03020402.xhp">Инструкция ChDrive [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03090402.xhp">Функция Choose [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03120102.xhp">Функция Chr [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03020101.xhp">Инструкция Close [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03110100.xhp">Операторы сравнения [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03100700.xhp">Инструкция Const [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03120313.xhp">Функция ConvertFromURL [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03120312.xhp">Функция ConvertToURL [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03080102.xhp">Функция Cos [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03131800.xhp">Функция CreateUnoDialog [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03132000.xhp">Функция CreateUnoListener [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03131600.xhp">Функция CreateUnoService [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03131500.xhp">Функция CreateUnoStruct [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03020403.xhp">Функция CurDir [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03030101.xhp">Функция DateSerial [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03030102.xhp">Функция DateValue [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03030301.xhp">Инструкция Date [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03030103.xhp">Функция Day [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03090403.xhp">Инструкция Declare [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03101100.xhp">Инструкция DefBool [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03101300.xhp">Инструкция DefDate [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03101400.xhp">Инструкция DefDbl [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03101500.xhp">Инструкция DefInt [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03101600.xhp">Инструкция DefLng [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03101700.xhp">Инструкция DefObj [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03102000.xhp">Инструкция DefVar [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03104300.xhp">Функция DimArray [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03102100.xhp">Инструкция Dim [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03020404.xhp">Функция Dir [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03090201.xhp">Инструкция Do...Loop [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03110100.xhp">Операторы сравнения [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03090404.xhp">Инструкция End [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03130800.xhp">Environ Function [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03020301.xhp">Функция Eof [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03104600.xhp">Функция EqualUnoObjects [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03060200.xhp">Оператор Eqv [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03050100.xhp">Функция Erl [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03050200.xhp">Функция Err [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03050300.xhp">Функция Error [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03050000.xhp">Функции обработки ошибок</topic>
+<topic id="sbasic/text/sbasic/shared/03090412.xhp">Инструкция Exit [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03080201.xhp">Функция Exp [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03020405.xhp">Функция FileAttr [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03020406.xhp">Инструкция FileCopy [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03020407.xhp">Функция FileDateTime [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03020415.xhp">Функция FileExists [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03020408.xhp">Функция FileLen [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03103800.xhp">Функция FindObject [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03103900.xhp">Функция FindPropertyObject [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03080501.xhp">Функция Fix [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03090202.xhp">Инструкция For...Next [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03120301.xhp">Функция Format [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03020102.xhp">Функция FreeFile [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03090405.xhp">Функция FreeLibrary [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03090406.xhp">Инструкция Function [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03090400.xhp">Дополнительные инструкции</topic>
+<topic id="sbasic/text/sbasic/shared/03080300.xhp">Получение случайных чисел</topic>
+<topic id="sbasic/text/sbasic/shared/03020409.xhp">Функция GetAttr [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03131700.xhp">Функция GetProcessServiceManager [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03131000.xhp">Функция GetSolarVersion [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03130700.xhp">Функция GetSystemTicks [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03020201.xhp">Инструкция Get [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03131900.xhp">GlobalScope [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03090301.xhp">Инструкция GoSub...Return [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03090302.xhp">Инструкция GoTo [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03010302.xhp">Функция Green [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03104400.xhp">Функция HasUnoInterfaces [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03080801.xhp">Функция Hex [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03030201.xhp">Функция Hour [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03090103.xhp">Инструкция IIf [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03090101.xhp">Инструкция If...Then...Else [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03060300.xhp">Оператор Imp [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03120401.xhp">Функция InStr [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03010201.xhp">Функция InputBox [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03020202.xhp">Инструкция Input# [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03080502.xhp">Функция Int [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03102200.xhp">Функция IsArray [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03102300.xhp">Функция IsDate [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03102400.xhp">Функция IsEmpty [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03104000.xhp">Функция IsMissing [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03102600.xhp">Функция IsNull [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03102700.xhp">Функция IsNumeric [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03102800.xhp">Функция IsObject [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03104500.xhp">Функция IsUnoStruct [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03120315.xhp">Функция Join [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03020410.xhp">Инструкция Kill [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03102900.xhp">Функция LBound [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03120302.xhp">Функция LCase [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03120304.xhp">Инструкция LSet [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03120305.xhp">Функция LTrim [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03120303.xhp">Функция Left [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03120402.xhp">Функция Len [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03103100.xhp">Инструкция Let [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03020203.xhp">Инструкция Line Input # [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03020302.xhp">Функция Loc [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03020303.xhp">Функция Lof [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03080202.xhp">Функция Log [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03120306.xhp">Функция Mid, инструкция Mid [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03030202.xhp">Функция Minute [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03020411.xhp">Инструкция MkDir [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03070600.xhp">Оператор Mod [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03030104.xhp">Функция Month [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03010102.xhp">Функция MsgBox [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03010101.xhp">Инструкция MsgBox [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03020412.xhp">Инструкция Name [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03060400.xhp">Оператор Not [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03030203.xhp">Функция Now [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03080000.xhp">Числовые функции</topic>
+<topic id="sbasic/text/sbasic/shared/03080802.xhp">Функция Oct [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03050500.xhp">On Error GoTo ... Инструкция Resume [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03090303.xhp">Инструкция On...GoSub; инструкция On...GoTo [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03020103.xhp">Инструкция Open [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03103200.xhp">Инструкция Option Base [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03103300.xhp">Инструкция Option Explicit [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03104100.xhp">Функция Optional (в инструкции Function) [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03060500.xhp">Оператор Or [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03010103.xhp">Инструкция Print [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03103400.xhp">Инструкция Public [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03020204.xhp">Инструкция Put [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03010304.xhp">Функция QBColor [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03010305.xhp">Функция RGB [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03120308.xhp">Инструкция RSet [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03120309.xhp">Функция RTrim [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03080301.xhp">Инструкция Randomize [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03102101.xhp">Инструкция ReDim [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03010303.xhp">Функция Red [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03090407.xhp">Инструкция Rem [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03020104.xhp">Инструкция Reset [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03120307.xhp">Функция Right [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03020413.xhp">Инструкция RmDir [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03080302.xhp">Функция Rnd [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03030204.xhp">Функция Second [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03020304.xhp">Функция Seek [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03020305.xhp">Инструкция Seek [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03090102.xhp">Инструкция Select...Case [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03020414.xhp">Инструкция SetAttr [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03103700.xhp">Инструкция Set [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03080701.xhp">Функция Sgn [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03130500.xhp">Функция Shell [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03080103.xhp">Функция Sin [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03120201.xhp">Функция Space [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03120314.xhp">Функция Split [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03080401.xhp">Функция Sqr [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03080400.xhp">Вычисление квадратного корня</topic>
+<topic id="sbasic/text/sbasic/shared/03103500.xhp">Инструкция Static [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03090408.xhp">Инструкция Stop [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03120403.xhp">Функция StrComp [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03120103.xhp">Функция Str [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03120202.xhp">Функция String [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03090409.xhp">Инструкция Sub [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03090410.xhp">Функция Switch [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03080104.xhp">Функция Tan [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03030205.xhp">Функция TimeSerial [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03030206.xhp">Функция TimeValue [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03030302.xhp">Инструкция Time [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03030303.xhp">Функция Timer [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03080100.xhp">Тригонометрические функции</topic>
+<topic id="sbasic/text/sbasic/shared/03120311.xhp">Функция Trim [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03131300.xhp">Функция TwipsPerPixelX [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03131400.xhp">Функция TwipsPerPixelY [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03103600.xhp">Функции TypeName и VarType [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03103000.xhp">Функция UBound [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03120310.xhp">Функция UCase [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03120104.xhp">Функция Val [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03130600.xhp">Инструкция Wait [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03030105.xhp">Функция WeekDay [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03090203.xhp">Инструкция While...Wend [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03090411.xhp">Инструкция With [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03020205.xhp">Инструкция Write [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03060600.xhp">Оператор Xor [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03030106.xhp">Функция Year [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03070100.xhp">Оператор "-" [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03070200.xhp">Оператор "*" [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03070300.xhp">Оператор "+" [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03070400.xhp">Оператор "/" [время выполнения]</topic>
+<topic id="sbasic/text/sbasic/shared/03070500.xhp">Оператор "^" [время выполнения]</topic>
+			</node>
+			</node>
+		<node id="0703" title="Инструкции">
+<topic id="sbasic/text/sbasic/guide/control_properties.xhp">Изменение свойств элементов управления в редакторе диалоговых окон</topic>
+<topic id="sbasic/text/sbasic/guide/insert_control.xhp">Создание элементов управления в редакторе диалоговых окон</topic>
+<topic id="sbasic/text/sbasic/guide/sample_code.xhp">Примеры программирования для элементов управления в редакторе диалоговых окон</topic>
+<topic id="sbasic/text/sbasic/guide/show_dialog.xhp">Открытие диалогового окна с помощью программного кода</topic>
+<topic id="sbasic/text/sbasic/guide/create_dialog.xhp">Создание диалогового окна с помощью Basic</topic>
+<topic id="sbasic/text/sbasic/shared/01030400.xhp">Организация библиотек и модулей</topic>
+<topic id="sbasic/text/sbasic/shared/01020100.xhp">Использование переменных</topic>
+<topic id="sbasic/text/sbasic/shared/01020200.xhp">Использование объектов</topic>
+<topic id="sbasic/text/sbasic/shared/01030300.xhp">Отладка программы Basic</topic>
+<topic id="sbasic/text/sbasic/shared/01040000.xhp">Макросы, управляемые событиями</topic>
+		</node>
+	</help_section>
+</tree_view>

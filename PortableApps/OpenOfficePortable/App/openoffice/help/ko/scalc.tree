@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+<tree_view version="24-Aug-2004">
+	<help_section application="scalc" id="08" title="스프레드시트">
+		<node id="0801" title="일반 정보 및 사용자 인터페이스 사용법">
+<topic id="scalc/text/scalc/main0000.xhp">%PRODUCTNAME Calc 도움말에 오신 것을 환영합니다.</topic>
+<topic id="scalc/text/scalc/main0503.xhp">%PRODUCTNAME Calc 기능</topic>
+<topic id="scalc/text/scalc/guide/keyboard.xhp">단축키(%PRODUCTNAME Calc 내게 필요한 옵션)</topic>
+<topic id="scalc/text/scalc/04/01020000.xhp">스프레드시트 단축키</topic>
+<topic id="scalc/text/scalc/05/02140000.xhp">%PRODUCTNAME Calc!의 오류 코드</topic>
+<topic id="scalc/text/scalc/01/04060112.xhp">%PRODUCTNAME Calc에서의 프로그래밍을 위한 Add-in</topic>
+<topic id="scalc/text/scalc/guide/main.xhp">%PRODUCTNAME Calc 사용 지침</topic>
+		</node>
+		<node id="0802" title="명령 및 메뉴 참조">
+			<node id="080201" title="Menus">
+<topic id="scalc/text/scalc/main0100.xhp">메뉴</topic>
+<topic id="scalc/text/scalc/main0101.xhp">파일</topic>
+<topic id="scalc/text/scalc/main0102.xhp">편집</topic>
+<topic id="scalc/text/scalc/main0103.xhp">보기</topic>
+<topic id="scalc/text/scalc/main0104.xhp">삽입</topic>
+<topic id="scalc/text/scalc/main0105.xhp">형식</topic>
+<topic id="scalc/text/scalc/main0106.xhp">도구</topic>
+<topic id="scalc/text/scalc/main0107.xhp">창</topic>
+<topic id="scalc/text/scalc/main0112.xhp">데이터</topic>
+			</node>
+			<node id="080202" title="도구 모음">
+<topic id="scalc/text/scalc/main0200.xhp">도구 모음</topic>
+<topic id="scalc/text/scalc/main0202.xhp">서식 설정 도구 모음</topic>
+<topic id="scalc/text/scalc/main0203.xhp">그리기 개체 속성 도구 모음</topic>
+<topic id="scalc/text/scalc/main0205.xhp">텍스트 서식 도구 모음</topic>
+<topic id="scalc/text/scalc/main0206.xhp">수식 표시줄</topic>
+<topic id="scalc/text/scalc/main0208.xhp">상태 표시줄</topic>
+<topic id="scalc/text/scalc/main0210.xhp">페이지 미리보기 도구 모음</topic>
+<topic id="scalc/text/scalc/main0214.xhp">그림 도구 모음</topic>
+<topic id="scalc/text/scalc/main0218.xhp">도구 모음</topic>
+<topic id="shared/text/shared/main0201.xhp">표준 도구 모음</topic>
+<topic id="shared/text/shared/main0209.xhp">하이퍼링크 도구 모음</topic>
+<topic id="shared/text/shared/main0212.xhp">표 데이터 도구 모음</topic>
+<topic id="shared/text/shared/main0213.xhp">양식 도구 모음</topic>
+<topic id="shared/text/shared/main0214.xhp">쿼리 디자인 도구 모음</topic>
+<topic id="shared/text/shared/main0226.xhp">양식 디자인 도구 모음</topic>
+			</node>
+		</node>
+		<node id="0803" title="함수 형식 및 연산자">
+<topic id="scalc/text/scalc/01/04060000.xhp">함수 마법사</topic>
+<topic id="scalc/text/scalc/01/04060100.xhp">범주별 함수</topic>
+<topic id="scalc/text/scalc/01/04060101.xhp">데이터베이스 함수</topic>
+<topic id="scalc/text/scalc/01/04060102.xhp">날짜 및 시간 함수</topic>
+<topic id="scalc/text/scalc/01/04060103.xhp">회계 함수 1장</topic>
+<topic id="scalc/text/scalc/01/04060119.xhp">회계 함수 2장</topic>
+<topic id="scalc/text/scalc/01/04060118.xhp">회계 함수 3장</topic>
+<topic id="scalc/text/scalc/01/04060104.xhp">정보 함수</topic>
+<topic id="scalc/text/scalc/01/04060105.xhp">논리 함수</topic>
+<topic id="scalc/text/scalc/01/04060106.xhp">수학 함수</topic>
+<topic id="scalc/text/scalc/01/04060107.xhp">배열 함수</topic>
+<topic id="scalc/text/scalc/01/04060108.xhp">통계 함수</topic>
+<topic id="scalc/text/scalc/01/04060181.xhp">통계 함수 1장</topic>
+<topic id="scalc/text/scalc/01/04060182.xhp">통계 함수 2장</topic>
+<topic id="scalc/text/scalc/01/04060183.xhp">통계 함수 3장</topic>
+<topic id="scalc/text/scalc/01/04060184.xhp">통계 함수 4장</topic>
+<topic id="scalc/text/scalc/01/04060185.xhp">통계 함수 5장</topic>
+<topic id="scalc/text/scalc/01/04060109.xhp">스프레드시트 함수</topic>
+<topic id="scalc/text/scalc/01/04060110.xhp">텍스트 함수</topic>
+<topic id="scalc/text/scalc/01/04060111.xhp">Add-in 함수</topic>
+<topic id="scalc/text/scalc/01/04060115.xhp">Add-in 함수, 분석 함수 목록 1장</topic>
+<topic id="scalc/text/scalc/01/04060116.xhp">Add-in 함수, 분석 함수 목록 2장</topic>
+
+<topic id="scalc/text/scalc/01/04060199.xhp">%PRODUCTNAME Calc의 연산자</topic>
+<topic id="scalc/text/scalc/guide/userdefined_function.xhp">사용자 정의 함수</topic>
+		</node>
+		<node id="0804" title="로드, 저장, 가져오기 및 내보내기">
+<topic id="scalc/text/scalc/guide/webquery.xhp">테이블에 외부 데이터 삽입(WebQuery)</topic>
+<topic id="scalc/text/scalc/guide/html_doc.xhp">HTML로 시트 저장 및 열기</topic>
+<topic id="scalc/text/scalc/guide/csv_formula.xhp">텍스트 파일 가져오기 및 내보내기</topic>
+		</node>
+		<node id="0805" title="서식 설정">
+<topic id="scalc/text/scalc/guide/text_rotate.xhp">텍스트 회전</topic>
+<topic id="scalc/text/scalc/guide/text_wrap.xhp">여러 줄 텍스트 쓰기</topic>
+<topic id="scalc/text/scalc/guide/text_numbers.xhp">숫자를 텍스트로 서식 설정</topic>
+<topic id="scalc/text/scalc/guide/super_subscript.xhp">위 첨자 / 아래 첨자 텍스트</topic>
+<topic id="scalc/text/scalc/guide/row_height.xhp">행 높이 또는 열 너비 변경</topic>
+<topic id="scalc/text/scalc/guide/cellstyle_conditional.xhp">조건부 서식 적용</topic>
+<topic id="scalc/text/scalc/guide/cellstyle_minusvalue.xhp">음수 강조 표시</topic>
+<topic id="scalc/text/scalc/guide/cellstyle_by_formula.xhp">수식별 서식 할당</topic>
+<topic id="scalc/text/scalc/guide/integer_leading_zero.xhp">앞에 오는 0이 포함된 숫자 입력</topic>
+<topic id="scalc/text/scalc/guide/format_table.xhp">스프레드시트 서식 설정</topic>
+<topic id="scalc/text/scalc/guide/format_value.xhp">소수점 이하 자릿수를 사용하여 숫자 서식 설정</topic>
+<topic id="scalc/text/scalc/guide/value_with_name.xhp">셀 이름 지정</topic>
+<topic id="scalc/text/scalc/guide/table_rotate.xhp">테이블 회전(바꾸기)</topic>
+<topic id="scalc/text/scalc/guide/rename_table.xhp">시트 이름 바꾸기</topic>
+<topic id="scalc/text/scalc/guide/year2000.xhp">19xx/20xx 연도</topic>
+<topic id="scalc/text/scalc/guide/rounding_numbers.xhp">반올림된 숫자 사용</topic>
+<topic id="scalc/text/scalc/guide/currency_format.xhp">통화 서식이 설정된 셀</topic>
+<topic id="scalc/text/scalc/guide/autoformat.xhp">테이블에 자동 서식 사용</topic>
+<topic id="scalc/text/scalc/guide/note_insert.xhp">메모 삽입 및 편집</topic>
+<topic id="scalc/text/scalc/guide/design.xhp">시트의 주제 선택</topic>
+<topic id="scalc/text/scalc/guide/fraction_enter.xhp">분수 입력</topic>
+		</node>
+		<node id="0806" title="필터링 및 정렬">
+<topic id="scalc/text/scalc/guide/filters.xhp">필터 적용</topic>
+<topic id="scalc/text/scalc/guide/specialfilter.xhp">필터: 고급 필터 적용</topic>
+<!-- removed scalc/text/scalc/guide/standardfilter.xhp -->
+<topic id="scalc/text/scalc/guide/autofilter.xhp">자동 필터 적용</topic>
+<topic id="scalc/text/scalc/guide/sorted_list.xhp">정렬 목록 적용</topic>
+		</node>
+		<node id="0807" title="인쇄">
+<topic id="scalc/text/scalc/guide/print_title_row.xhp">모든 페이지에 행 또는 열 인쇄</topic>
+<topic id="scalc/text/scalc/guide/print_landscape.xhp">가로 서식으로 시트 인쇄</topic>
+<topic id="scalc/text/scalc/guide/print_details.xhp">시트 세부 정보 인쇄</topic>
+<topic id="scalc/text/scalc/guide/print_exact.xhp">인쇄할 페이지 수 지정</topic>
+		</node>
+		<node id="0808" title="데이터 범위">
+<topic id="scalc/text/scalc/guide/database_define.xhp">데이터베이스 범위 지정</topic>
+<topic id="scalc/text/scalc/guide/database_filter.xhp">셀 범위 필터링 </topic>
+<!-- removed scalc/text/scalc/guide/database_group.xhp -->
+<topic id="scalc/text/scalc/guide/database_sort.xhp">데이터 정렬</topic>
+		</node>
+		<node id="0809" title="피벗 테이블">
+<topic id="scalc/text/scalc/guide/datapilot.xhp">피벗 테이블</topic>
+<topic id="scalc/text/scalc/guide/datapilot_createtable.xhp">피벗 테이블 테이블 만들기</topic>
+<topic id="scalc/text/scalc/guide/datapilot_deletetable.xhp">피벗 테이블 삭제</topic>
+<topic id="scalc/text/scalc/guide/datapilot_edittable.xhp">피벗 테이블 편집</topic>
+<topic id="scalc/text/scalc/guide/datapilot_filtertable.xhp">피벗 테이블 필터링</topic>
+<topic id="scalc/text/scalc/guide/datapilot_tipps.xhp">피벗 테이블 출력 범위 선택하</topic>
+<topic id="scalc/text/scalc/guide/datapilot_updatetable.xhp">피벗 테이블 업데이트</topic>
+		</node>
+		<node id="0810" title="시나리오">
+<topic id="scalc/text/scalc/guide/scenario.xhp">시나리오 사용</topic>
+		</node>
+		<node id="0811" title="참조">
+<topic id="scalc/text/scalc/guide/relativ_absolut_ref.xhp">주소 및 참조, 절대 및 상대</topic>
+<topic id="scalc/text/scalc/guide/cellreferences.xhp">다른 문서의 셀 참조</topic>
+<topic id="scalc/text/scalc/guide/cellreferences_url.xhp">다른 시트에 대한 참조 및 URL 참조</topic>
+<topic id="scalc/text/scalc/guide/cellreference_dragdrop.xhp">끌어 놓기로 셀 참조</topic>
+<topic id="scalc/text/scalc/guide/address_auto.xhp">이름을 주소로 인식</topic>
+		</node>
+		<node id="0812" title="보기, 선택, 복사">
+<topic id="scalc/text/scalc/guide/table_view.xhp">테이블 보기 변경</topic>
+<topic id="scalc/text/scalc/guide/formula_value.xhp">수식 또는 값 표시</topic>
+<topic id="scalc/text/scalc/guide/line_fix.xhp">행 또는 열을 머리글로 고정</topic>
+<topic id="scalc/text/scalc/guide/multi_tables.xhp">시트 탭 탐색</topic>
+<topic id="scalc/text/scalc/guide/edit_multitables.xhp">여러 시트에 복사</topic>
+<topic id="scalc/text/scalc/guide/cellcopy.xhp">표시된 셀만 복사</topic>
+<topic id="scalc/text/scalc/guide/mark_cells.xhp">여러 셀 선택</topic>
+		</node>
+		<node id="0813" title="수식 및 계산">
+<topic id="scalc/text/scalc/guide/formulas.xhp">수식을 사용하여 계산</topic>
+<topic id="scalc/text/scalc/guide/formula_copy.xhp">수식 복사</topic>
+<topic id="scalc/text/scalc/guide/formula_enter.xhp">수식 표시줄에 수식 입력</topic>
+<topic id="scalc/text/scalc/guide/formula_value.xhp">수식 또는 값 표시</topic>
+<topic id="scalc/text/scalc/guide/calculate.xhp">스프레드시트에서 계산</topic>
+<topic id="scalc/text/scalc/guide/calc_date.xhp">날짜와 시간을 사용하여 계산</topic>
+<topic id="scalc/text/scalc/guide/calc_series.xhp">데이터 계열 자동 계산</topic>
+<topic id="scalc/text/scalc/guide/calc_timevalues.xhp">시차 계산</topic>
+<topic id="scalc/text/scalc/guide/matrixformula.xhp">행렬 수식 입력</topic>
+		</node>
+		<node id="0814" title="보호">
+<topic id="scalc/text/scalc/guide/cell_protect.xhp">셀 변경 방지</topic>
+<topic id="scalc/text/scalc/guide/cell_unprotect.xhp">셀 보호 해제</topic>
+		</node>
+		<node id="0815" title="기타">
+<!-- removed scalc/text/scalc/guide/autofill.xhp -->
+<topic id="scalc/text/scalc/guide/auto_off.xhp">자동 변경 비활성화</topic>
+<topic id="scalc/text/scalc/guide/consolidate.xhp">데이터 통합</topic>
+<topic id="scalc/text/scalc/guide/goalseek.xhp">목표값 찾기 적용</topic>
+<topic id="scalc/text/scalc/guide/multioperation.xhp">다중 연산 적용</topic>
+<topic id="scalc/text/scalc/guide/multitables.xhp">여러 시트 적용</topic>
+<topic id="scalc/text/scalc/guide/validity.xhp">셀 내용 유효성</topic>
+		</node>
+	</help_section>
+</tree_view>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+<tree_view version="24-Aug-2004">
+	<help_section application="smath" id="03" title="Fórmulas">
+		<node id="0301" title="Información general y uso de la interfaz de usuario">
+<topic id="smath/text/smath/main0000.xhp">Bienvenido a la ayuda de %PRODUCTNAME Math</topic>
+<topic id="smath/text/smath/main0503.xhp">Características de %PRODUCTNAME Math</topic>
+<topic id="smath/text/smath/guide/main.xhp">Instrucciones para utilizar %PRODUCTNAME Math</topic>
+<topic id="smath/text/smath/guide/keyboard.xhp">Combinaciones de teclas (accesibilidad de %PRODUCTNAME Math)</topic>
+		</node>
+		<node id="0302" title="Referencia de Comando y Menú">
+<topic id="smath/text/smath/main0100.xhp">Menús</topic>
+<topic id="smath/text/smath/main0200.xhp">Barras de herramientas</topic>
+		</node>
+		<node id="0303" title="Trabajando con fórmulas">
+<topic id="smath/text/smath/guide/align.xhp">Alinear manualmente partes de las fórmulas</topic>
+<topic id="smath/text/smath/guide/attributes.xhp">Cambiar atributos predeterminados</topic>
+<topic id="smath/text/smath/guide/brackets.xhp">Agrupar partes de fórmula entre paréntesis</topic>
+<topic id="smath/text/smath/guide/comment.xhp">Escribir comentarios</topic>
+<topic id="smath/text/smath/guide/newline.xhp">Introducir saltos de línea</topic>
+<topic id="smath/text/smath/guide/parentheses.xhp">Insertar paréntesis</topic>
+		</node>
+	</help_section>
+</tree_view>

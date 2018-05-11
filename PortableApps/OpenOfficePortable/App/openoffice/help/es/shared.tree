@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+<tree_view version="24-Aug-2004">
+	<help_section application="swriter" id="01" title="Instalación">
+<topic id="shared/text/shared/guide/ms_doctypes.xhp">Cambiar la asociación de los tipos de documentos de Microsoft Office</topic>
+	</help_section>
+	<help_section application="swriter" id="10" title="Tópicos comunes de ayuda">
+		<node id="1001" title="Información General">
+<topic id="shared/text/shared/main0400.xhp">Teclas de acceso directo</topic>
+<topic id="shared/text/shared/00/00000005.xhp">Glosario general</topic>
+<topic id="shared/text/shared/00/00000002.xhp">Glosario de términos de Internet</topic>
+<topic id="shared/text/shared/guide/accessibility.xhp">Accesibilidad de %PRODUCTNAME</topic>
+<topic id="shared/text/shared/guide/keyboard.xhp">Teclas de acceso directo (Accesibilidad de %PRODUCTNAME)</topic>
+<topic id="shared/text/shared/04/01010000.xhp">Teclas de acceso directo generales en %PRODUCTNAME</topic>
+<topic id="shared/text/shared/guide/version_number.xhp">Versiones y números de build</topic>
+</node>
+		<node id="1002" title="%PRODUCTNAME y Microsoft Office">
+<topic id="shared/text/shared/guide/ms_user.xhp">Usar Microsoft Office y %PRODUCTNAME</topic>
+<topic id="shared/text/shared/guide/microsoft_terms.xhp">Comparar los términos de Microsoft Office y %PRODUCTNAME</topic>
+<topic id="shared/text/shared/guide/ms_import_export_limitations.xhp">Acerca de la conversión de documentos de Microsoft Office</topic>
+<topic id="shared/text/shared/guide/ms_doctypes.xhp">Cambiar la asociación de los tipos de documentos de Microsoft Office</topic>
+		</node>
+		<node id="1004" title="Opciones %PRODUCTNAME ">
+<topic id="shared/text/shared/optionen/01000000.xhp">Opciones</topic>
+<topic id="shared/text/shared/optionen/01010100.xhp">Datos del usuario</topic>
+<topic id="shared/text/shared/optionen/01010200.xhp">General</topic>
+<topic id="shared/text/shared/optionen/01010300.xhp">Rutas</topic>
+<topic id="shared/text/shared/optionen/01010400.xhp">Lingüística</topic>
+<topic id="shared/text/shared/optionen/01010500.xhp">Colores</topic>
+<topic id="shared/text/shared/optionen/01010600.xhp">General</topic>
+<topic id="shared/text/shared/optionen/01010700.xhp">Tipos de letra</topic>
+<topic id="shared/text/shared/optionen/01010800.xhp">Ver</topic>
+<topic id="shared/text/shared/optionen/01010900.xhp">Opciones de impresión</topic>
+<topic id="shared/text/shared/optionen/01011000.xhp">Memoria</topic>
+<topic id="shared/text/shared/optionen/01012000.xhp">Apariencia</topic>
+<topic id="shared/text/shared/optionen/01013000.xhp">Accesibilidad</topic>
+<topic id="shared/text/shared/optionen/01020000.xhp">Cargar/Guardar opciones</topic>
+<topic id="shared/text/shared/optionen/01030000.xhp">Opciones de Internet</topic>
+<topic id="shared/text/shared/optionen/01040000.xhp">Opciones del documento de texto</topic>
+<topic id="shared/text/shared/optionen/01050000.xhp">Opciones del documento HTML</topic>
+<topic id="shared/text/shared/optionen/01060000.xhp">Opciones de hojas de cálculo</topic>
+<topic id="shared/text/shared/optionen/01070000.xhp">Opciones de presentación</topic>
+<topic id="shared/text/shared/optionen/01080000.xhp">Opciones de dibujo</topic>
+<topic id="shared/text/shared/optionen/01090000.xhp">Fórmula</topic>
+<topic id="shared/text/shared/optionen/01110000.xhp">Opciones de gráfico</topic>
+<topic id="shared/text/shared/optionen/01130100.xhp">Propiedades de VBA</topic>
+<topic id="shared/text/shared/optionen/01130200.xhp">Microsoft Office</topic>
+<topic id="shared/text/shared/optionen/01140000.xhp">Idiomas</topic>
+<topic id="shared/text/shared/optionen/01150000.xhp">Opciones de configuración de idioma</topic>
+<topic id="shared/text/shared/optionen/01160000.xhp">Opciones de orígenes de datos</topic>
+		</node>
+		<node id="1005" title="Asistentes">
+<topic id="shared/text/shared/autopi/01000000.xhp">Asistente</topic>
+			<node id="100501" title="Asistente para cartas">
+<topic id="shared/text/shared/autopi/01010000.xhp">Asistente para cartas</topic>
+			</node>
+			<node id="100502" title="Asistente para Fax">
+<topic id="shared/text/shared/autopi/01020000.xhp">Asistente para fax</topic>
+			</node>
+			<node id="100504" title="Asistente de agenda">
+<topic id="shared/text/shared/autopi/01040000.xhp">Asistente para agendas</topic>
+			</node>
+			<node id="100505" title="Asistente de presentación">
+<topic id="shared/text/shared/autopi/01050000.xhp">Asistente para presentaciones</topic>
+			</node>
+			<node id="100506" title="Asistente para Exportar HTML">
+<topic id="shared/text/shared/autopi/01110000.xhp">Exportación de HTML</topic>
+			</node>
+			<node id="100510" title="Asistente de convertidor de documentos">
+<topic id="shared/text/shared/autopi/01130000.xhp">Convertidor de documentos</topic>
+			</node>
+<topic id="shared/text/shared/autopi/01150000.xhp">Asistente para el Convertidor de euros</topic>
+		</node>
+		<node id="1006" title="%PRODUCTNAME Configurando">
+<topic id="shared/text/shared/guide/configure_overview.xhp">Configurar %PRODUCTNAME</topic>
+<topic id="shared/text/shared/01/packagemanager.xhp">Administrador de extensiones</topic>
+<topic id="shared/text/shared/guide/flat_icons.xhp">Cambiar vistas de iconos</topic>
+<topic id="shared/text/shared/guide/edit_symbolbar.xhp">Agregar botones a barras de herramientas </topic>
+<topic id="shared/text/shared/guide/workfolder.xhp">Cambiar su directorio de trabajo</topic>
+<topic id="shared/text/shared/guide/standard_template.xhp">Cambiar una plantilla predeterminada</topic>
+<topic id="shared/text/shared/guide/data_addressbook.xhp">Registrar una libreta de direcciones</topic>
+<topic id="shared/text/shared/guide/formfields.xhp">Insertar y editar botones</topic>
+		</node>
+		<node id="1007" title="Trabajando con la Interfaz de Usuario">
+<topic id="shared/text/shared/guide/navigator_setcursor.xhp">Navegar para llegar rápidamente al objeto</topic>
+<topic id="shared/text/shared/guide/navigator.xhp">Navegador para la información general de documentos</topic>
+<topic id="shared/text/shared/guide/autohide.xhp">Mostrar, acoplar y ocultar ventanas</topic>
+<topic id="shared/text/shared/guide/navpane_on.xhp">Mostrar el panel de navegación de la Ayuda</topic>
+<topic id="shared/text/shared/guide/textmode_change.xhp">Cambiar entre el modo sobrescribir y el modo insertar</topic>
+<topic id="shared/text/shared/guide/floating_toolbar.xhp">Usar barras de herramientas</topic>
+<topic id="shared/text/shared/guide/sidebar_window.xhp">Ventana de la Barra lateral</topic>
+		</node>
+		<node id="1008" title="Impresión, envío, faxes">
+<topic id="shared/text/shared/guide/labels_database.xhp">Imprimir etiquetas de direcciones</topic>
+<topic id="shared/text/shared/guide/print_blackwhite.xhp">Imprimir en blanco y negro</topic>
+<topic id="shared/text/shared/guide/email.xhp">Enviar documentos en forma de mensajes de correo-e</topic>
+<topic id="shared/text/shared/guide/fax.xhp">Enviar faxes y configurar %PRODUCTNAME para el envío de faxes</topic>
+		</node>
+		<node id="1009" title="Arrastrar y dejar">
+<topic id="shared/text/shared/guide/dragdrop.xhp">Arrastrar y colocar en un documento de %PRODUCTNAME</topic>
+<topic id="swriter/text/swriter/guide/dragdroptext.xhp">Mover y copiar texto en documentos</topic>
+<topic id="shared/text/shared/guide/dragdrop_table.xhp">Copiar áreas de hojas de cálculo en documentos de texto</topic>
+<topic id="shared/text/shared/guide/dragdrop_graphic.xhp">Copiar gráficos entre documentos</topic>
+<topic id="shared/text/shared/guide/dragdrop_fromgallery.xhp">Copiar gráficos de la Galería</topic>
+<topic id="shared/text/shared/guide/dragdrop_beamer.xhp">Arrastrar y colocar con la vista de origen de datos</topic>
+		</node>
+		<node id="1010" title="Copiar y pegar">
+<topic id="shared/text/shared/guide/copy_drawfunctions.xhp">Copiar objetos de dibujo en otros documentos</topic>
+<topic id="shared/text/shared/guide/dragdrop_graphic.xhp">Copiar gráficos entre documentos</topic>
+<topic id="shared/text/shared/guide/dragdrop_fromgallery.xhp">Copiar gráficos de la Galería</topic>
+<topic id="shared/text/shared/guide/dragdrop_table.xhp">Copiar áreas de hojas de cálculo en documentos de texto</topic>
+		</node>
+		<node id="1012" title="Gráficos y Diagramas">
+<topic id="shared/text/shared/guide/chart_insert.xhp">Insertar gráficos</topic>
+<topic id="schart/text/schart/main0000.xhp">Gráficas en %PRODUCTNAME</topic>
+		</node>
+		<node id="1013" title="Cargar, guardar, importar, exportar">
+<topic id="shared/text/shared/guide/doc_open.xhp">Abrir documentos</topic>
+<topic id="shared/text/shared/guide/import_ms.xhp">Abrir documentos guardados con otros formatos</topic>
+<topic id="shared/text/shared/guide/doc_save.xhp">Guardar documentos</topic>
+<topic id="shared/text/shared/guide/doc_autosave.xhp">Guardar documentos de forma automática</topic>
+<topic id="shared/text/shared/guide/export_ms.xhp">Guardar documentos con otros formatos</topic>
+<topic id="shared/text/shared/guide/data_dbase2office.xhp">Importar y exportar datos en formato de texto</topic>
+		</node>
+		<node id="1014" title="Vínculos y referencias">
+<topic id="shared/text/shared/guide/hyperlink_insert.xhp">Insertar hipervínculos</topic>
+<topic id="shared/text/shared/guide/hyperlink_rel_abs.xhp">Vínculos absolutos y relativos</topic>
+<topic id="shared/text/shared/guide/hyperlink_edit.xhp">Editar hipervínculos</topic>
+		</node>
+		<node id="1015" title="Seguimiento de versión de documentos">
+<topic id="shared/text/shared/guide/redlining_doccompare.xhp">Comparar versiones de un documento</topic>
+<topic id="shared/text/shared/guide/redlining_docmerge.xhp">Combinar versiones</topic>
+<topic id="shared/text/shared/guide/redlining_enter.xhp">Registrar cambios</topic>
+<topic id="shared/text/shared/guide/redlining.xhp">Registrar y mostrar cambios</topic>
+<topic id="shared/text/shared/guide/redlining_accept.xhp">Aceptar o rechazar cambios</topic>
+<topic id="shared/text/shared/guide/redlining_versions.xhp">Gestión de versiones</topic>
+		</node>
+		<node id="1016" title="Etiquetas y Tarjetas de presentación">
+<topic id="shared/text/shared/guide/labels.xhp">Crear e imprimir etiquetas y tarjetas de presentación</topic>
+		</node>
+		<node id="1018" title="Insertar datos externos">
+<topic id="shared/text/shared/guide/copytable2application.xhp">Insertar datos procedentes de hojas de cálculo</topic>
+<topic id="shared/text/shared/guide/copytext2application.xhp">Insertar datos a partir de documentos de texto</topic>
+<topic id="shared/text/shared/guide/insert_bitmap.xhp">Insertar, editar, guardar mapas de bits</topic>
+<topic id="shared/text/shared/guide/dragdrop_gallery.xhp">Agregar gráficos a la galería</topic>
+		</node>
+		<node id="1019" title="Funciones Automáticas">
+<topic id="shared/text/shared/guide/autocorr_url.xhp">Desactivar el reconocimiento automático de URL</topic>
+		</node>
+		<node id="1020" title="Buscar y Reemplazar">
+<topic id="shared/text/shared/guide/data_search2.xhp">Buscar con un filtro de formularios</topic>
+<topic id="shared/text/shared/guide/hyperlink_search.xhp">Buscar con la barra Hipervínculos</topic>
+<topic id="shared/text/shared/guide/data_search.xhp">Buscar en tablas y formularios</topic>
+<topic id="shared/text/shared/01/02100001.xhp">Lista de expresiones regulares</topic>
+		</node>
+		<node id="1021" title="Guías">
+<topic id="shared/text/shared/guide/linestyles.xhp">Aplicar estilos de línea</topic>
+<topic id="shared/text/shared/guide/text_color.xhp">Modificar el color del texto</topic>
+<topic id="shared/text/shared/guide/change_title.xhp">Cambiar el título de un documento</topic>
+<topic id="shared/text/shared/guide/round_corner.xhp">Crear esquinas redondeadas</topic>
+<topic id="shared/text/shared/guide/background.xhp">Definir colores de fondo o gráficos de fondo</topic>
+<topic id="shared/text/shared/guide/lineend_define.xhp">Definir fines de línea</topic>
+<topic id="shared/text/shared/guide/linestyle_define.xhp">Definir estilos de línea</topic>
+<topic id="shared/text/shared/guide/insert_graphic_drawit.xhp">Dibujar gráficos con las funciones de dibujo</topic>
+<topic id="shared/text/shared/guide/line_intext.xhp">Dibujar líneas en texto</topic>
+<topic id="shared/text/shared/guide/aaa_start.xhp">Primeros pasos</topic>
+<topic id="shared/text/shared/guide/gallery_insert.xhp">Insertar objetos de la Galería</topic>
+<topic id="shared/text/shared/guide/space_hyphen.xhp">Insertar espacios protegidos, guiones y separadores condicionales</topic>
+<topic id="shared/text/shared/guide/insert_specialchar.xhp">Insertar caracteres especiales</topic>
+<topic id="shared/text/shared/guide/tabs.xhp">Insertar y editar marcas de tabulación</topic>
+<topic id="shared/text/shared/guide/protection.xhp">Proteger contenido en %PRODUCTNAME</topic>
+<topic id="shared/text/shared/guide/redlining_protect.xhp">Proteger registros</topic>
+<topic id="shared/text/shared/guide/pageformat_max.xhp">Seleccionar la máxima área imprimible de una página</topic>
+<topic id="shared/text/shared/guide/measurement_units.xhp">Seleccionar unidades de medida</topic>
+<topic id="shared/text/shared/guide/language_select.xhp">Seleccionar el idioma del documento</topic>
+<topic id="shared/text/shared/guide/data_tabledefine.xhp">Diseño de tabla</topic>
+<topic id="shared/text/shared/guide/numbering_stop.xhp">Desactivar numeración y viñetas para párrafos individuales</topic>
+		</node>
+	</help_section>
+	<help_section application="swriter" id="09" title="Funcionalidad de base de datos">
+		<node id="0901" title="Información General">
+<topic id="shared/text/shared/explorer/database/main.xhp">Base de datos de %PRODUCTNAME</topic>
+<topic id="shared/text/shared/guide/database_main.xhp">Información general sobre bases de datos</topic>
+<topic id="shared/text/shared/guide/data_new.xhp">Crear una base de datos</topic>
+<topic id="shared/text/shared/guide/data_tables.xhp">Trabajar con tablas</topic>
+<topic id="shared/text/shared/guide/data_queries.xhp">Trabajo con consultas</topic>
+<topic id="shared/text/shared/guide/data_forms.xhp">Trabajo con formularios</topic>
+<topic id="shared/text/shared/guide/data_reports.xhp">Creación de informes</topic>
+<topic id="shared/text/shared/guide/data_register.xhp">Registrar y borrar una base de datos</topic>
+<topic id="shared/text/shared/guide/data_im_export.xhp">Importar y exportar datos en Base </topic>
+<topic id="shared/text/shared/guide/data_enter_sql.xhp">Ejecutar comandos SQL</topic>
+		</node>
+	</help_section>
+</tree_view>

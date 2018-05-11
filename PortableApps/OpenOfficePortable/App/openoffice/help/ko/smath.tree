@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+<tree_view version="24-Aug-2004">
+	<help_section application="smath" id="03" title="수식">
+		<node id="0301" title="일반 정보 및 사용자 인터페이스 사용법">
+<topic id="smath/text/smath/main0000.xhp">%PRODUCTNAME Math 도움말 시작</topic>
+<topic id="smath/text/smath/main0503.xhp">%PRODUCTNAME Math 기능</topic>
+<topic id="smath/text/smath/guide/main.xhp">%PRODUCTNAME Math 사용에 대한 참고 사항</topic>
+<topic id="smath/text/smath/guide/keyboard.xhp">단축키(%PRODUCTNAME Math 내게 필요한 옵션)</topic>
+		</node>
+		<node id="0302" title="명령 및 메뉴 참조">
+<topic id="smath/text/smath/main0100.xhp">메뉴</topic>
+<topic id="smath/text/smath/main0200.xhp">도구 모음</topic>
+		</node>
+		<node id="0303" title="수식을 사용하여 작업">
+<topic id="smath/text/smath/guide/align.xhp">수식 부분 수동 맞춤</topic>
+<topic id="smath/text/smath/guide/attributes.xhp">기본 속성 변경</topic>
+<topic id="smath/text/smath/guide/brackets.xhp">괄호로 수식 부분 병합</topic>
+<topic id="smath/text/smath/guide/comment.xhp">설명 입력</topic>
+<topic id="smath/text/smath/guide/newline.xhp">줄 바꿈 입력</topic>
+<topic id="smath/text/smath/guide/parentheses.xhp">괄호 삽입</topic>
+		</node>
+	</help_section>
+</tree_view>

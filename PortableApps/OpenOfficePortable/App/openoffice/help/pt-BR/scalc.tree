@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+<tree_view version="24-Aug-2004">
+	<help_section application="scalc" id="08" title="Planilhas">
+		<node id="0801" title="Informações gerais e utilização da interface do usuário">
+<topic id="scalc/text/scalc/main0000.xhp">Bem-vindo à Ajuda do %PRODUCTNAME Calc</topic>
+<topic id="scalc/text/scalc/main0503.xhp">Recursos do %PRODUCTNAME Calc</topic>
+<topic id="scalc/text/scalc/guide/keyboard.xhp">Teclas de atalho (acessibilidade do %PRODUCTNAME Calc)</topic>
+<topic id="scalc/text/scalc/04/01020000.xhp">Teclas de atalho para planilhas</topic>
+<topic id="scalc/text/scalc/05/02140000.xhp">Códigos de erro no %PRODUCTNAME Calc</topic>
+<topic id="scalc/text/scalc/01/04060112.xhp">Suplemento (add-in) para programação no %PRODUCTNAME Calc</topic>
+<topic id="scalc/text/scalc/guide/main.xhp">Instruções para a utilização do %PRODUCTNAME Calc</topic>
+		</node>
+		<node id="0802" title="Referência de comandos e menus">
+			<node id="080201" title="Menus">
+<topic id="scalc/text/scalc/main0100.xhp">Menus</topic>
+<topic id="scalc/text/scalc/main0101.xhp">Arquivo</topic>
+<topic id="scalc/text/scalc/main0102.xhp">Editar</topic>
+<topic id="scalc/text/scalc/main0103.xhp">Exibir</topic>
+<topic id="scalc/text/scalc/main0104.xhp">Inserir</topic>
+<topic id="scalc/text/scalc/main0105.xhp">Formato</topic>
+<topic id="scalc/text/scalc/main0106.xhp">Ferramentas</topic>
+<topic id="scalc/text/scalc/main0107.xhp">Janela</topic>
+<topic id="scalc/text/scalc/main0112.xhp">Dados</topic>
+			</node>
+			<node id="080202" title="Barras de ferramentas">
+<topic id="scalc/text/scalc/main0200.xhp">Barras de ferramentas</topic>
+<topic id="scalc/text/scalc/main0202.xhp">Barra de Formatação</topic>
+<topic id="scalc/text/scalc/main0203.xhp">Barra Propriedades do objeto de desenho</topic>
+<topic id="scalc/text/scalc/main0205.xhp">Barra Formatação de texto</topic>
+<topic id="scalc/text/scalc/main0206.xhp">Barra de fórmulas</topic>
+<topic id="scalc/text/scalc/main0208.xhp">Barra de status</topic>
+<topic id="scalc/text/scalc/main0210.xhp">Barra Visualização de página</topic>
+<topic id="scalc/text/scalc/main0214.xhp">Barra de imagens</topic>
+<topic id="scalc/text/scalc/main0218.xhp">Barra de ferramentas</topic>
+<topic id="shared/text/shared/main0201.xhp">Barra Padrão</topic>
+<topic id="shared/text/shared/main0209.xhp">Barra de hiperlinks</topic>
+<topic id="shared/text/shared/main0212.xhp">Barra Dados da tabela</topic>
+<topic id="shared/text/shared/main0213.xhp">Barra de ferramentas Formulário</topic>
+<topic id="shared/text/shared/main0214.xhp">Barra Design de consulta</topic>
+<topic id="shared/text/shared/main0226.xhp">Barra de ferramentas Design de formulário</topic>
+			</node>
+		</node>
+		<node id="0803" title="Tipos de funções e operadores">
+<topic id="scalc/text/scalc/01/04060000.xhp">Assistente de funções</topic>
+<topic id="scalc/text/scalc/01/04060100.xhp">Funções por categoria</topic>
+<topic id="scalc/text/scalc/01/04060101.xhp">Funções de banco de dados</topic>
+<topic id="scalc/text/scalc/01/04060102.xhp">Funções de data e hora</topic>
+<topic id="scalc/text/scalc/01/04060103.xhp">Funções financeiras - Parte 1</topic>
+<topic id="scalc/text/scalc/01/04060119.xhp">Funções financeiras - Parte 2</topic>
+<topic id="scalc/text/scalc/01/04060118.xhp">Funções financeiras - Parte 3</topic>
+<topic id="scalc/text/scalc/01/04060104.xhp">Funções de informação</topic>
+<topic id="scalc/text/scalc/01/04060105.xhp">Funções lógicas</topic>
+<topic id="scalc/text/scalc/01/04060106.xhp">Funções matemáticas</topic>
+<topic id="scalc/text/scalc/01/04060107.xhp">Funções de matriz</topic>
+<topic id="scalc/text/scalc/01/04060108.xhp">Funções estatísticas</topic>
+<topic id="scalc/text/scalc/01/04060181.xhp">Funções estatísticas - Parte 1</topic>
+<topic id="scalc/text/scalc/01/04060182.xhp">Funções estatísticas - Parte 2</topic>
+<topic id="scalc/text/scalc/01/04060183.xhp">Funções estatísticas: parte 3</topic>
+<topic id="scalc/text/scalc/01/04060184.xhp">Funções estatísticas: parte 4</topic>
+<topic id="scalc/text/scalc/01/04060185.xhp">Funções estatísticas - Parte 5</topic>
+<topic id="scalc/text/scalc/01/04060109.xhp">Funções de planilha</topic>
+<topic id="scalc/text/scalc/01/04060110.xhp">Funções de texto</topic>
+<topic id="scalc/text/scalc/01/04060111.xhp">Funções de suplemento (add-in)</topic>
+<topic id="scalc/text/scalc/01/04060115.xhp">Funções de suplemento (add-in), lista das funções de análise - parte 1</topic>
+<topic id="scalc/text/scalc/01/04060116.xhp">Funções de suplemento (add-in), lista das funções de análise - parte 2</topic>
+
+<topic id="scalc/text/scalc/01/04060199.xhp">Operadores no %PRODUCTNAME Calc</topic>
+<topic id="scalc/text/scalc/guide/userdefined_function.xhp">Funções definidas pelo usuário</topic>
+		</node>
+		<node id="0804" title="Carregar, salvar, importar e exportar">
+<topic id="scalc/text/scalc/guide/webquery.xhp">Inserir dados externos em tabelas (Consulta na Web)</topic>
+<topic id="scalc/text/scalc/guide/html_doc.xhp">Salvar e abrir planilhas em HTML</topic>
+<topic id="scalc/text/scalc/guide/csv_formula.xhp">Importar e exportar arquivos de texto</topic>
+		</node>
+		<node id="0805" title="Formatação">
+<topic id="scalc/text/scalc/guide/text_rotate.xhp">Rotação de texto</topic>
+<topic id="scalc/text/scalc/guide/text_wrap.xhp">Escrever texto em várias linhas</topic>
+<topic id="scalc/text/scalc/guide/text_numbers.xhp">Formatar números como texto</topic>
+<topic id="scalc/text/scalc/guide/super_subscript.xhp">Texto sobrescrito / subscrito</topic>
+<topic id="scalc/text/scalc/guide/row_height.xhp">Alterar a altura da linha ou a largura da coluna</topic>
+<topic id="scalc/text/scalc/guide/cellstyle_conditional.xhp">Aplicar formatação condicional</topic>
+<topic id="scalc/text/scalc/guide/cellstyle_minusvalue.xhp">Realçar números negativos</topic>
+<topic id="scalc/text/scalc/guide/cellstyle_by_formula.xhp">Atribuir formatos por fórmula</topic>
+<topic id="scalc/text/scalc/guide/integer_leading_zero.xhp">Inserir números com zeros à esquerda</topic>
+<topic id="scalc/text/scalc/guide/format_table.xhp">Formatar documentos de planilhas</topic>
+<topic id="scalc/text/scalc/guide/format_value.xhp">Formatar números com decimais</topic>
+<topic id="scalc/text/scalc/guide/value_with_name.xhp">Nomear células</topic>
+<topic id="scalc/text/scalc/guide/table_rotate.xhp">Rotação de tabelas (transposição)</topic>
+<topic id="scalc/text/scalc/guide/rename_table.xhp">Renomear planilhas</topic>
+<topic id="scalc/text/scalc/guide/year2000.xhp">Anos 19xx/20xx</topic>
+<topic id="scalc/text/scalc/guide/rounding_numbers.xhp">Utilizar números arredondados</topic>
+<topic id="scalc/text/scalc/guide/currency_format.xhp">Células em formato monetário</topic>
+<topic id="scalc/text/scalc/guide/autoformat.xhp">Utilização de Autoformatação para tabelas</topic>
+<topic id="scalc/text/scalc/guide/note_insert.xhp">Inserir e editar anotações</topic>
+<topic id="scalc/text/scalc/guide/design.xhp">Selecionar temas para planilhas</topic>
+<topic id="scalc/text/scalc/guide/fraction_enter.xhp">Inserir frações </topic>
+		</node>
+		<node id="0806" title="Filtrar e classificar">
+<topic id="scalc/text/scalc/guide/filters.xhp">Aplicar filtros</topic>
+<topic id="scalc/text/scalc/guide/specialfilter.xhp">Filtro: Aplicar filtros avançados</topic>
+<!-- removed scalc/text/scalc/guide/standardfilter.xhp -->
+<topic id="scalc/text/scalc/guide/autofilter.xhp">Aplicar autofiltro</topic>
+<topic id="scalc/text/scalc/guide/sorted_list.xhp">Aplicar listas de classificação</topic>
+		</node>
+		<node id="0807" title="Impressão">
+<topic id="scalc/text/scalc/guide/print_title_row.xhp">Imprimir linhas ou colunas em todas as páginas</topic>
+<topic id="scalc/text/scalc/guide/print_landscape.xhp">Imprimir planilhas em formato de paisagem</topic>
+<topic id="scalc/text/scalc/guide/print_details.xhp">Imprimir detalhes da planilha</topic>
+<topic id="scalc/text/scalc/guide/print_exact.xhp">Definir número de páginas para a impressão</topic>
+		</node>
+		<node id="0808" title="Intervalos de dados">
+<topic id="scalc/text/scalc/guide/database_define.xhp">Definir intervalos de banco de dados</topic>
+<topic id="scalc/text/scalc/guide/database_filter.xhp">Filtrar intervalos de células </topic>
+<!-- removed scalc/text/scalc/guide/database_group.xhp -->
+<topic id="scalc/text/scalc/guide/database_sort.xhp">Classificar dados</topic>
+		</node>
+		<node id="0809" title="Tabela Dinâmica">
+<topic id="scalc/text/scalc/guide/datapilot.xhp">Tabela dinâmica</topic>
+<topic id="scalc/text/scalc/guide/datapilot_createtable.xhp">Criar tabelas dinâmicas</topic>
+<topic id="scalc/text/scalc/guide/datapilot_deletetable.xhp">Excluir tabelas dinâmicas</topic>
+<topic id="scalc/text/scalc/guide/datapilot_edittable.xhp">Editar tabelas dinâmicas</topic>
+<topic id="scalc/text/scalc/guide/datapilot_filtertable.xhp">Filtrar tabelas dinâmicas</topic>
+<topic id="scalc/text/scalc/guide/datapilot_tipps.xhp">Selecionar intervalos de saída da tabela dinâmica</topic>
+<topic id="scalc/text/scalc/guide/datapilot_updatetable.xhp">Atualizar tabelas dinâmicas</topic>
+		</node>
+		<node id="0810" title="Cenários">
+<topic id="scalc/text/scalc/guide/scenario.xhp">Utilizar cenários</topic>
+		</node>
+		<node id="0811" title="Referências">
+<topic id="scalc/text/scalc/guide/relativ_absolut_ref.xhp">Endereços e referências, absolutas e relativas</topic>
+<topic id="scalc/text/scalc/guide/cellreferences.xhp">Referenciar uma célula de outro documento</topic>
+<topic id="scalc/text/scalc/guide/cellreferences_url.xhp">Referências para outras planilhas e referenciar URLs</topic>
+<topic id="scalc/text/scalc/guide/cellreference_dragdrop.xhp">Referenciar células ao arrastar e soltar</topic>
+<topic id="scalc/text/scalc/guide/address_auto.xhp">Reconhecer nomes como endereço</topic>
+		</node>
+		<node id="0812" title="Exibir, selecionar e copiar">
+<topic id="scalc/text/scalc/guide/table_view.xhp">Alterar exibição de tabelas</topic>
+<topic id="scalc/text/scalc/guide/formula_value.xhp">Exibir fórmulas ou valores</topic>
+<topic id="scalc/text/scalc/guide/line_fix.xhp">Congelar linhas ou colunas como cabeçalhos</topic>
+<topic id="scalc/text/scalc/guide/multi_tables.xhp">Navegar através de guias de planilha</topic>
+<topic id="scalc/text/scalc/guide/edit_multitables.xhp">Copiar para várias planilhas</topic>
+<topic id="scalc/text/scalc/guide/cellcopy.xhp">Copiar somente das células visíveis</topic>
+<topic id="scalc/text/scalc/guide/mark_cells.xhp">Selecionar várias células</topic>
+		</node>
+		<node id="0813" title="Fórmulas e cálculos">
+<topic id="scalc/text/scalc/guide/formulas.xhp">Calcular com fórmulas</topic>
+<topic id="scalc/text/scalc/guide/formula_copy.xhp">Copiar fórmulas</topic>
+<topic id="scalc/text/scalc/guide/formula_enter.xhp">Inserir fórmulas</topic>
+<topic id="scalc/text/scalc/guide/formula_value.xhp">Exibir fórmulas ou valores</topic>
+<topic id="scalc/text/scalc/guide/calculate.xhp">Calcular em documentos de planilha</topic>
+<topic id="scalc/text/scalc/guide/calc_date.xhp">Cálculo com datas e horas</topic>
+<topic id="scalc/text/scalc/guide/calc_series.xhp">Cálculo automático de séries</topic>
+<topic id="scalc/text/scalc/guide/calc_timevalues.xhp">Calcular diferenças de tempo</topic>
+<topic id="scalc/text/scalc/guide/matrixformula.xhp">Inserir fórmulas de matriz</topic>
+		</node>
+		<node id="0814" title="Proteção">
+<topic id="scalc/text/scalc/guide/cell_protect.xhp">Proteger células contra alterações</topic>
+<topic id="scalc/text/scalc/guide/cell_unprotect.xhp">Desproteger células</topic>
+		</node>
+		<node id="0815" title="Diversos">
+<!-- removed scalc/text/scalc/guide/autofill.xhp -->
+<topic id="scalc/text/scalc/guide/auto_off.xhp">Desativar alterações automáticas</topic>
+<topic id="scalc/text/scalc/guide/consolidate.xhp">Consolidar dados</topic>
+<topic id="scalc/text/scalc/guide/goalseek.xhp">Atingir meta</topic>
+<topic id="scalc/text/scalc/guide/multioperation.xhp">Aplicar operações múltiplas</topic>
+<topic id="scalc/text/scalc/guide/multitables.xhp">Aplicar várias planilhas</topic>
+<topic id="scalc/text/scalc/guide/validity.xhp">Validade de conteúdo de células</topic>
+		</node>
+	</help_section>
+</tree_view>

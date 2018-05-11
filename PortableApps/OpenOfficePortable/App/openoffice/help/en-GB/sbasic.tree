@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+<tree_view version="24-Aug-2004">
+	<help_section application="sbasic" id="07" title="Macros and Programming">
+		<node id="0701" title="General Information and User Interface Usage">
+<topic id="sbasic/text/sbasic/shared/main0601.xhp">%PRODUCTNAME Basic Help</topic>
+<topic id="sbasic/text/sbasic/shared/01000000.xhp">Programming with %PRODUCTNAME Basic </topic>
+<topic id="sbasic/text/sbasic/shared/00000002.xhp">%PRODUCTNAME Basic Glossary</topic>
+<topic id="sbasic/text/sbasic/shared/01010210.xhp">Basics</topic>
+<topic id="sbasic/text/sbasic/shared/01020000.xhp">Syntax</topic>
+<topic id="sbasic/text/sbasic/shared/01050000.xhp">%PRODUCTNAME Basic IDE</topic>
+<topic id="sbasic/text/sbasic/shared/01030100.xhp">IDE Overview</topic>
+<topic id="sbasic/text/sbasic/shared/01030200.xhp">The Basic Editor</topic>
+<topic id="sbasic/text/sbasic/shared/01050100.xhp">Watch Window</topic>
+<topic id="sbasic/text/sbasic/shared/main0211.xhp">Macro Toolbar</topic>
+<topic id="sbasic/text/sbasic/shared/05060700.xhp">Macro</topic>
+		</node>
+		<node id="0702" title="Command Reference">
+<topic id="sbasic/text/sbasic/shared/01020300.xhp">Using Procedures and Functions</topic>
+<topic id="sbasic/text/sbasic/shared/01020500.xhp">Libraries, Modules and Dialogs</topic>
+			<node id="070202" title="Run-Time Functions, Statements, and Operators">
+<topic id="sbasic/text/sbasic/shared/03010000.xhp">Screen I/O Functions</topic>
+<topic id="sbasic/text/sbasic/shared/03020000.xhp">File I/O Functions</topic>
+<topic id="sbasic/text/sbasic/shared/03030000.xhp">Date and Time Functions</topic>
+<topic id="sbasic/text/sbasic/shared/03050000.xhp">Error-Handling Functions</topic>
+<topic id="sbasic/text/sbasic/shared/03060000.xhp">Logical Operators</topic>
+<topic id="sbasic/text/sbasic/shared/03070000.xhp">Mathematical Operators</topic>
+<topic id="sbasic/text/sbasic/shared/03080000.xhp">Numeric Functions</topic>
+<topic id="sbasic/text/sbasic/shared/03090000.xhp">Controlling Program Execution</topic>
+<topic id="sbasic/text/sbasic/shared/03100000.xhp">Variables</topic>
+<topic id="sbasic/text/sbasic/shared/03110000.xhp">Comparison Operators</topic>
+<topic id="sbasic/text/sbasic/shared/03120000.xhp">Strings</topic>
+<topic id="sbasic/text/sbasic/shared/03130000.xhp">Other Commands</topic>
+			</node>
+			<node id="070201" title="Alphabetical List of Functions, Statements, and Operators">
+<topic id="sbasic/text/sbasic/shared/03080601.xhp">Abs Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03060100.xhp">AND Operator [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03104200.xhp">Array Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03120101.xhp">Asc Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03080101.xhp">Atn Function [Runtime]</topic>
+<topic id="sbasic/text/sbasic/shared/03130100.xhp">Beep Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03010301.xhp">Blue Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03100100.xhp">CBool Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03120105.xhp">CByte Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03030108.xhp">CDateFromIso Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03030107.xhp">CDateToIso Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03100300.xhp">CDate Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03100400.xhp">CDbl Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03100500.xhp">CInt Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03100600.xhp">CLng Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03100900.xhp">CSng Function[Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03101000.xhp">CStr Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03090401.xhp">Call Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03020401.xhp">ChDir Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03020402.xhp">ChDrive Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03090402.xhp">Choose Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03120102.xhp">Chr Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03020101.xhp">Close Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03110100.xhp">Comparison Operators [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03100700.xhp">Const Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03120313.xhp">ConvertFromURL Function [Runtime]</topic>
+<topic id="sbasic/text/sbasic/shared/03120312.xhp">ConvertToURL Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03080102.xhp">Cos Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03131800.xhp">CreateUnoDialog Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03132000.xhp">CreateUnoListener Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03131600.xhp">CreateUnoService Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03131500.xhp">CreateUnoStruct Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03020403.xhp">CurDir Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03030101.xhp">DateSerial Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03030102.xhp">DateValue Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03030301.xhp">Date Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03030103.xhp">Day Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03090403.xhp">Declare Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03101100.xhp">DefBool Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03101300.xhp">DefDate Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03101400.xhp">DefDbl Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03101500.xhp">DefInt Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03101600.xhp">DefLng Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03101700.xhp">DefObj Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03102000.xhp">DefVar Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03104300.xhp">DimArray Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03102100.xhp">Dim Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03020404.xhp">Dir Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03090201.xhp">Do...Loop Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03110100.xhp">Comparison Operators [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03090404.xhp">End Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03130800.xhp">Environ Function [Runtime]</topic>
+<topic id="sbasic/text/sbasic/shared/03020301.xhp">Eof Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03104600.xhp">EqualUnoObjects Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03060200.xhp">Eqv Operator [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03050100.xhp">Erl Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03050200.xhp">Err Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03050300.xhp">Error Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03050000.xhp">Error-Handling Functions</topic>
+<topic id="sbasic/text/sbasic/shared/03090412.xhp">Exit Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03080201.xhp">Exp Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03020405.xhp">FileAttr Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03020406.xhp">FileCopy Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03020407.xhp">FileDateTime Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03020415.xhp">FileExists Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03020408.xhp">FileLen Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03103800.xhp">FindObject Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03103900.xhp">FindPropertyObject Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03080501.xhp">Fix Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03090202.xhp">For...Next Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03120301.xhp">Format Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03020102.xhp">FreeFile Function[Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03090405.xhp">FreeLibrary Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03090406.xhp">Function Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03090400.xhp">Further Statements</topic>
+<topic id="sbasic/text/sbasic/shared/03080300.xhp">Generating Random Numbers</topic>
+<topic id="sbasic/text/sbasic/shared/03020409.xhp">GetAttr Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03131700.xhp">GetProcessServiceManager Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03131000.xhp">GetSolarVersion Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03130700.xhp">GetSystemTicks Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03020201.xhp">Get Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03131900.xhp">GlobalScope [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03090301.xhp">GoSub...Return Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03090302.xhp">GoTo Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03010302.xhp">Green Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03104400.xhp">HasUnoInterfaces Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03080801.xhp">Hex Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03030201.xhp">Hour Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03090103.xhp">IIf Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03090101.xhp">If...Then...Else Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03060300.xhp">Imp Operator [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03120401.xhp">InStr Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03010201.xhp">InputBox Function [Runtime]</topic>
+<topic id="sbasic/text/sbasic/shared/03020202.xhp">Input# Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03080502.xhp">Int Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03102200.xhp">IsArray Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03102300.xhp">IsDate Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03102400.xhp">IsEmpty Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03104000.xhp">IsMissing function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03102600.xhp">IsNull Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03102700.xhp">IsNumeric Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03102800.xhp">IsObject Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03104500.xhp">IsUnoStruct Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03120315.xhp">Join Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03020410.xhp">Kill Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03102900.xhp">LBound Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03120302.xhp">LCase Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03120304.xhp">LSet Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03120305.xhp">LTrim Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03120303.xhp">Left Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03120402.xhp">Len Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03103100.xhp">Let Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03020203.xhp">Line Input # Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03020302.xhp">Loc Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03020303.xhp">Lof Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03080202.xhp">Log Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03120306.xhp">Mid Function, Mid Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03030202.xhp">Minute Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03020411.xhp">MkDir Statement [Runtime]</topic>
+<topic id="sbasic/text/sbasic/shared/03070600.xhp">Mod Operator [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03030104.xhp">Month Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03010102.xhp">MsgBox Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03010101.xhp">MsgBox Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03020412.xhp">Name Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03060400.xhp">Not Operator [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03030203.xhp">Now Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03080000.xhp">Numeric Functions</topic>
+<topic id="sbasic/text/sbasic/shared/03080802.xhp">Oct Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03050500.xhp">On Error GoTo ... Resume Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03090303.xhp">On...GoSub Statement; On...GoTo Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03020103.xhp">Open Statement[Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03103200.xhp">Option Base Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03103300.xhp">Option Explicit Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03104100.xhp">Optional (in Function Statement) [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03060500.xhp">Or Operator [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03010103.xhp">Print Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03103400.xhp">Public Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03020204.xhp">Put Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03010304.xhp">QBColor Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03010305.xhp">RGB Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03120308.xhp">RSet Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03120309.xhp">RTrim Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03080301.xhp">Randomise Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03102101.xhp">ReDim Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03010303.xhp">Red Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03090407.xhp">Rem Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03020104.xhp">Reset Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03120307.xhp">Right Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03020413.xhp">RmDir Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03080302.xhp">Rnd Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03030204.xhp">Second Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03020304.xhp">Seek Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03020305.xhp">Seek Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03090102.xhp">Select...Case Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03020414.xhp">SetAttr Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03103700.xhp">Set Statement[Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03080701.xhp">Sgn Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03130500.xhp">Shell Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03080103.xhp">Sin Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03120201.xhp">Space Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03120314.xhp">Split Function [Runtime]</topic>
+<topic id="sbasic/text/sbasic/shared/03080401.xhp">Sqr Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03080400.xhp">Square Root Calculation</topic>
+<topic id="sbasic/text/sbasic/shared/03103500.xhp">Static Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03090408.xhp">Stop Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03120403.xhp">StrComp Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03120103.xhp">Str Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03120202.xhp">String Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03090409.xhp">Sub Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03090410.xhp">Switch Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03080104.xhp">Tan Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03030205.xhp">TimeSerial Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03030206.xhp">TimeValue Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03030302.xhp">Time Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03030303.xhp">Timer Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03080100.xhp">Trigonometric Functions</topic>
+<topic id="sbasic/text/sbasic/shared/03120311.xhp">Trim Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03131300.xhp">TwipsPerPixelX Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03131400.xhp">TwipsPerPixelY Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03103600.xhp">TypeName Function; VarType Function[Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03103000.xhp">UBound Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03120310.xhp">UCase Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03120104.xhp">Val Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03130600.xhp">Wait Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03030105.xhp">WeekDay Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03090203.xhp">While...Wend Statement[Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03090411.xhp">With Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03020205.xhp">Write Statement [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03060600.xhp">Xor Operator [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03030106.xhp">Year Function [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03070100.xhp">"-" Operator [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03070200.xhp">"*" Operator [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03070300.xhp">"+" Operator [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03070400.xhp">"/" Operator [Run-time]</topic>
+<topic id="sbasic/text/sbasic/shared/03070500.xhp">"^" Operator [Run-time]</topic>
+			</node>
+			</node>
+		<node id="0703" title="Guides">
+<topic id="sbasic/text/sbasic/guide/control_properties.xhp">Changing the Properties of Controls in the Dialog Editor</topic>
+<topic id="sbasic/text/sbasic/guide/insert_control.xhp">Creating Controls in the Dialog Editor</topic>
+<topic id="sbasic/text/sbasic/guide/sample_code.xhp">Programming Examples for Controls in the Dialog Editor</topic>
+<topic id="sbasic/text/sbasic/guide/show_dialog.xhp">Opening a Dialog With Program Code</topic>
+<topic id="sbasic/text/sbasic/guide/create_dialog.xhp">Creating a Basic Dialog</topic>
+<topic id="sbasic/text/sbasic/shared/01030400.xhp">Organising Libraries and Modules</topic>
+<topic id="sbasic/text/sbasic/shared/01020100.xhp">Using Variables</topic>
+<topic id="sbasic/text/sbasic/shared/01020200.xhp">Using Objects</topic>
+<topic id="sbasic/text/sbasic/shared/01030300.xhp">Debugging a Basic Program</topic>
+<topic id="sbasic/text/sbasic/shared/01040000.xhp">Event-Driven Macros</topic>
+		</node>
+	</help_section>
+</tree_view>

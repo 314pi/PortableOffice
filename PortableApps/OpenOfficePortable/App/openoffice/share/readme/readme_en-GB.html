@@ -1,0 +1,108 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta>
+<style>
+			#Copyright_Trademark * {font-size: .7em;}
+			.note {border: 1px solid #993333; padding: 3px;}
+			p { margin-top: .1em; margin-bottom: .1em;}
+			.code {font-family: monospace;}
+		</style>
+</head>
+<body>
+<div id="Intro">
+<h1>OpenOffice 4.1.5 ReadMe</h1>
+<p>For latest updates to this readme file, see <a href="http://www.openoffice.org/welcome/readme.html">http://www.openoffice.org/welcome/readme.html</a></p>
+<p>This file contains important information about this program. Please read this information very carefully before starting work.</p>
+<p>The Apache OpenOffice Community, responsible for the development of this product, would like to invite you to participate as a community member. As a new user, you can check out the OpenOffice community site with helpful information at <a href="http://openoffice.apache.org">http://openoffice.apache.org</a></p>
+<p>Also read the sections below about getting involved in the Apache OpenOffice project.</p>
+<h3>Is OpenOffice really free for any user? </h3>
+<p>OpenOffice is free for use by everybody. You may take this copy of OpenOffice and install it on as many computers as you like, and use it for any purpose you like (including commercial, government, public administration and educational use). For further details see the licence text delivered together with OpenOffice or <a href="http://www.openoffice.org/license.html">http://www.openoffice.org/license.html</a></p>
+<h3>Why is OpenOffice free for any user?</h3>
+<p>You can use this copy of OpenOffice today free of charge because individual contributors and corporate sponsors have designed, developed, tested, translated, documented, supported, marketed, and helped in many other ways to make OpenOffice what it is today - the world's leading open-source office software.</p>
+<p>If you appreciate their efforts, and would like to ensure Apache OpenOffice continues into the future, please consider contributing to the project - see <a href="http://openoffice.apache.org/get-involved.html">http://openoffice.apache.org/get-involved.html</a> for details on contributing time and <a href="http://www.apache.org/foundation/contributing.html">http://www.apache.org/foundation/contributing.html</a> for details on donations. Everyone has a contribution to make.</p>
+</div>
+<div id="Installation">
+<h2>Notes on Installation</h2>
+<p class="note">OpenOffice requires a recent version of JAVA for full functionality; JAVA can be downloaded from <a href="http://java.com">http://java.com</a>.</p>
+<h3>System Requirements</h3>
+<div id="SystemRequirements_WIN">
+<ul>
+<li><p>Microsoft Windows XP, Vista, Windows 7 or Windows 8</p></li>
+<li><p>Pentium III or later processor</p></li>
+<li><p>256 MB RAM (512 MB RAM recommended)</p></li>
+<li><p>Up to 1.5 GB available hard diskcspace</p></li>
+<li><p>1024x768 resolution (higher resolution recommended), at least 256 colours</p></li>
+</ul>
+<p class="note">Please be aware that administrator rights are needed for the installation process.</p>
+<p>Registration of OpenOffice as default application for Microsoft Office formats can be forced or suppressed by using the following command line switches with the installer:</p>
+<ul>
+<li><p><tt>/msoreg=1</tt> will force registration of OpenOffice as default application for Microsoft Office formats.</p></li>
+<li><p><tt>/msoreg=0</tt> will suppress registration of OpenOffice as default application for Microsoft Office formats.</p></li>
+</ul>
+<p>If you perform an administrative installation using setup /a, you need to make sure that the file msvcr100.dll is installed on the system. This file is required for OpenOffice to start after an administrative installation. You can get the file from <a href="http://www.microsoft.com/en-us/download/details.aspx?id=5555">http://www.microsoft.com/en-us/download/details.aspx?id=5555</a></p>
+<p class="note">Please be aware that administrator rights are needed for the installation process.</p>
+</div>
+<p>Please make sure you have enough free memory in the temporary directory on your system and that read, write and run access rights have been granted. Close all other programs before starting the installation.</p>
+</div>
+<div id="StartupProblems">
+<h2>Problems During Program Start-up</h2>
+<p>Difficulties starting OpenOffice (e.g. applications hang) as well as problems with the screen display are often caused by the graphics card driver. If these problems occur, please update your graphics card driver or try using the graphics driver delivered with your operating system. Difficulties displaying 3D objects can often be solved by deactivating the option "Use OpenGL" under 'Tools - Options - OpenOffice - View - 3D view'.</p>
+</div>
+<div id="Scroll">
+<h2>ALPS/Synaptics notebook touchpads in Windows</h2>
+<p>Due to a Windows driver issue, you cannot scroll through OpenOffice documents when you slide your finger across an ALPS/Synaptics touchpad.</p>
+<p>To enable touchpad scrolling, add the following lines to the "<tt>C:\Program Files\Synaptics\SynTP\SynTPEnh.ini</tt>" configuration file, and restart your computer:</p>
+<p class="code">[OpenOffice]</p>
+<p class="code">FC = "SALFRAME"</p>
+<p class="code">SF = 0x10000000</p>
+<p class="code">SF |= 0x00004000</p>
+<p class="note">The location of the configuration file might vary on different versions of Windows.</p>
+</div>
+<div id="Keyboard">
+<h2>Shortcut Keys</h2>
+<p>Only shortcut keys (key combinations) not used by the operating system can be used in OpenOffice. If a key combination in OpenOffice does not work as described in the OpenOffice Help, check if that shortcut is already used by the operating system. To rectify such conflicts, you can change the keys assigned by your operating system. Alternatively, you can change almost any key assignment in OpenOffice. For more information on this topic, refer to the OpenOffice Help or the Help documention of your operating system.</p>
+</div>
+<div id="Mapi">
+<h2>Problems When Sending Documents as E-mails From OpenOffice</h2>
+<p>When sending a document via 'File - Send - Document as E-mail' or 'Document as PDF Attachment' problems might occur (program crashes or hangs). This is due to the Windows system file "Mapi" (Messaging Application Programming Interface) which causes problems in some file versions. Unfortunately, the problem cannot be narrowed down to a certain version number. For more information visit <a href="http://www.microsoft.com">http://www.microsoft.com</a> to search the Microsoft Knowledge Base for "mapi dll".</p>
+</div>
+<div id="A11y">
+<h2>Important Accessibility Notes</h2>
+<p>For more information on the accessibility features in OpenOffice, see <a href="http://www.openoffice.org/access/">http://www.openoffice.org/access/</a></p>
+</div>
+<div id="UserSupport">
+<h2>User Support</h2>
+<p>The main support page <a href="http://support.openoffice.org/">http://support.openoffice.org/</a> offers various possibilities for help with OpenOffice. Your question may have already been answered - check the Community Forum at <a href="http://forum.openoffice.org">http://forum.openoffice.org</a> or search the archives of the 'users@openoffice.apache.org' mailing list at <a href="http://openoffice.apache.org/mailing-lists.html">http://openoffice.apache.org/mailing-lists.html</a>. Alternatively, you can send in your questions to <a href="mailto:users@openoffice.apache.org">users@openoffice.apache.org</a>. How to subscribe to the list (to get an email response) is explained on this page: <a href="http://openoffice.apache.org/mailing-lists.html">http://openoffice.apache.org/mailing-lists.html</a>.</p>
+<p>Also check the FAQ section at <a href="http://wiki.openoffice.org/wiki/Documentation/FAQ">http://wiki.openoffice.org/wiki/Documentation/FAQ</a>.</p>
+</div>
+<div id="ReportBugsIssues">
+<h2>Reporting Bugs &amp; Issues</h2>
+<p>The OpenOffice Web site hosts <a href="https://issues.apache.org/ooo/">BugZilla</a>, our mechanism for reporting, tracking and solving bugs and issues. We encourage all users to feel entitled and welcome to report issues that may arise on your particular platform. Energetic reporting of issues is one of the most important contributions that the user community can make to the ongoing development and improvement of the suite.</p>
+</div>
+<div id="GettingInvolved">
+<h2>Getting Involved</h2>
+<p>The OpenOffice Community would very much benefit from your active participation in the development of this important open source project.</p>
+<p>As a user, you are already a valuable part of the suite's development process and we would like to encourage you to take an even more active role with a view to being a long-term contributor to the community. Please join and check out the user page at <a href="http://openoffice.apache.org/get-involved.html">http://openoffice.apache.org/get-involved.html</a></p>
+<h3>How to Start</h3>
+<p>The best way to start contributing is to subscribe to one or more of the mailing lists, lurk for a while, and gradually use the mail archives to familiarize yourself with many of the topics covered since the OpenOffice source code was released back in October 2000. When you're comfortable, all you need to do is send an email self-introduction and jump right in.</p>
+<h3>Subscribe</h3>
+<p>Here are a few of the OpenOffice mailing lists to which you can subscribe at <a href="http://openoffice.apache.org/mailing-lists.html">http://openoffice.apache.org/mailing-lists.html</a></p>
+<ul>
+<li><p>News: announce@openoffice.apache.org *recommended to all users* (light traffic)</p></li>
+<li><p>Main user forum: users@openoffice.apache.org *easy way to lurk on discussions* (heavy traffic)</p></li>
+<li><p>General project development and discussion list: dev@openoffice.apache.org (heavy traffic)</p></li>
+</ul>
+<h3>Joining the Project</h3>
+<p>You can make major contributions to this important open source project even if you have limited software design or coding experience. Yes, you!</p>
+<p>At <a href="http://openoffice.apache.org/get-involved.html">http://openoffice.apache.org/get-involved.html</a> you will find a first overview where you can start with, ranging from Localization, QA, user support to some real core coding projects. If you are not a developer, you can help with Documentation or Marketing, for example. The OpenOffice marketing is applying both guerrilla and traditional commercial techniques to marketing open source software, and we are doing it across language and cultural barriers, so you can help just by spreading the word and telling a friend about this office suite.</p>
+<p>You can help by joining the marketing mailing list marketing@openoffice.apache.org where you can provide point communication contact with press, media, government agencies, consultants, schools, Linux Users Groups and developers in your country and local community.</p>
+</div>
+<div id="Credits">
+<p>We hope you enjoy working with the new OpenOffice 4.1.5 and will join us on-line.</p>
+<p>The Apache OpenOffice Community</p>
+</div>
+<div id="ModifiedSourceCode"></div>
+</body>
+</html>

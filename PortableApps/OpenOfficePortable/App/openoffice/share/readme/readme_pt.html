@@ -1,0 +1,108 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta>
+<style>
+			#Copyright_Trademark * {font-size: .7em;}
+			.note {border: 1px solid #993333; padding: 3px;}
+			p { margin-top: .1em; margin-bottom: .1em;}
+			.code {font-family: monospace;}
+		</style>
+</head>
+<body>
+<div id="Intro">
+<h1>ReadMe do OpenOffice 4.1.5</h1>
+<p>Para as últimas atualizações a este ficheiro Leia-me, consultar <a href="http://www.openoffice.org/welcome/readme.html">http://www.openoffice.org/welcome/readme.html</a></p>
+<p>Este ficheiro contém informações importantes sobre este programa. Leia estas informações com muito cuidado antes de começar a trabalhar.</p>
+<p>A Comunidade Apache OpenOffice, responsável pelo desenvolvimento deste produto, gostaria de convidá-lo a participar como membro da comunidade. Como novo utilizador, pode consultar o site do OpenOffice com informações úteis em <a href="http://openoffice.apache.org">http://openoffice.apache.org</a></p>
+<p>Leia também as secções abaixo sobre como participar no projeto Apache OpenOffice.</p>
+<h3>O OpenOffice é realmente gratuito para qualquer utilizador? </h3>
+<p>A utilização do OpenOffice é gratuita para todos. Pode instalar esta cópia do OpenOffice em quantos computadores quiser e utilizá-la para os fins que quiser (incluindo a utilização comercial, estatal, para administração pública e educação). Para obter mais detalhes, consulte a licença incluída com o OpenOffice ou <a href="http://www.openoffice.org/license.html">http://www.openoffice.org/license.html</a></p>
+<h3>Por que motivo o OpenOffice é gratuito para qualquer utilizador?</h3>
+<p>Pode utilizar esta cópia do OpenOffice hoje gratuitamente, graças aos contribuidores individuais e patrocinadores empresariais que criaram, desenvolveram, testaram, traduziram, documentaram, apoiaram, comercializaram e ajudaram de muitas outras formas a fazer do OpenOffice aquilo que este representa hoje em dia - um programa de produtividade de código aberto, líder em todo o mundo.</p>
+<p>Se aprecia os seus esforços, e quer garantir a continuidade do projeto Apache OpenOffice, por favor considere contribuir - veja <a href="http://openoffice.apache.org/get-involved.html">http://openoffice.apache.org/get-involved.html</a> para detalhes sobre como contribuir com o seu tempo e <a href="http://www.apache.org/foundation/contributing.html">http://www.apache.org/foundation/contributing.html</a> para detalhes sobre donativos. Todos temos uma pequena contribuição a fazer.</p>
+</div>
+<div id="Installation">
+<h2>Notas sobre a instalação</h2>
+<p class="note">OpenOffice requere uma versão mais recente do JAVA para uma funcionalidade completa; o JAVA pode ser transferido aqui <a href="http://java.com">http://java.com</a>.</p>
+<h3>Requisitos do Sistema</h3>
+<div id="SystemRequirements_WIN">
+<ul>
+<li><p>Microsoft Windows XP, Vista, Windows 7 ou Windows 8</p></li>
+<li><p>Processador Pentium III ou superior</p></li>
+<li><p>256 MB RAM (recomendado 512 MB RAM)</p></li>
+<li><p>Até 1,5 GB de espaço disponível no disco rígido</p></li>
+<li><p>Resolução de 1024x768 (resolução superior recomendada), com pelo menos 256 cores</p></li>
+</ul>
+<p class="note">Tenha em atenção que necessita possuir direitos de administrador para o processo de instalação.</p>
+<p>O registo do OpenOffice como aplicação predefinida para formatos do Microsoft Office pode ser forçado ou suprimido utilizando os seguintes parâmetros da linha de comandos com o programa de instalação:</p>
+<ul>
+<li><p><tt>/msoreg=1</tt> vai forçar o registo do OpenOffice como aplicação predefinida para o formato Microsoft Office.</p></li>
+<li><p><tt>/msoreg=0</tt> vai eliminar o registo do OpenOffice como aplicação predefinida para os formatos Microsoft Office.</p></li>
+</ul>
+<p>Se realizar uma instalação de administrador com a configuração /a, será necessário certificar-se que o ficheiro msvcr100.dll está instalado no sistema. Este ficheiro é necessário para que o OpenOffice inicie após uma instalação de administrador. Pode obter o ficheiro em <a href="http://www.microsoft.com/en-us/download/details.aspx?id=5555">http://www.microsoft.com/en-us/download/details.aspx?id=5555</a></p>
+<p class="note">Tenha em atenção que necessita possuir direitos de administrador para o processo de instalação.</p>
+</div>
+<p>Certifique-se que dispõe de memória livre suficiente na pasta temporária do sistema e que foram concedidos direitos de acesso de leitura, escrita e de execução. Feche todos os outros programas antes de iniciar a instalação.</p>
+</div>
+<div id="StartupProblems">
+<h2>Problemas durante o arranque do programa</h2>
+<p>Normalmente, as dificuldades em iniciar o OpenOffice (por exemplo, bloqueio das aplicações) bem como problemas na apresentação dos ecrãs são originados pelo controlador da placa gráfica. Se estes problemas ocorrerem, atualize o controlador da placa gráfica ou tente utilizar o controlador fornecido com o sistema operativo. Dificuldades na apresentação de objetos 3D são normalmente resolvidas através da desativação da opção "Utilizar OpenGL" em 'Ferramentas - Opções - OpenOffice - Ver - Vista 3D'.</p>
+</div>
+<div id="Scroll">
+<h2>Painéis tácteis de portáteis ALPS/Synaptics no Windows</h2>
+<p>Devido a um problema do controlador do Windows, não é possível percorrer documentos do OpenOffice deslizando com o dedo no painel táctil do ALPS/Synaptics.</p>
+<p>Para ativar o deslocamento no painel táctil, adicione as seguintes linhas ao ficheiro de configuração "<tt>C:\Program Files\Synaptics\SynTP\SynTPEnh.ini</tt>" e reinicie o computador:</p>
+<p class="code">[OpenOffice]</p>
+<p class="code">FC = "SALFRAME"</p>
+<p class="code">SF = 0x10000000</p>
+<p class="code">SF |= 0x00004000</p>
+<p class="note">A localização do ficheiro de configuração pode variar em várias versões diferentes do Windows.</p>
+</div>
+<div id="Keyboard">
+<h2>Teclas de atalho</h2>
+<p>Só pode utilizar teclas de atalho (combinações de teclas) não utilizadas pelo sistema operativo no OpenOffice. Se uma combinação de teclas do OpenOffice não funciona como descrito na Ajuda do OpenOffice, verifique se o atalho já a está a ser utilizado pelo sistema operativo. Pode alterar as teclas atribuídas pelo seu sistema operativo para retificar estes conflitos. Em alternativa, pode alterar quase qualquer atribuição de tecla no OpenOffice. Para mais informações sobre este tópico, consulte a Ajuda do OpenOffice ou a documentação de Ajuda do seu sistema operativo.</p>
+</div>
+<div id="Mapi">
+<h2>Problemas ao enviar documentos como correio eletrónico a partir do OpenOffice</h2>
+<p>Quando enviar um documento através de 'Ficheiro - Enviar - Documento como correio eletrónico' ou 'Documento como PDF anexo' podem ocorrer problemas (falha ou bloqueio do programa). Isto deve-se ao sistema de ficheiros do Windows "Mapi" (Messaging Application programming Interface) que causa problemas em algumas versões de ficheiros. Infelizmente, não foi possível restringir o problema a um número de versão específico. Para mais informações, consulte <a href="http://www.microsoft.com">http://www.microsoft.com</a> para pesquisar a Base de conhecimento da Microsoft por "mapi.dll".</p>
+</div>
+<div id="A11y">
+<h2>Notas importantes de acessibilidade</h2>
+<p>Para mais informações sobre as funcionalidades de acessibilidade do OpenOffice, consulte <a href="http://www.openoffice.org/access/">http://www.openoffice.org/access/</a></p>
+</div>
+<div id="UserSupport">
+<h2>Assistência técnica</h2>
+<p>A página principal de apoio <a href="http://support.openoffice.org/">http://support.openoffice.org/</a> oferece várias possibilidades de ajuda para o OpenOffice. A sua dúvida pode já ter sido esclarecida - verifique o Fórum da Comunidade em <a href="http://forum.openoffice.org">http://forum.openoffice.org</a> ou procure nos arquivos da lista 'users@openoffice.apache.org' em <a href="http://openoffice.apache.org/mailing-lists.html">http://openoffice.apache.org/mailing-lists.html</a>. Em alternativa, pode enviar as suas dúvidas para <a href="mailto:users@openoffice.apache.org">users@openoffice.apache.org</a>. Consulte esta página: <a href="http://openoffice.apache.org/mailing-lists.html">http://openoffice.apache.org/mailing-lists.html</a>.</p>
+<p>Consulte também as FAQ's em <a href="http://wiki.openoffice.org/wiki/Documentation/FAQ">http://wiki.openoffice.org/wiki/Documentation/FAQ</a>.</p>
+</div>
+<div id="ReportBugsIssues">
+<h2>Reportar erros e problemas</h2>
+<p>A página Web do OpenOffice integra o <a href="https://issues.apache.org/ooo/">BugZilla</a>, o nosso mecanismo de comunicação, seguimento e resolução de erros e problemas. Encorajamos todos os utilizadores a comunicarem questões eventualmente ocorridas na plataforma em utilização. A comunicação ativa de problemas constitui um dos contributos mais importantes da comunidade de utilizadores para o desenvolvimento e aperfeiçoamento contínuo do conjunto de programas.</p>
+</div>
+<div id="GettingInvolved">
+<h2>Demonstração de interesse</h2>
+<p>A comunidade do OpenOffice beneficiará bastante com a sua participação ativa no desenvolvimento deste importante projeto de código aberto.</p>
+<p>Na qualidade de utilizador constitui já¡ uma parte importante do processo de desenvolvimento deste conjunto de programas e gostaríamos de encorajá-lo a ter um papel ainda mais ativo como contribuidor desta comunidade a longo prazo. Participe e consulte a página de utilizadores em: <a href="http://openoffice.apache.org/get-involved.html">http://openoffice.apache.org/get-involved.html</a></p>
+<h3>Iniciar</h3>
+<p>A melhor maneira de começar a contribuir é subscrever uma das listas de correio eletrónico, bisbilhotar um pouco e, gradualmente, familiarizar-se com os muitos tópicos existentes desde que o código-fonte do OpenOffice foi publicado em Outubro de 2000. Quando se sentir confortável, envie uma mensagem a apresentar-se e comece a ajudar.</p>
+<h3>Subscrever</h3>
+<p>Eis algumas das listas de correio do OpenOffice que pode subscrever em <a href="http://openoffice.apache.org/mailing-lists.html">http://openoffice.apache.org/mailing-lists.html</a></p>
+<ul>
+<li><p>Novidades: announce@openoffice.apache.org *recomendado para todos os utilizadores* (tráfego ligeiro)</p></li>
+<li><p>Fórum principal dos utilizadores: users@openoffice.apache.org *um modo fácil de participar nas discussões* (tráfego intenso)</p></li>
+<li><p>Lista geral de desenvolvimento e discussão do projeto: dev@openoffice.apache.org (tráfego elevado)</p></li>
+</ul>
+<h3>Aderir ao projeto</h3>
+<p>Poderá contribuir de forma significativa para este importante projeto de código aberto, mesmo se tiver uma conceção de programas limitada ou pouca experiência em programação. Sim, você mesmo!</p>
+<p>Em <a href="http://openoffice.apache.org/get-involved.html">http://openoffice.apache.org/get-involved.html</a> encontrará projetos de localização, QA e até projetos de programação mais complexos. Se não for um programador, pode ajudar com a documentação ou o projeto de marketing. O marketing do OpenOffice aplica técnicas comerciais agressivas e tradicionais para publicitar programas de código aberto, através das barreiras culturais e linguísticas, pelo que o utilizador pode ajudar bastando só passar a palavra e informar um amigo acerca deste programa de produtividade.</p>
+<p>Pode ajudar juntando-se à lista de Publicidade marketing@openoffice.apache.org onde poderá fornecer contactos para comunicação com a imprensa, os média, Estado, consultores, escolas, grupos de utilizadores Linux, etc, no seu País e comunidade local.</p>
+</div>
+<div id="Credits">
+<p>Esperamos que o novo OpenOffice 4.1.5 corresponda às suas expetativas e que se junte a nós online.</p>
+<p>A Comunidade Apache OpenOffice</p>
+</div>
+<div id="ModifiedSourceCode"></div>
+</body>
+</html>

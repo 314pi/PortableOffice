@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+<tree_view version="24-Aug-2004">
+	<help_section application="scalc" id="08" title="Электронные таблицы">
+		<node id="0801" title="Общие сведения и использование пользовательского интерфейса">
+<topic id="scalc/text/scalc/main0000.xhp">Справка по %PRODUCTNAME Calc</topic>
+<topic id="scalc/text/scalc/main0503.xhp">Функции %PRODUCTNAME Calc</topic>
+<topic id="scalc/text/scalc/guide/keyboard.xhp">Сочетания клавиш (специальные возможности %PRODUCTNAME Calc)</topic>
+<topic id="scalc/text/scalc/04/01020000.xhp">Сочетания клавиш для электронных таблиц</topic>
+<topic id="scalc/text/scalc/05/02140000.xhp">Коды ошибок в %PRODUCTNAME Calc</topic>
+<topic id="scalc/text/scalc/01/04060112.xhp">Надстройка для программирования в %PRODUCTNAME Calc</topic>
+<topic id="scalc/text/scalc/guide/main.xhp">Инструкции по использованию %PRODUCTNAME Calc</topic>
+		</node>
+		<node id="0802" title="Справочник по командам и меню">
+			<node id="080201" title="Меню">
+<topic id="scalc/text/scalc/main0100.xhp">Меню</topic>
+<topic id="scalc/text/scalc/main0101.xhp">Файл</topic>
+<topic id="scalc/text/scalc/main0102.xhp">Изменить</topic>
+<topic id="scalc/text/scalc/main0103.xhp">Вид</topic>
+<topic id="scalc/text/scalc/main0104.xhp">Вставка</topic>
+<topic id="scalc/text/scalc/main0105.xhp">Формат</topic>
+<topic id="scalc/text/scalc/main0106.xhp">Сервис</topic>
+<topic id="scalc/text/scalc/main0107.xhp">Окно</topic>
+<topic id="scalc/text/scalc/main0112.xhp">Данные</topic>
+			</node>
+			<node id="080202" title="Панели инструментов">
+<topic id="scalc/text/scalc/main0200.xhp">Панели инструментов</topic>
+<topic id="scalc/text/scalc/main0202.xhp">Панель форматирования</topic>
+<topic id="scalc/text/scalc/main0203.xhp">Панель свойств рисованного объекта</topic>
+<topic id="scalc/text/scalc/main0205.xhp">Панель форматирования текста</topic>
+<topic id="scalc/text/scalc/main0206.xhp">Панель формул</topic>
+<topic id="scalc/text/scalc/main0208.xhp">Строка состояния</topic>
+<topic id="scalc/text/scalc/main0210.xhp">Панель предварительного просмотра</topic>
+<topic id="scalc/text/scalc/main0214.xhp">Панель графических объектов</topic>
+<topic id="scalc/text/scalc/main0218.xhp">Главная панель инструментов</topic>
+<topic id="shared/text/shared/main0201.xhp">Стандартная панель</topic>
+<topic id="shared/text/shared/main0209.xhp">Панель гиперссылки</topic>
+<topic id="shared/text/shared/main0212.xhp">Панель таблицы данных</topic>
+<topic id="shared/text/shared/main0213.xhp">Панель "Навигатор форм"</topic>
+<topic id="shared/text/shared/main0214.xhp">Панель конструктора запросов</topic>
+<topic id="shared/text/shared/main0226.xhp">Панель инструментов конструктора форм</topic>
+			</node>
+		</node>
+		<node id="0803" title="Типы функций и операторы">
+<topic id="scalc/text/scalc/01/04060000.xhp">Мастер функций</topic>
+<topic id="scalc/text/scalc/01/04060100.xhp">Функции по категориям</topic>
+<topic id="scalc/text/scalc/01/04060101.xhp">Функции базы данных</topic>
+<topic id="scalc/text/scalc/01/04060102.xhp">Функции даты и времени</topic>
+<topic id="scalc/text/scalc/01/04060103.xhp">Финансовые функции (часть первая)</topic>
+<topic id="scalc/text/scalc/01/04060119.xhp">Финансовые функции (часть вторая)</topic>
+<topic id="scalc/text/scalc/01/04060118.xhp">Финансовые функции (часть третья)</topic>
+<topic id="scalc/text/scalc/01/04060104.xhp">Функции информации</topic>
+<topic id="scalc/text/scalc/01/04060105.xhp">Логические функции</topic>
+<topic id="scalc/text/scalc/01/04060106.xhp">Математические функции</topic>
+<topic id="scalc/text/scalc/01/04060107.xhp">Функции массива</topic>
+<topic id="scalc/text/scalc/01/04060108.xhp">Статистические функции</topic>
+<topic id="scalc/text/scalc/01/04060181.xhp">Статистические функции (часть первая)</topic>
+<topic id="scalc/text/scalc/01/04060182.xhp">Статистические функции (часть вторая)</topic>
+<topic id="scalc/text/scalc/01/04060183.xhp">Статистические функции (часть третья)</topic>
+<topic id="scalc/text/scalc/01/04060184.xhp">Статистические функции (часть четвертая)</topic>
+<topic id="scalc/text/scalc/01/04060185.xhp">Статистические функции (часть пятая)</topic>
+<topic id="scalc/text/scalc/01/04060109.xhp">Функции электронных таблиц</topic>
+<topic id="scalc/text/scalc/01/04060110.xhp">Текстовые функции</topic>
+<topic id="scalc/text/scalc/01/04060111.xhp">Функции надстроек</topic>
+<topic id="scalc/text/scalc/01/04060115.xhp">Функции надстроек, список функций для анализа (часть первая)</topic>
+<topic id="scalc/text/scalc/01/04060116.xhp">Функции надстроек, список функций для анализа (часть вторая)</topic>
+
+<topic id="scalc/text/scalc/01/04060199.xhp">Знаки математических операций в %PRODUCTNAME Calc</topic>
+<topic id="scalc/text/scalc/guide/userdefined_function.xhp">Пользовательские функции</topic>
+		</node>
+		<node id="0804" title="Загрузка, сохранение, импорт и экспорт">
+<topic id="scalc/text/scalc/guide/webquery.xhp">Вставка внешних данных в таблицу (веб-запрос)</topic>
+<topic id="scalc/text/scalc/guide/html_doc.xhp">Сохранение и открытие листов в HTML</topic>
+<topic id="scalc/text/scalc/guide/csv_formula.xhp">Импорт и экспорт текстовых файлов</topic>
+		</node>
+		<node id="0805" title="Форматирование">
+<topic id="scalc/text/scalc/guide/text_rotate.xhp">Вращение текста</topic>
+<topic id="scalc/text/scalc/guide/text_wrap.xhp">Ввод многострочного текста</topic>
+<topic id="scalc/text/scalc/guide/text_numbers.xhp">Форматирование чисел как текста</topic>
+<topic id="scalc/text/scalc/guide/super_subscript.xhp">Надстрочный/подстрочный текст</topic>
+<topic id="scalc/text/scalc/guide/row_height.xhp">Изменение высоты строки или ширины столбца</topic>
+<topic id="scalc/text/scalc/guide/cellstyle_conditional.xhp">Применение условного форматирования</topic>
+<topic id="scalc/text/scalc/guide/cellstyle_minusvalue.xhp">Выделение отрицательных чисел</topic>
+<topic id="scalc/text/scalc/guide/cellstyle_by_formula.xhp">Задание форматов формулой</topic>
+<topic id="scalc/text/scalc/guide/integer_leading_zero.xhp">Ввод числа с начальными нулями</topic>
+<topic id="scalc/text/scalc/guide/format_table.xhp">Форматирование электронных таблиц</topic>
+<topic id="scalc/text/scalc/guide/format_value.xhp">Форматирование чисел со знаками после запятой</topic>
+<topic id="scalc/text/scalc/guide/value_with_name.xhp">Присвоение имен ячейкам</topic>
+<topic id="scalc/text/scalc/guide/table_rotate.xhp">Вращение таблиц (транспонирование)</topic>
+<topic id="scalc/text/scalc/guide/rename_table.xhp">Переименование листов</topic>
+<topic id="scalc/text/scalc/guide/year2000.xhp">19xx/20xx годы</topic>
+<topic id="scalc/text/scalc/guide/rounding_numbers.xhp">Использование округленных значений</topic>
+<topic id="scalc/text/scalc/guide/currency_format.xhp">Ячейки в денежном формате</topic>
+<topic id="scalc/text/scalc/guide/autoformat.xhp">Использование автоформата для таблиц</topic>
+<topic id="scalc/text/scalc/guide/note_insert.xhp">Вставка и изменение комментариев</topic>
+<topic id="scalc/text/scalc/guide/design.xhp">Выбор тем для листов</topic>
+<topic id="scalc/text/scalc/guide/fraction_enter.xhp">Ввод простых дробей </topic>
+		</node>
+		<node id="0806" title="Фильтрация и сортировка">
+<topic id="scalc/text/scalc/guide/filters.xhp">Применение фильтров</topic>
+<topic id="scalc/text/scalc/guide/specialfilter.xhp">Фильтр. Применение расширенных фильтров</topic>
+<!-- removed scalc/text/scalc/guide/standardfilter.xhp -->
+<topic id="scalc/text/scalc/guide/autofilter.xhp">Применение автофильтра</topic>
+<topic id="scalc/text/scalc/guide/sorted_list.xhp">Применение списков сортировки</topic>
+		</node>
+		<node id="0807" title="Печать">
+<topic id="scalc/text/scalc/guide/print_title_row.xhp">Печать строк или столбцов на каждой странице</topic>
+<topic id="scalc/text/scalc/guide/print_landscape.xhp">Печать листов в альбомном формате</topic>
+<topic id="scalc/text/scalc/guide/print_details.xhp">Печать параметров листа</topic>
+<topic id="scalc/text/scalc/guide/print_exact.xhp">Определение числа печатаемых страниц </topic>
+		</node>
+		<node id="0808" title="Диапазоны данных">
+<topic id="scalc/text/scalc/guide/database_define.xhp">Определение диапазонов баз данных</topic>
+<topic id="scalc/text/scalc/guide/database_filter.xhp">Фильтрация диапазонов ячеек </topic>
+<!-- removed scalc/text/scalc/guide/database_group.xhp -->
+<topic id="scalc/text/scalc/guide/database_sort.xhp">Сортировка данных </topic>
+		</node>
+		<node id="0809" title="Сводная таблица">
+<topic id="scalc/text/scalc/guide/datapilot.xhp">Pivot Table</topic>
+<topic id="scalc/text/scalc/guide/datapilot_createtable.xhp">Creating Pivot Tables</topic>
+<topic id="scalc/text/scalc/guide/datapilot_deletetable.xhp">Deleting Pivot Tables</topic>
+<topic id="scalc/text/scalc/guide/datapilot_edittable.xhp">Editing Pivot Tables</topic>
+<topic id="scalc/text/scalc/guide/datapilot_filtertable.xhp">Filtering Pivot Tables</topic>
+<topic id="scalc/text/scalc/guide/datapilot_tipps.xhp">Selecting Pivot Table Output Ranges</topic>
+<topic id="scalc/text/scalc/guide/datapilot_updatetable.xhp">Updating Pivot Tables</topic>
+		</node>
+		<node id="0810" title="Сценарии">
+<topic id="scalc/text/scalc/guide/scenario.xhp">Using Scenarios</topic>
+		</node>
+		<node id="0811" title="Ссылки">
+<topic id="scalc/text/scalc/guide/relativ_absolut_ref.xhp">Адреса и ссылки, абсолютные и относительные</topic>
+<topic id="scalc/text/scalc/guide/cellreferences.xhp">Ссылка на ячейку другого документа</topic>
+<topic id="scalc/text/scalc/guide/cellreferences_url.xhp">Ссылки на другие листы и ссылки на URL-адреса</topic>
+<topic id="scalc/text/scalc/guide/cellreference_dragdrop.xhp">Ссылка на ячейки путем перетаскивания</topic>
+<topic id="scalc/text/scalc/guide/address_auto.xhp">Распознавание имен при адресации</topic>
+		</node>
+		<node id="0812" title="Просмотр, выбор, копирование">
+<topic id="scalc/text/scalc/guide/table_view.xhp">Изменение представлений таблицы</topic>
+<topic id="scalc/text/scalc/guide/formula_value.xhp">Отображение формул или значений</topic>
+<topic id="scalc/text/scalc/guide/line_fix.xhp">Закрепление строк и столбцов в качестве заголовков</topic>
+<topic id="scalc/text/scalc/guide/multi_tables.xhp">Переходы по ярлычкам листов</topic>
+<topic id="scalc/text/scalc/guide/edit_multitables.xhp">Копирование нескольких листов</topic>
+<topic id="scalc/text/scalc/guide/cellcopy.xhp">Копирование только видимых ячеек</topic>
+<topic id="scalc/text/scalc/guide/mark_cells.xhp">Выделение нескольких ячеек</topic>
+		</node>
+		<node id="0813" title="Формулы и вычисления">
+<topic id="scalc/text/scalc/guide/formulas.xhp">Вычисления по формулам</topic>
+<topic id="scalc/text/scalc/guide/formula_copy.xhp">Копирование формул</topic>
+<topic id="scalc/text/scalc/guide/formula_enter.xhp">Ввод формул </topic>
+<topic id="scalc/text/scalc/guide/formula_value.xhp">Отображение формул или значений</topic>
+<topic id="scalc/text/scalc/guide/calculate.xhp">Вычисления в электронных таблицах</topic>
+<topic id="scalc/text/scalc/guide/calc_date.xhp">Операции с датами и временем</topic>
+<topic id="scalc/text/scalc/guide/calc_series.xhp">Автоматическое вычисление рядов данных</topic>
+<topic id="scalc/text/scalc/guide/calc_timevalues.xhp">Вычисление разницы во времени</topic>
+<topic id="scalc/text/scalc/guide/matrixformula.xhp">Ввод матричных формул</topic>
+		</node>
+		<node id="0814" title="Защита">
+<topic id="scalc/text/scalc/guide/cell_protect.xhp">Защита ячеек от изменений</topic>
+<topic id="scalc/text/scalc/guide/cell_unprotect.xhp">Снятие защиты ячеек</topic>
+		</node>
+		<node id="0815" title="Прочее">
+<!-- removed scalc/text/scalc/guide/autofill.xhp -->
+<topic id="scalc/text/scalc/guide/auto_off.xhp">Отключение автоматических изменений</topic>
+<topic id="scalc/text/scalc/guide/consolidate.xhp">Объединение данных</topic>
+<topic id="scalc/text/scalc/guide/goalseek.xhp">Применение подбора параметра</topic>
+<topic id="scalc/text/scalc/guide/multioperation.xhp">Использование совмещенных операций</topic>
+<topic id="scalc/text/scalc/guide/multitables.xhp">Использование нескольких листов</topic>
+<topic id="scalc/text/scalc/guide/validity.xhp">Проверка содержимого ячеек</topic>
+		</node>
+	</help_section>
+</tree_view>

@@ -1,0 +1,24 @@
+###### Progress log entry 2014-02-20 11:02:11 ######
+###### Progress log entry 2014-04-14 23:40:23 ######
+###### Progress log entry 2014-05-04 19:14:49 ######
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { Message = "There is no such extension deployed: org.openoffice.en.hunspell.dictionaries", Context = (com.sun.star.uno.XInterface) @7fbd784 }, ArgumentPosition = (short) -1 }
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { Message = "There is no such extension deployed: org.openoffice.en.hunspell.dictionaries", Context = (com.sun.star.uno.XInterface) @7fbd784 }, ArgumentPosition = (short) -1 }
+###### Progress log entry 2014-05-04 19:15:33 ######
+###### Progress log entry 2014-05-04 19:20:59 ######
+###### Progress log entry 2014-09-01 15:41:24 ######
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { Message = "There is no such extension deployed: org.openoffice.en.hunspell.dictionaries", Context = (com.sun.star.uno.XInterface) @753c714 }, ArgumentPosition = (short) -1 }
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { Message = "There is no such extension deployed: org.openoffice.en.hunspell.dictionaries", Context = (com.sun.star.uno.XInterface) @753c714 }, ArgumentPosition = (short) -1 }
+###### Progress log entry 2015-04-15 17:51:41 ######
+###### Progress log entry 2015-04-16 17:28:21 ######
+###### Progress log entry 2015-11-02 18:33:25 ######
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { Message = "There is no such extension deployed: org.openoffice.en.hunspell.dictionaries", Context = (com.sun.star.uno.XInterface) @8a89784 }, ArgumentPosition = (short) -1 }
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { Message = "There is no such extension deployed: org.openoffice.en.hunspell.dictionaries", Context = (com.sun.star.uno.XInterface) @8a89784 }, ArgumentPosition = (short) -1 }
+###### Progress log entry 2016-10-25 18:52:56 ######
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { Message = "There is no such extension deployed: org.openoffice.en.hunspell.dictionaries", Context = (com.sun.star.uno.XInterface) @b77a8d4 }, ArgumentPosition = (short) -1 }
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { Message = "There is no such extension deployed: org.openoffice.en.hunspell.dictionaries", Context = (com.sun.star.uno.XInterface) @b77a8d4 }, ArgumentPosition = (short) -1 }
+###### Progress log entry 2017-11-06 08:30:36 ######
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { Message = "There is no such extension deployed: org.openoffice.en.hunspell.dictionaries", Context = (com.sun.star.uno.XInterface) @b17a7f4 }, ArgumentPosition = (short) -1 }
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { Message = "There is no such extension deployed: org.openoffice.en.hunspell.dictionaries", Context = (com.sun.star.uno.XInterface) @b17a7f4 }, ArgumentPosition = (short) -1 }
+###### Progress log entry 2018-01-09 22:57:52 ######
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { Message = "There is no such extension deployed: org.openoffice.en.hunspell.dictionaries", Context = (com.sun.star.uno.XInterface) @af898d4 }, ArgumentPosition = (short) -1 }
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { Message = "There is no such extension deployed: org.openoffice.en.hunspell.dictionaries", Context = (com.sun.star.uno.XInterface) @af898d4 }, ArgumentPosition = (short) -1 }

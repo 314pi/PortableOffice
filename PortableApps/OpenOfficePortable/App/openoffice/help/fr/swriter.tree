@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***********************************************************
+ * 
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ * 
+ ***********************************************************-->
+<tree_view version="24-Aug-2004">
+	<help_section application="swriter" id="02" title="Documents texte">
+		<node id="0201" title="Informations générales et utilisation de l'interface utilisateur">
+<topic id="swriter/text/swriter/main0000.xhp">Bienvenue dans l'aide de %PRODUCTNAME Writer</topic>
+<topic id="swriter/text/swriter/main0503.xhp">Fonctionnalités de %PRODUCTNAME Writer</topic>
+<topic id="swriter/text/swriter/guide/main.xhp">Instructions d'utilisation de %PRODUCTNAME Writer</topic>
+<topic id="swriter/text/swriter/guide/resize_navigator.xhp">Ancrage et redimensionnement de fenêtres</topic>
+<topic id="swriter/text/swriter/04/01020000.xhp">Raccourcis clavier dans %PRODUCTNAME Writer</topic>
+<topic id="swriter/text/swriter/guide/words_count.xhp">Comptage des mots</topic>
+<topic id="swriter/text/swriter/guide/keyboard.xhp">Utilisation des raccourcis clavier (accessibilité dans %PRODUCTNAME Writer)</topic>
+		</node>
+		<node id="0202" title="Aide-mémoire des commandes et des menus">
+			<node id="020201" title="Menus">
+<topic id="swriter/text/swriter/main0100.xhp">Menus</topic>
+<topic id="swriter/text/swriter/main0101.xhp">Fichier</topic>
+<topic id="swriter/text/swriter/main0102.xhp">Édition</topic>
+<topic id="swriter/text/swriter/main0103.xhp">Affichage</topic>
+<topic id="swriter/text/swriter/main0104.xhp">Insertion</topic>
+<topic id="swriter/text/swriter/main0105.xhp">Format</topic>
+<topic id="swriter/text/swriter/main0106.xhp">Outils</topic>
+<topic id="swriter/text/swriter/main0107.xhp">Fenêtre</topic>
+			</node>
+			<node id="020202" title="Barres d'outils">
+<topic id="swriter/text/swriter/main0200.xhp">Barres d'outils</topic>
+<topic id="swriter/text/swriter/main0202.xhp">Barre Formatage</topic>
+<topic id="swriter/text/swriter/main0203.xhp">Barre Image</topic>
+<topic id="swriter/text/swriter/main0204.xhp">Barre Tableau</topic>
+<topic id="swriter/text/swriter/main0205.xhp">Barre Propriétés de l'objet de dessin</topic>
+<topic id="swriter/text/swriter/main0206.xhp">Barre Puces et numérotation</topic>
+<topic id="swriter/text/swriter/main0208.xhp">Barre d'état</topic>
+<topic id="swriter/text/swriter/main0210.xhp">Aperçu</topic>
+<topic id="swriter/text/swriter/main0213.xhp">Règles</topic>
+<topic id="swriter/text/swriter/main0214.xhp">Barre Formule</topic>
+<topic id="swriter/text/swriter/main0215.xhp">Barre Cadre</topic>
+<topic id="swriter/text/swriter/main0216.xhp">Barre Objets OLE</topic>
+<topic id="swriter/text/swriter/main0220.xhp">Barre Objets de texte</topic>
+<topic id="shared/text/shared/main0201.xhp">Barre Standard</topic>
+<topic id="shared/text/shared/main0209.xhp">Barre Hyperliens</topic>
+<topic id="shared/text/shared/main0212.xhp">Barre des données de la table</topic>
+<topic id="shared/text/shared/main0213.xhp">Barre Navigation pour formulaires</topic>
+<topic id="shared/text/shared/main0214.xhp">Barre Ébauche de requête</topic>
+<topic id="shared/text/shared/main0226.xhp">Barre Ébauche de formulaire</topic>
+
+
+			</node>
+		</node>
+		<node id="0203" title="Création de documents texte">
+<topic id="swriter/text/swriter/guide/text_nav_keyb.xhp">Navigation et sélection à l'aide du clavier</topic>
+<topic id="swriter/text/swriter/guide/text_direct_cursor.xhp">Utilisation du curseur direct</topic>
+		</node>
+		<node id="0204" title="Images présentes dans les documents texte">
+<topic id="swriter/text/swriter/guide/insert_graphic.xhp">Insertion d'images</topic>
+<topic id="swriter/text/swriter/guide/insert_graphic_dialog.xhp">Insertion d'une image à partir d'un fichier</topic>
+<topic id="swriter/text/swriter/guide/insert_graphic_gallery.xhp">Insertion d'images depuis la Gallery par glisser-déposer</topic>
+<topic id="swriter/text/swriter/guide/insert_graphic_scan.xhp">Insertion d'une image lue au scanner</topic>
+<topic id="swriter/text/swriter/guide/insert_graphic_fromchart.xhp">Insertion d'un diagramme Calc dans un document texte</topic>
+<topic id="swriter/text/swriter/guide/insert_graphic_fromdraw.xhp">Insertion d'images à partir de %PRODUCTNAME Draw ou Impress</topic>
+<topic id="swriter/text/swriter/guide/insert_line.xhp">Insertion d'une ligne horizontale</topic>
+		</node>
+		<node id="0205" title="Tableaux dans les documents texte">
+<topic id="swriter/text/swriter/guide/number_date_conv.xhp">Activation et désactivation de la reconnaissance des nombres dans les tableaux</topic>
+<topic id="swriter/text/swriter/guide/tablemode.xhp">Modification des lignes et des colonnes à l'aide du clavier</topic>
+<topic id="swriter/text/swriter/guide/table_delete.xhp">Suppression d'un tableau ou de son contenu</topic>
+<topic id="swriter/text/swriter/guide/table_insert.xhp">Insertion de tableaux</topic>
+<topic id="swriter/text/swriter/guide/table_repeat_multiple_headers.xhp">Répétition d'un en-tête d'un tableau sur une nouvelle page</topic>
+<topic id="swriter/text/swriter/guide/table_sizing.xhp">Redimensionnement de lignes et de colonnes dans un tableau texte </topic>
+<topic id="swriter/text/swriter/guide/table_cells.xhp">Ajout ou suppression d'une ligne ou d'une colonne dans un tableau à l'aide du clavier</topic>
+		</node>
+		<node id="0206" title="Objets présents dans les documents texte">
+<topic id="swriter/text/swriter/guide/anchor_object.xhp">Positionnement des objets</topic>
+<topic id="swriter/text/swriter/guide/wrap.xhp">Habillage autour des objets</topic>
+		</node>
+		<node id="0207" title="Sections et cadres présents dans les documents texte">
+<topic id="swriter/text/swriter/guide/sections.xhp">Utilisation de sections</topic>
+<topic id="swriter/text/swriter/guide/text_frame.xhp">Insertion, édition et enchaînement de cadres de texte</topic>
+<topic id="swriter/text/swriter/guide/section_edit.xhp">Édition de sections</topic>
+<topic id="swriter/text/swriter/guide/section_insert.xhp">Insérer des sections</topic>
+		</node>
+		<node id="0208" title="Tables des matières et index">
+<topic id="swriter/text/swriter/guide/chapter_numbering.xhp">Numérotation des chapitres</topic>
+<topic id="swriter/text/swriter/guide/indices_userdef.xhp">Index personnalisés</topic>
+<topic id="swriter/text/swriter/guide/indices_toc.xhp">Création d'une table des matières</topic>
+<topic id="swriter/text/swriter/guide/indices_index.xhp">Création d'un index lexical</topic>
+<topic id="swriter/text/swriter/guide/indices_multidoc.xhp">Index couvrant plusieurs documents</topic>
+<topic id="swriter/text/swriter/guide/indices_literature.xhp">Création d'une bibliographie</topic>
+<topic id="swriter/text/swriter/guide/indices_delete.xhp">Édition et suppression d'entrées d'index ou de table des matières</topic>
+<topic id="swriter/text/swriter/guide/indices_edit.xhp">Actualisation, édition et suppression d'index et de tables des matières</topic>
+<topic id="swriter/text/swriter/guide/indices_enter.xhp">Définition d'entrées d'index ou de table des matières</topic>
+<topic id="swriter/text/swriter/guide/indices_form.xhp">Formatage d'un index ou d'une table des matières</topic>
+		</node>
+		<node id="0209" title="Champs présents dans les documents texte">
+<topic id="swriter/text/swriter/guide/fields.xhp">À propos des champs</topic>
+<topic id="swriter/text/swriter/guide/fields_date.xhp">Insertion d'un champ de date fixe ou variable</topic>
+<topic id="swriter/text/swriter/guide/field_convert.xhp">Conversion d'un champ en texte</topic>
+		</node>
+		<node id="0210" title="Navigation dans les documents texte">
+<topic id="swriter/text/swriter/guide/dragdroptext.xhp">Déplacement et copie de texte dans des documents</topic>
+<topic id="swriter/text/swriter/guide/arrange_chapters.xhp">Réorganisation d'un document à l'aide du Navigateur</topic>
+<topic id="swriter/text/swriter/guide/hyperlinks.xhp">Insertion d'hyperliens à l'aide du Navigateur</topic>
+<topic id="swriter/text/swriter/guide/navigator.xhp">Navigateur pour les documents texte</topic>
+		</node>
+		<node id="0211" title="Calculs dans les documents texte">
+<topic id="swriter/text/swriter/guide/calculate_multitable.xhp">Calcul dans plusieurs tableaux</topic>
+<topic id="swriter/text/swriter/guide/calculate.xhp">Calcul dans les documents texte</topic>
+<topic id="swriter/text/swriter/guide/calculate_clipboard.xhp">Calcul d'une formule et collage du résultat dans un document texte</topic>
+<topic id="swriter/text/swriter/guide/calculate_intable.xhp">Calcul de totaux dans les cellules de tableaux</topic>
+<topic id="swriter/text/swriter/guide/calculate_intext.xhp">Calcul de formules complexes dans des documents texte</topic>
+<topic id="swriter/text/swriter/guide/calculate_intext2.xhp">Affichage du résultat d'un calcul de tableau dans un autre tableau</topic>
+		</node>
+		<node id="0212" title="Formatage des documents texte">
+			<node id="021201" title="Modèles et styles">
+<topic id="swriter/text/swriter/guide/templates_styles.xhp">Modèles et styles</topic>
+<topic id="swriter/text/swriter/guide/even_odd_sdw.xhp">Alternance des styles de page sur les pages paires et impaires</topic>
+<topic id="swriter/text/swriter/guide/change_header.xhp">Création d'un style de page à partir de la page active</topic>
+<topic id="swriter/text/swriter/guide/load_styles.xhp">Utilisation de styles provenant d'un autre document ou modèle</topic>
+<topic id="swriter/text/swriter/guide/stylist_fromselect.xhp">Création de styles à partir de sélections</topic>
+<topic id="swriter/text/swriter/guide/stylist_update.xhp">Actualisation de styles à partir de sélections</topic>
+<topic id="swriter/text/swriter/guide/template_create.xhp">Création d'un modèle de document</topic>
+<topic id="swriter/text/swriter/guide/template_default.xhp">Changement de modèle par défaut</topic>
+			</node>
+<topic id="swriter/text/swriter/guide/pageorientation.xhp">Modification de l'orientation de la page (Paysage ou Portrait)</topic>
+<topic id="swriter/text/swriter/guide/text_capital.xhp">Modification de la casse du texte</topic>
+<topic id="swriter/text/swriter/guide/hidden_text.xhp">Masquage du texte</topic>
+<topic id="swriter/text/swriter/guide/header_pagestyles.xhp">Définition d'en-têtes et de pieds de page différents</topic>
+<topic id="swriter/text/swriter/guide/header_with_chapter.xhp">Insertion du nom et du numéro de chapitre dans un en-tête ou un pied de page</topic>
+<topic id="swriter/text/swriter/guide/shortcut_writing.xhp">Application d'un formatage de texte pendant la saisie</topic>
+<topic id="swriter/text/swriter/guide/reset_format.xhp">Rétablissement des attributs de caractères</topic>
+<topic id="swriter/text/swriter/guide/stylist_fillformat.xhp">Application de styles en mode Tout remplir</topic>
+<topic id="swriter/text/swriter/guide/wrap.xhp">Habillage autour des objets</topic>
+<topic id="swriter/text/swriter/guide/text_centervert.xhp">Utilisation d'un cadre pour centrer le texte sur la page</topic>
+<topic id="swriter/text/swriter/guide/text_emphasize.xhp">Accentuation du texte</topic>
+<topic id="swriter/text/swriter/guide/text_rotate.xhp">Rotation du texte</topic>
+<topic id="swriter/text/swriter/guide/page_break.xhp">Insertion et suppression de sauts de page</topic>
+<topic id="swriter/text/swriter/guide/pagestyles.xhp">Création et application des styles de page</topic>
+<topic id="swriter/text/swriter/guide/subscript.xhp">Mise en exposant ou en indice d'un texte</topic>
+		</node>
+		<node id="0213" title="Éléments de texte spéciaux">
+<topic id="swriter/text/swriter/guide/captions.xhp">Utilisation de légendes </topic>
+<topic id="swriter/text/swriter/guide/conditional_text.xhp">Texte conditionnel</topic>
+<topic id="swriter/text/swriter/guide/conditional_text2.xhp">Texte conditionnel pour le nombre de pages</topic>
+<topic id="swriter/text/swriter/guide/fields_date.xhp">Insertion d'un champ de date fixe ou variable</topic>
+<topic id="swriter/text/swriter/guide/fields_enter.xhp">Ajout de champs de saisie</topic>
+<topic id="swriter/text/swriter/guide/footer_nextpage.xhp">Insertion de numéros dans les pages suivantes</topic>
+<topic id="swriter/text/swriter/guide/footer_pagenumber.xhp">Insertion de numéros de page dans les pieds de page</topic>
+<topic id="swriter/text/swriter/guide/hidden_text.xhp">Masquage du texte</topic>
+<topic id="swriter/text/swriter/guide/header_pagestyles.xhp">Définition d'en-têtes et de pieds de page différents</topic>
+<topic id="swriter/text/swriter/guide/header_with_chapter.xhp">Insertion du nom et du numéro de chapitre dans un en-tête ou un pied de page</topic>
+<topic id="swriter/text/swriter/guide/fields_userdata.xhp">Requête de données d'utilisateur dans des champs ou des conditions</topic>
+<!-- removed swriter/text/swriter/guide/fontwork.xhp -->
+<topic id="swriter/text/swriter/guide/footnote_usage.xhp">Insertion et édition de notes de bas de page et de notes de fin</topic>
+<topic id="swriter/text/swriter/guide/footnote_with_line.xhp">Espacement entre les notes de bas de page</topic>
+<topic id="swriter/text/swriter/guide/header_footer.xhp">À propos des en-têtes et pieds de page</topic>
+<topic id="swriter/text/swriter/guide/header_with_line.xhp">Formatage des en-têtes et pieds de page</topic>
+<topic id="swriter/text/swriter/guide/text_animation.xhp">Animation de texte</topic>
+<topic id="swriter/text/swriter/guide/form_letters_main.xhp">Création d'une lettre type</topic>
+		</node>
+		<node id="0214" title="Fonctions automatiques">
+<topic id="swriter/text/swriter/guide/autocorr_except.xhp">Ajout d'exceptions à la liste d'AutoCorrection</topic>
+<topic id="swriter/text/swriter/guide/autotext.xhp">Utilisation de la fonction AutoTexte</topic>
+<topic id="swriter/text/swriter/guide/auto_numbering.xhp">Création de listes numérotées ou à puces lors de la saisie</topic>
+<topic id="swriter/text/swriter/guide/auto_off.xhp">Désactiver l'AutoCorrection</topic>
+<topic id="swriter/text/swriter/guide/auto_spellcheck.xhp">Vérification automatique de l'orthographe</topic>
+<topic id="swriter/text/swriter/guide/number_date_conv.xhp">Activation et désactivation de la reconnaissance des nombres dans les tableaux</topic>
+<topic id="swriter/text/swriter/guide/select_language.xhp">Checking Spelling in Other Languages</topic>
+<topic id="swriter/text/swriter/guide/using_hyphen.xhp">Coupure des mots</topic>
+		</node>
+		<node id="0215" title="Numérotation et listes">
+<topic id="swriter/text/swriter/guide/captions_numbers.xhp">Ajout de numéros de chapitres aux légendes</topic>
+<topic id="swriter/text/swriter/guide/auto_numbering.xhp">Création de listes numérotées ou à puces lors de la saisie</topic>
+<topic id="swriter/text/swriter/guide/chapter_numbering.xhp">Numérotation des chapitres</topic>
+<topic id="swriter/text/swriter/guide/insert_tab_innumbering.xhp">Modification du niveau de plan des listes numérotées et des listes à puces</topic>
+<topic id="swriter/text/swriter/guide/join_numbered_lists.xhp">Combinaison de listes numérotées</topic>
+<topic id="swriter/text/swriter/guide/numbering_lines.xhp">Ajout de numéros de ligne</topic>
+<topic id="swriter/text/swriter/guide/numbering_paras.xhp">Modification de la numérotation d'une liste numérotée</topic>
+<topic id="swriter/text/swriter/guide/number_sequence.xhp">Définition de séquences</topic>
+<topic id="swriter/text/swriter/guide/using_numbered_lists2.xhp">Ajout d'une numérotation</topic>
+<topic id="swriter/text/swriter/guide/using_numbering.xhp">Numérotation et styles de numérotation</topic>
+<topic id="swriter/text/swriter/guide/using_numbered_lists.xhp">Ajout de puces</topic>
+		</node>
+		<node id="0216" title="Vérification orthographique, dictionnaire des synonymes et langues">
+<topic id="swriter/text/swriter/guide/auto_spellcheck.xhp">Vérification automatique de l'orthographe</topic>
+<topic id="swriter/text/swriter/guide/delete_from_dict.xhp">Suppression de mots dans un dictionnaire de l'utilisateur</topic>
+<topic id="swriter/text/swriter/guide/using_thesaurus.xhp">Dictionnaire des synonymes</topic>
+<topic id="swriter/text/swriter/guide/select_language.xhp">Checking Spelling in Other Languages</topic>
+<topic id="swriter/text/swriter/guide/spellcheck_dialog.xhp">Vérification de l'orthographe et de la grammaire</topic>
+		</node>
+		<node id="0218" title="Astuces de dépannage">
+<topic id="swriter/text/swriter/guide/insert_beforetable.xhp">Insertion de texte avant un tableau situé en haut d'une page</topic>
+<topic id="swriter/text/swriter/guide/jump2statusbar.xhp">Positionner le curseur sur un repère de texte spécifique</topic>
+<topic id="swriter/text/swriter/guide/link_edit.xhp">Editing  Hyperlinks</topic>
+		</node>
+		<node id="0219" title="Chargement, enregistrement, import et export">
+<topic id="swriter/text/swriter/guide/send2html.xhp">Enregistrement de documents texte au format HTML</topic>
+<topic id="swriter/text/swriter/guide/textdoc_inframe.xhp">Insertion d'un document texte entier</topic>
+		</node>
+		<node id="0220" title="Documents maîtres">
+<topic id="swriter/text/swriter/guide/globaldoc.xhp">Documents maîtres et sous-documents</topic>
+		</node>
+		<node id="0221" title="Liens et références">
+<topic id="swriter/text/swriter/guide/references.xhp">Insertion de renvois</topic>
+<topic id="swriter/text/swriter/guide/hyperlinks.xhp">Insertion d'hyperliens à l'aide du Navigateur</topic>
+		</node>
+		<node id="0222" title="Impression">
+<topic id="swriter/text/swriter/guide/printer_tray.xhp">Sélection des bacs d'alimentation d'imprimante</topic>
+<topic id="swriter/text/swriter/guide/print_preview.xhp">Aperçu de la page avant l'impression</topic>
+<topic id="swriter/text/swriter/guide/print_small.xhp">Impression de plusieurs pages sur une feuille</topic>
+<topic id="swriter/text/swriter/guide/pagestyles.xhp">Création et application des styles de page</topic>
+		</node>
+		<node id="0223" title="Recherche et remplacement">
+<topic id="swriter/text/swriter/guide/search_regexp.xhp">Utilisation de caractères génériques dans des recherches de texte</topic>
+<topic id="shared/text/shared/01/02100001.xhp">Liste des expressions régulières</topic>
+		</node>
+	</help_section>
+	<help_section application="swriter" id="06" title="Documents HTML">
+<topic id="shared/text/shared/07/09000000.xhp">Pages Web</topic>
+<topic id="shared/text/shared/02/01170700.xhp">Filtres et formulaires HTML</topic>
+<topic id="swriter/text/swriter/guide/send2html.xhp">Enregistrement de documents texte au format HTML</topic>
+	</help_section>
+</tree_view>
