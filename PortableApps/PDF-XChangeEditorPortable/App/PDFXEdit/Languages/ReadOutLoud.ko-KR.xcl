@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Version date="20140218001811">2.00.00</Version>
+	<Author>toxis@daum.net</Author>
+	<Copyright>오역 및 개선점을 메일로 알려주세요.
+취합하여 반영하겠습니다.</Copyright>
+	<Product id="PDFXEditor" />
+	<Language eName="Korean" lName="한국어" code="ko-KR" R2L="false"/>
+	<Module name="ReadOutLoud" namespace="speech" version="5.5.312" />
+	<Strings>
+		<text id="cmd.category" h="A1EB605F">소리내어 읽기</text>
+		<text id="cmd.readSelection" h="D8939664">선택한 텍스트 소리내어 읽기</text>
+		<text id="cmd.readStop" h="06B322F6">읽기 중지</text>
+		<text id="opt.l.pitch" h="A6915A2C">피치(&amp;P):</text>
+		<text id="opt.l.rate" h="10B1E128">비율(&amp;R):</text>
+		<text id="opt.l.volume" h="8C0E20F2">볼륨(&amp;V):</text>
+		<text id="opt.l.max" h="284585D5">최대</text>
+		<text id="opt.l.min" h="F16918ED">최소</text>
+		<text id="opt.cb.readComments" h="070A2526">주석 읽기(&amp;C)</text>
+		<text id="opt.cb.readFields" h="4331E3A2">양식 필드 읽기(&amp;F)</text>
+		<text id="speech.opt.title" h="54357DDF">소리내어 읽기 옵션</text>
+		<text id="opt.group.title" h="54357DDF">소리내어 읽기 옵션</text>
+		<text id="opt.btn.test" h="EA3839EC">이 텍스트를 읽기(&amp;T)</text>
+		<text id="prefs.name" h="06D67BEF">스피치</text>
+		<text id="prefs.title" h="110DB02C">스피치 옵션</text>
+		<text id="prefs.tips" h="110DB02C">스피치 옵션</text>
+		<text id="opt.test.title" h="44732FAA">테스트</text>
+		<text id="test.text" h="6B245451">The quick brown fox jumps over the lazy dog.</text>
+		<text id="opt.cb.defVoice" h="972D8B4B">기본 목소리 사용(&amp;D)</text>
+		<text id="opt.cb.defAttr" h="74D7B3DB">기본 목소리 속성 사용(&amp;A)</text>
+		<text id="opt.l.voice" h="5026E016">목소리(&amp;I):</text>
+		<text id="opt.l.wpm" h="7AEF5446">분당 단어수</text>
+</Strings>
+</Localization>

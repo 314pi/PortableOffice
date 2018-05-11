@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20161130215845">2.00.00</Version>
+	<Author>Nuno Filipe Rego</Author>
+	<Copyright>Nuno Filipe Rego ©
+
+Coments and\or suggestions about the translations:
+Comentários e\ou sugestões sobre as traduções: 
+
+nunito.mokito@gmail.com</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Portuguese (Portugal)" lName="português" code="pt-PT" R2L="false"/>
+	<Module name="ReadOutLoud" namespace="speech" version="6.0.319.0"/>
+	<Strings>
+		<text id="opt.btn.test" h="EA3839EC">Ler este texto</text>
+		<text id="opt.cb.defAttr" h="74D7B3DB">Utilizar atributos de voz predefinidos</text>
+		<text id="opt.cb.defVoice" h="972D8B4B">Utilizar voz predefinida</text>
+		<text id="opt.cb.readComments" h="070A2526">Ler os comentários</text>
+		<text id="opt.cb.readFields" h="4331E3A2">Ler os campos de formulários</text>
+		<text id="opt.group.title" h="54357DDF">Opções de Leitura em Alta Voz</text>
+		<text id="opt.l.max" h="284585D5">Máx</text>
+		<text id="opt.l.min" h="F16918ED">Min</text>
+		<text id="opt.l.pitch" h="A6915A2C">Tom:</text>
+		<text id="opt.l.rate" h="10B1E128">Velocidade:</text>
+		<text id="opt.l.voice" h="5026E016">Voz:</text>
+		<text id="opt.l.volume" h="8C0E20F2">Volume:</text>
+		<text id="opt.l.wpm" h="7AEF5446">palavra(s) por minuto</text>
+		<text id="opt.test.title" h="44732FAA">Testar</text>
+		<text id="prefs.name" h="06D67BEF">Discurso</text>
+		<text id="prefs.tips" h="110DB02C">Opções de Discurso</text>
+		<text id="prefs.title" h="110DB02C">Opções de Discurso</text>
+		<text id="speech.opt.title" h="54357DDF">Opções de Leitura em Alta Voz</text>
+		<text id="test.text" h="6B245451">A rápida raposa castanha saltou sobre o cão preguiçoso.</text>
+		<text id="cmd.readSelection" h="D8939664">Ler Texto Selecionado em Alta Voz</text>
+		<text id="cmd.readStop" h="06B322F6">Parar Leitura</text>
+		<text id="cmd.category" h="A1EB605F">Leitura em Alta Voz</text>
+	</Strings>
+</Localization>

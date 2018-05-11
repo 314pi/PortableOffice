@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20161130215844">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Slovenian" lName="slovenščina" code="sl-SI" R2L="false"/>
+	<Module name="MarkdownPlugin" namespace="md" version="6.0.319.0"/>
+	<Strings>
+		<text id="btn.md.submenu" h="F830E694">Iz &amp;Markdown-a ...</text>
+		<text id="cmd.readStop" h="06B322F6">Prenehaj brati</text>
+		<text id="cmd.tip" h="7F449B9F">Ustvari nov dokument iz Markdown datotek(e).</text>
+		<text id="converter.filterName" h="AE86B691">Markdown datoteke</text>
+		<text id="grb.style" h="1FF454A3">Slog besedila</text>
+		<text id="opt.btn.clear.style" h="8932B6EE">Vrni slog CSS na privzeto</text>
+		<text id="opt.cb.defAttr" h="74D7B3DB">Uporabi privzete &amp;atribute za govor</text>
+		<text id="opt.cb.defVoice" h="972D8B4B">Uporabi &amp;privzeti glas</text>
+		<text id="opt.cb.readComments" h="070A2526">Preberi &amp;komentarje</text>
+		<text id="opt.cb.readFields" h="4331E3A2">Preberi &amp;polje obrazca</text>
+		<text id="opt.create.style" h="EDCA1553">Ustvarjanje</text>
+		<text id="opt.group.title" h="D70A809E">Stran</text>
+		<text id="opt.l.max" h="284585D5">Maksimalno</text>
+		<text id="opt.l.min" h="F16918ED">Minimalno</text>
+		<text id="opt.l.pitch" h="A6915A2C">&amp;Jakost:</text>
+		<text id="opt.l.rate" h="10B1E128">&amp;Hitrost:</text>
+		<text id="opt.l.voice" h="5026E016">Gl&amp;as:</text>
+		<text id="opt.l.volume" h="8C0E20F2">&amp;Glasnost:</text>
+		<text id="opt.l.wpm" h="7AEF5446">besed na minuto</text>
+		<text id="opt.style" h="5CEA121A">Slog:</text>
+		<text id="opt.test.title" h="44732FAA">Test</text>
+		<text id="opt.title" h="45D26671">Markdown v PDF možnosti</text>
+		<text id="prefs.name" h="07E67B98">Markdown v PDF</text>
+		<text id="prefs.tips" h="45D26671">Markdown v PDF možnosti</text>
+		<text id="prefs.title" h="45D26671">Markdown v PDF možnosti</text>
+		<text id="prop.list.extension" h="14FEB836">Pripona</text>
+		<text id="prop.list.location" h="BB241F45">Lokacije</text>
+		<text id="prop.list.modified" h="30325672">Spremenjeno</text>
+		<text id="prop.list.size" h="17A58A52">Velikost</text>
+		<text id="prop.list.sorting" h="D48C5B3F">Urejanje v teku ...</text>
+		<text id="prop.list.title" h="796DFAD3">Naslov</text>
+		<text id="prop.source" h="AE86B691">Markdown datoteke</text>
+		<text id="prop.source.file" h="F3110572">Izberi Markdown datoteke</text>
+		<text id="prop.source.file.prop" h="4B450135">Markdown Files (*.md)|*.md||</text>
+		<text id="prop.source.file.unavailable" h="AE2771B8">Datoteka sloga ni na voljo</text>
+		<text id="prop.source.folder" h="8477FBD3">Izberi mapo z Markdown-om</text>
+		<text id="prop.source.subfolder" h="CBDB440E">Poglej v podmape</text>
+		<text id="style.edit.default" h="600F2F18">Uporabi privzeti slog</text>
+		<text id="style.ext.default" h="8FCCD55E">slog</text>
+		<text id="style.name.default" h="310A43CC">MD_Style.style</text>
+		<text id="style.save.title" h="2E270E87">Shrani slog</text>
+		<text id="style.folder.name" h="2F5ECDDE">Markdown slog</text>
+		<text id="test.text" h="6B245451">V kožuščku hudobnega fanta stopiclja mizar.</text>
+	</Strings>
+</Localization>

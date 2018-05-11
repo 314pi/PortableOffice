@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220820">2.00.00</Version>
+	<Author>Tz</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Japanese (Japan)" lName="日本語" code="ja-JP" R2L="false"/>
+	<Module name="GoogleDrivePlugin" namespace="gd" version="6.0.322.7"/>
+	<Strings>
+		<text id="DlgOpenFile" h="B98AB29D">Google ドライブからファイルを開く</text>
+		<text id="DlgSaveFile" h="81F99046">Google ドライブにファイルを保存</text>
+		<text id="GDPlugin" h="32B7E3E0">Google ドライブプラグイン</text>
+		<text id="btn.connectToAnother" h="508BDBC5">新規ログイン...</text>
+		<text id="cmd.cmdsCategory" h="AD23B285">Google ドライブ</text>
+		<text id="cmd.googledrive" h="1D28DF85">Google ドライブ(&amp;G)</text>
+		<text id="cmd.open" h="F32ECED5">Google ドライブ(&amp;G)...</text>
+		<text id="cmd.open.tip" h="933837A2">Google ドライブからドキュメントを開きます</text>
+		<text id="cmd.save" h="F32ECED5">Google ドライブ(&amp;G)...</text>
+		<text id="cmd.save.tip" h="948C3269">Google ドライブにドキュメントを保存します</text>
+		<text id="cpt.fileNotFound" h="A7F5FA7A">ファイルが見つかりません</text>
+		<text id="cpt.invalidFileName" h="79C1387C">無効なファイル名</text>
+		<text id="cpt.navigateError" h="3D300A1C">ナビゲーションエラー</text>
+		<text id="cpt.saveReplace" h="520CB069">ファイルを保存</text>
+		<text id="cpt.selectFile" h="C55D68B0">ファイルを選択しています</text>
+		<text id="dlg.googleAuth" h="E5642F22">Google ドライブ認証</text>
+		<text id="fileName" h="DEC92488">ファイル名：</text>
+		<text id="lb.CurrentFolder" h="44158804">現在のフォルダ：</text>
+		<text id="lb.Test" h="273F3E5B">テスト テスト テスト!</text>
+		<text id="lb.googleAccName" h="C94645A3">Google アカウント：</text>
+		<text id="msg.fileNotFound" h="430E08B1">ファイル "%1" は現在のフォルダにありません</text>
+		<text id="msg.invalidFileName" h="7C0655B5">"%1" は有効なファイル名ではありません。</text>
+		<text id="msg.navigateError" h="2FCAA72A">Google ドライブのリソースに移動できませんでした。 リクエストされた Google ドライブのリソースにアクセスするためのインターネット接続とアクセス権を確認してください。</text>
+		<text id="msg.openFailed" h="AC94D960">ファイルを開くことができませんでした。 ファイルが存在し、他のユーザーにチェックアウトされておらず、読み取り権限があることを確認してください。</text>
+		<text id="msg.saveFailed" h="4D413392">ファイルを保存できませんでした。 ファイル名が有効で、書き込み権限があることを確認してください。</text>
+		<text id="msg.saveReplace" h="5D56833E">ファイル %1 はすでに存在しています。ファイルを置き換えますか？</text>
+		<text id="msg.selectFile" h="2530C20F">OKボタンを押す前にファイルを選択してください</text>
+		<text id="ls.column.created" h="FE6510B7">作成日付</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">ファイル、フォルダまたはリストが作成された日時</text>
+		<text id="ls.column.extension" h="14FEB836">拡張子</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">ファイル拡張子</text>
+		<text id="ls.column.modified" h="7E234D6D">更新日付</text>
+		<text id="ls.column.modified.hint" h="12933E76">ファイル、フォルダまたはリストが最後に更新された日時</text>
+		<text id="ls.column.size" h="17A58A52">サイズ</text>
+		<text id="ls.column.size.hint" h="9C4BD847">ファイルサイズ</text>
+		<text id="ls.column.title" h="D18643E3">名前</text>
+		<text id="ls.column.title.hint" h="6A895576">ファイル名、フォルダ名またはリストのタイトル</text>
+		<text id="virtualfolder.mydrive" h="84C2D3A6">My Drive</text>
+		<text id="virtualfolder.sharedwithme" h="8B65307E">Shared With Me</text>
+		<text id="cpt.unableToSaveToVirtualFolder" h="778EF99A">ファイルをフォルダに保存できません</text>
+		<text id="msg.unableToSaveToVirtualFolder" h="A6644426">ファイルを選択した場所に保存することはできません。 「My Drive」フォルダ、そのサブフォルダ、または「Shared With Me」サブフォルダのいずれかを選択してファイルを保存してください。</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Version date="20140218001811">2.00.00</Version>
+	<Author>toxis@daum.net</Author>
+	<Copyright>오역 및 개선점을 메일로 알려주세요.
+취합하여 반영하겠습니다.</Copyright>
+	<Product id="PDFXEditor" />
+	<Language eName="Korean" lName="한국어" code="ko-KR" R2L="false"/>
+	<Module name="SpellChecker" namespace="spell" version="5.5.312" />
+	<Strings>
+		<text id="lstDicts.empty" h="FFD5B8BB">&lt;사전 없음&gt;</text>
+		<text id="wrd.b.AddWord" h="8E2EE8C1">추가</text>
+		<text id="opt.b.AddDict" h="E0BF5FDE">사전 추가</text>
+		<text id="msg.CopyDictError" h="81324CC9">사전 파일을 복사할 수 없습니다.</text>
+		<text id="msg.LoadDictError" h="D139CD51">사전을 로드할 수 없습니다.</text>
+		<text id="msg.RemoveError" h="10071F88">사전 파일을 제거할 수 없습니다. 접근 거부됨.</text>
+		<text id="opt.b.CustomWordList" h="D1505337">사용자 단어 목록</text>
+		<text id="wrd.title" h="66DDC653">사용자 단어 목록</text>
+		<text id="wrd.b.Delete" h="D8FE3F70">삭제</text>
+		<text id="wrd.b.DeleteAll" h="848E003C">모두 삭제</text>
+		<text id="msg.DictExists" h="650ABF1A">사전 이미 있음</text>
+		<text id="msg.DictExists.title" h="A81488F3">사전 있음</text>
+		<text id="wrd.l.Dictionary" h="66E4322E">사전:</text>
+		<text id="opt.cb.EnableHyphens" h="BC236380">사전 하이픈 연결 켜기</text>
+		<text id="opt.cb.EnableAllHyphens" h="207464CF">하이픈 연결 켜기</text>
+		<text id="opt.cb.EnableSpellChecker" h="1D563674">철자검사 켜기</text>
+		<text id="opt.cb.AllowAlgoHyphens" h="184CA069">알 수 없는 단어 하이픈 연결</text>
+		<text id="dict.param.hyphen" h="50549BEC">하이픈 연결</text>
+		<text id="opt.b.RemoveDict" h="D94F3439">사전 제거</text>
+		<text id="dict.param.spell" h="E10DA1DD">철자</text>
+		<text id="opt.title" h="AEF9F007">철자검사 설정</text>
+		<text id="msg.ErrorTitle" h="8FEB05A5">철자검사 오류</text>
+		<text id="msg.WordExists" h="08449B8B">단어 이미 있음</text>
+		<text id="msg.WordExists.title" h="B19E6963">단어 있음</text>
+		<text id="wrd.l.Word" h="7AFBC23E">단어:</text>
+</Strings>
+</Localization>

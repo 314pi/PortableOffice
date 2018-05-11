@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20161130215845">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Slovenian" lName="slovenščina" code="sl-SI" R2L="false"/>
+	<Module name="PDFAConverter" namespace="pdfa" version="6.0.319.0"/>
+	<Strings>
+		<text id="auto.pdfa.level" h="FF103EFE">Samodejno PDF/A skladnost</text>
+		<text id="conv.name" h="7A00CE23">PDF/A (*.pdf)</text>
+		<text id="dlg.opt.autopdfa.info" h="C447FB84">Naj PDF urednik sam izbere najustreznejšo raven skladnosti, pri shranjevanju dokumenta.</text>
+		<text id="dlg.opt.cb.correction" h="966C50DF">Uporabi popravke</text>
+		<text id="dlg.opt.embedfonts.lbl" h="F1019348">Vstavi podmnožico pisave</text>
+		<text id="dlg.opt.g1.title" h="DAD7B4F4">Možnosti</text>
+		<text id="dlg.opt.g2.title" h="8FB1A988">Barvni profil</text>
+		<text id="dlg.opt.g3.title" h="8AD54EB1">Popravki</text>
+		<text id="dlg.opt.label.auto" h="FF103EFE">Samodejno PDF/A skladnost</text>
+		<text id="dlg.opt.label1" h="64F6A34C">Izberi skla&amp;dnost:</text>
+		<text id="dlg.opt.label2" h="62138C1D">Izberi &amp;profil:</text>
+		<text id="dlg.opt.title" h="86709E15">Pretvarjanje v PDF/A</text>
+		<text id="dlg.rep.errors" h="EC9E93B4">Napake (%1):</text>
+		<text id="dlg.rep.fixes" h="594F7931">Popravki (%1):</text>
+		<text id="dlg.rep.title" h="05F8973F">Poročilo pretvorbe</text>
+		<text id="dlg.rep.warnings" h="6F8DAB37">Opozorila (%1):</text>
+		<text id="msg.err.alternate_presenatations" h="19A17FF2">Dokument vsebuje nadomestne predstavitve</text>
+		<text id="msg.err.embed_file_missing_key" h="B12243CC">Vgrajena datoteka: tipka %1 manjka</text>
+		<text id="msg.err.embed_file_no_AF" h="8AFF5E80">Vgrajena datoteka nima AF vstopa</text>
+		<text id="msg.err.embed_file_no_AFRelationship" h="40AF7AB1">Vgrajena datoteka nima AFRelationship vstopa</text>
+		<text id="msg.err.embed_file_no_MIME_type" h="B23BB7AE">Vgrajena datoteka nima vstopa tipa MIME</text>
+		<text id="msg.err.embed_file_no_ModDate" h="A584D355">Vgrajena datoteka nima vstopa ModDate v slovarju parametrov</text>
+		<text id="msg.err.embed_file_not_PDF" h="D261C134">Nekatere vgrajene datoteke niso PDF datoteke</text>
+		<text id="msg.err.embed_file_not_PDFA_compliance" h="69851F66">Vsaj en vgrajen PDF dokument ni PDF/A skladen</text>
+		<text id="msg.err.font" h="E728DE31">Pisava %1 ni veljavna: %2</text>
+		<text id="msg.err.halftone_has_name" h="044A925B">Razširjen Graphics State: Poltonski ima ime poltonski</text>
+		<text id="msg.err.image_bpc_more" h="63802D36">Slikovni koščki pri sestavnih delih nad %1</text>
+		<text id="msg.err.impl_limit_obj_size_more" h="3A9756F7">%1 objekt ima velikost več kot %2</text>
+		<text id="msg.err.impl_limit_pagebox_less" h="39206E0E">Meje izvedbe: velikost %1 je manj kot 3 enote</text>
+		<text id="msg.err.impl_limit_pagebox_more" h="7793CF00">Meje izvedbe: velikost %1 je več kot 14400 enot</text>
+		<text id="msg.err.impl_limit_val_out_range" h="0778EBD3">%1 vrednost izven območja</text>
+		<text id="msg.err.incomp_docinfo_metadata" h="4CE13608">1% neskladje med podatki dokumentov in XMP metapodatki</text>
+		<text id="msg.err.incomp_ge_cs_with_outintent" h="A7DB0264">%2 pobarvaj, ko je izhoden namen %1</text>
+		<text id="msg.err.incomp_image_cs_with_outintent" h="FA83CF54">%2 slika, ko je izhoden namen %1</text>
+		<text id="msg.err.incomp_shading_cs_with_outintent" h="6CEF543E">%2 senčenje, ko je izhoden namen %1</text>
+		<text id="msg.err.invalid.xform" h="735966B8">Dokument vsebuje neveljavno XForm-o</text>
+		<text id="msg.err.keys_not_UR3_DocMDP" h="EBD832B7">Ključi razen UR3 in DocMDP so uporabljeni v dovoljenjih</text>
+		<text id="msg.err.metadata_missing" h="52FA2A56">Metapodatki so prazni</text>
+		<text id="msg.err.obj_validator_name_not_UTF8" h="FB949014">Ime ni veljaven UTF-8 niz</text>
+		<text id="msg.err.preliminary.modify" h="413E0B86">Spreminjanje dokumenta je prepovedano</text>
+		<text id="msg.err.preliminary.secured" h="1CA464FB">Dokument je zavarovan</text>
+		<text id="msg.err.preliminary.xfa" h="1B4F1FD1">Dokument vsebuje XFA obliko. Ni ga mogoče shraniti v PDF/A standard</text>
+		<text id="msg.err.pressteps" h="74AC0960">Stran ima PresSteps</text>
+		<text id="msg.err.st_root_elem_type_not_standard" h="F26BDE8C">Strukturirani PDF: element ne uporablja standardne vrste</text>
+		<text id="msg.err.st_root_missing" h="5579E540">Strogo korensko drevo manjka</text>
+		<text id="msg.err.substitute_filter" h="50898016">%1 je bil zamenjan za %2</text>
+		<text id="msg.err.subtype_xform_missing" h="E297FD31">Podtip manjka v XForm</text>
+		<text id="msg.err.tagging_structure" h="025A02E3">Označevanje strukture</text>
+		<text id="msg.err.used_egs_key" h="8964F17F">Razširjen Graphics State: %1%2%3 se uporablja</text>
+		<text id="msg.err.used_embedded_files" h="5D7BA79C">Vdelane datoteke se uporabljajo v dokumentu</text>
+		<text id="msg.err.used_ext_stream" h="7B302079">Zunanji tok je uporabljen</text>
+		<text id="msg.err.used_fiter" h="C350A2BE">%1 filter se uporablja</text>
+		<text id="msg.err.used_fiter_invalid" h="2604E73C">Dokument uporablja neznano vrsto stiskanja</text>
+		<text id="msg.err.used_jpeg2000" h="52FB4580">JPEG2000 kompresija se uporablja</text>
+		<text id="msg.err.used_key" h="48336238">Uporablja se %1 tipka</text>
+		<text id="msg.err.used_obj_transparency" h="A7E6E8BD">Objekt uporablja prosojnost: %1</text>
+		<text id="msg.err.used_scale_factor" h="341357C0">Dejavnik obsega je uporabljen</text>
+		<text id="msg.fix.added_mark_info" h="A14BC073">Dodaj informacijske oznake v katalog dokumenta</text>
+		<text id="msg.fix.annot" h="A3ED2923">Pripravljen pripis v PDF/A standardu</text>
+		<text id="msg.fix.append.data" h="C09E2EE2">Popravi nezadostne podatke v sliki</text>
+		<text id="msg.fix.blendingCS" h="C69A9AF9">Popravi mešanje barvnega prostora</text>
+		<text id="msg.fix.convert_ge_to" h="0F8BC341">Grafični element barvnega prostora bo pretvorjen v %1</text>
+		<text id="msg.fix.convert_image_to" h="4C6135BC">Slikovni barvni prostor bo pretvorjen v %1</text>
+		<text id="msg.fix.convert_shading_to" h="62CBFA3C">Senčenje barvnega prostora bo pretvorjeno v %1</text>
+		<text id="msg.fix.create_metadata" h="D90DAD7D">Metapodatki so bili ustvarjeni</text>
+		<text id="msg.fix.create_res_dict" h="FCE6D2B1">Slovar vira je bil dodan k strani</text>
+		<text id="msg.fix.create_st_root" h="C9038B9E">Strogo korensko drevo je ustvarjeno</text>
+		<text id="msg.fix.discard_action_annotation" h="25A52C6D">Zavrzi neskladno dejanje iz zaznambe</text>
+		<text id="msg.fix.discard_action_catalog" h="4927CDAB">Zavrzi neskladno dejanje iz kataloga</text>
+		<text id="msg.fix.discard_action_document" h="D232D863">Zavrzi neskladno dejanje iz dokumenta</text>
+		<text id="msg.fix.discard_action_outlines" h="E99A5487">Zavrzi neskladno dejanje iz obrisov</text>
+		<text id="msg.fix.embed_ext_stream" h="048B6358">Zunanji tok je bil vključen</text>
+		<text id="msg.fix.embed_file_fixed" h="31D72A99">Vgrajeni PDF dokument je bil pretvorjen v PDF/A standard</text>
+		<text id="msg.fix.embed_file_set_AF" h="9ED2BA67">Vgrajena datoteka: ustvari ustrezen ključ v AF vstopu</text>
+		<text id="msg.fix.embed_file_set_MIME" h="3EF87FF1">Vgrajena datoteka: Tip MIME je bil nastavljen</text>
+		<text id="msg.fix.embed_file_set_ModDate" h="BA267B98">Vgrajena datoteka: Spremenjen datum je bil nastavljen na parameter slovarja</text>
+		<text id="msg.fix.embed_file_set_key_to" h="BC68FC0B">Vgrajena datoteka: tipka %1 je nastavljena na %2</text>
+		<text id="msg.fix.flatten_opt_contents" h="6B973C9C">Sploščene izbirne vsebine</text>
+		<text id="msg.fix.flatten_transparency" h="1A34D6C7">Sploščena preglednost</text>
+		<text id="msg.fix.font" h="D72B5D39">Pisava %1 je bila popravljena: %2</text>
+		<text id="msg.fix.font_rasterized" h="F886ED6D">Besedilni predmeti pisave %1 so bili rasterizirani</text>
+		<text id="msg.fix.insert_correct_parent_outline_item_key" h="0EAAA35B">Vstavi ustrezen nadrejeni ključ k orisni postavki</text>
+		<text id="msg.fix.insert_parent_outline_item_key" h="345CBC49">Vstavi nadrejeni ključ k orisni postavki</text>
+		<text id="msg.fix.pages.root" h="E42A835E">Popravi koren strani</text>
+		<text id="msg.fix.rasterize.invalid.form" h="D899922D">Neveljavna oblika je bila rasterizirana</text>
+		<text id="msg.fix.recompress_image_to_target_BPC" h="FF073DE9">Ponovno stisni sliko v %1 bitov na sestavne dele</text>
+		<text id="msg.fix.recompress_jpeg2000" h="99C21C1F">Ponovno stisni JPEG 2000 slike</text>
+		<text id="msg.fix.remove.alternate_presentations" h="504508D7">Odstrani nadomestne predstavitve iz dokumenta</text>
+		<text id="msg.fix.remove_JS" h="60C345B8">Odstrani JavaScripts</text>
+		<text id="msg.fix.remove_TR" h="0F9F4216">Krivulja prenosa je odstranjena</text>
+		<text id="msg.fix.remove_annot" h="6BD2280C">Odstrani prepovedano označevanje</text>
+		<text id="msg.fix.remove_annot_invalid" h="F94382C8">Odstrani neveljaven objekt iz niza pripis</text>
+		<text id="msg.fix.remove_egs_key" h="C443AC00">Razširjen Graphics State: %1 ključ je bil odstranjen</text>
+		<text id="msg.fix.remove_element_with_zero_cm" h="A33839BA">Odstrani element z matrico ničelne preobrazbe</text>
+		<text id="msg.fix.remove_embedded_files" h="1D4761CB">Odstrani vse vgrajene datoteke v dokumentu PDF, kot zahteva  PDF/A</text>
+		<text id="msg.fix.remove_ext_stream" h="AFDE8AD8">Zunanji tok je bil odstranjen</text>
+		<text id="msg.fix.remove_interpolate" h="F32EB202">Interpolirani ključ je bil odstranjen iz slike</text>
+		<text id="msg.fix.remove_key" h="4413CC72">%1 je bil odstranjen</text>
+		<text id="msg.fix.remove_scale_factor" h="143311F1">Dejavnik obsega je bil odstranjen</text>
+		<text id="msg.fix.remove_transparency" h="7E5AEEAE">Odstrani prosojnost</text>
+		<text id="msg.fix.set_PDFA_version_conformance" h="AB0F972F">Nastavi PDF/A verzijo in skladnost</text>
+		<text id="msg.fix.set_egs_key_to" h="63221188">Razširjen Graphics State: %1 ključ je nastavljen na %2</text>
+		<text id="msg.fix.set_image_intent_to_rc_metric" h="8FA7BAE8">Slikoven namen je bil nastavljen na Relative Colorimetric</text>
+		<text id="msg.fix.set_op_mode_to_0" h="5F8AB92B">Način pretisk je bil nastavljen na 0 za 4 komponente ICC na podlagi barvnega prostora</text>
+		<text id="msg.fix.set_page_size_to_pdfa" h="196F4E85">Nastavljena velikost %1 k izvedbi se omeji do PDF/A</text>
+		<text id="msg.fix.synch_docinfo_metadata" h="BF00D7E3">1% vnos je bil sinhroniziran med podatki dokumentov in XMP metapodatki</text>
+		<text id="msg.param.PSForm" h="33125BC8">Postsript oblika</text>
+		<text id="msg.param.cs_based_on" h="FFE0AF7F">na osnovi</text>
+		<text id="msg.param.cs_with_alternate" h="B031D3C5">z namestnikom</text>
+		<text id="msg.param.font_CIDToGID_name_not_Identity" h="D25E4547">CIDToGIDMap je ime, ampak ne identiteta</text>
+		<text id="msg.param.font_convert_opentype" h="079FAAF6">opentype pisava je bila pretvorjena</text>
+		<text id="msg.param.font_create_CIDSet" h="B8A4E169">ustvari CIDSet vnos po PDF/A standardu</text>
+		<text id="msg.param.font_create_CIDToGID" h="E1B68352">ustvari CIDToGIDMap vnos v TrueType (CID) pisavi v skladu s PDF/A standardom</text>
+		<text id="msg.param.font_create_charset" h="9936EE1E">ustvari zbir vnosov po PDF/A standardu</text>
+		<text id="msg.param.font_embed" h="9A6990DE">vstavi datoteko pisave</text>
+		<text id="msg.param.font_fix_lenghts" h="23C1308C">Popravi vnose Length1, Length2 in Length3 v datoteki pisave v toku objekta</text>
+		<text id="msg.param.font_fix_width" h="034ED3BC">popravi informacijo o širini pismenke</text>
+		<text id="msg.param.font_incomp_CIDSet" h="D4F36CC7">CIDset je nepopoln v podmnožici CID pisave</text>
+		<text id="msg.param.font_incomp_charset" h="DFFF9082">nabor znakov je nepopoln v podmnožici pisave</text>
+		<text id="msg.param.font_incomp_width" h="AAD233DC">podatek širine za upodabljane pismenke je neskladen</text>
+		<text id="msg.param.font_incons_ordering" h="85409AB5">Vnos urejanje v CIDSystemInfo ni združljiv z ustreznim vpisom v CMAP</text>
+		<text id="msg.param.font_incons_registry" h="B78E6D80">Vnos registra v CIDSystemInfo ni združljiv z ustreznim vpisom v CMAP</text>
+		<text id="msg.param.font_incons_supplement" h="E36DF08C">Vnos dopolnilo v CIDSystemInfo ni združljiv z ustreznim vpisom v CMAP</text>
+		<text id="msg.param.font_insert_CIDSet" h="D5E3BAEB">vstavi vnos CIDSet</text>
+		<text id="msg.param.font_insert_charset" h="8F852948">vstavi vnos nabor znakov</text>
+		<text id="msg.param.font_invalid_Unicode" h="DC6A7C4D">Pisava ima ToUnicode zemljevid z neustreznimi vrednostmi</text>
+		<text id="msg.param.font_invalid_fontname" h="71C51772">ime pisave ni veljaven UTF-8 niz</text>
+		<text id="msg.param.font_invalid_lenghts" h="1D3DC2E0">pisava ima neveljavne Length1, Length2 in (ali) Length3 vnose v datoteki pisave v toku objekta</text>
+		<text id="msg.param.font_license_error" h="4B95C372">licenčna zastava pisave prepoveduje vstavljanje</text>
+		<text id="msg.param.font_missing_CIDSet" h="84DD35C7">CIDset manjka</text>
+		<text id="msg.param.font_missing_CIDToGID" h="FDCBB46C">CIDToGIDMap manjka v TrueType (CID) pisavi</text>
+		<text id="msg.param.font_missing_charset" h="D270A16F">nabor znakov manjka</text>
+		<text id="msg.param.font_missing_glyph" h="C8DB86BB">pismenka manjka v vgrajeni pisavi</text>
+		<text id="msg.param.font_not_map_Unicode" h="6C4EAF86">besedilo ni mogoče preslikati v Unicode</text>
+		<text id="msg.param.font_refer_notdef" h="8A352025">reference .notdef znakov pismenke</text>
+		<text id="msg.param.font_remove_diff_from_tt" h="989AD5E2">razlike so bile odstranjene iz pisave TrueType</text>
+		<text id="msg.param.font_tt_nonsymb_has_diff" h="15A5E12C">nesimbolna pisava TrueType ima razlike</text>
+		<text id="msg.param.font_tt_nonsymb_has_diff_names_not_from_AGL" h="3C710F75">TrueType pisava ima razlike v imenih pismenke, ki niso navedene v seznamu Adobe Glyph</text>
+		<text id="msg.param.font_tt_nonsymb_has_diff_not_enc31" h="596A57F1">TrueType nesimbolna pisava ima razlike, vendar ne vsebuje Microsoft Unicode (3.1) kodiranja</text>
+		<text id="msg.param.font_tt_nonsymb_wrong_enc" h="A3CC05FE">napačno kodiranje za ne-simbolno pisavo TrueType</text>
+		<text id="msg.param.font_tt_symb_enc_prohibit" h="567F543A">vnos kodiranja je prepovedan za simbolično pisavo TrueType</text>
+		<text id="msg.param.font_tt_symb_enc_removed" h="B6D46693">vnos kodiranja v simbolični pisavi TrueType je bil odstranjen</text>
+		<text id="msg.param.font_tt_symb_more_one_enc" h="5C1A2311">več kot eno kodiranje v TrueType simbolični pisavi</text>
+		<text id="msg.param.font_tt_symb_more_one_enc_not_enc30" h="3E42D77A">več kot eno kodiranje v TrueType simbolični pisavi in ne Microsoft Symbol (3.0) kodiranje</text>
+		<text id="msg.param.font_unembed" h="D58DB454">pisava ni vgrajena</text>
+		<text id="msg.param.font_unembed_CMap" h="9A7C00A5">CMap ni vgrajen po meri za CMap</text>
+		<text id="msg.param.font_unknown_enc" h="41169097">kodirajoč predmet, ki opiše pisavo, je neznan</text>
+		<text id="msg.param.font_used_opentype" h="3293DA7B">uporabljena openType pisava</text>
+		<text id="msg.param.font_was_converted" h="F6A778E4">%1 pisava je bila pretvorjena v %2 pisavo</text>
+		<text id="msg.param.transparent_bm" h="F48139D3">mešajoč način ni normalen ali združljiv</text>
+		<text id="msg.param.transparent_cafill" h="0422F119">alfa polnilo je manjše kot 1,0</text>
+		<text id="msg.param.transparent_castroke" h="4AE94E2B">alfa poteza je manjša kot 1,0</text>
+		<text id="msg.param.transparent_smask" h="FB9037E9">mehka maska ni vsakdanja</text>
+		<text id="msg.param.transparent_smask_image" h="5D8093D1">slika vsebuje mehko masko z vrednostjo, razen vrednosti nič</text>
+		<text id="msg.param.transparent_trgroup" h="60E2ACCB">skupina transparentnost je uporabljena</text>
+		<text id="msg.warn.annot.is.RGB" h="BBEA0231">Pripis uporablja barvo RGB, medtem ko izhoden namen ni RGB. Vrednost dela v PDF/A se poveča na 2</text>
+		<text id="msg.warn.doc_has_embeddedfiles" h="E84C59BF">Dokument vsebuje vgrajene datoteke. Vrednost dela v PDF/A se poveča na 2</text>
+		<text id="msg.warn.doc_has_layers" h="83853EB9">Dokument vsebuje plasti. Vrednost dela v PDF/A se poveča na 2</text>
+		<text id="msg.warn.doc_has_notpdf" h="A4A335D0">Dokument vsebuje vgrajene datoteke, ki niso PDF dokumenti. Vrednost dela v PDF/A se poveča na 3</text>
+		<text id="msg.warn.doc_has_transparent" h="7DA0DFA8">Dokument vsebuje prosojne predmete. Vrednost dela PDF/A se poveča na 2</text>
+		<text id="msg.warn.doc_not_marked" h="C9BEF804">Dokument ni označen. Stopnja skladnosti se je zmanjšala na B</text>
+		<text id="msg.warn.font_not_map_Unicode" h="E326DC30">Besedilo ni mogoče preslikati v Unicode. Stopnja skladnosti se je zmanjšala na B</text>
+		<text id="msg.warn.st_root_elem_type_not_standard" h="D150764F">Strukturirani PDF: element ne uporablja standardne vrste. Stopnja skladnosti se je zmanjšala na B</text>
+		<text id="opt.report" h="2D42B915">Možnosti poročila</text>
+		<text id="opt.showreport" h="AA4A3F31">Prikaži poročilo:</text>
+		<text id="report.noshow" h="CE659F1F">Nikoli ne prikaži</text>
+		<text id="report.show.always" h="E69A07D6">Vedno prikaži</text>
+		<text id="report.show.errwarn" h="4A9C5823">Pokaži na napako ali opozorilo</text>
+		<text id="status.proc.converting" h="9CE2B7EC">Pretvarjanje dokumenta v PDF/A</text>
+		<text id="status.proc.saving" h="3D2A3BDC">Shranjevanje dokumenta</text>
+		<text id="status.res.fail" h="6161C41F">Pretvorba ni uspela</text>
+		<text id="status.res.success" h="9F1280CB">Pretvorba uspela</text>
+	</Strings>
+</Localization>

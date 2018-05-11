@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Version date="20140526234420">2.00.00</Version>
+	<Author>LI, QIANG</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor" />
+	<Language eName="Chinese (PRC)" lName="中文(简体)" code="zh-CN" R2L="false"/>
+	<Module name="SpellChecker" namespace="spell" version="5.5.312" />
+	<Strings>
+		<text id="lstDicts.empty" h="FFD5B8BB">没有字典</text>
+		<text id="wrd.b.AddWord" h="8E2EE8C1">添加</text>
+		<text id="opt.b.AddDict" h="E0BF5FDE">添加字典</text>
+		<text id="msg.CopyDictError" h="81324CC9">不能复制字典文件</text>
+		<text id="msg.LoadDictError" h="D139CD51">不能载入字典</text>
+		<text id="msg.RemoveError" h="10071F88">不能移除字典文件，访问被拒绝。</text>
+		<text id="opt.b.CustomWordList" h="D1505337">自定义词典</text>
+		<text id="wrd.title" h="66DDC653">自定义词典</text>
+		<text id="wrd.b.Delete" h="D8FE3F70">删除</text>
+		<text id="wrd.b.DeleteAll" h="848E003C">全部删除</text>
+		<text id="msg.DictExists" h="650ABF1A">字典已经存在</text>
+		<text id="msg.DictExists.title" h="A81488F3">已有字典</text>
+		<text id="wrd.l.Dictionary" h="66E4322E">字典:</text>
+		<text id="opt.cb.EnableHyphens" h="BC236380">使用字典断字</text>
+		<text id="opt.cb.EnableAllHyphens" h="207464CF">使用断字</text>
+		<text id="opt.cb.EnableSpellChecker" h="1D563674">使用拼写检查</text>
+		<text id="opt.cb.AllowAlgoHyphens" h="184CA069">未知词断字</text>
+		<text id="dict.param.hyphen" h="50549BEC">断字</text>
+		<text id="opt.cb.IgnoreWordsInUppercase" h="918E6B8B">忽略大写词</text>
+		<text id="opt.cb.IgnoreWordsWithNumbers" h="6054313B">忽略含数字的词</text>
+		<text id="opt.b.RemoveDict" h="D94F3439">移除字典</text>
+		<text id="dict.param.spell" h="E10DA1DD">拼写</text>
+		<text id="opt.title" h="AEF9F007">拼写检查设置</text>
+		<text id="msg.ErrorTitle" h="8FEB05A5">拼写检查出错</text>
+		<text id="msg.WordExists" h="08449B8B">单词已经存在</text>
+		<text id="msg.WordExists.title" h="B19E6963">已有单词</text>
+		<text id="wrd.l.Word" h="7AFBC23E">词语:</text>
+</Strings>
+</Localization>

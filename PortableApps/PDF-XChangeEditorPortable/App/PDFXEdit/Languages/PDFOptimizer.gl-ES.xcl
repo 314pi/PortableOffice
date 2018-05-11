@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220807">2.00.00</Version>
+	<Author>Alfonso Seoage</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Galician (Galician)" lName="Galego" code="gl-ES" R2L="false"/>
+	<Module name="PDFOptimizer" namespace="pdfopt" version="6.0.322.7"/>
+	<Strings>
+		<text id="AcrobatForms" h="45DE15E7">Formularios Acrobat</text>
+		<text id="AllInPPI" h="73445ABD">Todas as cifras están en píxeles por polgada ( ppp, dpi, ppi)</text>
+		<text id="BackRemov" h="F699750D">Eliminación do fondo</text>
+		<text id="BookMarks" h="E2032460">Marcadores</text>
+		<text id="Bytes" h="4EF6C00A">bytes</text>
+		<text id="CleanUp" h="85D0243F">Limpeza</text>
+		<text id="ColorGrayscale" h="63F8C2FC">Cor/Escala de grises:</text>
+		<text id="ColorSpaces" h="279CFB02">Espazos de cor</text>
+		<text id="Comments3D" h="1A213B5F">Comentarios e contido 3D</text>
+		<text id="ContentStreams" h="EC5AA2E9">Fluxos de contido</text>
+		<text id="Count" h="48FC51FB">Reconto</text>
+		<text id="CrossReferenceTable" h="B0A3CE52">Táboa de referencias cruzadas</text>
+		<text id="Description" h="8990DB08">Descrición</text>
+		<text id="DiscardObjects" h="9A75CFD1">Refugar obxectos</text>
+		<text id="DiscardUserData" h="1B55800A">Refugar datos do usuario</text>
+		<text id="DocOverhead" h="8AF9C6B9">Exceso</text>
+		<text id="ErrCount" h="494DF48F">Erros atopados:</text>
+		<text id="ExGStates" h="CFF492D3">Estados gráficos estendidos</text>
+		<text id="Fonts" h="B72149DB">Tipografía</text>
+		<text id="Images" h="77764F9D">Imaxes</text>
+		<text id="LinkAnnotations" h="50D3AB53">Anotacións de ligazóns</text>
+		<text id="Mobile" h="A5903811">Móvil</text>
+		<text id="Mobile.Desc" h="AC3CDB44">Opcións para visores móbiles</text>
+		<text id="NamedDect" h="C4E8D8F5">Destinos con nome</text>
+		<text id="ObjectFor" h="24200BB3">Obxectos PDF para...</text>
+		<text id="Optimize.Error1" h="C319CA59">Houbo un erro crítico durante a optimización do documento:</text>
+		<text id="Optimize.Error2" h="E3B5A795">Non é posible gravar o arquivo resultante</text>
+		<text id="Optimize.IsXFA" h="86036928">Leste documento PDF contén un formulario Adobe XML ( XFA). 
+
+Ese tipo de arquivo non se pode optimizar.</text>
+		<text id="OptimizeCleanUp" h="2BE9852C">Limpar o documento...</text>
+		<text id="OptimizeCropContent" h="55D9A57D">Buscar e eliminar o contido que quede fora da zona de recorte</text>
+		<text id="OptimizeDiscardObj" h="87F2BCDD">Refugar un obxecto do documento....</text>
+		<text id="OptimizeDiscardUD" h="0A072948">Refugar datos do usuario no documento....</text>
+		<text id="OptimizeDuplicates" h="C12ECD41">Buscando duplicados (imaxes, formularios X- Forms, tipografías) para eliminalos...</text>
+		<text id="OptimizeFonts" h="A46D6002">Optimizar a tipografía...</text>
+		<text id="OptimizeImages" h="8D04A12D">Optimizar as imaxes...</text>
+		<text id="OptimizeTransparency" h="F0A68140">Optimizar a transparencia...</text>
+		<text id="PDFAuditInfo" h="3689108E">Información tras análise do PDF</text>
+		<text id="PDFOptScaned" h="15D6F8BB">Optimizar o PDF escaneado</text>
+		<text id="PDFOptimizer" h="E369C144">Optimizador de PDF</text>
+		<text id="PatternInfo" h="BF98E424">Información do patrón</text>
+		<text id="Percentage" h="AB9C5DE5">porcentaxe</text>
+		<text id="PieceInfo" h="14FA9D8A">Información de anacos</text>
+		<text id="ProgOptimizing" h="307A05DD">Espere mentres se optimiza o documento...</text>
+		<text id="ProgPreparing" h="88C0C05E">Preparando a optimización do documento...</text>
+		<text id="ProgTitle" h="9480CEF5">Optimización...</text>
+		<text id="RetainExisting" h="6258BC37">Manter o existente</text>
+		<text id="SavingDocument" h="56115414">Está a gardarse o documento optimizado...</text>
+		<text id="ShadingInfo" h="F222371A">Información sobre sombreado</text>
+		<text id="Standard" h="C6DA1F99">Típica</text>
+		<text id="Standard.Desc" h="D517594C">Opcións predefinidas para calquera dispositivo</text>
+		<text id="StructInfo" h="75C658E9">Información de estructura</text>
+		<text id="Thumbnails" h="47B1B2D9">Miniaturas</text>
+		<text id="Total" h="9CAA90C0">Total</text>
+		<text id="Transparency" h="9EAC5CA4">Transparencia</text>
+		<text id="VersionWarning" h="4EF893BE">A versión de PDF para este documento reduciuse de %1.%2 a %3.%4, debido ás opcións de optimización.
+Isto podería causar problemas nalgúns programas. Verifique o documento optimizado.</text>
+		<text id="XForms" h="336DF358">Formularios XForms</text>
+		<text id="abc" h="BD101B14">Texto de</text>
+		<text id="adjustName" h="CD74E7C8">Axuste o nome do arquivo ao gardar a optimización aplicada:</text>
+		<text id="alpha" h="632E9A25"> Preaxuste</text>
+		<text id="alpha.resolution.0" h="D33F1C80">Baixa resolución</text>
+		<text id="alpha.resolution.1" h="64A38366">Resolución media</text>
+		<text id="alpha.resolution.2" h="0B020749">Alta resolución</text>
+		<text id="alpha.set" h="A135F93B">Opcións do preaxuste:</text>
+		<text id="alpha.set.0" h="04DA8EE6">Grao de transparencia: %1</text>
+		<text id="alpha.set.1" h="E18C52C1">Debuxos lineais e texto: %1</text>
+		<text id="alpha.set.2" h="82CFFAB0"> Gradiente e mallas: %1</text>
+		<text id="alpha.set.3" h="6FFD6051">Converter todo o texto en contornos: %1</text>
+		<text id="alpha.set.4" h="F2FA75FC">Converter todos os trazos en contornos: %1</text>
+		<text id="alpha.set.5" h="B3DB6D2B">Recortar rexións complexas: %1</text>
+		<text id="alpha.set.6" h="33A6ABAC">Conservar a sobreimpresión: %1</text>
+		<text id="cleanUp" h="65707B26">Opcións de limpeza</text>
+		<text id="cleanUp.DelDuplicateFont" h="19ADBE28">Eliminar tipografías duplicadas</text>
+		<text id="cleanUp.DelDuplicateImg" h="6B3E34D0">Eliminar imaxes duplicadas</text>
+		<text id="cleanUp.DelDuplicateXForm" h="C81BC491">Eliminar formularios XForms duplicados</text>
+		<text id="cleanUp.LZW" h="58145992">Usar o método " Flate" para recodificar elementos que estean codificados con LZW</text>
+		<text id="cleanUp.bookmark" h="0744B268">Eliminar marcadores non válidos</text>
+		<text id="cleanUp.compress" h="631E86C0">Opcións de compresión de obxectos:</text>
+		<text id="cleanUp.compress.0" h="590461FB">Comprimir o arquivo completo</text>
+		<text id="cleanUp.compress.1" h="223C9F8A">Comprimir a estrutura do documento</text>
+		<text id="cleanUp.compress.2" h="02FEB23B">Eliminar a compresión</text>
+		<text id="cleanUp.compress.3" h="00A7F105">Deixar a compresión sen modificacións</text>
+		<text id="cleanUp.content" h="AF96A559">Optimizar o contido da páxina</text>
+		<text id="cleanUp.destinat" h="43CBC798">Eliminar destinos con nome aos que non se faga referencia</text>
+		<text id="cleanUp.link" h="D4DE7736">Eliminar ligazóns non válidas</text>
+		<text id="cleanUp.stream" h="2C797CB5">Usar o método " Flate" para codificar elementos que non o estean</text>
+		<text id="cleanUp.web" h="278DAB99">Optimizar o PDF para unha vista rápida na web</text>
+		<text id="cmd.name" h="E03D5D96">Gardar copia optimizada...</text>
+		<text id="cmd.nameScan" h="9FD32538">Optimizar páxinas escaneadas</text>
+		<text id="cmd.nameScanShort" h="EC746C37">Optimizar o escaneo...</text>
+		<text id="cmd.nameScanTip" h="075F0E8E">Corrixir e reducir o tamaño do documento escaneado.</text>
+		<text id="cmd.nameShort" h="E03D5D96">Gardar como optimizado...</text>
+		<text id="cmd.nameTip" h="DBCE5DD2">Garda o documento nun arquivo de menor tamaño e de apertura máis rápida</text>
+		<text id="descreen" h="250001AD">Destramador</text>
+		<text id="deskew" h="D73E3DAE">Enderezamento </text>
+		<text id="diObject" h="686FD8CF">Opcións para eliminar obxectos</text>
+		<text id="diObject.action" h="05E16E16">Eliminar todas as accións de formulario: envío, importación e restauración</text>
+		<text id="diObject.bookmark" h="A40329EB">Eliminar os marcadores</text>
+		<text id="diObject.curves" h="919F43B2">Converter as liñas suaves en curvas</text>
+		<text id="diObject.flatten" h="73C56406">Fusionar os campos de formulario</text>
+		<text id="diObject.fragment" h="CD4A23BC">Detectar e combinar fragmentos de imaxe</text>
+		<text id="diObject.image" h="63729870">Eliminar todas as imaxes alternativas</text>
+		<text id="diObject.javascript" h="7FFE9012">Eliminar todas as accións JavaScript</text>
+		<text id="diObject.print" h="BD6C83FA">Eliminar a configuración de impresión incrustada</text>
+		<text id="diObject.search" h="7B117F1A">Refugar os índices de procura incrustados</text>
+		<text id="diObject.tags" h="3C045100">Refugar as etiquetas do documento</text>
+		<text id="diObject.thumbnail" h="9599423F">Eliminar as miniaturas de páxina incrustadas</text>
+		<text id="diUserData" h="728DF433">Eliminar información relativa ao usuario</text>
+		<text id="diUserData.attach" h="92D67E12">Eliminar arquivos adxuntos</text>
+		<text id="diUserData.form" h="6C36F02B">Eliminar todos os comentarios (incluír ligazóns), formularios e multimedia</text>
+		<text id="diUserData.layer" h="FB8629C9">Eliminar o contido de capas ocultas e fusionar as capas visibles</text>
+		<text id="diUserData.links" h="12EEC435">Eliminar todas as ligazóns</text>
+		<text id="diUserData.metadata" h="1E9402E3">Eliminar a información e os metadatos do documento</text>
+		<text id="diUserData.object" h="6C03028D">Refugar todos os datos de obxecto</text>
+		<text id="diUserData.privat" h="304A6889">Eliminar datos privados doutras aplicacións</text>
+		<text id="diUserData.refer" h="B0E9F442">Eliminar referencias cruzadas externas</text>
+		<text id="dlg.POTitle" h="E462CC15">Optimización do PDF</text>
+		<text id="dlg.delete" h="38F26847">Está seguro de que quere borrar a opción '%1'?</text>
+		<text id="dlg.save" h="9A3AA1B1">Crear axustes do optimizador de PDF</text>
+		<text id="dlg.save.text" h="A599E751">Gardar a configuración actual en:</text>
+		<text id="filename" h="B06ACB9D">Convencións de nomes</text>
+		<text id="filters" h="8DA3B27E">Filtros</text>
+		<text id="fonts" h="1250B714">Opcións para retirar tipografías</text>
+		<text id="fonts.active" h="5C8642DA">Non debe desincrustarse ningunha</text>
+		<text id="fonts.all" h="3FE17594"> Desincrustar todas as tipografías</text>
+		<text id="fonts.btn.retain" h="BAD13ABC">&lt;&lt; Conservar</text>
+		<text id="fonts.btn.unembed" h="760953D2">Retirar &gt;&gt;</text>
+		<text id="fonts.comment" h="F38E9B57">A listaxe mostra as tipografías actualmente incrustadas no arquivo PDF. Para retirar unha delas, pásea á dereita. Só as do panel esquerdo manteranse incluídas no novo documento PDF.</text>
+		<text id="fonts.custom" h="2AAB35CE">Elixa tipografías que deben desincrustarse</text>
+		<text id="fonts.embedded" h="A77293DA">Tipografías incluídas:</text>
+		<text id="fonts.mergesubsets" h="F0C43A59">Combinar subconxuntos de tipografías</text>
+		<text id="fonts.recommend" h="F9ABDD3E"> Desincrustar as tipografías recomendadas</text>
+		<text id="fonts.subset" h="6EC24EDD">Crear subconxuntos de todas as tipografías incrustadas</text>
+		<text id="fonts.unembed" h="D1144C15">Tipografías que non se incluirán:</text>
+		<text id="highQuality" h="44A62CCC">Calidade alta</text>
+		<text id="images.AverageDownsampling" h="9DF5988E">Reducción promedio de resolución a</text>
+		<text id="images.BicubicDownsamplingTo" h="2B989117">Reducción bicúbica de resolución a</text>
+		<text id="images.NoDownsampling" h="747AEF4D">Sen redución de resolución</text>
+		<text id="images.SubsamplingTo" h="F298A3BE">Submuestreo a</text>
+		<text id="images.above" h="09C2601E">se supera o marxe:</text>
+		<text id="images.color" h="EFDBFA28">Imaxes en cor</text>
+		<text id="images.compress" h="990F2529">Compresión:</text>
+		<text id="images.compress.CCITTGroup3" h="B7DD624B">Grupo 3 CCITT</text>
+		<text id="images.compress.CCITTGroup4" h="F89CF48C">Grupo 4 CCITT</text>
+		<text id="images.compress.JBIG2" h="DE3BC257">JBIG2</text>
+		<text id="images.compress.JPEG" h="58DE58E0">JPEG</text>
+		<text id="images.compress.JPEG2000" h="3A603972">JPEG2000</text>
+		<text id="images.compress.LZW" h="D62F11BD">LZW</text>
+		<text id="images.compress.MRC" h="F6693DA2">MCR</text>
+		<text id="images.compress.RunLength" h="82741A51">Lonxitude de execución</text>
+		<text id="images.compress.ZIP" h="0E4D9E8D">ZIP</text>
+		<text id="images.grey" h="F9551019">Imaxes en grises</text>
+		<text id="images.ingexed" h="FE837B06">Imaxes indexadas</text>
+		<text id="images.mono" h="19F5498E">Imaxes en branco e negro</text>
+		<text id="images.quality.High" h="21A95620">Alta</text>
+		<text id="images.quality.Lossless" h="40A582D7">Sen perda</text>
+		<text id="images.quality.Lossy" h="78731864">Con perda</text>
+		<text id="images.quality.Low" h="845E3D8C">Baixa</text>
+		<text id="images.quality.Maximum" h="A8A97F0E">Máxima</text>
+		<text id="images.quality.Medium" h="91153342">Intermedia</text>
+		<text id="images.quality.Minimum" h="8415F85F">Mínima</text>
+		<text id="images.reduct" h="96D00A5D">Optimizar as imaxes só se se reduce o tamaño de arquivo</text>
+		<text id="mono" h="65032FDA">Monocromo:</text>
+		<text id="msg.NoPermission" h="DF8FF5FA">O documento está protexido e non ten os permisos necesarios para podelo optimizar.</text>
+		<text id="optPrefs" h="FDCAF687">Configuración do Optimizador</text>
+		<text id="ppi" h="B39AC2C1">ppp</text>
+		<text id="prefix" h="95164599">Prefixo:</text>
+		<text id="quality" h="E3A77A93">Calidade:</text>
+		<text id="result" h="CE676C2B">Resultado:</text>
+		<text id="settings" h="B781AB7B">Opcións:</text>
+		<text id="settings.Custom" h="A918FF38">Personalizado</text>
+		<text id="settings.Mobile" h="A5903811">Móvil</text>
+		<text id="settings.Standard" h="C6DA1F99">Típica</text>
+		<text id="smallSize" h="2A56EB5B">Pequeno</text>
+		<text id="spaceusage" h="2FA61B33"> Auditar o uso de espazo....</text>
+		<text id="stage.getfonts" h="9DF9EE20">Recompilando a tipografía do documento...</text>
+		<text id="stage.preparing" h="3F6313D6">Está a prepararse o documento...</text>
+		<text id="sufix" h="1627987B">Subfixo:</text>
+		<text id="textSharp" h="D60116F5">Enfatizar Texto</text>
+		<text id="tileSize" h="A4FAD93F">Tesela:</text>
+		<text id="ver" h="C549FED4">Facer compatible con:</text>
+		<text id="ver.1" h="8B2AEC62">Versión 1.3 (Acrobat 4.0 o posterior)</text>
+		<text id="ver.2" h="A0EA502A">Versión 1.4 (Acrobat 5.0 o posterior)</text>
+		<text id="ver.3" h="26054EFC">Versión 1.5 (Acrobat 6.0 o posterior)</text>
+		<text id="ver.4" h="70929FB3">Versión 1.6 (Acrobat 7.0 o posterior)</text>
+		<text id="ver.5" h="FD059DF9">Versión 1.7 (Acrobat 8.0 o posterior)</text>
+		<text id="ver.current" h="17DA1613">Versión de PDF actual: %1.%2</text>
+	</Strings>
+</Localization>

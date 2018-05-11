@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220820">2.00.00</Version>
+	<Author>Osman Öz</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Turkish (Turkey)" lName="Türkçe" code="tr-TR" R2L="false"/>
+	<Module name="GoogleDrivePlugin" namespace="gd" version="6.0.322.7"/>
+	<Strings>
+		<text id="DlgOpenFile" h="B98AB29D">Google Drive'deki Dosyayı Aç</text>
+		<text id="DlgSaveFile" h="81F99046">Google Drive'ye Dosya Kaydet</text>
+		<text id="GDPlugin" h="32B7E3E0">Google Drive Plugin</text>
+		<text id="btn.connectToAnother" h="508BDBC5">Yeni Giriş...</text>
+		<text id="cmd.cmdsCategory" h="AD23B285">Google Drive</text>
+		<text id="cmd.googledrive" h="1D28DF85">&amp;Google Drive</text>
+		<text id="cmd.open" h="F32ECED5">&amp;Google Drive...</text>
+		<text id="cmd.open.tip" h="933837A2">Open document from GoogleDrive'den belge açılır.</text>
+		<text id="cmd.save" h="F32ECED5">&amp;Google Drive...</text>
+		<text id="cmd.save.tip" h="948C3269">Google Drive'ye aktif bir belgeyi kaydeder.</text>
+		<text id="cpt.fileNotFound" h="A7F5FA7A">Dosya Bulunamadı</text>
+		<text id="cpt.invalidFileName" h="79C1387C">Geçersiz Dosya Adı</text>
+		<text id="cpt.navigateError" h="3D300A1C">Gezinme Hatası</text>
+		<text id="cpt.saveReplace" h="520CB069">Dosya Kaydet</text>
+		<text id="cpt.selectFile" h="C55D68B0">Dosya seçimi</text>
+		<text id="dlg.googleAuth" h="E5642F22">Google Drive Kimlik Doğrulama</text>
+		<text id="fileName" h="DEC92488">Dosya Adı:</text>
+		<text id="lb.CurrentFolder" h="44158804">Geçerli Klasör</text>
+		<text id="lb.Test" h="273F3E5B">Test Test Test!</text>
+		<text id="lb.googleAccName" h="C94645A3">Google Hesabı:</text>
+		<text id="msg.fileNotFound" h="430E08B1">"%1" dosyası mevcut klasörde bulunamadı.</text>
+		<text id="msg.invalidFileName" h="7C0655B5">"%1" is geçerli bir dosya adı değildir.</text>
+		<text id="msg.navigateError" h="2FCAA72A">Google Drive kaynağına gidilemedi. Lütfen, istenen Google Drive kaynağına erişmek için internet bağlantınızı ve erişim haklarınızı kontrol ediniz.</text>
+		<text id="msg.openFailed" h="AC94D960">Dosya açılamadı. Dosyanın var olduğuna, diğer kullanıcıya teslim edilmediğine ve bunun için okuma izninizin olduğuna emin olunuz.</text>
+		<text id="msg.saveFailed" h="4D413392">Dosya kaydedilemedi. Dosya adının geçerli olduğuna ve bunun için yazma izniniz olduğuna emin olunuz.</text>
+		<text id="msg.saveReplace" h="5D56833E">%1 dosyası zaten mevcut. Değiştirmek istiyor musunuz?</text>
+		<text id="msg.selectFile" h="2530C20F">Tamam düğmesine basmadan önce lütfen dosya seçiniz</text>
+		<text id="ls.column.created" h="FE6510B7">Oluşturma tarihi</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Dosya, klasör veya listenin oluşturulduğu tarih ve saat</text>
+		<text id="ls.column.extension" h="14FEB836">Uzantı</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Dosya uzantısı</text>
+		<text id="ls.column.modified" h="7E234D6D">Değişiklik tarihi</text>
+		<text id="ls.column.modified.hint" h="12933E76">Dosya, klasör veya listenin değiştirildiği tarih ve saat</text>
+		<text id="ls.column.size" h="17A58A52">Boyut</text>
+		<text id="ls.column.size.hint" h="9C4BD847">Dosyanın boyutu</text>
+		<text id="ls.column.title" h="D18643E3">Ad</text>
+		<text id="ls.column.title.hint" h="6A895576">Dosya adı, klasör adı veya liste başlığı</text>
+		<text id="virtualfolder.mydrive" h="84C2D3A6">Sürücüm</text>
+		<text id="virtualfolder.sharedwithme" h="8B65307E">Benimle Paylaş</text>
+		<text id="cpt.unableToSaveToVirtualFolder" h="778EF99A">Dosya Klasöre Kaydedilemiyor</text>
+		<text id="msg.unableToSaveToVirtualFolder" h="A6644426">Dosya seçilen yere kaydedilemiyor. Dosyayı kaydetmek için lütfen; alt klasörlerden birisi olan 'Sürücüm' klasörünü birini veya 'Benimle Paylaşılanlar'ın alt klasörlerinden birisini seçiniz.</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123224509">2.00.00</Version>
+	<Author>Berend Ytsma</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Western Frisian (Netherlands)" lName="Frysk" code="fy-NL" R2L="false"/>
+	<Module name="SharePoint" namespace="sp" version="7.0.323.3"/>
+	<Strings>
+		<text id="btn.checkIn" h="09996473">&amp;Ofmelde</text>
+		<text id="btn.discardCheckOut" h="40AC5603">O&amp;fmelde ôfbrekke</text>
+		<text id="btn.checkInAndKeepCkeckedOut" h="34DA624B">O&amp;anmelde en hâld ôfmelde</text>
+		<text id="btn.connect" h="A79F815C">F&amp;erbine</text>
+		<text id="btn.keepCkeckedOut" h="AEA0D6B1">Ofmelding &amp;hâlde</text>
+		<text id="btn.navigate" h="B03F439E">&amp;Navigearje</text>
+		<text id="btn.open" h="B1A510F0">&amp;Namme</text>
+		<text id="btn.openWithCheckOut" h="2F774735">Iepenje mei C&amp;heck out</text>
+		<text id="btn.save" h="F363C410">&amp;Bewarje</text>
+		<text id="btn.saveAndCheckOut" h="E44D9A0A">&amp;Bewarje en ôfmelde</text>
+		<text id="btn.saveReplace" h="11BF9724">Bewarje en fe&amp;rfange</text>
+		<text id="btn.signOut" h="645CEBE2">Utlo&amp;gge</text>
+		<text id="cb.url.tip" h="CD81E674">Adres ynfiere...</text>
+		<text id="cmd.checkIn" h="AEF235ED">&amp;Oanmelde</text>
+		<text id="cmd.checkIn.tip" h="C9DCA405">It dokumint triem op SharePoint oanmelde.</text>
+		<text id="cmd.checkOut" h="E6A87AFE">O&amp;fmelde</text>
+		<text id="cmd.checkOut.tip" h="E1B64D30">It dokumint triem op SharePoint ôfmelde.</text>
+		<text id="cmd.cmdsCategory" h="56A5F9B3">SharePoint</text>
+		<text id="cmd.discardCheckOut" h="40AC5603">Ofmel&amp;ding ôftanke</text>
+		<text id="cmd.discardCheckOut.tip" h="ED54ACC3">It ôfmelden fan it dokumint triem op SharePoint ôftankje.</text>
+		<text id="cmd.open" h="68595810">Share&amp;Point...</text>
+		<text id="cmd.open.tip" h="007B7200">Dokumint fan SharePoint iepenje.</text>
+		<text id="cmd.prepareFileInfo" h="56811CA0">Triem &amp;ynformaasje tariede</text>
+		<text id="cmd.prepareFileInfo.tip" h="E609EA07">De dokumint triem ynformaasje op SharePoint tariede.</text>
+		<text id="cmd.save" h="68595810">Share&amp;Point...</text>
+		<text id="cmd.save.tip" h="C48C1C25">In aktyf dokumint op SharePoint bewarje.</text>
+		<text id="cmd.share_point" h="B7423C0E">Share&amp;Point</text>
+		<text id="cmd.share_point.tip" h="CA99078B">Wurkje mei dokuminten yn SharePoint</text>
+		<text id="dlg.liveLogin" h="BFADC685">Live ynlogge</text>
+		<text id="dlg.openFile" h="435887CD">Triem iepenje</text>
+		<text id="dlg.saveFile" h="520CB069">Triem bewarje</text>
+		<text id="lb.checkInComment" h="694DD18A">Taljochting (opsjoneel)</text>
+		<text id="lb.name" h="F7B9E475">Triemnamme:</text>
+		<text id="lb.sharePointPlaceUrl" h="F900769A">SharePoint URL-adres:</text>
+		<text id="ls.column.created" h="FE6510B7">Datum oanmakke</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Datum en tiid doe't triem, map of list oanmakke is</text>
+		<text id="ls.column.extension" h="14FEB836">Taheakke</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Triem taheakke</text>
+		<text id="ls.column.modified" h="691C3610">Datum feroare</text>
+		<text id="ls.column.modified.hint" h="12933E76">Datum en tiid doe't triem, map of list foar it lêst oanpast is</text>
+		<text id="ls.column.size" h="17A58A52">Grutte</text>
+		<text id="ls.column.size.hint" h="E79CA174">Triem grutte</text>
+		<text id="ls.column.title" h="D18643E3">Namme</text>
+		<text id="ls.column.title.hint" h="81F4F728">Triemnamme, mapnamme of titellist</text>
+		<text id="msg.askForCheckInOnClose" h="8F50A2BC">Wolle jo de triem &lt;b&gt;%1&lt;/b&gt; oanmelde foardat de útgong berûn wurdt? Dit makket de feroarings beskikber foar oare brûkers.</text>
+		<text id="msg.askForCheckOutOnOpen" h="20742355">Jo kinne de triem &lt;b&gt;%1&lt;/b&gt; iepenje mwi ôfmelden om de triem as 'allinne lêzen' te setten doar oare brûkers,sadat jo it feilich feroarje kinne en te bewarjen nei SharePoint, of jo kinne oare brûkers tastean de triem te feroarjen, mar dat kin konflikten jaan as jo besykje joneigen diel te bewarjen.</text>
+		<text id="msg.askForCheckOutOnSave" h="0D7127AB">De triem &lt;b&gt;%1&lt;/b&gt; is net ôfmeld. De triem moat ôfmeld wurde om fierder te gean mei de aksje fan bewarjen.</text>
+		<text id="msg.askForDiscardCheckOutOnClose" h="CF92CA4B">Dizze triem &lt;b&gt;%1&lt;/b&gt;is ôfmeld foar dy. Wolle jo it ôfmelden ôfbrekke en oare brûkers tastean de triem te bewurkjen?</text>
+		<text id="msg.checkInFailed" h="3E327B8B">De triem &lt;b&gt;%1&lt;/b&gt; slagge net foar oanmelding. Wês wis dat de triem bestiet en ôfmeld is foar jo.</text>
+		<text id="msg.checkInDialogMessage" h="8A8CB676">Triem &lt;b&gt;%1&lt;/b&gt; oanmelde.</text>
+		<text id="msg.checkedOutToOtherOnOpen" h="0931ED51">Jo kinne de triem &lt;b&gt;%1&lt;/b&gt; net iepenje mei ôfmelden omdat it by de brûker "%2" ôfmeld is.</text>
+		<text id="msg.checkedOutToOtherOnSave" h="2974FCD2">De triem &lt;b&gt;%1&lt;/b&gt; is ôfmeld troch brûker "%2". Jo kinne dizze triem net bewarje nei SharePoint foardat foar jo ôfmeld is, mar jo kinne de feroarings op in oare lokaasje bewarje.</text>
+		<text id="msg.checkOutFailed" h="AE188A1B">De triem &lt;b&gt;%1&lt;/b&gt; slagge net foar ôfmelding. Wês wis dat de triem bestiet op de tsjinner en ôfmeld is foar in oare brûker.</text>
+		<text id="msg.connectError" h="18DFEDBE">Ferbining mei de SharePoint tsjinner mislearre. Kontrolearje jo ynternet ferbining, it tsjinner adres en de juste foech frege troch SharePoint.</text>
+		<text id="msg.discardCheckOutFailed" h="427CEAFC">It mislearre om de ôfmeld tastân fan triem &lt;b&gt;%1&lt;/b&gt; ôf te brekken. Wês wis dat de triem bestiet en ôfmeld is foar jo.</text>
+		<text id="msg.errorOnCheckOutNoEditPermissions" h="72CACDDF">Jo kinne dizze triem &lt;b&gt;%1&lt;/b&gt; net ôfmelde, omdat jo gjin foech ha om dizze triem te bewurkjen.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedCheckOut" h="0075F732">Jo kinne de triem &lt;b&gt;%1&lt;/b&gt; net mei ôfmelden iepenje omdat jo gjin foech ha om dizze triem te bewurkjen.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedWriteAccess" h="FD9B1AB1">Jo kinne dizze triem &lt;b&gt;%1&lt;/b&gt; net bewurkje omdat jo gjin foech ha om dizze triem te bewurkjen.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedWriteAccess" h="3453F306">ou kin de triem &lt;b&gt;%1&lt;/b&gt; net bewarje nei Sharepoint omdat jo net genôch foech ha om dizze triem te bewurkjen.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedCheckOut" h="833598E7">De triem &lt;b&gt;%1&lt;/b&gt; moat ôfmeld wurde foardat it bewarre wurde kin, mar jo ha gjin foech foar it bewurkjen fan dizze triem.</text>
+		<text id="msg.fileNotFound" h="381368F8">De triem &lt;b&gt;%1&lt;/b&gt; is net fûn yn de aktuele map.</text>
+		<text id="msg.invalidFileName" h="5F43EF67">&lt;b&gt;%1&lt;/b&gt; is net in jildige triemnamme.</text>
+		<text id="msg.navigateError" h="CF23B4B6">It navigearjen nei SharePoint helpboarne is mislearre. Kontrolearje jo ynternet ferbining, it tsjinner adres en de juste foech frege troch SharePoint.</text>
+		<text id="msg.openFailed" h="34DE1259">It iepenjen fan triem mislearre. Wês wis dat de triem bestiet, en net ôfmeld is foar oaren en dy en dat der foech is om te lêzen.</text>
+		<text id="msg.outdatedFileOnWrite" h="1D71732B">De triem &lt;b&gt;%1&lt;/b&gt; kin net bewarre wurde nei SharePoint omdat der feroarings konflikt bard. It dokumint jo ynladen ha befettet feroarings makke op &lt;b&gt;%2&lt;/b&gt;, mar de tsjinner befettet nijere feroarings, makke op &lt;b&gt;%3&lt;/b&gt; Bewarje jo feroaringen yn in nije triem, iepenje dan it lêste dokumint mei ôfmelding fan SharePoint, foegje de feroarings gear en bewarje har nei de tsjinner.</text>
+		<text id="msg.saveFailed" h="967D2A64">It bewarjen fan triem mislearre. Wês wis dat de triem bestiet, en net ôfmeld is foar oaren en dy en dat der foech is om te skriuwen.</text>
+		<text id="msg.saveReplace" h="B1889DFB">De triem &lt;b&gt;%1&lt;/b&gt; bestiet al. Wolle jo it ferfange?</text>
+		<text id="msg.signOutError" h="0E6A5F45">It mislearre om de aktuele brûker ôf te meden fan de SharePoint tsjinner. Mar it kin wêze dat de tagong ta Sharepoint sûnder in ferifikaasje fersyk noch tagonklik is.</text>
+		<text id="msg.warnOnOpenWithNoEditPermissions" h="E1A7E642">Jo iepenje de triem &lt;b&gt;%1&lt;/b&gt; mar ha gjin foech foar it bewurkjen fan dizze triem. Tink derom dat it net mooglik is om feroaringen te bewarjen nei SharePoint útsein jo de juste foech ha.</text>
+		<text id="msg.warnOnOpenWithOthersCheckOut" h="46080172">De triem &lt;b&gt;%1&lt;/b&gt; is ôfmeld foar de brûker "%2". Jo kinne de triem net nei SharePoint bewarje foardat "%2" de ôfmeld tastân ôfbrekt. As "%2" de triem oanmeld mei feroarings dat rinne jo tsjin in konflikt oan.</text>
+		<text id="opt.keepCkeckedOut" h="15301A94">Triemmen ôfmeld</text>
+		<text id="str.sharePoint" h="56A5F9B3">SharePoint</text>
+		<text id="rbar.sharepoint" h="56A5F9B3">SharePoint</text>
+	</Strings>
+</Localization>

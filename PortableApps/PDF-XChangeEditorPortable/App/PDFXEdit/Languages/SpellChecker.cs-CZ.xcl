@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171220231427">2.00.00</Version>
+	<Author>Martin Paulík</Author>
+	<Copyright>TERAGON SW s.r.o.
+www.pdfxchange.cz</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Czech (Czech Republic)" lName="čeština" code="cs-CZ" R2L="false"/>
+	<Module name="SpellChecker" namespace="spell" version="7.0.323.2"/>
+	<Strings>
+		<text id="dict.param.hyphen" h="50549BEC">Dělení slov</text>
+		<text id="dict.param.spell" h="E10DA1DD">Pravopis</text>
+		<text id="lstDicts.empty" h="FFD5B8BB">&lt;žádné slovníky&gt;</text>
+		<text id="msg.CopyDictError" h="81324CC9">Nemohu zkopírovat soubory se slovníky</text>
+		<text id="msg.DictExists" h="650ABF1A">Slovník již existuje</text>
+		<text id="msg.DictExists.title" h="A81488F3">Slovník existuje</text>
+		<text id="msg.ErrorTitle" h="8FEB05A5">Chyba kontroly pravopisu</text>
+		<text id="msg.LoadDictError" h="D139CD51">Nemohu načíst slovník</text>
+		<text id="msg.RemoveError" h="10071F88">Nemohu odstranit soubory se slovníky</text>
+		<text id="msg.WordExists" h="08449B8B">Slovo již existuje</text>
+		<text id="msg.WordExists.title" h="B19E6963">Slovo existuje</text>
+		<text id="opt.b.AddDict" h="E0BF5FDE">Přidat slovník</text>
+		<text id="opt.b.CustomWordList" h="D1505337">Seznam vlastních slov</text>
+		<text id="opt.b.RemoveDict" h="D94F3439">Odstranit slovník</text>
+		<text id="opt.cb.AllowAlgoHyphens" h="184CA069">Dělit neznámá slova</text>
+		<text id="opt.cb.EnableAllHyphens" h="207464CF">Povolit dělení slov</text>
+		<text id="opt.cb.EnableHyphens" h="BC236380">Povolit slovníku dělení slov</text>
+		<text id="opt.cb.EnableSpellChecker" h="1D563674">Povolit kontrolu pravopisu</text>
+		<text id="opt.cb.IgnoreWordsInUppercase" h="918E6B8B">Ignorovat slova s VELKÝMI PÍSMENY</text>
+		<text id="opt.cb.IgnoreWordsWithNumbers" h="6054313B">Ignorovat slova obsahující čísla</text>
+		<text id="opt.title" h="AEF9F007">Nastavení kontroly pravopisu</text>
+		<text id="wrd.b.AddWord" h="8E2EE8C1">Přidat</text>
+		<text id="wrd.b.Delete" h="D8FE3F70">Smazat</text>
+		<text id="wrd.b.DeleteAll" h="848E003C">Smazat vše</text>
+		<text id="wrd.l.Dictionary" h="66E4322E">Slovník:</text>
+		<text id="wrd.l.Word" h="7AFBC23E">Slovo:</text>
+		<text id="wrd.title" h="66DDC653">Seznam vlastních slov</text>
+	</Strings>
+</Localization>

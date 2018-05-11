@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20161130215844">2.00.00</Version>
+	<Author>Nuno Filipe Rego</Author>
+	<Copyright>Nuno Filipe Rego ©
+
+Coments and\or suggestions about the translations:
+Comentários e\ou sugestões sobre as traduções: 
+
+nunito.mokito@gmail.com</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Portuguese (Portugal)" lName="português" code="pt-PT" R2L="false"/>
+	<Module name="MarkdownPlugin" namespace="md" version="6.0.319.0"/>
+	<Strings>
+		<text id="btn.md.submenu" h="F830E694">Apartir dos Ficheiros Marcados...</text>
+		<text id="cmd.readStop" h="06B322F6">Parar Leitura</text>
+		<text id="cmd.tip" h="7F449B9F">Cria um novo documento apartidos de ficheiro(s) Marcado(s).</text>
+		<text id="converter.filterName" h="AE86B691">Ficheiros Marcados</text>
+		<text id="grb.style" h="1FF454A3">Estílo de Texto</text>
+		<text id="opt.btn.clear.style" h="8932B6EE">Reverter estílo CSS para o predefinido</text>
+		<text id="opt.cb.defAttr" h="74D7B3DB">Utilizar atributos de discurso padrão</text>
+		<text id="opt.cb.defVoice" h="972D8B4B">Utilizar voz padrão</text>
+		<text id="opt.cb.readComments" h="070A2526">Ler Comentários</text>
+		<text id="opt.cb.readFields" h="4331E3A2">Ler Apartir dos Campos</text>
+		<text id="opt.create.style" h="EDCA1553">Criar</text>
+		<text id="opt.group.title" h="D70A809E">Página</text>
+		<text id="opt.l.max" h="284585D5">Máx</text>
+		<text id="opt.l.min" h="F16918ED">Mín</text>
+		<text id="opt.l.pitch" h="A6915A2C">Ângulo:</text>
+		<text id="opt.l.rate" h="10B1E128">Velocidade</text>
+		<text id="opt.l.voice" h="5026E016">Voz:</text>
+		<text id="opt.l.volume" h="8C0E20F2">Volume:</text>
+		<text id="opt.l.wpm" h="7AEF5446">palavra(s) por minuto</text>
+		<text id="opt.style" h="5CEA121A">Estílo:</text>
+		<text id="opt.test.title" h="44732FAA">Teste</text>
+		<text id="opt.title" h="45D26671">Marcado como Opções PDF</text>
+		<text id="prefs.name" h="07E67B98">Marcado como PDF</text>
+		<text id="prefs.tips" h="45D26671">Marcado como Opções PDF</text>
+		<text id="prefs.title" h="45D26671">Marcado como Opções PDF</text>
+		<text id="prop.list.extension" h="14FEB836">Extensão</text>
+		<text id="prop.list.location" h="BB241F45">Localizações</text>
+		<text id="prop.list.modified" h="30325672">modificado</text>
+		<text id="prop.list.size" h="17A58A52">Tamanho</text>
+		<text id="prop.list.sorting" h="D48C5B3F">Agrupamento em processamento...</text>
+		<text id="prop.list.title" h="796DFAD3">Título</text>
+		<text id="prop.source" h="AE86B691">Ficheiros Identificados</text>
+		<text id="prop.source.file" h="F3110572">Selecionar Ficheiros Marcados</text>
+		<text id="prop.source.file.prop" h="4B450135">Ficheiros Marcados (*.md)|*.md||</text>
+		<text id="prop.source.file.unavailable" h="AE2771B8">Estílo de ficheiro indisponível</text>
+		<text id="prop.source.folder" h="8477FBD3">Selecionar Pasta com Marcação</text>
+		<text id="prop.source.subfolder" h="CBDB440E">Considerar também subpastas</text>
+		<text id="style.edit.default" h="600F2F18">Utilizar estílo padrão</text>
+		<text id="style.ext.default" h="8FCCD55E">estílo</text>
+		<text id="style.name.default" h="310A43CC">MD_Style.style</text>
+		<text id="style.save.title" h="2E270E87">Guardar Estílo</text>
+		<text id="style.folder.name" h="2F5ECDDE">Estílos Marcados</text>
+		<text id="test.text" h="6B245451">A rápida raposa castanha salta por cima do cão preguiçoso.</text>
+	</Strings>
+</Localization>

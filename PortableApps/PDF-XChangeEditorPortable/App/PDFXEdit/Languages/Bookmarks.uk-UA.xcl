@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123215804">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Ukrainian (Ukraine)" lName="Українська" code="uk-UA" R2L="false"/>
+	<Module name="BookmarksPlugin" namespace="bp" version="7.0.323.3"/>
+	<Strings>
+		<text id="DlgAddExcludedWords" h="BED549D0">Нові слова для виключення</text>
+		<text id="DlgAddTextToBookmark" h="E5B26485">Додавання тексту до заголовка закладки</text>
+		<text id="DlgAutoGenerateBookmarks.Title" h="0E85373B">Створення Закладок з тексту на сторінці</text>
+		<text id="DlgBookmarkAppearance" h="7544DDCE">Вигляд</text>
+		<text id="DlgBookmarkEveryNthPage" h="B6869582">Створення закладок для кожної N-ї сторінки</text>
+		<text id="DlgBookmarkLevelDescription" h="186C1D0A">Параметри відповідності тексту</text>
+		<text id="DlgBookmarkPropSheet" h="862C67E7">Властивості генерації закладок</text>
+		<text id="DlgBookmarkTitleFormatting" h="A87502C2">Формат Заголовка</text>
+		<text id="DlgBookmarksToNamedDests" h="8A0957E5">Перетворення в іменовані цілі</text>
+		<text id="DlgBookmarksToTextFile" h="29F18B82">Експорт закладок в текстовий файл</text>
+		<text id="DlgChangeBookmarkCase" h="4D74C7D9">Змінити регістр закладки</text>
+		<text id="DlgEditStopWords" h="911413E7">Редагування стоп-слів</text>
+		<text id="DlgFindReplaceBookmarkText" h="733A7FC1">Пошук і заміна тексту в закладках</text>
+		<text id="DlgFontNames" h="3C8B1F88">Вибір шрифта(-ів)</text>
+		<text id="DlgFromTOC" h="AC2ED85C">Створення закладок зі Змісту</text>
+		<text id="DlgFromTOCIndentation" h="12688622">Зміна відступів</text>
+		<text id="DlgFromTextFile" h="B3799046">Створення Закладок із тексту</text>
+		<text id="DlgNamedDestsToPageNumbers" h="9CAE5E39">Перетворення іменованих цілей у звичайні цілі</text>
+		<text id="DlgSheetBttfBookmarkProps" h="4B2F0AA2">Властивості закладок</text>
+		<text id="DlgSheetBttfSelectBookmarks" h="30673BCD">Загально</text>
+		<text id="DlgSortBookmarks" h="8339BB6C">Сортування закладок</text>
+		<text id="DlgToTOC" h="2B3E9BF1">Створення Змісту</text>
+		<text id="DlgValidateBookmarks" h="0CD39971">Легалізування закладок</text>
+		<text id="atb.btn.Macroses" h="81734E4F">Mac</text>
+		<text id="atb.chb.IncludeChildren" h="0AC4CB2B">Включати всі підрівні</text>
+		<text id="atb.chb.ProcessAllLevels" h="26C3B2DF">Обробка всіх рівнів закладок</text>
+		<text id="atb.chb.RemoveSpaces" h="ABDEA5BC">Видалити зайві проміжки із Заголовка закладки</text>
+		<text id="atb.gb.AddText" h="E21C9B55">Додати текст</text>
+		<text id="atb.gb.Levels" h="8A668489">Вибрати рівні закладок для обробки</text>
+		<text id="atb.gb.SelectSource" h="1E2E96A4">Вибір джерела закладок</text>
+		<text id="atb.lbl.BookmarkTitle" h="2DC1254E">“Заголовок”</text>
+		<text id="atb.lbl.Prefix" h="A51A4726">Додати префікс до Заголовка:</text>
+		<text id="atb.lbl.SelectLevel" h="D1263889">Рівень для обробки:</text>
+		<text id="atb.lbl.Suffix" h="C27741D5">Додати суфікс до Заголовка:</text>
+		<text id="atb.lbl.UseBookmarksFrom" h="E770326C">Використовувати закладки з:</text>
+		<text id="ba.chb.expand" h="BBA3BD8A">Розгорнути (показати всю структуру)</text>
+		<text id="ba.l.expl" h="EE297184">Визначити зовнішній вигляд для отриманих закладок:</text>
+		<text id="ba.l.textStyle" h="8D5CA9B5">Стиль тексту:</text>
+		<text id="benp.Gb.Main" h="4B2F0AA2">Налаштування створення закладок</text>
+		<text id="benp.Label.TitleTemplate" h="5E999567">Шаблон Назви закладки</text>
+		<text id="benp.Label1.SelectN" h="8626E4EA">Для кожної:</text>
+		<text id="benp.Label2.SelectN" h="6270721D">сторінки у вибраному діапазоні</text>
+		<text id="benp.infoBtn.invalidMacro" h="1561C0F2">Невизначене ім’я макросу в стрічці буде проігноровано</text>
+		<text id="bft.l.actionSeparator" h="5C05CE1E">Параметри дії сепаратора:</text>
+		<text id="bft.l.separator" h="A4269065">Роздільник полів:</text>
+		<text id="bld.btn.selStyle" h="EE213BC5">Установити параметри стилю з виділеного тексту</text>
+		<text id="bld.chb.fontNames" h="AB457B23">Шрифт (-и):</text>
+		<text id="bld.chb.limitToPattern" h="7F0826AB">Обмежувати текст закладок тільки визначеним шаблоном</text>
+		<text id="bld.chb.matchTextPattern" h="5A64E195">Співпадати з текстовим шаблоном:</text>
+		<text id="bld.chb.multilineBookmarks" h="CB4817D1">Дозволити багаторядкові записи закладок</text>
+		<text id="bld.g.textContentRules" h="5B364747">Правила текстового вмісту</text>
+		<text id="bld.l.description" h="2F770A5B">Вибрати комбінацію з поданих нижче атрибутів тексту
+для автоматичної генерації закладок з тексту в документі:</text>
+		<text id="bld.l.matchTextCase" h="43616BDA">Підібрати реєстр:</text>
+		<text id="bld.matchTextCase.allCapital" h="D4E8E731">Всі букви ПРОПИСНИМИ</text>
+		<text id="bld.matchTextCase.firstCapital" h="CAA2E79D">Перший символ - прописним</text>
+		<text id="bld.matchTextCase.firstDigit" h="42E73545">Перший символ - цифра</text>
+		<text id="bld.matchTextCase.noRestrictions" h="93089981">Без обмежень</text>
+		<text id="bnd.gb.Main" h="4DDA9780">Назва іменованої цілі</text>
+		<text id="bnd.lbl.NDTitle" h="7F7F73EC">Назву для іменованої цілі буде створено за схемою:</text>
+		<text id="btf.chb.insertAfter" h="DD7B743E">Додати після кожної назви:</text>
+		<text id="btf.chb.insertBefore" h="CBDD1CF8">Вставити перед кожною назвою:</text>
+		<text id="btf.chb.removeDuplicateSpaces" h="2653A648">Видалити повторення пробілів</text>
+		<text id="btf.chb.replaceLineBreaks" h="0C51EEEB">Замінити розриви рядків на пробіли</text>
+		<text id="btf.chb.replaceTitle" h="097EF3C2">Знаходити і замінювати заголовки закладок на текстові шаблони</text>
+		<text id="btf.g.advancedFormatting" h="9130441A">Розширений формат</text>
+		<text id="btf.g.textCase" h="97FCC959">Регістр тексту</text>
+		<text id="btf.l.characters" h="189C88D2">(символів)</text>
+		<text id="btf.l.expl" h="169A084A">Виберіть властивості тексту, які будете застосовувати до назв нових закладок:</text>
+		<text id="btf.l.leadingNumbers" h="074A1A51">Головні номери:</text>
+		<text id="btf.l.maxLength" h="A52EC501">Макс. довжина:</text>
+		<text id="btf.l.replacePattern" h="B54B1F92">Заміна шаблона:</text>
+		<text id="btf.l.searchPattern" h="E87DDC08">Пошук шаблона:</text>
+		<text id="btf.l.use" h="46DEA47A">Використовувати:</text>
+		<text id="btf.leadingNumbers.noChange" h="3399B0A0">Без змін</text>
+		<text id="btf.rb.doNotChange" h="4CBF2C1B">Не змінювати</text>
+		<text id="btf.rb.lowercase" h="82451817">всі малі</text>
+		<text id="btf.rb.sentenceCase" h="B26B2798">Як в реченні</text>
+		<text id="btf.rb.titleCase" h="2C8DBF1B">Як в Заголовках</text>
+		<text id="btf.rb.uppercase" h="42F820C7">ВСІ ВЕЛИКІ</text>
+		<text id="btf.use.letters" h="6EE7E478">Букви</text>
+		<text id="btf.use.numbers" h="E2FE5FA7">Номери</text>
+		<text id="btf.use.romanLetters" h="290A50ED">Римські цифри</text>
+		<text id="btn.add.custom" h="3080663C">Додати власні...</text>
+		<text id="btn.highlight" h="2485FBFF">Виділяти закладку</text>
+		<text id="btn.validate" h="1E91E484">Затвердити</text>
+		<text id="cbc.aew.label" h="7EC386C0">Додати нові слова для виключення (кожне слово в окремий рядок, після слова натискайте “Ввести”)</text>
+		<text id="cbc.cb.fromBookmarks" h="CF38CD8D">Вибрані</text>
+		<text id="cbc.cb.fromDocument" h="424CAFC5">Всі закладки</text>
+		<text id="cbc.chb.EnterCustomWordList" h="EB8ACE1B">Ваш список слів, які не будуть оброблені</text>
+		<text id="cbc.chb.IncludeChildrenBookmarks" h="051C6219">Застосовувати до всіх підрівнів</text>
+		<text id="cbc.gb.SelectTextCase" h="F9747FC0">Вибір регістру тексту</text>
+		<text id="cbc.gb.TextCaseOptions" h="DAD7B4F4">Параметри</text>
+		<text id="cbc.list.header" h="647D6FC4">Виключені слова</text>
+		<text id="cbc.rbtn.LowerCase" h="82451817">всі прописні</text>
+		<text id="cbc.rbtn.SentenceCase" h="B26B2798">Як в реченні</text>
+		<text id="cbc.rbtn.TitleCase" h="2C8DBF1B">Тільки Перші</text>
+		<text id="cbc.rbtn.UpperCase" h="42F820C7">ВСІ ВЕЛИКІ</text>
+		<text id="chb.ignoreDuplicates" h="B30FC50E">Ігнорувати послідовно продубльовані закладки</text>
+		<text id="chb.stopWords" h="491ED7FC">Ігнорувати текст зі стоп-словами</text>
+		<text id="chb.verifyLinks" h="7A46B598">Перевіряти посилання на зовнішні файли</text>
+		<text id="chb.warnGoTo" h="911FC68A">Попереджати про недійсну дію Перехід до...</text>
+		<text id="chb.warnGoToRE" h="C0827D11">Попереджати про недійсні дії переходів GoToR і GoToE</text>
+		<text id="chb.warnLaunchURI" h="94F27C09">Попереджати про недійсні дії Запуску і URI</text>
+		<text id="chb.warnNoActions" h="FBF997CF">Попереджати про порожній список дій чи недійсну дочірню</text>
+		<text id="chb.warnNoGoTo" h="66B02339">Попереджати про відсутність в списку дії Перехід до...</text>
+		<text id="chb.warnOther" h="B30D6C64">Попереджати про інші недійсні дії</text>
+		<text id="chb.warnTitle" h="F0B5EE52">Попереджати про порожні заголовки</text>
+		<text id="cmd.addAGBLevel" h="928E2BB5">Використовувати стиль виділеного тексту при створенні закладок...</text>
+		<text id="cmd.addTextToBookmarkTitle" h="C4C93738">Додати текст до назви закладки...</text>
+		<text id="cmd.addTextToBookmarkTitle.short" h="E21C9B55">Додати текст</text>
+		<text id="cmd.addTextToBookmarkTitle.tip" h="B412507B">Додає префікси і суфікси до назв закладок.</text>
+		<text id="cmd.changeBookmarkCase" h="359544B0">Змінити регістр закладки...</text>
+		<text id="cmd.changeBookmarkCase.short" h="BC4AE60A">Змінити регістр</text>
+		<text id="cmd.changeBookmarkCase.tip" h="48522DE3">Змінює регістр заголовків закладок.</text>
+		<text id="cmd.findReplaceBookmarkText" h="AF996007">Знайти і замінити текст закладки...</text>
+		<text id="cmd.findReplaceBookmarkText.short" h="9F35A871">Знайти і замінити</text>
+		<text id="cmd.findReplaceBookmarkText.tip" h="7ED81F66">Знаходить та замінює елементи тексту в заголовках закладок.</text>
+		<text id="cmd.sort" h="B1FFF012">Впорядкувати закладки...</text>
+		<text id="cmd.sort.short" h="579162B0">Сортувати</text>
+		<text id="cmd.sort.tip" h="90B74C06">Сортує закладки за вказаними критеріями.</text>
+		<text id="cmd.validate" h="E61D60D2">Затвердити закладки..</text>
+		<text id="cmd.validate.short" h="1E91E484">Затвердити</text>
+		<text id="cmd.validate.tip" h="AF7C0DD0">Перевіряє закладки на достовірність за вказаними критеріями.</text>
+		<text id="cmd.toTOC" h="9B7AEEEA">Створити Зміст...</text>
+		<text id="cmd.toTOC.short" h="2B3E9BF1">Створити Зміст</text>
+		<text id="cmd.toTOC.tip" h="E92DA1A8">Створює Зміст за структурою закладок і зі сторінками, на які вказують закладки.</text>
+		<text id="cmd.bookmarksToNamedDests" h="9A9E5CF2">Перетворити в іменовані цілі...</text>
+		<text id="cmd.bookmarksToNamedDests.short" h="9226CE11">Перетворити в імен. цілі</text>
+		<text id="cmd.bookmarksToNamedDests.tip" h="76CA39A1">Перетворює звичайні цілі зі списку дій закладок в іменовані ці. Після переміщення чи видалення сторінок, закладки вказують на ті ж сторінки, що й раніше.</text>
+		<text id="cmd.bookmarksToTextFile" h="DBEBEEB8">Експортувати закладки в текстовий файл...</text>
+		<text id="cmd.bookmarksToTextFile.short" h="738D44A8">Експортувати в текст</text>
+		<text id="cmd.bookmarksToTextFile.tip" h="2F1DD236">Зберігає структуру закладок в текстовий файл.</text>
+		<text id="cmd.bookmarksToHtmlFile" h="EFF75744">Експортувати закладки в HTML файл...</text>
+		<text id="cmd.bookmarksToHtmlFile.short" h="76C20816">Експортувати в HTML</text>
+		<text id="cmd.bookmarksToHtmlFile.tip" h="8968844D">Зберігає структуру закладок в HTML файл.</text>
+		<text id="cmd.namedDestsToPageNumbers" h="3A651CA9">Перетворити іменовані цілі в безпосередні цілі...</text>
+		<text id="cmd.namedDestsToPageNumbers.short" h="74C22304"> Іменовані цілі в безпосередні</text>
+		<text id="cmd.namedDestsToPageNumbers.tip" h="2ABF8034">Перетворює іменовані цілі в списку дій закладок в безпосередні цілі.</text>
+		<text id="cmd.bookmarkEveryNthPage" h="940FCD39">Зробити закладку для кожної N-ї сторінки...</text>
+		<text id="cmd.bookmarkEveryNthPage.short" h="71BCE832">Закладку для кожної N-ї сторінки</text>
+		<text id="cmd.bookmarkEveryNthPage.tip" h="B60E23D7">Створює закладки стосовно номерів сторінок документа.</text>
+		<text id="cmd.generate" h="2147DF79">Створити закладки з тексту на сторінці....</text>
+		<text id="cmd.generate.short" h="8BE514A6">З тексту на сторінці</text>
+		<text id="cmd.generate.tip" h="2A03253C">Створює закладки з поточного тексту документа, зберігає при цьому заданий стиль шрифта та параметри.</text>
+		<text id="cmd.fromTOC" h="D15400EB">Створити закладку “Зміст”...</text>
+		<text id="cmd.fromTOC.short" h="3AB39C50">Зі Змісту</text>
+		<text id="cmd.fromTOC.tip" h="D4170828">Створює закладки зі змісту. Перед виконанням цієї операції слід виділити зміст інструментом Виділення тексту.</text>
+		<text id="cmd.fromTextFile" h="55CA46BC">Створити закладки з текстового файла...</text>
+		<text id="cmd.fromTextFile.short" h="3619B3DB">З текстового файла</text>
+		<text id="cmd.fromTextFile.tip" h="11167525">Створює закладки з текстового файла. Слід зауважити, що формат даних текстових файлів повинен відповідати правилам експорту закладок у текстовий файл.</text>
+		<text id="cmd.name" h="7CDCE9BE">Закладки</text>
+		<text id="cmd.macro.firstLine" h="613F14A5">Текст першого рядка на сторінці</text>
+		<text id="cmd.macro.hierIndex" h="7DCA5F4D">Ієрархічний індекс</text>
+		<text id="cmd.macro.hierTitle" h="0E7B4B6F">Зробити закладкою ієрархічний заголовок</text>
+		<text id="cmd.macro.indexInParent" h="1B41AFB1">Індекс у верхньому рівні </text>
+		<text id="cmd.macro.label" h="EEE40FF3">Мітка сторінки</text>
+		<text id="cmd.macro.launch" h="87D9EB8D">Файл відкрити</text>
+		<text id="cmd.macro.level" h="B863033F">Рівень закладки</text>
+		<text id="cmd.macro.namedDest" h="C4E8D8F5">Іменована цілі</text>
+		<text id="cmd.macro.sequentialNum" h="CDF4EA5E">Порядковий номер</text>
+		<text id="cmd.macro.title" h="3AB782A4">Заголовок закладки</text>
+		<text id="cmd.macro.uri" h="6C21F7EF">Веб-сторінка, яку необхідно відкрити</text>
+		<text id="ebttf.actType.all" h="B8B21253">Закладки зі всіма типами гіперпосилань</text>
+		<text id="ebttf.actType.goto" h="05B4C93C">Закладки з діями Перехід на сторінку</text>
+		<text id="ebttf.actType.gotoR" h="41E1955E">Закладки з діями Перехід в інший документ</text>
+		<text id="ebttf.actType.js" h="07676EBA">Закладки з Javascript діями</text>
+		<text id="ebttf.actType.launch" h="38537D36">Закладки з дією Відкрити файл</text>
+		<text id="ebttf.actType.uri" h="F39B51AE">Закладки з дією Відкрити Веб-сторінку</text>
+		<text id="ebttf.cb.separator.comma" h="827998F7">Кома</text>
+		<text id="ebttf.cb.separator.semi" h="988594A6">Крапка з комою</text>
+		<text id="ebttf.ch.doNotEscape" h="09B53F9F">Не екранувати службові символи @ # { }  : тощо.</text>
+		<text id="ebttf.ch.expClosedState" h="46E4EC7E">Експортувати стан "згорнутості" закладок</text>
+		<text id="ebttf.ch.expDetailedGotoDescr" h="18B9C243">Експортувати детальний опис цілі</text>
+		<text id="ebttf.ch.exportActions" h="3444FE51">Експортувати дії закладок</text>
+		<text id="ebttf.ch.exportGoto" h="37493654">Експортувати сторінки, на які є посилання в закладках</text>
+		<text id="ebttf.ch.exportGotoR" h="92C06BA6">Експортувати опис дій "Перехід в інший документ"</text>
+		<text id="ebttf.ch.exportJS" h="9362EAE3">Експортувати код Javascript</text>
+		<text id="ebttf.ch.exportLaunch" h="1B39BF89">Експортувати опис дій "Відкрити файл"</text>
+		<text id="ebttf.ch.exportStyle" h="A6713F10">Експортувати налаштування кольору і стилю тексту закладок</text>
+		<text id="ebttf.ch.exportWebLinks" h="3C61424C">Експортувати посилання на веб-сторінки</text>
+		<text id="ebttf.ch.includeSubBookmarks" h="051C6219">Експортувати всі підзакладки</text>
+		<text id="ebttf.ch.openContFolder" h="80BDDAAC">Відкрити папку, в якій розташований файл</text>
+		<text id="ebttf.ch.overwriteExistingFiles" h="29981774">Відкрити наявні файли</text>
+		<text id="ebttf.ch.resloveNamedDests" h="D1E8A9BC">Замінювати іменовані цілі на номери сторінок</text>
+		<text id="ebttf.gb.actionExportParams" h="DA853D34">Вибір властивостей закладок при їх експорті</text>
+		<text id="ebttf.gb.savingResults" h="49571A59">Параметри виведення даних</text>
+		<text id="ebttf.gb.selectBookmarks" h="E2AFC2C6">Вибрати закладки для експорту</text>
+		<text id="ebttf.infoBtn.doNotEscape" h="93A6DD6C">Викидати екрановані службові символи не слід, якщо Ви надалі використовуватимите файл з експортованими закладками для імпорту в інший документ.</text>
+		<text id="ebttf.infoBtn.invalidSeparator" h="44875D1F">Роздільник повинен бути непорожньою стрічкою, не містити букви і цифри, пробіли, а також символи  @ # : { } </text>
+		<text id="ebttf.lbl.folder" h="3F9ED2F9">Папка:</text>
+		<text id="ebttf.lbl.separator" h="E9D351AC">Роздільник параметрів</text>
+		<text id="ebttf.rb.exportActionTypes" h="533F8EA6">Експортувати закладки з гіперпосиланнями</text>
+		<text id="ebttf.rb.exportAll" h="8F2ED544">Експортувати усі</text>
+		<text id="ebttf.rb.exportSelected" h="69FB5145">Експортувати вибрані закладки</text>
+		<text id="ebttf.rb.useDefaultFilename" h="0E7FC989">Використовувати ім’я PDF-файлу для запису результатів</text>
+		<text id="esw.chb.matchCase" h="2E5EFD7E">Враховувати регістр</text>
+		<text id="esw.chb.matchWhole" h="17009870">Враховувати ціле слово (-а)</text>
+		<text id="esw.chb.useRegExp" h="7FC6EB4F">Використовувати регулярні вирази</text>
+		<text id="esw.l.explanation" h="2C312B17">Тест зі стоп-словами буде проігноровано
+і не буде використано для створення закладок</text>
+		<text id="fn.l.selectFontNames" h="0CCEF1FA">Вибраний(-і) шрифт(-и):</text>
+		<text id="frbt.chb.MatchCase" h="12EB8088">Враховувати регістр</text>
+		<text id="frbt.chb.MatchWholeWord" h="FE8CC762">Тільки ціле слово</text>
+		<text id="frbt.chb.UseRegex" h="7FC6EB4F">Використовувати регулярні вирази</text>
+		<text id="frbt.gb.FindReplace" h="BA012728">Параметри пошуку і заміни</text>
+		<text id="frbt.lbl.FindWhat" h="D0A8A2C5">Знайти:</text>
+		<text id="frbt.lbl.ReplaceWith" h="3BE65784">Замінити на:</text>
+		<text id="ftoc.allIncluded" h="C994FC1B">Включати всі</text>
+		<text id="ftoc.b.indents" h="48800D32">Змінити відступи...</text>
+		<text id="ftoc.chb.addBookmarks" h="CBBAE768">Додати закладки для сторінок за елементами змісту</text>
+		<text id="ftoc.chb.addLinks" h="68456DBA">Додати посилання до елементів змісту</text>
+		<text id="ftoc.chb.createLevels" h="58CF083A">Використовувати відступи при створенні ієрархії закладок</text>
+		<text id="ftoc.chb.improveDest" h="417AD7B0">Покращити цілі закладок відповідно до тексту на сторінці</text>
+		<text id="ftoc.chb.trimNumbers" h="40ACC5F5">Видалити префікси номерів із назв закладок</text>
+		<text id="ftoc.chb.trimSpaces" h="5A27A063">Видалити послідовні пробіли із назв закладок</text>
+		<text id="ftoc.chb.useExistingLinks" h="E214DBE7">Переходити за посиланням, заданим для елементу змісту</text>
+		<text id="ftoc.l.bottomIndent" h="C983AD6F">Відступ знизу:</text>
+		<text id="ftoc.l.expl" h="1FAB779E">Ця операція додає закладки для сторінок за вибраними елементами Змісту. Також, до елементу Змісту може бути додане посилання на сторінку, або чинне посилання може бути використане для створення закладки.</text>
+		<text id="ftoc.l.offsetExpl" h="9D6C25F6">Вказує на відмінність між реальними (фізичними) номерами сторінок в PDF документі та видимими (записаними в друкованому варіанті).</text>
+		<text id="ftoc.l.pageOffset" h="9E563407">Зміщення сторінок:</text>
+		<text id="ftoc.l.separator" h="45CF4893">Вибрати тип роздільника:</text>
+		<text id="ftoc.l.topIndent" h="FA827580">Відступ зверху:</text>
+		<text id="msg.bft.warning" h="726201E6">Будь ласка, виберіть різні символи для роздільника полів і роздільника дій!</text>
+		<text id="msg.cbc.excludedwords.add.title" h="9ADE883B">Додати нове слово для виключення</text>
+		<text id="msg.cbc.excludedwords.caption" h="6B29D4B4">Ввести нове слово для виключення:</text>
+		<text id="msg.cbc.excludedwords.edit.title" h="82F8AAA6">Редагувати виділене слово для виключення</text>
+		<text id="msg.dlg.bookmarksToTextFile.done" h="8E1397E9">Закладки успішно експортовані в файл.</text>
+		<text id="msg.dlg.emptyFilename.warning" h="96A438DA">Ім’я файлу не може бути порожнім.</text>
+		<text id="msg.dlg.invalidFilename.slashes" h="626318B0">Ім’я файлу не повинно містити послідовні чи кінцеві символи “\”,  “/” .</text>
+		<text id="msg.dlg.invalidFilename.warning" h="46CD566C">Ім’я файлу в Windows не повинно містити символів: * ? : | " &lt; &gt; </text>
+		<text id="msg.dlg.noActionsSelected.warning" h="933F1901">Ви відмітили "Експорт дій закладки", але не вказали тип дій. Виберіть типи дій чи зніміть флажок.</text>
+		<text id="msg.dlg.noSelectedBookmarks.warning" h="21F37C67">Жодна закладка не вказана. Виберіть, будь ласка, одну чи декілька закладок або змініть параметр “Джерело закладок” на “Всі закладки”.</text>
+		<text id="msg.dlg.pathDoesntExist.warning" h="0804B942">Вказана папка не існує.
+Задайте, будь ласка, правильный шлях до папки і спробуйте ще раз.</text>
+		<text id="msg.font.addCustom.caption" h="75533687">Ввести нове ім’я для PDF шрифта:</text>
+		<text id="msg.font.addCustom.title" h="06AFFCAB">Додати нові нестандартні шрифти</text>
+		<text id="msg.frbt.result.bookmarksCount" h="EE00AC0B">Пошук завершено. Змінено %1 закладок.</text>
+		<text id="msg.frbt.result.noBookmarksModified" h="84BE491B">Пошук завершено. Жодна закладка не змінена.</text>
+		<text id="msg.levelDesc.title" h="E92EACC5">Рівень специфікації:</text>
+		<text id="msg.levelDesc.warning" h="86A85979">Не вдалося створити новий рівень закладки з такими даними. Виберіть хоча б один з потрібних критеріїв у Параметрах відповідності тексту. Також перевірте, чи вибрані елементи містять дані.</text>
+		<text id="msg.oper.noChanges" h="5777DD79">Жодних змін не було зроблено. Будь ласка, перевірте вхідні дані і спробуйте ще раз.</text>
+		<text id="msg.oper.warning" h="ABDCBB65">Виявлено деякі проблеми в процесі виконання оперції. Будь ласка, перевірте результат.</text>
+		<text id="msg.regex.error" h="D799FCBE">Помилка в процесі обробки синтаксису</text>
+		<text id="msg.stopWords.add.title" h="F6B54725">Додати нову стоп-фразу</text>
+		<text id="msg.stopWords.caption" h="E2BC1B9E">Нове “стоп-слово” чи “стоп-фраза”:</text>
+		<text id="msg.stopWords.edit.title" h="AFE604DF">Редагувати виділену стоп-фразу</text>
+		<text id="msg.validateBookmarks.delete.caption" h="ED4457F4">Чи бажаєте видалити вибрану закладку (-и) разом з дочірніми?</text>
+		<text id="msg.validateBookmarks.delete.title" h="8FF00765">Видалити недійсну закладку</text>
+		<text id="msg.validateBookmarks.rename.caption" h="CE842D61">Ввести нове ім’я закладки:</text>
+		<text id="msg.validateBookmarks.rename.title" h="ED9AF7FA">Перейменування закладки</text>
+		<text id="ndpn.ch.deleteDests" h="BC12FBF0">Видалити вже перетворені іменовані цілі з документа</text>
+		<text id="op.GenerateBookmarks" h="05382BCA">Створити закладок</text>
+		<text id="op.ValidateBookmarks.msg.emptyActionsList" h="A0A0065C">Закладка не містить дії, прописаної в ній</text>
+		<text id="op.ValidateBookmarks.msg.emptyTitle" h="83F3E965">Заголовок закладки порожній.</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidDestName" h="81A40483">Дія GoTo направляється на недійсну іменовану ціль.</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidPageNumber" h="C8941D79">Дія GoTo направляється на сторінки поза діапазоном.</text>
+		<text id="op.ValidateBookmarks.msg.goto.noAction" h="368F0970">Дій переходу GoTo в списку нема.</text>
+		<text id="op.ValidateBookmarks.msg.gotoE.invalidTargetPath" h="9D8A50F1">Потрібний шлях не вказаний в дії GoToE.</text>
+		<text id="op.ValidateBookmarks.msg.gotoR.invalidFile" h="76CCA61D">Дія GoTo направляється на недійсний файл.</text>
+		<text id="op.ValidateBookmarks.msg.gotoR.invalidPath" h="560614BE">Шлях до документа недійсний.</text>
+		<text id="op.ValidateBookmarks.msg.invalidAction" h="84877FDA">%1 дій недійсні.</text>
+		<text id="progress.BookmarkEveryNthPage.title" h="DA523087">Створення закладок для сторінок...</text>
+		<text id="progress.addTextToBookmarkTitle.text" h="BE27C5C9">Додавання тексту до закладки:  %1...</text>
+		<text id="progress.addTextToBookmarkTitle.title" h="EC7EB408">Додавання тексту до закладок.</text>
+		<text id="progress.addingBookmark" h="45BBB17E">Додавання закладок:  %1 из %2...</text>
+		<text id="progress.bookmarksToHtmlFile.status" h="AF1901AD">Експортування закладок: %1 з %2...</text>
+		<text id="progress.bookmarksToHtmlFile.text" h="4DD531FF">Експортування закладки: %1...</text>
+		<text id="progress.bookmarksToHtmlFile.title" h="E1D21FEE">Експортування закладок в HTML файл...</text>
+		<text id="progress.bookmarksToNamedDests.text" h="CE73819F">Перетворення закладки: %1...</text>
+		<text id="progress.bookmarksToNamedDests.title" h="8DB00717">Перетворення в іменовані цілі...</text>
+		<text id="progress.bookmarksToTextFile.text" h="6E74EA26">Обробка закладки для експорту: %1 </text>
+		<text id="progress.bookmarksToTextFile.title" h="D2C04472">Експортування закладок в текстовий файл...</text>
+		<text id="progress.calculatingBookmarks" h="4AC26E12">Підрахунок закладок...</text>
+		<text id="progress.changingBookmarkCase.text" h="107628CA">Зміна регістру закладки: %1 ...</text>
+		<text id="progress.changingBookmarkCase.title" h="E01AED17">Зміна регістру закладки...</text>
+		<text id="progress.findReplaceBookmarkText.text" h="ABC58F1D">Обробка закладки: %1 </text>
+		<text id="progress.findReplaceBookmarkText.title" h="00FEBD2A">Заміна тексту закладки...</text>
+		<text id="progress.generateBookmarks" h="3D5E30ED">Створення закладок зі сторінки %1 ...</text>
+		<text id="progress.generatingBookmarks" h="CFF0F2A9">Створення закладок</text>
+		<text id="progress.generatingBookmarks.label" h="043CF7B1">Додавання закладки:  %1...</text>
+		<text id="progress.generatingLevels" h="07A22443">Створення рівнів із закладок...</text>
+		<text id="progress.generatingTOC" h="A438CB9C">Створення Змісту</text>
+		<text id="progress.generatingTOCFromBookmark" h="C9213435">Створення Змісту із закладок : %1 ...</text>
+		<text id="progress.namedDestsToPageNumbers.deleteNds" h="5DFFFF06">Видалення іменованих цілей...</text>
+		<text id="progress.namedDestsToPageNumbers.title" h="4615CB0B">Перетворення іменованих цілей в посилання на номери сторінок</text>
+		<text id="progress.parsingFile" h="B2405DA1">Зчитування структури закладки з текстового файлу...</text>
+		<text id="progress.precalculatingPages" h="DB83BEF7">Створення сторінок для Змісту...</text>
+		<text id="progress.preparingSelected" h="52031EDE">Підготовка вибраних закладок...</text>
+		<text id="progress.sortingBookmarks" h="99E846CF">Сортування закладки %1...</text>
+		<text id="progress.sortingBookmarks.status" h="451C3890">Сортування %1 закладки з %2...</text>
+		<text id="progress.sortingBookmarks.title" h="E134B46E">Сортування закладок </text>
+		<text id="progress.statusText.ProcessingBookmarks" h="3836AD6B">Обробка закладки %1 з %2</text>
+		<text id="progress.statusText.ProcessingBookmarksDone" h="67CB6C48">Обробку закладок завершено.</text>
+		<text id="progress.undoingChanges" h="BBD3EE96">Відмінені зміни...</text>
+		<text id="regex.error.backref" h="3D1C1BE5">Вираз містить непривильну зворотню адресу.</text>
+		<text id="regex.error.badbrace" h="4363EA7D">Вираз містить непривильний діапазон символів у фігурних дужках: '{' і '}'.</text>
+		<text id="regex.error.badrepeat" h="9091944F">Вираз містить </text>
+		<text id="regex.error.brace" h="3031B0A1">Вираз містить невідповідні фігурні дужки: '{' і '}'.</text>
+		<text id="regex.error.brack" h="A41AB311">Вираз містить невідповідні квадратні дужки: '[' і ']'.</text>
+		<text id="regex.error.collate" h="D15FB49F">Вираз містить непривильне ім’я сортування елементів.</text>
+		<text id="regex.error.complexity" h="76ADCA5C">Складність співставлення з регулярним виразом перевищила попередньо заданий рівень.</text>
+		<text id="regex.error.ctype" h="76D6C176">Вираз містить непривильну назву класів символів.</text>
+		<text id="regex.error.default" h="509A660E">Трапилась помилка під час обробки регулярного виразу.</text>
+		<text id="regex.error.escape" h="4BAF1552">Вираз містить непривильний екранований чи заключний екранований символ.</text>
+		<text id="regex.error.paren" h="11F2EE54">Вираз містить невідповідні дужки: '(' і ')'.</text>
+		<text id="regex.error.range" h="CDB00023">Вираз містить непривильний діапазон символів (напр. [z-a])</text>
+		<text id="regex.error.space" h="2FFB9DD7">Недостатньо пам’яті для обробки цього регулярного виразу.</text>
+		<text id="regex.error.stack" h="2F47E3EC">Недостатньо пам’яті для визначення відповідності регулярного виразу вказаній послідовності символів.</text>
+		<text id="regex.error.syntax" h="4F399035">Виявлено помилку в синтаксисі регулярного виразу.</text>
+		<text id="sb.ascending" h="59F2363F">За зростанням</text>
+		<text id="sb.chb.ignoreCase" h="E0949C6C">Ігнорувати регістр тексту</text>
+		<text id="sb.chb.sortAll" h="7BB3E98C">Сортувати всі рівні закладок</text>
+		<text id="sb.chb.sortChildren" h="B1087C90">Сортувати дочірні закладки</text>
+		<text id="sb.descending" h="74091246">Із зменшенням</text>
+		<text id="sb.g.sortingMethod" h="93D0D863">Метод сортування</text>
+		<text id="sb.l.selectLevel" h="62FA8E9C">Рівень закладок для сортування:</text>
+		<text id="sb.l.sortType" h="85828DAE">Тип сортування:</text>
+		<text id="sb.rb.sortAlpha" h="F9CD110C">Сортувати закладки за алфавітом</text>
+		<text id="sb.rb.sortByPage" h="EB2AF7E4">Сортувати закладки за номерами сторінок</text>
+		<text id="test" h="A538F326">Тестова стрічка</text>
+		<text id="tree.fontColor" h="210B1C91">Колір тексту:</text>
+		<text id="tree.fontName" h="ACA86074">Шрифт:</text>
+		<text id="tree.fontSize" h="B3CE43BA">Розмір:</text>
+		<text id="tree.fontTolerance" h="7781AAB6">Допуск:</text>
+		<text id="tree.level" h="9B075A86">Рівень:</text>
+		<text id="tree.textPattern" h="24121AD7">Текстовий шаблон:</text>
+		<text id="tree.vb.bookmark" h="9926EC31">&lt;b&gt;%1. Закладка:&lt;/b&gt; "%2"</text>
+		<text id="ttoc.b.build" h="DE9A0F1C">Створити</text>
+		<text id="ttoc.b.changeNumber" h="DD04BEA8">Змінити формат...</text>
+		<text id="ttoc.b.changeTitle" h="3B951B9A">Змінити формат заголовку...</text>
+		<text id="ttoc.chb.asLastPage" h="D323F9DD">На останню</text>
+		<text id="ttoc.chb.end" h="9F41B967">Використовувати всі рівні закладок</text>
+		<text id="ttoc.chb.skipInvalid" h="F864C487">Пропускати недійсні заклакдки</text>
+		<text id="ttoc.chb.useDifferentNumberFormatting" h="A39D9F18">Нестандартний формат номерів</text>
+		<text id="ttoc.chb.useDifferentSeparatorFormatting" h="7D6F82B2">Нестандартний формат роздільника</text>
+		<text id="ttoc.chb.useSizeFromDoc" h="79C19271">Оприділити розмір сторінки документа</text>
+		<text id="ttoc.g.pageNumbering" h="21AF4605">Нумерація сторінок</text>
+		<text id="ttoc.g.pageSettings" h="D82087B4">Налаштування сторінки</text>
+		<text id="ttoc.ib.numberFormat" h="D41C6CB8">&lt;b&gt;Формат номера:&lt;/b&gt; &lt;i&gt;Шрифт:&lt;/i&gt; %1, &lt;i&gt;Розмір шрифту:&lt;/i&gt; %2 pt, &lt;i&gt;Колір шрифту:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.ib.separatorFormat" h="14A80F28">&lt;b&gt;Формат роздільника:&lt;/b&gt; &lt;i&gt;Шрифт:&lt;/i&gt; %1, &lt;i&gt;Розмір шрифту:&lt;/i&gt; %2 pt, &lt;i&gt;Колір шрифту:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.ib.titleFormat" h="4A9C0388">&lt;b&gt;Формат заголовку:&lt;/b&gt; &lt;i&gt;Шрифт:&lt;/i&gt; %1, &lt;i&gt;Розмір шрифту:&lt;/i&gt; %2 pt, &lt;i&gt;Колір шрифту:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.l.end" h="43FA653A">Останній рівень закладки при включенні у Зміст:</text>
+		<text id="ttoc.l.insertAsPage" h="B68AF5B1">Зміст перед сторінкою:</text>
+		<text id="ttoc.l.outputPagesAs" h="96E6A50A">Виводити номери сторінок як:</text>
+		<text id="ttoc.l.pageMargins" h="DA4D6B15">Поля сторінки:</text>
+		<text id="ttoc.l.start" h="B03149CB">Перший рівень закладки при включенні у Зміст:</text>
+		<text id="ttoc.l.title" h="930D3835">Заголовок:</text>
+		<text id="ttoc.l.titleFormatting" h="21C775EE">Оновити форматування заголовку:</text>
+		<text id="ttoc.output.bates" h="ECE56FA9">Нумерація Бейтса (якщо існує)</text>
+		<text id="ttoc.output.labels" h="EAE579C1">Мітки сторінки</text>
+		<text id="ttoc.output.numbers" h="38E0043C">Оригінальні номери сторінок</text>
+		<text id="ttoc.style.dots" h="C13D9439">Розділ..........1</text>
+		<text id="ttoc.style.spaces" h="D9E4F5A0">Розділ          1</text>
+		<text id="ttoc.style.underline" h="B52B746A">Розділ______1</text>
+		<text id="ttoc.tableOfContents" h="080B4CC0">Зміст</text>
+		<text id="undefinedFont" h="06D72DED">Невизначений шрифт (%1)</text>
+		<text id="vb.invalidALWarining" h="6B3E67E5">Зміни відхилено згідно зі списком недійсних дій. Залиште, будь ласка, хоча б одну дію!</text>
+		<text id="vb.l.invalidBookmarks" h="EE502FFE">Виявлено, що %1 закладка (-и)  недійсна</text>
+		<text id="rtab" h="7CDCE9BE">Закладки</text>
+		<text id="rbar.create" h="EDCA1553">Створити</text>
+		<text id="rbar.modify" h="EA358CAF">Змінити</text>
+		<text id="rbar.convert" h="EFAC3874">Перетворити</text>
+	</Strings>
+</Localization>

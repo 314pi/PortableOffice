@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220807">2.00.00</Version>
+	<Author>Andy Chen</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Chinese (Traditional, Taiwan)" lName="中文(繁體)" code="zh-TW" R2L="true"/>
+	<Module name="PDFOptimizer" namespace="pdfopt" version="6.0.322.7"/>
+	<Strings>
+		<text id="AcrobatForms" h="45DE15E7">Acrobat表單</text>
+		<text id="AllInPPI" h="73445ABD">所有單位均使用ppi</text>
+		<text id="BackRemov" h="F699750D">刪除背景圖</text>
+		<text id="BookMarks" h="E2032460">書籤</text>
+		<text id="Bytes" h="4EF6C00A">字元組</text>
+		<text id="CleanUp" h="85D0243F">清除</text>
+		<text id="ColorGrayscale" h="63F8C2FC">顏色/灰度:</text>
+		<text id="ColorSpaces" h="279CFB02">色彩空間</text>
+		<text id="Comments3D" h="1A213B5F">註釋和3D內容</text>
+		<text id="ContentStreams" h="EC5AA2E9">內容流</text>
+		<text id="Count" h="48FC51FB">計數</text>
+		<text id="CrossReferenceTable" h="B0A3CE52">交叉引用表</text>
+		<text id="Description" h="8990DB08">描述</text>
+		<text id="DiscardObjects" h="9A75CFD1">忽略對像</text>
+		<text id="DiscardUserData" h="1B55800A">忽略用戶資料</text>
+		<text id="DocOverhead" h="8AF9C6B9">檔案開銷</text>
+		<text id="ErrCount" h="494DF48F">發現錯誤:</text>
+		<text id="ExGStates" h="CFF492D3">延伸圖形狀態</text>
+		<text id="Fonts" h="B72149DB">字體</text>
+		<text id="Images" h="77764F9D">圖像</text>
+		<text id="LinkAnnotations" h="50D3AB53">連結註釋</text>
+		<text id="Mobile" h="A5903811">搬移</text>
+		<text id="Mobile.Desc" h="AC3CDB44">搬移裝置檢視設定</text>
+		<text id="NamedDect" h="C4E8D8F5">指定目的</text>
+		<text id="ObjectFor" h="24200BB3">PDF 對像用於...</text>
+		<text id="Optimize.Error1" h="C319CA59">檔案改善過程中發生致命錯誤:</text>
+		<text id="Optimize.Error2" h="E3B5A795">不能儲存結果檔案。</text>
+		<text id="Optimize.IsXFA" h="86036928">這份PDF檔案內含Adobe XML表單。
+
+不能壓縮這樣的檔案。</text>
+		<text id="OptimizeCleanUp" h="2BE9852C">清除檔案...</text>
+		<text id="OptimizeCropContent" h="55D9A57D">尋找並移除剪下框之外的內容</text>
+		<text id="OptimizeDiscardObj" h="87F2BCDD">忽略檔案中的對象...</text>
+		<text id="OptimizeDiscardUD" h="0A072948">忽略檔案中的用戶資料...</text>
+		<text id="OptimizeDuplicates" h="C12ECD41">搜尋重複項目 (圖像、X-Forms、字體) 並移除...</text>
+		<text id="OptimizeFonts" h="A46D6002">改善字體</text>
+		<text id="OptimizeImages" h="8D04A12D">改善圖片</text>
+		<text id="OptimizeTransparency" h="F0A68140">改善透明度</text>
+		<text id="PDFAuditInfo" h="3689108E">PDF 審核資訊</text>
+		<text id="PDFOptScaned" h="15D6F8BB">優化已掃描的 PDF</text>
+		<text id="PDFOptimizer" h="E369C144">優化 PDF</text>
+		<text id="PatternInfo" h="BF98E424">型態資訊</text>
+		<text id="Percentage" h="AB9C5DE5">百分比</text>
+		<text id="PieceInfo" h="14FA9D8A">片段資訊</text>
+		<text id="ProgOptimizing" h="307A05DD">檔案改善中，請稍等...</text>
+		<text id="ProgPreparing" h="88C0C05E">準備改善檔案...</text>
+		<text id="ProgTitle" h="9480CEF5">改善中...</text>
+		<text id="RetainExisting" h="6258BC37">保留現有</text>
+		<text id="SavingDocument" h="56115414">儲存改善後的檔案</text>
+		<text id="ShadingInfo" h="F222371A">陰影資訊</text>
+		<text id="Standard" h="C6DA1F99">標準</text>
+		<text id="Standard.Desc" h="D517594C">所有裝置的基礎設定</text>
+		<text id="StructInfo" h="75C658E9">結構資訊</text>
+		<text id="Thumbnails" h="47B1B2D9">縮略圖</text>
+		<text id="Total" h="9CAA90C0">總共</text>
+		<text id="Transparency" h="9EAC5CA4">透明度</text>
+		<text id="VersionWarning" h="4EF893BE">根據改善設定，PDF-specification版本從 %1.%2 減小到 %3.%4。
+這可能導致某些應用程式出問題。請檢查改善後的檔案。</text>
+		<text id="XForms" h="336DF358">X Object Forms</text>
+		<text id="abc" h="BD101B14">文字</text>
+		<text id="adjustName" h="CD74E7C8">當儲存應用的優化時調整檔案名稱:</text>
+		<text id="alpha" h="632E9A25">預設</text>
+		<text id="alpha.resolution.0" h="D33F1C80">低解析度</text>
+		<text id="alpha.resolution.1" h="64A38366">中等解析度</text>
+		<text id="alpha.resolution.2" h="0B020749">高解析度</text>
+		<text id="alpha.set" h="A135F93B">預設</text>
+		<text id="alpha.set.0" h="04DA8EE6">透明度：%1</text>
+		<text id="alpha.set.1" h="E18C52C1">藝術線條和文字:%1</text>
+		<text id="alpha.set.2" h="82CFFAB0">漸變和網格:%1</text>
+		<text id="alpha.set.3" h="6FFD6051">將所有文字轉化為輪廓:%1</text>
+		<text id="alpha.set.4" h="F2FA75FC">將所有的描邊轉化為輪廓:%1</text>
+		<text id="alpha.set.5" h="B3DB6D2B">移除複雜區域:%1</text>
+		<text id="alpha.set.6" h="33A6ABAC">保留印戳:%1</text>
+		<text id="cleanUp" h="65707B26">清理設定</text>
+		<text id="cleanUp.DelDuplicateFont" h="19ADBE28">移除重複字體</text>
+		<text id="cleanUp.DelDuplicateImg" h="6B3E34D0">移除重複圖片</text>
+		<text id="cleanUp.DelDuplicateXForm" h="C81BC491">移除重複的 XForms</text>
+		<text id="cleanUp.LZW" h="58145992">用 Flate 模式代替使用 LZW 編碼的資料流</text>
+		<text id="cleanUp.bookmark" h="0744B268">移除無效書籤</text>
+		<text id="cleanUp.compress" h="631E86C0">對像壓縮選項:</text>
+		<text id="cleanUp.compress.0" h="590461FB">壓縮整個檔案</text>
+		<text id="cleanUp.compress.1" h="223C9F8A">壓縮檔案結構</text>
+		<text id="cleanUp.compress.2" h="02FEB23B">移除壓縮</text>
+		<text id="cleanUp.compress.3" h="00A7F105">不改變原有壓縮水平</text>
+		<text id="cleanUp.content" h="AF96A559">改善頁面內容</text>
+		<text id="cleanUp.destinat" h="43CBC798">移除未引用的命名目的</text>
+		<text id="cleanUp.link" h="D4DE7736">移除無效連結</text>
+		<text id="cleanUp.stream" h="2C797CB5">使用 Flate 模式對未編碼的資料流進行編碼</text>
+		<text id="cleanUp.web" h="278DAB99">為快速網頁視圖改善 PDF</text>
+		<text id="cmd.name" h="E03D5D96">另存最佳化的副本...</text>
+		<text id="cmd.nameScan" h="9FD32538">優化已掃描的頁面</text>
+		<text id="cmd.nameScanShort" h="EC746C37">優化掃描..</text>
+		<text id="cmd.nameScanTip" h="075F0E8E">更正並減小掃描文檔的大小.</text>
+		<text id="cmd.nameShort" h="E03D5D96">另存為已優化..</text>
+		<text id="cmd.nameTip" h="DBCE5DD2">將文件儲存為檔案更小、開啟更快的版本</text>
+		<text id="descreen" h="250001AD">不含畫面</text>
+		<text id="deskew" h="D73E3DAE">校正</text>
+		<text id="diObject" h="686FD8CF">移除對像設定</text>
+		<text id="diObject.action" h="05E16E16">移除所有的表單提交、 匯入和重設動作</text>
+		<text id="diObject.bookmark" h="A40329EB">移除書籤</text>
+		<text id="diObject.curves" h="919F43B2">將平滑線轉為曲線</text>
+		<text id="diObject.flatten" h="73C56406">展平表單字段</text>
+		<text id="diObject.fragment" h="CD4A23BC">檢驗併合併圖像碎片</text>
+		<text id="diObject.image" h="63729870">移除所有替代圖片</text>
+		<text id="diObject.javascript" h="7FFE9012">移除所有 JavaScript 動作</text>
+		<text id="diObject.print" h="BD6C83FA">移除內嵌的列印設定</text>
+		<text id="diObject.search" h="7B117F1A">移除內嵌的搜尋索引</text>
+		<text id="diObject.tags" h="3C045100">移除檔案標籤</text>
+		<text id="diObject.thumbnail" h="9599423F">移除內嵌的頁面縮略圖</text>
+		<text id="diUserData" h="728DF433">移除用戶關聯的資訊</text>
+		<text id="diUserData.attach" h="92D67E12">移除檔案附件</text>
+		<text id="diUserData.form" h="6C36F02B">移除所有的註釋、 表單和多媒體</text>
+		<text id="diUserData.layer" h="FB8629C9">移除隱藏的圖層內容併合併可見層</text>
+		<text id="diUserData.links" h="12EEC435">忽略所有連結</text>
+		<text id="diUserData.metadata" h="1E9402E3">移除檔案資訊和元資料</text>
+		<text id="diUserData.object" h="6C03028D">移除所有對象資料</text>
+		<text id="diUserData.privat" h="304A6889">移除其他應用程式的私有資料</text>
+		<text id="diUserData.refer" h="B0E9F442">移除外部交叉引用</text>
+		<text id="dlg.POTitle" h="E462CC15">PDF改善</text>
+		<text id="dlg.delete" h="38F26847">您確定要移除設定 '%1'?</text>
+		<text id="dlg.save" h="9A3AA1B1">建立PDF改善器設定</text>
+		<text id="dlg.save.text" h="A599E751">將現用設定另存為:</text>
+		<text id="filename" h="B06ACB9D">命名轉換</text>
+		<text id="filters" h="8DA3B27E">過濾器</text>
+		<text id="fonts" h="1250B714">字體解除內嵌設定</text>
+		<text id="fonts.active" h="5C8642DA">保留所有字體</text>
+		<text id="fonts.all" h="3FE17594">解除內嵌所有字體</text>
+		<text id="fonts.btn.retain" h="BAD13ABC">&lt;&lt; 保留</text>
+		<text id="fonts.btn.unembed" h="760953D2">解除內嵌&gt;&gt;</text>
+		<text id="fonts.comment" h="F38E9B57">以上清單中的字體是現用已內嵌PDF檔案的字體。要移除內嵌字體，請將它搬移到右邊的面板。左邊的字體清單將仍會內嵌PDF檔案。</text>
+		<text id="fonts.custom" h="2AAB35CE">手動選取解除內嵌的字體</text>
+		<text id="fonts.embedded" h="A77293DA">已內嵌的字體</text>
+		<text id="fonts.mergesubsets" h="F0C43A59">合併字體子集</text>
+		<text id="fonts.recommend" h="F9ABDD3E">解除內嵌推薦的字體</text>
+		<text id="fonts.subset" h="6EC24EDD">內嵌字體僅保留使用的子集</text>
+		<text id="fonts.unembed" h="D1144C15">解除內嵌的字體</text>
+		<text id="highQuality" h="44A62CCC">高品質</text>
+		<text id="images.AverageDownsampling" h="9DF5988E">平均降採樣至</text>
+		<text id="images.BicubicDownsamplingTo" h="2B989117">雙三次降採樣到</text>
+		<text id="images.NoDownsampling" h="747AEF4D">沒有縮減採樣</text>
+		<text id="images.SubsamplingTo" h="F298A3BE">對子採樣</text>
+		<text id="images.above" h="09C2601E">當圖像超過：</text>
+		<text id="images.color" h="EFDBFA28">彩色圖像</text>
+		<text id="images.compress" h="990F2529">壓縮：</text>
+		<text id="images.compress.CCITTGroup3" h="B7DD624B">CCITT 群組 3</text>
+		<text id="images.compress.CCITTGroup4" h="F89CF48C">CCITT 群組 4</text>
+		<text id="images.compress.JBIG2" h="DE3BC257">JBIG2</text>
+		<text id="images.compress.JPEG" h="58DE58E0">JPEG</text>
+		<text id="images.compress.JPEG2000" h="3A603972">JPEG2000</text>
+		<text id="images.compress.LZW" h="D62F11BD">LZW</text>
+		<text id="images.compress.MRC" h="F6693DA2">MRC</text>
+		<text id="images.compress.RunLength" h="82741A51">運行長度</text>
+		<text id="images.compress.ZIP" h="0E4D9E8D">ZIP</text>
+		<text id="images.grey" h="F9551019">灰階圖</text>
+		<text id="images.ingexed" h="FE837B06">索引圖片</text>
+		<text id="images.mono" h="19F5498E">黑白圖</text>
+		<text id="images.quality.High" h="21A95620">高</text>
+		<text id="images.quality.Lossless" h="40A582D7">無損</text>
+		<text id="images.quality.Lossy" h="78731864">有損</text>
+		<text id="images.quality.Low" h="845E3D8C">低</text>
+		<text id="images.quality.Maximum" h="A8A97F0E">最大</text>
+		<text id="images.quality.Medium" h="91153342">中等</text>
+		<text id="images.quality.Minimum" h="8415F85F">最低</text>
+		<text id="images.reduct" h="96D00A5D">僅當拉遠尺寸時改善圖片</text>
+		<text id="mono" h="65032FDA">單色:</text>
+		<text id="msg.NoPermission" h="DF8FF5FA">本檔案受保護，您沒有足夠的權限執行改善。</text>
+		<text id="optPrefs" h="FDCAF687">優化設置</text>
+		<text id="ppi" h="B39AC2C1">dpi</text>
+		<text id="prefix" h="95164599">首碼:</text>
+		<text id="quality" h="E3A77A93">質量：</text>
+		<text id="result" h="CE676C2B">結果:</text>
+		<text id="settings" h="B781AB7B">設定：</text>
+		<text id="settings.Custom" h="A918FF38">自定義</text>
+		<text id="settings.Mobile" h="A5903811">搬移</text>
+		<text id="settings.Standard" h="C6DA1F99">標準</text>
+		<text id="smallSize" h="2A56EB5B">小尺寸</text>
+		<text id="spaceusage" h="2FA61B33">審核使用的空間...</text>
+		<text id="stage.getfonts" h="9DF9EE20">收集檔案字體...</text>
+		<text id="stage.preparing" h="3F6313D6">準備檔案...</text>
+		<text id="sufix" h="1627987B">尾碼:</text>
+		<text id="textSharp" h="D60116F5">文字銳利</text>
+		<text id="tileSize" h="A4FAD93F">拼貼大小</text>
+		<text id="ver" h="C549FED4">相容性：</text>
+		<text id="ver.1" h="8B2AEC62">Version 1.3 (Acrobat 4.0 或更新)</text>
+		<text id="ver.2" h="A0EA502A">Version 1.4 (Acrobat 5.0 或更新)</text>
+		<text id="ver.3" h="26054EFC">Version 1.5 (Acrobat 6.0 或更新)</text>
+		<text id="ver.4" h="70929FB3">Version 1.6 (Acrobat 7.0 或更新)</text>
+		<text id="ver.5" h="FD059DF9">Version 1.7 (Acrobat 8.0 或更新)</text>
+		<text id="ver.current" h="17DA1613">現用 PDF 版本：%1.%2</text>
+	</Strings>
+</Localization>

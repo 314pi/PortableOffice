@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Version date="20140218001810">2.00.00</Version>
+	<Author>Yves Tschantz</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor" />
+	<Language eName="French (Switzerland)" lName="Français Suisse" code="fr-CH" R2L="false"/>
+	<Module name="OCRPlugin" namespace="ocr" version="5.5.312" />
+	<Strings>
+		<text id="cmd.name" h="6DAA8A17">OCR pages...</text>
+		<text id="ACCURACY" h="3B2028D8">Précision:</text>
+		<text id="RangeCtl.All" h="BC5A21F7">Tout</text>
+		<text id="MORELANGUAGES" h="B5A4C290">Plus de langues...</text>
+		<text id="QUALITY" h="B09D7E26">Qualité:</text>
+		<text id="RUN" h="263F2B55">Exécuter</text>
+		<text id="RangeCtl.Array" h="3B3F1A04">Pages sélectionnées</text>
+		<text id="RangeCtl.PageRangesTotalPages" h="AD7CC48B">(total de %1 pages)</text>
+		<text id="DPI100" h="32F53FC3">100 dpi</text>
+		<text id="DPI200" h="4E941A18">200 dpi</text>
+		<text id="DPI300" h="D39BFB6E">300 dpi</text>
+		<text id="OUTPUTOVERLAY" h="B50A7A21">Ajouter un calque recherchable au PDF courant</text>
+		<text id="pages.All" h="83434A26">Tout</text>
+		<text id="PageRangesFilter.All" h="83434A26">Tout</text>
+		<text id="AUTODESKEW" h="626A3AF3">Réduction automatique du bruit</text>
+		<text id="OrientationDetection" h="40F7AA0E">Détection automatique de l'orientation</text>
+		<text id="BLACKLIST" h="23BACD95">Liste noire</text>
+		<text id="CANCEL" h="08961956">Annuler</text>
+		<text id="ComplexBackground" h="7D4E65E9">Supression de l'arrière-plan complexe</text>
+		<text id="outputtype.editable" h="B24B2872">Créer un nouveau PDF éditable</text>
+		<text id="outputtype.new" h="85C87BB3">Créer un nouveau PDF recherchable</text>
+		<text id="RangeCtl.Current" h="F154A390">Page courante</text>
+		<text id="pages.Current" h="AA94BA52">Courant</text>
+		<text id="PageRangesFilter.Even" h="B47F9CB2">Même</text>
+		<text id="OUTPUTEXPORT" h="AEBA8DAE">Exporter vers un document éditable</text>
+		<text id="progress.finalizing" h="BD3E3BA6">Finalisation...</text>
+		<text id="PageRangeHelp" h="2193298D">Par exemple, saisir 1, 3, 5-12</text>
+		<text id="accuracy.high" h="21A95620">Haut</text>
+		<text id="accuracy.low" h="845E3D8C">Bas</text>
+		<text id="accuracy.medium" h="91153342">Moyen</text>
+		<text id="OUTPUTEDITABLE" h="BD2E798E">Nouveau PDF éditable</text>
+		<text id="OUTPUTSEARCHABLE" h="AC331458">Nouveau PDF recherchable</text>
+		<text id="prefs.name" h="00DD8F43">OCR</text>
+		<text id="notice.notfinished" h="F46B8362">Echec du démarrage de reconnaissance de caractères (OCR): contrôlez le choix de la langue et les préférences de sortie</text>
+		<text id="notice.emptyselection" h="2B9E6261">Reconnaissance de caractères (OCR) échouée: document invalide ou sélection vide</text>
+		<text id="notice.finished" h="0CFE0EC4">Reconnaissance de caractères (OCR) terminée</text>
+		<text id="prefs.title" h="D0975E29">Options de reconnaissance de caractères (OCR)</text>
+		<text id="prefs.tips" h="D0975E29">Options de reconnaissance de caractères (OCR)</text>
+		<text id="progress.title" h="8E35B0D9">Reconnaissance (OCR) des pages, patientez s'il vous plaît...</text>
+		<text id="PROGRESSTITLE" h="EAC73B34">Progression de la reconnaissance de caractères (OCR)</text>
+		<text id="LABELPROGRESS" h="EAC73B34">Progression</text>
+		<text id="prefs.langdir" h="ED1B4BF6">Langues de l'OCR</text>
+		<text id="PageRangesFilter.Odd" h="B42489B1">Impaire</text>
+		<text id="OK" h="2F05215A">OK</text>
+		<text id="GROUPOUTPUT" h="99E2E755">Sortie</text>
+		<text id="OUTPUTTYPE" h="BCF60940">Type de sortie:</text>
+		<text id="RangeCtl.Exact" h="F77481D2">Pages:</text>
+		<text id="pages.Range" h="94D70EC1">Série de pages</text>
+		<text id="RangeCtl.GroupBox" h="30C24AC3">Série de pages</text>
+		<text id="PAGELABEL" h="23952CFD">Pages:</text>
+		<text id="progress.placing" h="C9F1FA8A">Placement du contenu...</text>
+		<text id="PREFERENCES" h="4481257B">Préférences</text>
+		<text id="outputtype.layer" h="DFA4EAA6">Conserver le contenu original et ajouter un calque de texte</text>
+		<text id="LANGUAGE" h="9BF1BFB7">Langue de base</text>
+		<text id="progress.pageinfo" h="4580EE29">Traitement de la page %d de %d...</text>
+		<text id="PAGES" h="E85B0001">Série:</text>
+		<text id="progress.rasterizing" h="ACB9131E">Pixellisation...</text>
+		<text id="GROUPRECOGNITION" h="962555B5">Reconnaissance</text>
+		<text id="progress.recognizing" h="281E6862">Reconnaissance...</text>
+		<text id="RUNDIALOGTITLE" h="4C092002">Exécuter la reconnaissance de caractères (OCR)</text>
+		<text id="pages.Selected" h="CF38CD8D">Sélectionné</text>
+		<text id="RangeCtl.Filter" h="767CD238">Sous-ensemble:</text>
+		<text id="RangeCtl.Summary" h="12271F69">Résumé: %1 de %2 pages</text>
+		<text id="notice.notavailable" h="CAC07593">La reconnaissance OCR sélectionnée n'est pas disponible dans cette version.</text>
+		<text id="notice.permissions" h="3BE9C6A8">Ce document est protégé. S'il vous plaît, contrôlez les autorisation dans le menu FichierPropriétés du documentSécurité.</text>
+		<text id="MULTIPLECORES" h="C21D9F69">Utiliser le multi-processeurs</text>
+		<text id="WHITELIST" h="68C2961B">Liste blanche</text>
+		<text id="TITLEWHITELIST" h="B446B537">Liste blanche et liste noire</text>
+</Strings>
+</Localization>

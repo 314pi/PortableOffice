@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20170131185628">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Polish" lName="Polish" code="pl-PL" R2L="false"/>
+	<Module name="GoogleDrivePlugin" namespace="gd" version="0.0.0.0"/>
+	<Strings>
+		<text id="DlgOpenFile" h="B98AB29D">Otwórz Plik z Google Drive</text>
+		<text id="DlgSaveFile" h="81F99046">Zapisz plik do Google Drive</text>
+		<text id="GDPlugin" h="32B7E3E0">Google Drive Plugin</text>
+		<text id="btn.connectToAnother" h="508BDBC5">Nowy Login...</text>
+		<text id="cmd.cmdsCategory" h="AD23B285">Google Drive</text>
+		<text id="cmd.googledrive" h="1D28DF85">&amp;Google Drive</text>
+		<text id="cmd.open" h="F32ECED5">&amp;Google Drive...</text>
+		<text id="cmd.open.tip" h="933837A2">Otwórz dokument z GoogleDrive.</text>
+		<text id="cmd.save" h="F32ECED5">&amp;Google Drive...</text>
+		<text id="cmd.save.tip" h="948C3269">Zapisz aktywny dokument na Google Drive.</text>
+		<text id="cpt.fileNotFound" h="A7F5FA7A">Nie znaleziono pliku</text>
+		<text id="cpt.invalidFileName" h="79C1387C">"Nieprawidłowa nazwa pliku</text>
+		<text id="cpt.navigateError" h="3D300A1C">Błąd Nawigacji</text>
+		<text id="cpt.saveReplace" h="520CB069">Zapisz Plik</text>
+		<text id="cpt.selectFile" h="C55D68B0">Wybierz plik</text>
+		<text id="dlg.googleAuth" h="E5642F22">Rejestracja na Google Drive</text>
+		<text id="fileName" h="DEC92488">Nazwa pliku:</text>
+		<text id="lb.CurrentFolder" h="44158804">Bieżący folder:</text>
+		<text id="lb.Test" h="273F3E5B">Test Test Test!</text>
+		<text id="lb.googleAccName" h="C94645A3">Google-Konto:</text>
+		<text id="msg.fileNotFound" h="430E08B1">Pliku "%1" nie można odnaleźć w bieżącym folderze.</text>
+		<text id="msg.invalidFileName" h="7C0655B5">"%1" jest nie prawidłową nazwę pliku.</text>
+		<text id="msg.navigateError" h="2FCAA72A">Google Drive nie można otworzyć pliku. Sprawdź połączenie internetowe i uprawnienia dostępu do żądanego zasobu Google Drive.</text>
+		<text id="msg.openFailed" h="AC94D960">Nie można otworzyć pliku. Sprawdź, czy plik istnieje i nie jest zaewidencjonowany dla innego użytkownika i masz uprawnienia do odczytu.</text>
+		<text id="msg.saveFailed" h="4D413392">Nie można zapisać pliku. Upewnij się, że nazwa pliku jest poprawna i masz prawa zapisu do pliku.</text>
+		<text id="msg.saveReplace" h="5D56833E">Plik %1 już istnieje. Czy chcesz go zastąpić?</text>
+		<text id="msg.selectFile" h="2530C20F">Proszę wybrać plik przed naciśnięciem OK</text>
+		<text id="ls.column.created" h="FE6510B7">Data utworzenia</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Data i czas utworzenia pliku, folderu lub listy</text>
+		<text id="ls.column.extension" h="14FEB836">Rozszerzenie</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Rozszerzenie pliku</text>
+		<text id="ls.column.modified" h="7E234D6D">Data modyfikacji</text>
+		<text id="ls.column.modified.hint" h="12933E76">Data i czas ostatniej modyfikacji pliku, folderu lub listy</text>
+		<text id="ls.column.size" h="17A58A52">Rozmiar</text>
+		<text id="ls.column.size.hint" h="9C4BD847">Rozmiar pliku</text>
+		<text id="ls.column.title" h="D18643E3">Nazwa</text>
+		<text id="ls.column.title.hint" h="6A895576">Nazwa pliku, nazwa folderu lub tytuł listy</text>
+		<text id="virtualfolder.mydrive" h="84C2D3A6">Mój Napęd</text>
+		<text id="virtualfolder.sharedwithme" h="8B65307E">Udostępnij dla mnie</text>
+		<text id="cpt.unableToSaveToVirtualFolder" h="778EF99A">Nie można Zapisać Pliku do Folderu</text>
+		<text id="msg.unableToSaveToVirtualFolder" h="A6644426">Nie może być zapisany w wybranej lokalizacji. Proszę wybrać folder 'Mój Napęd',jednym z jego podfolderów lub jeden z podfolderów "Udostępnione dla mnie" aby zapisać plik.</text>
+	</Strings>
+</Localization>

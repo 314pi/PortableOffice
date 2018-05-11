@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Version date="20140218001811">2.00.00</Version>
+	<Author>Yves Tschantz</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor" />
+	<Language eName="French (Switzerland)" lName="français" code="fr-CH" R2L="false"/>
+	<Module name="SpellChecker" namespace="spell" version="5.5.312" />
+	<Strings>
+		<text id="lstDicts.empty" h="FFD5B8BB">&lt;Aucun dictionnaire&gt;</text>
+		<text id="wrd.b.AddWord" h="8E2EE8C1">Ajouter</text>
+		<text id="opt.b.AddDict" h="E0BF5FDE">Ajouter un dictionnaire</text>
+		<text id="msg.CopyDictError" h="81324CC9">Impossible de copier les fichiers de dictionnaire</text>
+		<text id="msg.LoadDictError" h="D139CD51">Impossible de charger le dictionnaire</text>
+		<text id="msg.RemoveError" h="10071F88">Impossible de supprimer le dictionnaire. Accès interdit.</text>
+		<text id="opt.b.CustomWordList" h="D1505337">Liste personnalisée de mots</text>
+		<text id="wrd.title" h="66DDC653">Liste personnalisée de mots</text>
+		<text id="wrd.b.Delete" h="D8FE3F70">Effacer</text>
+		<text id="wrd.b.DeleteAll" h="848E003C">Tout effacer</text>
+		<text id="msg.DictExists" h="650ABF1A">Ce dictionnaire existe déjà.</text>
+		<text id="msg.DictExists.title" h="A81488F3">Ce dictionnaire existe</text>
+		<text id="wrd.l.Dictionary" h="66E4322E">Dictionnaire:</text>
+		<text id="opt.cb.EnableHyphens" h="BC236380">Activer le dictionnaire de césure</text>
+		<text id="opt.cb.EnableAllHyphens" h="207464CF">Activer la césure</text>
+		<text id="opt.cb.EnableSpellChecker" h="1D563674">Activer le correcteur orthographique</text>
+		<text id="opt.cb.AllowAlgoHyphens" h="184CA069">Exécuter la césure de mots inconnus</text>
+		<text id="dict.param.hyphen" h="50549BEC">Césure</text>
+		<text id="opt.b.RemoveDict" h="D94F3439">Supprimer un dictionnaire</text>
+		<text id="dict.param.spell" h="E10DA1DD">Orthographe</text>
+		<text id="opt.title" h="AEF9F007">Paramètres du correcteur orthographique</text>
+		<text id="msg.ErrorTitle" h="8FEB05A5">Fautes d'orthographe</text>
+		<text id="msg.WordExists" h="08449B8B">Ce mot existe déjà</text>
+		<text id="msg.WordExists.title" h="B19E6963">Ce mot existe</text>
+		<text id="wrd.l.Word" h="7AFBC23E">Mots:</text>
+</Strings>
+</Localization>

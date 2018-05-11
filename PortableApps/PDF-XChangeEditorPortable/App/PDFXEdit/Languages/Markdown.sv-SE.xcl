@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117213644">2.00.00</Version>
+	<Author>Markus Konsa, support@PDF-XChange.se, +46(0)31-3123300</Author>
+	<Copyright>PDF-XChange Sverige, +46(0)31-312 11 00
+https://pdf-xchange.se, 
+Tracker Software Products(Canada+UK) reg. partner.
+	</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Swedish (Sweden)" lName="Svenska" code="sv-SE" R2L="false"/>
+	<Module name="MarkdownPlugin" namespace="md" version="6.0.322.7"/>
+	<Strings>
+		<text id="btn.md.submenu" h="89D1502A">Från &amp;Markdown...</text>
+		<text id="cmd.tip" h="117085B4">Skapa ett nytt dokument från Markdown-filer.</text>
+		<text id="converter.desc" h="41356938">Konvertera Markdown filer</text>
+		<text id="converter.filterName" h="AE86B691">Markdown filer</text>
+		<text id="converter.name" h="AE86B691">Markdown filer</text>
+		<text id="converting.progress.text" h="4DD2C8CD">konvertera filen:</text>
+		<text id="grb.style" h="1FF454A3">Textformat/stil</text>
+		<text id="msg.error" h="51BFF51D">Fel</text>
+		<text id="msg.file.empty" h="8F9B5982">Filen är tom</text>
+		<text id="opt.all.files" h="C68ACE05">Alla filer</text>
+		<text id="opt.btn.clear.style" h="8932B6EE">Återställ CSS-stil till standardvärdena</text>
+		<text id="opt.create.style" h="EDCA1553">Skapa</text>
+		<text id="opt.file" h="45B5DF3A">Fil</text>
+		<text id="opt.margins.fixed" h="6103695E">Era marginaler/kanter är för stora. Korrigeras automatiskt.</text>
+		<text id="opt.none" h="F9398D7D">Inga/ingen</text>
+		<text id="opt.style" h="5CEA121A">Format/stil:</text>
+		<text id="opt.test.title" h="44732FAA">Test</text>
+		<text id="opt.title" h="45D26671">Inställningar för Markdown till PDF</text>
+		<text id="opt.unavailable" h="5669C949">är inte tillgänglig</text>
+		<text id="prefs.name" h="07E67B98">Markdown till PDF</text>
+		<text id="prefs.title" h="45D26671">Inställningar för Markdown till PDF</text>
+		<text id="prop.list.extension" h="14FEB836">Förlängning</text>
+		<text id="prop.list.location" h="BB241F45">Plats</text>
+		<text id="prop.list.modified" h="30325672">Ändrat</text>
+		<text id="prop.list.size" h="17A58A52">Storlek</text>
+		<text id="prop.list.title" h="796DFAD3">Titel</text>
+		<text id="prop.source" h="AE86B691">Markdown filer</text>
+		<text id="prop.source.file" h="F3110572">Välj Markdown-filer</text>
+		<text id="prop.source.file.unavailable" h="AE2771B8">Formatfilen kunde inte hittas</text>
+		<text id="prop.source.folder" h="8477FBD3">Välj mapp med markdown-filer</text>
+		<text id="prop.source.subfolder" h="F053B635">Sök i undermappar</text>
+		<text id="prop.source.txt" h="0B465380">Textfil</text>
+		<text id="prop.window.name" h="6E4F5CCE">Konvertera Markdown till PDF</text>
+		<text id="style.edit.default" h="600F2F18">Använd standardformat</text>
+		<text id="style.files.title" h="26E23587">CSS filer</text>
+		<text id="style.folder.name" h="2F5ECDDE">Markdown format/stil</text>
+		<text id="style.save.title" h="2E270E87">Spara format/stil</text>
+		<text id="style.select.file" h="37C34A80">Välj format-, stil-fil</text>
+	</Strings>
+</Localization>

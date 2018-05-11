@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220807">2.00.00</Version>
+	<Author>pdf.xchange.translate@gmail.com</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Dutch (Netherlands)" lName="Nederlands" code="nl-NL" R2L="false"/>
+	<Module name="PDFOptimizer" namespace="pdfopt" version="6.0.322.7"/>
+	<Strings>
+		<text id="AcrobatForms" h="45DE15E7">Acrobat formulieren</text>
+		<text id="AllInPPI" h="73445ABD">Alle eenheden zijn in pixels per inch (ppi).</text>
+		<text id="BookMarks" h="E2032460">Bladwijzers</text>
+		<text id="Bytes" h="4EF6C00A">Bytes</text>
+		<text id="CleanUp" h="C194E67C">Opschonen</text>
+		<text id="ColorSpaces" h="4035B7FB">Kleurruimtes</text>
+		<text id="Comments3D" h="1A213B5F">Opmerkingen en 3D inhoud</text>
+		<text id="ContentStreams" h="EC5AA2E9">Inhoud van streams</text>
+		<text id="Count" h="48FC51FB">Aantal</text>
+		<text id="CrossReferenceTable" h="B0A3CE52">Kruisverwijzingstabel</text>
+		<text id="Description" h="8990DB08">Beschrijving</text>
+		<text id="DiscardObjects" h="9A75CFD1">Negeer objecten</text>
+		<text id="DiscardUserData" h="1B55800A">Negeer gebruikers data</text>
+		<text id="DocOverhead" h="8AF9C6B9">Document overhead</text>
+		<text id="ErrCount" h="494DF48F">Gevonden fouten:</text>
+		<text id="ExGStates" h="CFF492D3">Uigebreide grafische status</text>
+		<text id="Fonts" h="B72149DB">Lettertypes</text>
+		<text id="Images" h="77764F9D">Afbeeldingen</text>
+		<text id="LinkAnnotations" h="50D3AB53">Hyperlink aantekeningen</text>
+		<text id="Mobile" h="A5903811">Mobiel</text>
+		<text id="Mobile.Desc" h="AC3CDB44">Instellingen voor mobiele viewers</text>
+		<text id="NamedDect" h="C4E8D8F5">Benoemde bestemming</text>
+		<text id="ObjectFor" h="24200BB3">PDF objecten voor...</text>
+		<text id="Optimize.Error1" h="C319CA59">Er is een fout opgetreden bij de optimaliseren van het document:</text>
+		<text id="Optimize.Error2" h="A394ADBC">Het resultaatbestand kan niet worden opgeslagen.</text>
+		<text id="Optimize.IsXFA" h="58B9F3C4">Dit PDF document bevat een Adobe XML formulier.
+
+		</text>
+		<text id="OptimizeCleanUp" h="321A47D5">Opschonen van het document...</text>
+		<text id="OptimizeCropContent" h="0178DFBF">Zoek en verwijder de inhoud buiten het bijsnijdvak</text>
+		<text id="OptimizeDiscardObj" h="0F6D2E1E">Negeer object uit het document...</text>
+		<text id="OptimizeDiscardUD" h="8298BB8B">Negeer gebruikers data uit het document...</text>
+		<text id="OptimizeDuplicates" h="ADD4C1C1">Zoeken naar duplicaten (afbeeldingen, X-forms, lettertypes) en de verwijdering ervan...</text>
+		<text id="OptimizeFonts" h="B3521B7F">Optimalisatie lettertypes...</text>
+		<text id="OptimizeImages" h="D042191D">Optimalisatie afbeeldingen...</text>
+		<text id="OptimizeTransparency" h="117EF944">Optimaliseren transparantie...</text>
+		<text id="PDFAuditInfo" h="3689108E">Controle-informatie van pdf</text>
+		<text id="PDFOptimizer" h="E369C144">PDF optimalisatie</text>
+		<text id="PatternInfo" h="BF98E424">Patroon informatie</text>
+		<text id="Percentage" h="AB9C5DE5">Percentage</text>
+		<text id="PieceInfo" h="14FA9D8A">Info door applicaties derden</text>
+		<text id="ProgOptimizing" h="307A05DD">Optimaliseren document, even wachten a.u.b...</text>
+		<text id="ProgPreparing" h="88C0C05E">Voorbereiden document voor optimaliseren...</text>
+		<text id="ProgTitle" h="9480CEF5">Optimaliseren...</text>
+		<text id="SavingDocument" h="56115414">Opslaan geoptimaliseerd document...</text>
+		<text id="ShadingInfo" h="F222371A">Informatie over schaduw</text>
+		<text id="Standard" h="C6DA1F99">Standaard</text>
+		<text id="Standard.Desc" h="4B85CB86">Basisinstellingen voor elk apparaat</text>
+		<text id="StructInfo" h="75C658E9">Info over structuur</text>
+		<text id="Thumbnails" h="47B1B2D9">Miniaturen</text>
+		<text id="Total" h="9CAA90C0">Totaal</text>
+		<text id="Transparency" h="9EAC5CA4">Transparantie</text>
+		<text id="VersionWarning" h="2AFD0301">De versie van PDF-specificatie voor het document werd door optimalisatie-instellingen verlaagd van %1.%2 tot %3.%4
+Dit kan problemen met sommige toepassingen veroorzaken. Controleer het geoptimaliseerde document.</text>
+		<text id="XForms" h="336DF358">X object formulieren</text>
+		<text id="abc" h="BD101B14">Tekst van</text>
+		<text id="alpha" h="632E9A25">Voorinstelling</text>
+		<text id="alpha.resolution.0" h="D33F1C80">Lage resolutie</text>
+		<text id="alpha.resolution.1" h="64A38366">Gemiddelde resolutie</text>
+		<text id="alpha.resolution.2" h="0B020749">Hoge resolutie</text>
+		<text id="alpha.set" h="A135F93B">Voorinstellingen:</text>
+		<text id="alpha.set.0" h="04DA8EE6">Transparantie niveau: %1</text>
+		<text id="alpha.set.1" h="E18C52C1">Lijnen en tekst: %1</text>
+		<text id="alpha.set.2" h="82CFFAB0">Helling en maaswijdtes: %1</text>
+		<text id="alpha.set.3" h="6FFD6051">Converteer alle tekst naar contouren: %1</text>
+		<text id="alpha.set.4" h="F2FA75FC">Converteer alle vegen naar contouren: %1</text>
+		<text id="alpha.set.5" h="B3DB6D2B">Knippen complexe regio's: %1</text>
+		<text id="alpha.set.6" h="33A6ABAC">Behouden opdruk: %1</text>
+		<text id="cleanUp" h="BC454C9C">Instellingen voor opschonen</text>
+		<text id="cleanUp.DelDuplicateFont" h="A9B95EB3">Negeer duplicaten van lettertypes</text>
+		<text id="cleanUp.DelDuplicateImg" h="5981356D">Negeer duplicaten van afbeeldingen</text>
+		<text id="cleanUp.DelDuplicateXForm" h="FAA4C52C">Negeer duplicaten van XForms</text>
+		<text id="cleanUp.LZW" h="4AB18C2D">In streams die LZW codering gebruiken, gebruik Flate hiervoor in de plaats</text>
+		<text id="cleanUp.bookmark" h="116E391E">Negeer ongeldige bladwijzers</text>
+		<text id="cleanUp.compress" h="469EFC00">Object compressie-opties:</text>
+		<text id="cleanUp.compress.0" h="590461FB">Comprimeer geheel bestand</text>
+		<text id="cleanUp.compress.1" h="223C9F8A">Comprimeren docuyment structuur</text>
+		<text id="cleanUp.compress.2" h="02FEB23B">Verwijderen compressie</text>
+		<text id="cleanUp.compress.3" h="00A7F105">Laat compressie ongewijzigd</text>
+		<text id="cleanUp.content" h="9C2423FB">Optimaliseer pagina-inhoud</text>
+		<text id="cleanUp.destinat" h="0B5DB0C4">Negeer benoemde bestemming zonder referentie</text>
+		<text id="cleanUp.link" h="1456C457">Negeer ongeldige links</text>
+		<text id="cleanUp.stream" h="28B1810A">Gebruik Flate om streams te coderen die niet gecodeerd zijn</text>
+		<text id="cleanUp.web" h="512E797E">Optimaliseer de PDF voor een snelle Web weergave</text>
+		<text id="cmd.name" h="E03D5D96">Opslaan geoptimaliseerde kopie...</text>
+		<text id="cmd.nameTip" h="DBCE5DD2">Opslaan van document in een kleinere bestandsafmeting en een hogere snelheid bij openen.</text>
+		<text id="diObject" h="686FD8CF">Negeer object Instellingen</text>
+		<text id="diObject.action" h="05E16E16">Negeer alle formulierverzending, import en reset acties </text>
+		<text id="diObject.bookmark" h="A40329EB">Negeer bladwijzers</text>
+		<text id="diObject.curves" h="919F43B2">Converteer vloeiende lijnen naar kromme</text>
+		<text id="diObject.flatten" h="73C56406">Samenvoegen formuliervelden</text>
+		<text id="diObject.fragment" h="CD4A23BC">Detecteren en samenvoegen beeldfragmenten</text>
+		<text id="diObject.image" h="63729870">Negeer alle alternatieve afbeeldingen</text>
+		<text id="diObject.javascript" h="7FFE9012">Negeer alle JavaScript acties</text>
+		<text id="diObject.print" h="BD6C83FA">Negeer ingesloten afdrukinstellingen</text>
+		<text id="diObject.search" h="7B117F1A">Negeer ingesloten zoekindex</text>
+		<text id="diObject.tags" h="3C045100">Negeer document-tags</text>
+		<text id="diObject.thumbnail" h="9599423F">Negeer ingesloten pagina-miniaturen</text>
+		<text id="diUserData" h="94495488">Negeer gebruiker gerelateerde informatie</text>
+		<text id="diUserData.attach" h="92D67E12">Negeer bestandsbijlagen</text>
+		<text id="diUserData.form" h="A5238C7D">Negeer alle opmerkingen, formulieren en multimedia</text>
+		<text id="diUserData.layer" h="D2512415">Negeer verborgen laag inhoud en samengevoegde zichtbare lagen</text>
+		<text id="diUserData.links" h="12EEC435">Negeer alle hyperlinks</text>
+		<text id="diUserData.metadata" h="1E9402E3">Negeer document informatie en metadata</text>
+		<text id="diUserData.object" h="6C03028D">Negeer alle objectgegevens</text>
+		<text id="diUserData.privat" h="304A6889">Negeer privé-gegevens van andere toepassingen</text>
+		<text id="diUserData.refer" h="B0E9F442">Negeer externe kruisverwijzingen</text>
+		<text id="dlg.POTitle" h="E462CC15">PDF optimaliseren</text>
+		<text id="dlg.delete" h="38F26847">Weet u zeker dat u instelling '%1' wilt verwijderen?</text>
+		<text id="dlg.save" h="9A3AA1B1">Maak PDF optimaliseer instellingen</text>
+		<text id="dlg.save.text" h="A599E751">Huidoge instellingen opslaan als:</text>
+		<text id="fonts" h="1250B714">Niet ingesloten lettertypes</text>
+		<text id="fonts.active" h="5C8642DA">Geen enkel lettertype uitsluiten</text>
+		<text id="fonts.all" h="3FE17594">Alle letetrtypen niet insluiten</text>
+		<text id="fonts.btn.retain" h="BAD13ABC">&lt;&lt; Behouden</text>
+		<text id="fonts.btn.unembed" h="760953D2">Uitsluiten &gt;&gt;</text>
+		<text id="fonts.comment" h="E0CEEE00">De hierboven genoemde lettertypes zijn op dit moment ingesloten in het PDF-bestand. Om een lettertype uit te sluiten verplaats het naar het rechtervenster. In het linkervenster weergegeven lettertypen blijven ingesloten.</text>
+		<text id="fonts.custom" h="2AAB35CE">Selecteer lettertypen om handmatig uit te sluiten</text>
+		<text id="fonts.embedded" h="A77293DA">Ingesloten lettertypes:</text>
+		<text id="fonts.mergesubsets" h="F0C43A59">Samenvoegen lettertypes deelverzamelingen</text>
+		<text id="fonts.recommend" h="F9ABDD3E">Niet ingesloten aanbevolen lettertypen</text>
+		<text id="fonts.subset" h="6EC24EDD">Deelverzameling van alle ingesloten lettertypes</text>
+		<text id="fonts.unembed" h="D1144C15">Uit te sluiten lettertypes:</text>
+		<text id="images.above" h="09C2601E">voor afbeelding hierboven:</text>
+		<text id="images.color" h="EFDBFA28">Kleurenafbeeldingen</text>
+		<text id="images.compress" h="990F2529">Compressie:</text>
+		<text id="images.grey" h="F9551019">Grijstintafbeeldingen</text>
+		<text id="images.ingexed" h="FE837B06">Geïndexeerde afbeeldingen</text>
+		<text id="images.mono" h="19F5498E">Monochrome afbeeldingen</text>
+		<text id="images.reduct" h="96D00A5D">Alleen afbeeldingen optimaliseren als er verkleining van grootte is</text>
+		<text id="msg.NoPermission" h="073C6158">Het document is beveiligd en je hebt onvoldoende machtigingen om optimalisatie uit te voeren.</text>
+		<text id="ppi" h="B39AC2C1">dpi</text>
+		<text id="quality" h="E3A77A93">Kwaliteit:</text>
+		<text id="result" h="CE676C2B">Resultaat:</text>
+		<text id="settings" h="B781AB7B">Instellingen:</text>
+		<text id="settings.Custom" h="A918FF38">Handmatig</text>
+		<text id="settings.Mobile" h="A5903811">Mobiel</text>
+		<text id="settings.Standard" h="C6DA1F99">Standaard</text>
+		<text id="spaceusage" h="2FA61B33">Controle op ruimtegebruik...</text>
+		<text id="stage.getfonts" h="9DF9EE20">Verzamelen van document lettertypes...</text>
+		<text id="stage.preparing" h="3F6313D6">Voorbereiden document...</text>
+		<text id="tileSize" h="A4FAD93F">Grootte:</text>
+		<text id="ver" h="C549FED4">Maak compatible met:</text>
+		<text id="ver.1" h="8B2AEC62">1.3 (Acrobat v4.0 en hoger)</text>
+		<text id="ver.2" h="A0EA502A">1.4 (Acrobat v5.0 en hoger)</text>
+		<text id="ver.3" h="26054EFC">1.5 (Acrobat v6.0 en hoger)</text>
+		<text id="ver.4" h="70929FB3">1.6 (Acrobat v7.0 en hoger)</text>
+		<text id="ver.5" h="FD059DF9">1.7 (Acrobat v8.0 en hoger)</text>
+		<text id="ver.current" h="17DA1613">Huidige PDF versie: %1.%2</text>
+	</Strings>
+</Localization>

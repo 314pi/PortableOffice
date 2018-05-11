@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171221000124">2.00.00</Version>
+	<Author>Zach Yu, Kenny Deng</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Chinese (Simplified, China)" lName="中文(简体)" code="zh-CN" R2L="false"/>
+	<Module name="SharePoint" namespace="sp" version="7.0.323.2"/>
+	<Strings>
+		<text id="btn.checkIn" h="09996473">签入(&amp;C)</text>
+		<text id="btn.discardCheckOut" h="40AC5603">放弃签出(&amp;D)</text>
+		<text id="btn.checkInAndKeepCkeckedOut" h="34DA624B">签入此版本后，将文档保持为签出状态(&amp;H)</text>
+		<text id="btn.connect" h="A79F815C">连接</text>
+		<text id="btn.keepCkeckedOut" h="AEA0D6B1">保持签出状态</text>
+		<text id="btn.navigate" h="B03F439E">浏览(&amp;N)</text>
+		<text id="btn.open" h="B1A510F0">打开(&amp;O)</text>
+		<text id="btn.openWithCheckOut" h="2F774735">签出并打开(&amp;C)</text>
+		<text id="btn.save" h="F363C410">保存(&amp;S)</text>
+		<text id="btn.saveAndCheckOut" h="E44D9A0A">保存并签出(&amp;S)</text>
+		<text id="btn.saveReplace" h="11BF9724">保存并替换(&amp;R)</text>
+		<text id="btn.signOut" h="645CEBE2">注销(&amp;I)</text>
+		<text id="cb.url.tip" h="CD81E674">输入地址...</text>
+		<text id="cmd.checkIn" h="AEF235ED">签入</text>
+		<text id="cmd.checkIn.tip" h="3AEF3C8D">将文档签入到 SharePoint</text>
+		<text id="cmd.checkOut" h="E6A87AFE">签出</text>
+		<text id="cmd.checkOut.tip" h="5C7938B4">将文档从 SharePoint 签出</text>
+		<text id="cmd.cmdsCategory" h="56A5F9B3">SharePoint</text>
+		<text id="cmd.discardCheckOut" h="40AC5603">撤销签出</text>
+		<text id="cmd.discardCheckOut.tip" h="B5673BAE">放弃已从 SharePoint 签出的文档</text>
+		<text id="cmd.open" h="68595810">Share&amp;Point...</text>
+		<text id="cmd.open.tip" h="42228BCF">从 SharePoint 打开文件</text>
+		<text id="cmd.prepareFileInfo" h="56811CA0">准备文件信息(&amp;I)</text>
+		<text id="cmd.prepareFileInfo.tip" h="2BF55A56">准备文档在 SharePoint 上的文件信息</text>
+		<text id="cmd.save" h="68595810">Share&amp;Point...</text>
+		<text id="cmd.save.tip" h="FCA25307">将活动文档保存到 SharePoint</text>
+		<text id="cmd.share_point" h="B7423C0E">Share&amp;Point...</text>
+		<text id="cmd.share_point.tip" h="CA99078B">使用在SharePoint中的文档工作</text>
+		<text id="dlg.liveLogin" h="BFADC685">在线登陆</text>
+		<text id="dlg.openFile" h="435887CD">打开文件</text>
+		<text id="dlg.saveFile" h="520CB069">保存文件</text>
+		<text id="lb.checkInComment" h="694DD18A">注释(可选)：</text>
+		<text id="lb.name" h="DEC92488">文件名：</text>
+		<text id="lb.sharePointPlaceUrl" h="F900769A">SharePoint</text>
+		<text id="ls.column.created" h="FE6510B7">创建时间</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">文件，文件夹或列表的创建时间</text>
+		<text id="ls.column.extension" h="14FEB836">扩展</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">文件扩展名</text>
+		<text id="ls.column.modified" h="7E234D6D">修改时间</text>
+		<text id="ls.column.modified.hint" h="12933E76">文件，文件夹或列表的最后修改时间</text>
+		<text id="ls.column.size" h="17A58A52">大小</text>
+		<text id="ls.column.size.hint" h="9C4BD847">文件大小</text>
+		<text id="ls.column.title" h="D18643E3">名字</text>
+		<text id="ls.column.title.hint" h="6A895576">文件名，文件夹名或列表标题</text>
+		<text id="msg.askForCheckInOnClose" h="7B06F17B">你是否要在关闭前签入文件，使得其他用户能够看到你的更改？</text>
+		<text id="msg.askForCheckOutOnOpen" h="20742355">您可以打开文件&lt;b&gt;％1 &lt;/ b&gt;并将其设置为“只读”给其他用户，以便您可以安全地更改文件并将更改保存到SharePoint，或者允许其他用户更改该文件，但如果您尝试更改并保存，可能会发生冲突。</text>
+		<text id="msg.askForCheckOutOnSave" h="8E5C5FBB">文件未被签出。你必须先签出文件才能进行保存操作。</text>
+		<text id="msg.askForDiscardCheckOutOnClose" h="6ADE6C3D">此文档已由你签出。你是否希望撤销签出从而让其他用户可以编辑此文档？</text>
+		<text id="msg.checkInFailed" h="3E327B8B">文件&lt;b&gt;％1 &lt;/ b&gt;未能签入。请确保此文件存在并已签出。</text>
+		<text id="msg.checkInDialogMessage" h="8A8CB676">签入文件&lt;b&gt;%1&lt;/b&gt;。</text>
+		<text id="msg.checkedOutToOtherOnOpen" h="0931ED51">您不能打开已签出的文件&lt;b&gt;％1 &lt;/ b&gt;，因为它已签出到用户“％2”。</text>
+		<text id="msg.checkedOutToOtherOnSave" h="2974FCD2">文件&lt;b&gt;％1 &lt;/ b&gt;已签出到用户“％2”。 您不能将该文件保存到SharePoint，除非它被签出给您，但您可以将您的更改保存在其他位置。</text>
+		<text id="msg.checkOutFailed" h="AE188A1B">文件&lt;b&gt;％1 &lt;/ b&gt;未能签出。 请确保该文件存在于服务器上，而不是签出给其他用户。</text>
+		<text id="msg.connectError" h="D31B7CA0">无法连接到 SharePoint 服务器。请检查你的网络连接，确保服务器地址正确并确认你有该 SharePoint 资源的访问权限。</text>
+		<text id="msg.discardCheckOutFailed" h="427CEAFC">无法取消文件&lt;b&gt;％1 &lt;/ b&gt;的签出状态。 请确保这个文件存在，并签出给您。</text>
+		<text id="msg.errorOnCheckOutNoEditPermissions" h="72CACDDF">您无法签出文件&lt;b&gt;％1 &lt;/ b&gt;，因为您没有此文件的编辑权限。</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedCheckOut" h="0075F732">您无法打开已签出的文件&lt;b&gt;％1 &lt;/ b&gt;，因为您没有该文件的编辑权限。</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedWriteAccess" h="FD9B1AB1">您无法打开文件&lt;b&gt;％1 &lt;/ b&gt;进行编辑，因为您没有该文件的编辑权限。</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedWriteAccess" h="3453F306">无法将文件&lt;b&gt;％1 &lt;/ b&gt;保存到SharePoint，因为您没有该文件的编辑权限。</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedCheckOut" h="833598E7">必须在保存文件&lt;b&gt;％1 &lt;/ b&gt;之前签出文件，但您没有该文件的编辑权限。</text>
+		<text id="msg.fileNotFound" h="CD319CFB">在当前文件夹下找不到文件 &lt;b&gt;%1&lt;/b&gt;。</text>
+		<text id="msg.invalidFileName" h="4FAC9EDF">&lt;b&gt;%1&lt;/b&gt; 是无效的文件名</text>
+		<text id="msg.navigateError" h="DE02F44B">无法浏览该 SharePoint 资源。请检查你的网络连接，确保服务器地址正确并确认你有该 SharePoint 资源的访问权限。</text>
+		<text id="msg.openFailed" h="A9228907">打开文件失败。请确认文件存在而且没有被其他用户签出，并确保你有该文件的读取权限。</text>
+		<text id="msg.outdatedFileOnWrite" h="1D71732B">文档&lt;b&gt;％1 &lt;/ b&gt;无法保存到SharePont，因为存在更改冲突。 您下载的文档包含在&lt;b&gt;％2 &lt;/ b&gt;中进行的更改，但是服务器包含在&lt;b&gt;％3 &lt;/ b&gt;处进行的更新更改。 将您的更改保存到一个新文档中，然后从Sharepoint中签出最新文档，合并更改并将其保存到服务器。</text>
+		<text id="msg.saveFailed" h="2C1B0E0B">保存文件失败。请确认文件名有效而且没有被其他用户签出，并确保你有该文件的写入权限。</text>
+		<text id="msg.saveReplace" h="D31D53A9">文件 &lt;b&gt;%1&lt;/b&gt; 已存在。你是否要替换它？</text>
+		<text id="msg.signOutError" h="B348A2EC">无法从 SharePoint 服务器注销当前用户。你或依然可以访问 SharePoint 而无须验证身份。</text>
+		<text id="msg.warnOnOpenWithNoEditPermissions" h="E1A7E642">您正在打开文件&lt;b&gt;％1 &lt;/ b&gt;，但您没有该文件的编辑权限。 请注意，除非您拥有必要的权限，否则您将无法保存对SharePoint的更改。</text>
+		<text id="msg.warnOnOpenWithOthersCheckOut" h="46080172">文件&lt;b&gt;％1 &lt;/ b&gt;已签出到用户“％2”。 除非“％2”放弃检出状态，否则无法将此文件保存到SharePoint。 如果“％2”在更改文件后签入，则您会遇到更改冲突。</text>
+		<text id="opt.keepCkeckedOut" h="15301A94">保存后保持文件签出状态(&amp;K)</text>
+		<text id="str.sharePoint" h="56A5F9B3">SharePoint</text>
+		<text id="rbar.sharepoint" h="56A5F9B3">SharePoint</text>
+	</Strings>
+</Localization>

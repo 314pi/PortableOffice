@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20170426011622">2.00.00</Version>
+	<Author>Angel Herráez</Author>
+	<Copyright>Los términos "desproteger" (check-out) y "proteger" (check-in) suenan extraños pero son los que usa Microsoft en su documentación.</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Spanish (Spain, Traditional Sort)" lName="español" code="es-ES" R2L="false"/>
+	<Module name="SharePoint" namespace="sp" version="6.0.322.0"/>
+	<Strings>
+		<text id="btn.checkIn" h="09996473">&amp;Proteger</text>
+		<text id="btn.discardCheckOut" h="40AC5603">Descar&amp;tar la desprotección</text>
+		<text id="btn.checkInAndKeepCkeckedOut" h="34DA624B">P&amp;roteger y mantener la desprotección</text>
+		<text id="btn.keepCkeckedOut" h="AEA0D6B1">&amp;Mantener la desprotección</text>
+		<text id="btn.navigate" h="B03F439E">&amp;Navegar</text>
+		<text id="btn.open" h="B1A510F0">&amp;Abrir</text>
+		<text id="btn.openWithCheckOut" h="2F774735">Abrir con &amp;comprobación</text>
+		<text id="btn.save" h="F363C410">&amp;Guardar</text>
+		<text id="btn.saveAndCheckOut" h="E44D9A0A">&amp;Guardar y desproteger</text>
+		<text id="btn.saveReplace" h="11BF9724">Guardar y &amp;reemplazar</text>
+		<text id="btn.signOut" h="645CEBE2">Cerrar la sesión</text>
+		<text id="cb.url.tip" h="CD81E674">Escriba la dirección...</text>
+		<text id="cmd.checkIn" h="AEF235ED">&amp;Proteger</text>
+		<text id="cmd.checkIn.tip" h="3AEF3C8D">Protege el archivo del documento en SharePoint.</text>
+		<text id="cmd.checkOut" h="E6A87AFE">&amp;Desproteger</text>
+		<text id="cmd.checkOut.tip" h="5C7938B4">Desprotege el archivo del documento en SharePoint.</text>
+		<text id="cmd.cmdsCategory" h="56A5F9B3">SharePoint</text>
+		<text id="cmd.discardCheckOut" h="40AC5603">Descar&amp;tar la desprotección</text>
+		<text id="cmd.discardCheckOut.tip" h="ED54ACC3">&amp;Descarta la desprotección del archivo del documento en SharePoint.</text>
+		<text id="cmd.open" h="68595810">&amp;SharePoint...</text>
+		<text id="cmd.open.tip" h="42228BCF">Abre un documento desde SharePoint.</text>
+		<text id="cmd.prepareFileInfo" h="56811CA0">Preparar &amp;información del archivo</text>
+		<text id="cmd.prepareFileInfo.tip" h="B2D81F6A">Prepara la información para el archivo del documento en SharePoint</text>
+		<text id="cmd.save" h="68595810">&amp;SharePoint...</text>
+		<text id="cmd.save.tip" h="C48C1C25">Guarda un documento activo en SharePoint.</text>
+		<text id="cmd.share_point" h="B7423C0E">&amp;SharePoint</text>
+		<text id="dlg.liveLogin" h="BFADC685">Acceso en vivo</text>
+		<text id="dlg.openFile" h="435887CD">Abrir un archivo</text>
+		<text id="dlg.saveFile" h="520CB069">Guardar un archivo</text>
+		<text id="lb.checkInComment" h="694DD18A">Comentario (opcional):</text>
+		<text id="lb.name" h="F7B9E475">Nombre archivo:</text>
+		<text id="ls.column.created" h="FE6510B7">Fecha de creación</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Fecha y hora en que el archivo, la carpeta o la lista se crearon</text>
+		<text id="ls.column.extension" h="14FEB836">Extensión</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Extensión del archivo</text>
+		<text id="ls.column.modified" h="691C3610">Fecha de modificación</text>
+		<text id="ls.column.modified.hint" h="12933E76">Fecha y hora en que el archivo, la carpeta o la lista se modificaron por última vez</text>
+		<text id="ls.column.size" h="17A58A52">Tamaño</text>
+		<text id="ls.column.size.hint" h="E79CA174">Tamaño del archivo</text>
+		<text id="ls.column.title" h="D18643E3">Nombre</text>
+		<text id="ls.column.title.hint" h="6A895576">Nombre del archivo o de la carpeta, o título de la lista</text>
+		<text id="msg.askForCheckInOnClose" h="AF8923CA">¿Quiere proteger el archivo &lt;b&gt;%1&lt;/b&gt; antes de cerrarlo, de modo que quede disponible con los cambios para otros usuarios?</text>
+		<text id="msg.askForCheckOutOnOpen" h="2A4B51F5">Puede abrir el archivo &lt;b&gt;%1&lt;/b&gt; y permitir que otros usuarios lo modifiquen, o bien abrirlo con desprotección para que otros sólo puedan leerlo.</text>
+		<text id="msg.askForCheckOutOnSave" h="7407B57A">El archivo &lt;b&gt;%1&lt;/b&gt; no está desprotegido. Debe desproteger el archivo antes de intentar guardarlo.</text>
+		<text id="msg.askForDiscardCheckOutOnClose" h="CF92CA4B">El archivo&lt;b&gt;%1&lt;/b&gt; está desprotegido para Ud. ¿Quiere cancelar la desprotección para permitir que otros usuarios lo modifiquen?</text>
+		<text id="msg.checkIn" h="19D7A1BC">No se ha podido proteger el archivo. Asegúrese de que el archivo existe y que está desprotegido para Ud.</text>
+		<text id="msg.checkInDialogMessage" h="8A8CB676">Proteger el archivo &lt;b&gt;%1&lt;/b&gt;.</text>
+		<text id="msg.checkOut" h="F3F9FECB">No se ha podido desproteger el archivo. Asegúrese de que el archivo existe y que no está ya desprotegido para otro usuario.</text>
+		<text id="msg.connectError" h="FD9A6A0A">No se ha podido conectar con el servidor SharePoint. Compruebe su conexión a internet, la dirección del servidor y sus permisos de acceso al recurso en SharePoint.</text>
+		<text id="msg.discardCheckOut" h="6CD5936B">No se ha podido descartar el estado de desprotección. Asegúrese de que el archivo existe y que está desprotegido para Ud.</text>
+		<text id="msg.fileNotFound" h="BABF35A2">No se ha encontrado el archivo &lt;b&gt;%1&lt;/b&gt; en la carpeta actual.</text>
+		<text id="msg.invalidFileName" h="5F43EF67">&lt;b&gt;%1&lt;/b&gt; no es un nombre de archivo válido.</text>
+		<text id="msg.navigateError" h="AE3D50A2">No se ha podido navegar hasta el recurso en SharePoint. Compruebe su conexión a internet, la dirección del recurso y sus permisos de acceso al recurso en SharePoint.</text>
+		<text id="msg.openFailed" h="D5A34938">No se ha podido abrir el archivo. Asegúrese de que existe, que no está desprotegido para otro usuario y que tiene permiso de acceso.</text>
+		<text id="msg.saveFailed" h="36483421">No se ha podido guardar el archivo. Asegúrese de que el nombre de archivo es válido, que no está desprotegido para otro usuario y que tiene permiso de acceso.</text>
+		<text id="msg.saveReplace" h="B1889DFB">El archivo &lt;b&gt;%1&lt;/b&gt; ya existe. ¿Quiere reemplazarlo?</text>
+		<text id="msg.signOutError" h="B348A2EC">No se ha podido cerra la sesión de este usuario en el servidor SharePoint. Podría aún acceder a SharePoint sin que se le pida autenticación.</text>
+		<text id="opt.keepCkeckedOut" h="36CBE07A">&amp;Mantiene el archivo desprotegido tras guardarlo</text>
+	</Strings>
+</Localization>

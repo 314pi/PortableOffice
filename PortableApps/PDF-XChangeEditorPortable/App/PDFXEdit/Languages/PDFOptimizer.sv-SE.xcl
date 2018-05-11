@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220807">2.00.00</Version>
+	<Author>Markus Konsa, support@PDF-XChange.se, +46(0)31-3121100</Author>
+	<Copyright>PDF-XChange Sverige, +46(0)31-312 11 00
+https://pdf-xchange.se, 
+Tracker Software Products(Canada+UK) reg. partner.
+	</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Swedish (Sweden)" lName="svenska" code="sv-SE" R2L="false"/>
+	<Module name="PDFOptimizer" namespace="pdfopt" version="6.0.322.7"/>
+	<Strings>
+		<text id="AcrobatForms" h="45DE15E7">Acrobat-formulär</text>
+		<text id="AllInPPI" h="73445ABD">Alla enheter är i pixel per tum (ppi).</text>
+		<text id="BackRemov" h="F699750D">Avlägsna bakgrund</text>
+		<text id="BookMarks" h="E2032460">Bokmärken</text>
+		<text id="Bytes" h="4EF6C00A">Byte</text>
+		<text id="CleanUp" h="85D0243F">Rensa, städa</text>
+		<text id="ColorGrayscale" h="63F8C2FC">Färg/Gråskala</text>
+		<text id="ColorSpaces" h="279CFB02">Färgrymder</text>
+		<text id="Comments3D" h="1A213B5F">Kommentarer och 3D-innehåll</text>
+		<text id="ContentStreams" h="EC5AA2E9">Innehållsströmmar</text>
+		<text id="Count" h="48FC51FB">Antal</text>
+		<text id="CrossReferenceTable" h="B0A3CE52">Korsreferenstabell</text>
+		<text id="Description" h="8990DB08">Beskrivning</text>
+		<text id="DiscardObjects" h="9A75CFD1">Ta bort dobjekt</text>
+		<text id="DiscardUserData" h="1B55800A">Ta bort användardata</text>
+		<text id="DocOverhead" h="8AF9C6B9">Document-overhead</text>
+		<text id="ErrCount" h="494DF48F">Hittade fel:</text>
+		<text id="ExGStates" h="CFF492D3">Utökad grafikstatus</text>
+		<text id="Fonts" h="B72149DB">Teckensnitt</text>
+		<text id="Images" h="77764F9D">Bilder</text>
+		<text id="LinkAnnotations" h="50D3AB53">Länkanteckningar</text>
+		<text id="Mobile" h="A5903811">Mobil</text>
+		<text id="Mobile.Desc" h="AC3CDB44">Inställningar för mobila läsare</text>
+		<text id="NamedDect" h="C4E8D8F5">Namngiven destination</text>
+		<text id="ObjectFor" h="24200BB3">PDF-objekt för...</text>
+		<text id="Optimize.Error1" h="C319CA59">Ett kritiskt fel inträffade under dokumentoptimeringen:</text>
+		<text id="Optimize.Error2" h="E3B5A795">Resultatfilen kan inte sparas.</text>
+		<text id="Optimize.IsXFA" h="86036928">Detta PDF-dokument innehåller ett Adobe XML-formulär.
+
+Dylika filer kan inte optimeras.</text>
+		<text id="OptimizeCleanUp" h="2BE9852C">Rensa dokumentet...</text>
+		<text id="OptimizeCropContent" h="55D9A57D">Sök och ta bort innehåll, utanför beskärningsrutan</text>
+		<text id="OptimizeDiscardObj" h="87F2BCDD">Ta bort objekt från dokumentet...</text>
+		<text id="OptimizeDiscardUD" h="0A072948">Ta bort användardata från dokumentet...</text>
+		<text id="OptimizeDuplicates" h="C12ECD41">Söker efter dubbletter (Bilder, X-Formulär, Teckensnitt) och dess borttagning...</text>
+		<text id="OptimizeFonts" h="A46D6002">Optimera teckensnitt...</text>
+		<text id="OptimizeImages" h="8D04A12D">Optimera bilder...</text>
+		<text id="OptimizeTransparency" h="F0A68140">Optimera transparens...</text>
+		<text id="PDFAuditInfo" h="3689108E">PDF revisionsinformation </text>
+		<text id="PDFOptScaned" h="15D6F8BB">Optimera inscannad PDF</text>
+		<text id="PDFOptimizer" h="E369C144">Optimera PDF</text>
+		<text id="PatternInfo" h="BF98E424">Mallinformation</text>
+		<text id="Percentage" h="AB9C5DE5">Procentsats</text>
+		<text id="PieceInfo" h="14FA9D8A">Delinformation</text>
+		<text id="ProgOptimizing" h="307A05DD">Optimerar dokument, vänta...</text>
+		<text id="ProgPreparing" h="88C0C05E">Förbereder dokumentoptimering...</text>
+		<text id="ProgTitle" h="9480CEF5">Optimering...</text>
+		<text id="RetainExisting" h="6258BC37">Behåll befintliga</text>
+		<text id="SavingDocument" h="56115414">Sparar optmerat dokument...</text>
+		<text id="ShadingInfo" h="F222371A">Skuggningsinformation</text>
+		<text id="Standard" h="C6DA1F99">Standard</text>
+		<text id="Standard.Desc" h="D517594C">Standardinställningar för alla enheter</text>
+		<text id="StructInfo" h="75C658E9">Strukturinfo</text>
+		<text id="Thumbnails" h="47B1B2D9">Miniatyrer</text>
+		<text id="Total" h="9CAA90C0">Totalt</text>
+		<text id="Transparency" h="9EAC5CA4">Transparens</text>
+		<text id="VersionWarning" h="4EF893BE">PDF-specificeringsversionen för dokumentet reducerades från %1.%2 till %3. %4 på grund av optimeringsinställningar.
+
+Detta kan orsaka problem med vissa program. Kontrollera det optimerade dokumentet.</text>
+		<text id="XForms" h="336DF358">X Objektformulär</text>
+		<text id="abc" h="BD101B14">Text av</text>
+		<text id="adjustName" h="CD74E7C8">Justera filnamn om sparar i optimeringsläge:</text>
+		<text id="alpha" h="632E9A25">Förinställning</text>
+		<text id="alpha.resolution.0" h="D33F1C80">Låg upplösning</text>
+		<text id="alpha.resolution.1" h="64A38366">Medium upplösning</text>
+		<text id="alpha.resolution.2" h="0B020749">Hög upplösning</text>
+		<text id="alpha.set" h="A135F93B">Förinställningar:</text>
+		<text id="alpha.set.0" h="04DA8EE6">Transparensnivå: %1</text>
+		<text id="alpha.set.1" h="E18C52C1">Linjegrafik och text: %1</text>
+		<text id="alpha.set.2" h="82CFFAB0">Toning och maskning: %1</text>
+		<text id="alpha.set.3" h="6FFD6051">Konvertera all text till konturer: %1</text>
+		<text id="alpha.set.4" h="F2FA75FC">Konvertera alla linjer till konturer: %1</text>
+		<text id="alpha.set.5" h="B3DB6D2B">Klipp komplexa områden: %1</text>
+		<text id="alpha.set.6" h="33A6ABAC">Bevara övertryck: %1</text>
+		<text id="cleanUp" h="65707B26">Rensningsinställningar</text>
+		<text id="cleanUp.DelDuplicateFont" h="19ADBE28">Ta bort teckensnittsdubbletter</text>
+		<text id="cleanUp.DelDuplicateImg" h="6B3E34D0">Ta bort bilddubbletter</text>
+		<text id="cleanUp.DelDuplicateXForm" h="C81BC491">Ta bort dubbletter av XFormulär</text>
+		<text id="cleanUp.LZW" h="58145992">Använd Flate istället, i strömmar som använder LZW</text>
+		<text id="cleanUp.bookmark" h="0744B268">Ta bort ogiltiga bokmärken</text>
+		<text id="cleanUp.compress" h="631E86C0">Alternativ för objektkomprimering:</text>
+		<text id="cleanUp.compress.0" h="590461FB">Komprimera hela filen</text>
+		<text id="cleanUp.compress.1" h="223C9F8A">Komprimera dokumentstruktur</text>
+		<text id="cleanUp.compress.2" h="02FEB23B">Ta bort komprimering</text>
+		<text id="cleanUp.compress.3" h="00A7F105">Lämna komprimeringen orörd</text>
+		<text id="cleanUp.content" h="AF96A559">Optimera sidinnehåll</text>
+		<text id="cleanUp.destinat" h="43CBC798">Ta bort oanvända namngivna destinationer</text>
+		<text id="cleanUp.link" h="D4DE7736">Ta bort ogiltiga länkar</text>
+		<text id="cleanUp.stream" h="2C797CB5">Använd Flate för att koda strömmar som inte är kodade</text>
+		<text id="cleanUp.web" h="278DAB99">Optimera PDF för snabb webbvy</text>
+		<text id="cmd.name" h="E03D5D96">Spara som optimerad...</text>
+		<text id="cmd.nameScan" h="9FD32538">Optimera inscannade sidor...</text>
+		<text id="cmd.nameScanShort" h="EC746C37">Optimera Scan...</text>
+		<text id="cmd.nameScanTip" h="075F0E8E">Korrigera och krympa storlek på inscannat dokument.</text>
+		<text id="cmd.nameShort" h="E03D5D96">Spara som Optimerad...</text>
+		<text id="cmd.nameTip" h="DBCE5DD2">Sparar dokument Optimerat: krymper storlek(certifierat) ger snabb inläsningstid, bättre server/internet.</text>
+		<text id="descreen" h="250001AD">Avrastrering</text>
+		<text id="deskew" h="D73E3DAE">Räta</text>
+		<text id="diObject" h="686FD8CF">Ta bort objektinställningar</text>
+		<text id="diObject.action" h="05E16E16">Ta bort alla formulär-, import- och återställningsåtgärder</text>
+		<text id="diObject.bookmark" h="A40329EB">Ta bort bokmärken</text>
+		<text id="diObject.curves" h="919F43B2">Konvertera utjämnade linjer till kurvor</text>
+		<text id="diObject.flatten" h="73C56406">Bädda in formulärfält</text>
+		<text id="diObject.fragment" h="CD4A23BC">Identifiera och sammanfoga bildfragment</text>
+		<text id="diObject.image" h="63729870">Ta bort alla alternativa bilder</text>
+		<text id="diObject.javascript" h="7FFE9012">Ta bort alla JavaScript-åtgärder</text>
+		<text id="diObject.print" h="BD6C83FA">Ta bort inbäddade utskriftsinställningar</text>
+		<text id="diObject.search" h="7B117F1A">Ta bort inbäddat sökindex</text>
+		<text id="diObject.tags" h="3C045100">Ta bort dokumenttaggar</text>
+		<text id="diObject.thumbnail" h="9599423F">Ta bort inbäddade sidminiatyrer</text>
+		<text id="diUserData" h="728DF433">Ta bort användarrelaterad information</text>
+		<text id="diUserData.attach" h="92D67E12">Ta bort bifogade filer</text>
+		<text id="diUserData.form" h="6C36F02B">Ta bort kommentarer, formulär och multimedia</text>
+		<text id="diUserData.layer" h="FB8629C9">Ta bort dolt lagerinnehåll och bädda in synliga lager</text>
+		<text id="diUserData.links" h="12EEC435">Ta bort alla länkar</text>
+		<text id="diUserData.metadata" h="1E9402E3">Ta bort dokumentinformation och metadata</text>
+		<text id="diUserData.object" h="6C03028D">Ta bort all objektdata</text>
+		<text id="diUserData.privat" h="304A6889">Ta bort privat data från andra program</text>
+		<text id="diUserData.refer" h="B0E9F442">Ta bort externa korsreferenser</text>
+		<text id="dlg.POTitle" h="E462CC15">PDF-optimera</text>
+		<text id="dlg.delete" h="38F26847">Vill du verkligen ta bort inställningen '%1'?</text>
+		<text id="dlg.save" h="9A3AA1B1">Skapa PDF-optimeringsinställningar</text>
+		<text id="dlg.save.text" h="A599E751">Spara aktulla inställningar som:</text>
+		<text id="filename" h="B06ACB9D">namnkonventioner/etikett</text>
+		<text id="filters" h="8DA3B27E">Filter</text>
+		<text id="fonts" h="1250B714">Ångra inbäddning av inbäddade teckensnitt</text>
+		<text id="fonts.active" h="5C8642DA">Koppla inte bort några teckensnitt</text>
+		<text id="fonts.all" h="3FE17594">Koppla bort alla teckensnitt</text>
+		<text id="fonts.btn.retain" h="BAD13ABC">&lt;&lt; Behåll</text>
+		<text id="fonts.btn.unembed" h="760953D2">Av-inbädda &gt;&gt;</text>
+		<text id="fonts.comment" h="F38E9B57">Ovanstående teckensnitt är för närvarande inbäddade i PDF-filen. För att koppla bort ett teckensnitt, flyttar du det till högra panelen. Teckensnitt till vänster, kommer fortsatt att vara inbäddade.</text>
+		<text id="fonts.custom" h="2AAB35CE">Välj  teckensnitt för manuell bortkoppling</text>
+		<text id="fonts.embedded" h="A77293DA">Inbäddade teckensnitt:</text>
+		<text id="fonts.mergesubsets" h="F0C43A59">Sammanfoga teckensnittens delmängder</text>
+		<text id="fonts.recommend" h="F9ABDD3E">Koppla bort rekommenderade teckensnitt</text>
+		<text id="fonts.subset" h="6EC24EDD">Dela upp alla inbäddade teckensnitt</text>
+		<text id="fonts.unembed" h="D1144C15">Teckensnitt att koppla bort:</text>
+		<text id="highQuality" h="44A62CCC">Hög kvalitet</text>
+		<text id="images.AverageDownsampling" h="9DF5988E">Genomsnittlig nedsampling till</text>
+		<text id="images.BicubicDownsamplingTo" h="2B989117">Bikubisk downsampling till</text>
+		<text id="images.NoDownsampling" h="747AEF4D">Ingen nedsampling</text>
+		<text id="images.SubsamplingTo" h="F298A3BE">Ned-, Subsampling till</text>
+		<text id="images.above" h="09C2601E">för bilder över:</text>
+		<text id="images.color" h="EFDBFA28">Färgbilder</text>
+		<text id="images.compress" h="990F2529">Komprimering:</text>
+		<text id="images.compress.CCITTGroup3" h="B7DD624B">CCITT grupp 3</text>
+		<text id="images.compress.CCITTGroup4" h="F89CF48C">CCITT grupp 4</text>
+		<text id="images.compress.JBIG2" h="DE3BC257">JBIG2</text>
+		<text id="images.compress.JPEG" h="58DE58E0">JPEG</text>
+		<text id="images.compress.JPEG2000" h="3A603972">JPEG2000</text>
+		<text id="images.compress.LZW" h="D62F11BD">LZW</text>
+		<text id="images.compress.MRC" h="F6693DA2">MRC</text>
+		<text id="images.compress.RunLength" h="82741A51">Kör/spel längd</text>
+		<text id="images.compress.ZIP" h="0E4D9E8D">ZIP</text>
+		<text id="images.grey" h="F9551019">Gråskalebilder</text>
+		<text id="images.ingexed" h="FE837B06">Indexerade bilder</text>
+		<text id="images.mono" h="19F5498E">Monokroma bilder</text>
+		<text id="images.quality.High" h="21A95620">Hög</text>
+		<text id="images.quality.Lossless" h="40A582D7">Mindre Förlust</text>
+		<text id="images.quality.Lossy" h="78731864">Förstörande</text>
+		<text id="images.quality.Low" h="845E3D8C">Låg</text>
+		<text id="images.quality.Maximum" h="A8A97F0E">Maximal</text>
+		<text id="images.quality.Medium" h="91153342">Medium</text>
+		<text id="images.quality.Minimum" h="8415F85F">Minimum</text>
+		<text id="images.reduct" h="96D00A5D">Optimera bilder endast vid storleksreduktion</text>
+		<text id="mono" h="65032FDA">Monochrome, svartvit</text>
+		<text id="msg.NoPermission" h="DF8FF5FA">Dokumentet är skyddat och du har inte tillräcklig behörighet för att utföra optimering.</text>
+		<text id="optPrefs" h="FDCAF687">optimeringsinställningar</text>
+		<text id="ppi" h="B39AC2C1">dpi</text>
+		<text id="prefix" h="95164599">Prefix, före:</text>
+		<text id="quality" h="E3A77A93">Kvalitet:</text>
+		<text id="result" h="CE676C2B">Resultat:</text>
+		<text id="settings" h="B781AB7B">Inställningar:</text>
+		<text id="settings.Custom" h="A918FF38">Anpassat</text>
+		<text id="settings.Mobile" h="A5903811">Mobil</text>
+		<text id="settings.Standard" h="C6DA1F99">Standard</text>
+		<text id="smallSize" h="2A56EB5B">Liten storlek</text>
+		<text id="spaceusage" h="2FA61B33">Granska utrymmesanvändning</text>
+		<text id="stage.getfonts" h="9DF9EE20">Samlar in dokumentteckensnitt...</text>
+		<text id="stage.preparing" h="3F6313D6">Förbereder dokument...</text>
+		<text id="sufix" h="1627987B">Sufix, efter:</text>
+		<text id="textSharp" h="D60116F5">Text skärpa</text>
+		<text id="tileSize" h="A4FAD93F">Storlek:</text>
+		<text id="ver" h="C549FED4">Göra kompatibel med:</text>
+		<text id="ver.1" h="8B2AEC62">Version 1.3 (Acrobat 4.0 och senare)</text>
+		<text id="ver.2" h="A0EA502A">Version 1.4 (Acrobat 5.0 och senare)</text>
+		<text id="ver.3" h="26054EFC">Version 1.5 (Acrobat 6.0 och senare)</text>
+		<text id="ver.4" h="70929FB3">Version 1.6 (Acrobat 7.0 och senare)</text>
+		<text id="ver.5" h="FD059DF9">Version 1.7 (Acrobat 8.0 och senare)</text>
+		<text id="ver.current" h="17DA1613">Aktuell PDF-version: %1.%2</text>
+	</Strings>
+</Localization>

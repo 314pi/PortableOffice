@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171220231413">2.00.00</Version>
+	<Author>Martin Paulík</Author>
+	<Copyright>TERAGON SW s.r.o.
+www.pdfxchange.cz	</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Czech (Czech Republic)" lName="čeština" code="cs-CZ" R2L="false"/>
+	<Module name="FileOpenSH" namespace="fopw" version="7.0.323.2"/>
+	<Strings>
+		<text id="secure.printer.title" h="448D1D7F">Tato tiskárna není povolena.</text>
+		<text id="secure.printer.text" h="7488F002">Tato tiskárna není povolena pro zabezpečený tisk. Prosím spusťte tisk znovu a vyberte jinou tiskárnu.</text>
+	</Strings>
+</Localization>

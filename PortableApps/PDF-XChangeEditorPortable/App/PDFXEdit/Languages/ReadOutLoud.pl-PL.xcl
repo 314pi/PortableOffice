@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Version date="20150127175614">2.00.00</Version>
+	<Author>Maciej Bojakowski, Marek Szczepański</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Polish" lName="Polski (Polska)" code="pl-PL" R2L="false"/>
+	<Module name="ReadOutLoud" namespace="speech" version="5.5.312" />
+	<Strings>
+		<text id="cmd.category" h="A1EB605F">Czytaj na głos</text>
+		<text id="cmd.readSelection" h="D8939664">Czytaj na głos wybrany tekst</text>
+		<text id="cmd.readStop" h="06B322F6">Zatrzymaj czytanie</text>
+		<text id="opt.l.pitch" h="A6915A2C">Wysokość &amp;tonu:</text>
+		<text id="opt.l.rate" h="10B1E128">&amp;Szybkość:</text>
+		<text id="opt.l.volume" h="8C0E20F2">&amp;Głośność</text>
+		<text id="opt.l.max" h="284585D5">Maks.</text>
+		<text id="opt.l.min" h="F16918ED">Min.</text>
+		<text id="opt.cb.readComments" h="070A2526">Czytaj &amp;komentarze</text>
+		<text id="opt.cb.readFields" h="4331E3A2">Czytaj pola &amp;formularza</text>
+		<text id="speech.opt.title" h="54357DDF">Opcje głośnego czytania</text>
+		<text id="opt.group.title" h="54357DDF">Opcje głośnego czytania</text>
+		<text id="opt.btn.test" h="EA3839EC">Odczytaj ten &amp;tekst</text>
+		<text id="prefs.name" h="06D67BEF">Mowa</text>
+		<text id="prefs.title" h="110DB02C">Opcje mowy</text>
+		<text id="prefs.tips" h="110DB02C">Opcje mowy</text>
+		<text id="opt.test.title" h="44732FAA">Test</text>
+		<text id="test.text" h="6B245451">Szybki, brązowy lis skacze nad leniwym psem.</text>
+		<text id="opt.cb.defVoice" h="972D8B4B">Użyj &amp;domyślnego głosu</text>
+		<text id="opt.cb.defAttr" h="74D7B3DB">Użyj domyślnych &amp;atrybutów mowy</text>
+		<text id="opt.l.voice" h="5026E016">Gł&amp;os:</text>
+		<text id="opt.l.wpm" h="7AEF5446">słów na minutę</text>
+</Strings>
+</Localization>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171221003322">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Russian (Russia)" lName="Русский" code="ru-RU" R2L="false"/>
+	<Module name="Dropbox" namespace="db" version="7.0.323.2"/>
+	<Strings>
+		<text id="btn.cancel" h="3D302A38">Отмена</text>
+		<text id="btn.chooseUser" h="4E5DDBFB">Пользователь</text>
+		<text id="btn.ok" h="FEF0C771">Да</text>
+		<text id="btn.open" h="B1A510F0">Открыть</text>
+		<text id="btn.save" h="F363C410">Сохранить</text>
+		<text id="btn.saveReplace" h="11BF9724">Сохранить и заменить</text>
+		<text id="cmd.cmdsCategory" h="22B8ECE9">Dropbox</text>
+		<text id="cmd.open" h="028048E8">&amp;Dropbox...</text>
+		<text id="cmd.open.tip" h="683AE278">Открыть документ из Dropbox.</text>
+		<text id="cmd.save" h="028048E8">&amp;Dropbox...</text>
+		<text id="cmd.save.tip" h="B5D0B78F">Сохранить активный документ в Dropbox.</text>
+		<text id="cmd.dropbox" h="6616FE70">&amp;Dropbox</text>
+		<text id="dlg.authenticate" h="E6E77652">Проверка подлинности</text>
+		<text id="dlg.openFile" h="435887CD">Открытие файла</text>
+		<text id="dlg.saveFile" h="520CB069">Сохранение файла</text>
+		<text id="lb.itemsInFolder" h="8F56A98C">%d элементов</text>
+		<text id="lb.name" h="F7B9E475">Имя файла:</text>
+		<text id="ls.column.created" h="9E0B497D">Дата создания</text>
+		<text id="ls.column.created.hint" h="291F5AEC">Дата и время создания файла, папки или списка.</text>
+		<text id="ls.column.extension" h="14FEB836">Расширение</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Расширение файла</text>
+		<text id="ls.column.modified" h="691C3610">Дата изменения</text>
+		<text id="ls.column.modified.hint" h="2C2CF8F2">Дата и время изменения файла, папки или списка.</text>
+		<text id="ls.column.size" h="17A58A52">Размер</text>
+		<text id="ls.column.size.hint" h="E79CA174">Размер файла</text>
+		<text id="ls.column.title" h="D18643E3">Имя</text>
+		<text id="ls.column.title.hint" h="D883F263">Имя файла или папки</text>
+		<text id="msg.connectError" h="A594B0D5">Ошибка подсоединения к Dropbox. Проверьте, пожалуйста, есть ли подсоединение к интернету и есть ли у Вас права доступа к ресурсам Dropbox. </text>
+		<text id="msg.fileNotFound" h="381368F8">Файл &lt;b&gt;%1&lt;/b&gt; не найден в текущей папке.</text>
+		<text id="msg.invalidFileName" h="6BE657E3">&lt;b&gt;%1&lt;/b&gt; - неправильное имя файла: символы &lt;&gt;"/|?* запрещены в записи имени.</text>
+		<text id="msg.navigateError" h="8BCFBD0F">Проверьте подсоединение к интернету, правильность записи адреса и наличие у Вас прав доступа к ресурсам Dropbox. </text>
+		<text id="msg.openFailed" h="794811DE">Невозможно открыть файла. Убедитесь в наличии файла и разрешения для его чтения.</text>
+		<text id="msg.saveFailed" h="36780EC6">Невозможно сохранить файл. Убедитесь, правильно ли указано имя файла и есть ли достаточно места у Вашем DropBox.</text>
+		<text id="msg.saveReplace" h="B1889DFB">Файл с именем &lt;b&gt;%1&lt;/b&gt; уже существует. Заменить его?</text>
+		<text id="msg.wrongUser" h="27773B86">Невозможно открыть файл или папку, которые принадлежат другому пользователю Dropbox. Желаете выбрать другого пользователя?</text>
+		<text id="str.fileSystemName" h="22B8ECE9">Dropbox</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123215804">2.00.00</Version>
+	<Author>Regmos</Author>
+	<Copyright>Regmos 2018</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Danish (Denmark)" lName="dansk" code="da-DK" R2L="false"/>
+	<Module name="BookmarksPlugin" namespace="bp" version="7.0.323.3"/>
+	<Strings>
+		<text id="DlgAddExcludedWords" h="BED549D0">Tilføj ekskluderede ord</text>
+		<text id="DlgAddTextToBookmark" h="E5B26485">Føj tekst til bogmærketitel</text>
+		<text id="DlgAutoGenerateBookmarks.Title" h="0E85373B">Opret bogmærker fra sidetekst</text>
+		<text id="DlgBookmarkAppearance" h="7544DDCE">Resultatvisning</text>
+		<text id="DlgBookmarkEveryNthPage" h="B6869582">Bogmærk med intervaller</text>
+		<text id="DlgBookmarkLevelDescription" h="186C1D0A">Tekstgenkendelse</text>
+		<text id="DlgBookmarkPropSheet" h="862C67E7">Egenskaber bogmærkekoprettelse</text>
+		<text id="DlgBookmarkTitleFormatting" h="A87502C2">Titelformatering</text>
+		<text id="DlgBookmarksToNamedDests" h="8A0957E5">Konverter til navngivne destinationer</text>
+		<text id="DlgBookmarksToTextFile" h="29F18B82">Eksportér bogmærke(r) til tekstfil</text>
+		<text id="DlgChangeBookmarkCase" h="4D74C7D9">Skift store/små bogstaver</text>
+		<text id="DlgEditStopWords" h="911413E7">Redigér stopord</text>
+		<text id="DlgFindReplaceBookmarkText" h="733A7FC1">Søg og erstat bogmærketekst</text>
+		<text id="DlgFontNames" h="3C8B1F88">Vælg skrifttypenavn(e)</text>
+		<text id="DlgFromTOC" h="AC2ED85C">Bogmærk indholdsfortegnelse</text>
+		<text id="DlgFromTOCIndentation" h="12688622">Tilpas forskydning</text>
+		<text id="DlgFromTextFile" h="B3799046">Opret bogmærker fra tekstfil</text>
+		<text id="DlgNamedDestsToPageNumbers" h="9CAE5E39">Konvertér navngivne destinationer til regulære destinationer</text>
+		<text id="DlgSheetBttfBookmarkProps" h="4B2F0AA2">Bogmærkeegenskaber</text>
+		<text id="DlgSheetBttfSelectBookmarks" h="30673BCD">Generelt</text>
+		<text id="DlgSortBookmarks" h="8339BB6C">Sortér bogmærker</text>
+		<text id="DlgToTOC" h="2B3E9BF1">Opret indholdsfortegnelse</text>
+		<text id="DlgValidateBookmarks" h="0CD39971">Validér bogmærker</text>
+		<text id="atb.btn.Macroses" h="81734E4F">Mac</text>
+		<text id="atb.chb.IncludeChildren" h="0AC4CB2B">Medtag alle underniveauer</text>
+		<text id="atb.chb.ProcessAllLevels" h="26C3B2DF">Behandl alle niveauer</text>
+		<text id="atb.chb.RemoveSpaces" h="ABDEA5BC">Fjern overflødige mellemrum fra original titel</text>
+		<text id="atb.gb.AddText" h="E21C9B55">Tilføj tekst</text>
+		<text id="atb.gb.Levels" h="8A668489">Vælg niveau</text>
+		<text id="atb.gb.SelectSource" h="1E2E96A4">Vælg kilde</text>
+		<text id="atb.lbl.BookmarkTitle" h="2DC1254E">"Bogmærketitel"</text>
+		<text id="atb.lbl.Prefix" h="A51A4726">Tilføj præfiks</text>
+		<text id="atb.lbl.SelectLevel" h="D1263889">Vælg behandlingsniveau:</text>
+		<text id="atb.lbl.Suffix" h="C27741D5">Tilføj postfiks</text>
+		<text id="atb.lbl.UseBookmarksFrom" h="E770326C">Brug bogmærker</text>
+		<text id="ba.chb.expand" h="BBA3BD8A">Vis udfoldet (vis alle børn)</text>
+		<text id="ba.l.expl" h="EE297184">Vælg resultatets udseende:</text>
+		<text id="ba.l.textStyle" h="8D5CA9B5">Tekststil:</text>
+		<text id="benp.Gb.Main" h="4B2F0AA2">Egenskaber</text>
+		<text id="benp.Label.TitleTemplate" h="5E999567">Bogmærkeskabelon:</text>
+		<text id="benp.Label1.SelectN" h="8626E4EA">Bogmærk hver</text>
+		<text id="benp.Label2.SelectN" h="6270721D">side i valgte sideinterval</text>
+		<text id="benp.infoBtn.invalidMacro" h="1561C0F2">Strengen indeholder udefineret makronavn og ignoreres</text>
+		<text id="bft.l.actionSeparator" h="5C05CE1E">Handlingsseparator:</text>
+		<text id="bft.l.separator" h="A4269065">Separator:</text>
+		<text id="bld.btn.selStyle" h="EE213BC5">Hent stil fra valgt tekst</text>
+		<text id="bld.chb.fontNames" h="AB457B23">Skrifttyper</text>
+		<text id="bld.chb.limitToPattern" h="7F0826AB">Begræns titler til genkendte mønstre</text>
+		<text id="bld.chb.matchTextPattern" h="5A64E195">Genkend tekstmønster</text>
+		<text id="bld.chb.multilineBookmarks" h="CB4817D1">Tillad titler med flere linier</text>
+		<text id="bld.g.textContentRules" h="5B364747">Tekstregler</text>
+		<text id="bld.l.description" h="2F770A5B">Vælg en kombination af følgende tekstegenskaber, for automatisk at oprette bogmærker fra dokumenttekst.</text>
+		<text id="bld.l.matchTextCase" h="43616BDA">Bogstavregler:</text>
+		<text id="bld.matchTextCase.allCapital" h="D4E8E731">Alle tegner store</text>
+		<text id="bld.matchTextCase.firstCapital" h="CAA2E79D">Første tegn er stort</text>
+		<text id="bld.matchTextCase.firstDigit" h="42E73545">Første tegn er et tal</text>
+		<text id="bld.matchTextCase.noRestrictions" h="93089981">Ingen begrænsninger</text>
+		<text id="bnd.gb.Main" h="4DDA9780">Destinationstitel</text>
+		<text id="bnd.lbl.NDTitle" h="7F7F73EC">Destinationen oprettes med nedenstående mønster:</text>
+		<text id="btf.chb.insertAfter" h="DD7B743E">Tekst efter hver titel:</text>
+		<text id="btf.chb.insertBefore" h="CBDD1CF8">Tekst før hver titel:</text>
+		<text id="btf.chb.removeDuplicateSpaces" h="2653A648">Fjern gentagne mellemrum</text>
+		<text id="btf.chb.replaceLineBreaks" h="0C51EEEB">Erstat ny linie med mellemrum</text>
+		<text id="btf.chb.replaceTitle" h="097EF3C2">Søg og erstat bogmærketitler med tekstmønstre</text>
+		<text id="btf.g.advancedFormatting" h="9130441A">Avanceret</text>
+		<text id="btf.g.textCase" h="97FCC959">Store/små bogstaver</text>
+		<text id="btf.l.characters" h="189C88D2">(tegn)</text>
+		<text id="btf.l.expl" h="169A084A">Vælg tekstegenskaber til de nye bogmærker:</text>
+		<text id="btf.l.leadingNumbers" h="074A1A51">Foranstillede numre:</text>
+		<text id="btf.l.maxLength" h="A52EC501">Maksimal titellængde:</text>
+		<text id="btf.l.replacePattern" h="B54B1F92">Erstat:</text>
+		<text id="btf.l.searchPattern" h="E87DDC08">Søg:</text>
+		<text id="btf.l.use" h="46DEA47A">Anvend:</text>
+		<text id="btf.leadingNumbers.noChange" h="3399B0A0">Ingen ændring</text>
+		<text id="btf.rb.doNotChange" h="4CBF2C1B">Uændret</text>
+		<text id="btf.rb.lowercase" h="82451817">små bogstaver</text>
+		<text id="btf.rb.sentenceCase" h="B26B2798">Som sætning</text>
+		<text id="btf.rb.titleCase" h="2C8DBF1B">Som Titel</text>
+		<text id="btf.rb.uppercase" h="42F820C7">STORE BOGSTAVER</text>
+		<text id="btf.use.letters" h="6EE7E478">Bogstaver</text>
+		<text id="btf.use.numbers" h="E2FE5FA7">Numre</text>
+		<text id="btf.use.romanLetters" h="290A50ED">Romertal</text>
+		<text id="btn.add.custom" h="3080663C">Ny tilpasset...</text>
+		<text id="btn.highlight" h="2485FBFF">Fremhæv bogmærker</text>
+		<text id="btn.validate" h="1E91E484">Validér</text>
+		<text id="cbc.aew.label" h="7EC386C0">Tilføj nyt ekskluderet ord. Et pr. linie (tast "Enter" efter hvert ord):  </text>
+		<text id="cbc.cb.fromBookmarks" h="CF38CD8D">Valgt</text>
+		<text id="cbc.cb.fromDocument" h="424CAFC5">Alle bogmærker</text>
+		<text id="cbc.chb.EnterCustomWordList" h="EB8ACE1B">Skriv liste med ord der ignoreres</text>
+		<text id="cbc.chb.IncludeChildrenBookmarks" h="051C6219">Inkluder underbogmærker</text>
+		<text id="cbc.gb.SelectTextCase" h="F9747FC0">Store/små bogstaver</text>
+		<text id="cbc.gb.TextCaseOptions" h="DAD7B4F4">Valg</text>
+		<text id="cbc.list.header" h="647D6FC4">Ekskluderingsord</text>
+		<text id="cbc.rbtn.LowerCase" h="82451817">små bogstaver</text>
+		<text id="cbc.rbtn.SentenceCase" h="B26B2798">Som sætning</text>
+		<text id="cbc.rbtn.TitleCase" h="2C8DBF1B">Som Titel</text>
+		<text id="cbc.rbtn.UpperCase" h="42F820C7">STORE BOGSTAVER</text>
+		<text id="chb.ignoreDuplicates" h="B30FC50E">Ignorer gentagne duplikat bogmærker</text>
+		<text id="chb.stopWords" h="491ED7FC">Ignorer tekst der indeholder stopord</text>
+		<text id="chb.verifyLinks" h="7A46B598">Bekræft links til eksterne filer</text>
+		<text id="chb.warnGoTo" h="911FC68A">Advar om ugyldige gå til handlinger</text>
+		<text id="chb.warnGoToRE" h="C0827D11">Advar om ugyldige gå til R og gå til E handlinger</text>
+		<text id="chb.warnLaunchURI" h="94F27C09">Advar om ugyldige kør og URL handlinger</text>
+		<text id="chb.warnNoActions" h="FBF997CF">Advar om tom handlingsliste eller ugyldige underbogmærker</text>
+		<text id="chb.warnNoGoTo" h="66B02339">Advar om fravær af gå til handling i handlingslisten</text>
+		<text id="chb.warnOther" h="B30D6C64">Advar om andre ugyldige handlinger</text>
+		<text id="chb.warnTitle" h="F0B5EE52">Advar om tomme titler</text>
+		<text id="cmd.addAGBLevel" h="928E2BB5">Brug valgt tekststil i oprettelse af bogmærke...</text>
+		<text id="cmd.addTextToBookmarkTitle" h="C4C93738">Føj tekst til bogmærker...</text>
+		<text id="cmd.addTextToBookmarkTitle.short" h="E21C9B55">Tilføj tekst</text>
+		<text id="cmd.addTextToBookmarkTitle.tip" h="B412507B">Føj præfiks og postfiks til bogmærketitler.</text>
+		<text id="cmd.changeBookmarkCase" h="359544B0">Skift bogmærkeversaler...</text>
+		<text id="cmd.changeBookmarkCase.short" h="BC4AE60A">Versaler</text>
+		<text id="cmd.changeBookmarkCase.tip" h="48522DE3">Skift mellem store og små bogstaver</text>
+		<text id="cmd.findReplaceBookmarkText" h="AF996007">Søg og erstat bogmærketekst...</text>
+		<text id="cmd.findReplaceBookmarkText.short" h="9F35A871">Søg og erstat</text>
+		<text id="cmd.findReplaceBookmarkText.tip" h="7ED81F66">Søg og erstat tekst i  bogmærketitler</text>
+		<text id="cmd.sort" h="B1FFF012">Sortér bogmærker</text>
+		<text id="cmd.sort.short" h="579162B0">Sortér</text>
+		<text id="cmd.sort.tip" h="90B74C06">Sorterer bogmærker efter givne kriterier.</text>
+		<text id="cmd.validate" h="E61D60D2">Validér bogmærker...</text>
+		<text id="cmd.validate.short" h="1E91E484">Validér</text>
+		<text id="cmd.validate.tip" h="AF7C0DD0">Kontrollerer bogmærker efter givne kriterier.</text>
+		<text id="cmd.toTOC" h="9B7AEEEA">Opret indholdsfortegnelse...</text>
+		<text id="cmd.toTOC.short" h="2B3E9BF1">Indholdsfortegnelse</text>
+		<text id="cmd.toTOC.tip" h="E92DA1A8">Opretter en indholdsfortegnelse baseret bogmærker og deres struktur.</text>
+		<text id="cmd.bookmarksToNamedDests" h="9A9E5CF2">Konverter til navngivne destinationer...</text>
+		<text id="cmd.bookmarksToNamedDests.short" h="9226CE11">Konverter til navngiven destination</text>
+		<text id="cmd.bookmarksToNamedDests.tip" h="76CA39A1">Konverterer regulære destinationer i bogmærkelisten til navngivne destinationer. Så, når sider slettes eller flyttes, vil bogmærkerne stadig pege på den samme side.</text>
+		<text id="cmd.bookmarksToTextFile" h="DBEBEEB8">Eksporter bogmærker til tekstfil</text>
+		<text id="cmd.bookmarksToTextFile.short" h="738D44A8">Eksporter til tekstfil</text>
+		<text id="cmd.bookmarksToTextFile.tip" h="2F1DD236">Gem bogmærker som tekstfil</text>
+		<text id="cmd.bookmarksToHtmlFile" h="EFF75744">Eksporter bogmærker til HTML...</text>
+		<text id="cmd.bookmarksToHtmlFile.short" h="76C20816">Eksporter til HTML</text>
+		<text id="cmd.bookmarksToHtmlFile.tip" h="8968844D">Gemmer bogmærker som HTML fil.</text>
+		<text id="cmd.namedDestsToPageNumbers" h="3A651CA9">Konverter navngivne destinationer til regulære...</text>
+		<text id="cmd.namedDestsToPageNumbers.short" h="74C22304">Navngiven til regulær</text>
+		<text id="cmd.namedDestsToPageNumbers.tip" h="2ABF8034">Konverterer navngivne destinationer til regulære destinationer, så når en side slettes eller flyttes, vil bogmærket stadig føre til den korrespoderende sides sidenummer.</text>
+		<text id="cmd.bookmarkEveryNthPage" h="940FCD39">Bogmærk efter sideantal...</text>
+		<text id="cmd.bookmarkEveryNthPage.short" h="71BCE832">Bogmærk efter sideantal</text>
+		<text id="cmd.bookmarkEveryNthPage.tip" h="B60E23D7">Opret bogmærker relateret til sidenumre.</text>
+		<text id="cmd.generate" h="2147DF79">Opret bogmærker fra sidetekst...</text>
+		<text id="cmd.generate.short" h="8BE514A6">Fra sidetekst</text>
+		<text id="cmd.generate.tip" h="2A03253C">Opretter bogmærker fra aktuelt dokuments tekst, ved hjælp af defineret tekststil og parametre.</text>
+		<text id="cmd.fromTOC" h="D15400EB">Opret bogmærker fra indholdsfortegnelse...</text>
+		<text id="cmd.fromTOC.short" h="3AB39C50">Fra indholdsfortegnelse</text>
+		<text id="cmd.fromTOC.tip" h="D4170828">Opretter bogmærker fra en eksisterende indholdsfortegnelse. Indholdsfortegnelsen skal markeres før funktionen virker.</text>
+		<text id="cmd.fromTextFile" h="55CA46BC">Opret bogmærker fra tekstfil...</text>
+		<text id="cmd.fromTextFile.short" h="3619B3DB">Fra tekstfil</text>
+		<text id="cmd.fromTextFile.tip" h="11167525">Opretter bogmærker fra tekstfilen. Bemærk at filens dataformat bør følge formatet i funktionen Eksporter bogmærker.</text>
+		<text id="cmd.name" h="7CDCE9BE">Bogmærker </text>
+		<text id="cmd.macro.firstLine" h="613F14A5">Sidens første tekstlinie</text>
+		<text id="cmd.macro.hierIndex" h="7DCA5F4D">Hierarkisk indeks</text>
+		<text id="cmd.macro.hierTitle" h="0E7B4B6F">Hierarkisk titel</text>
+		<text id="cmd.macro.indexInParent" h="1B41AFB1">Overordnet indeks</text>
+		<text id="cmd.macro.label" h="EEE40FF3">Sideetiket</text>
+		<text id="cmd.macro.launch" h="87D9EB8D">Fil der åbnes</text>
+		<text id="cmd.macro.level" h="B863033F">Bogmærkeniveau</text>
+		<text id="cmd.macro.namedDest" h="C4E8D8F5">Navngiven destination</text>
+		<text id="cmd.macro.sequentialNum" h="CDF4EA5E">Fortløbende nummer</text>
+		<text id="cmd.macro.title" h="3AB782A4">Bogmærketitel</text>
+		<text id="cmd.macro.uri" h="6C21F7EF">Weblink der åbnes</text>
+		<text id="ebttf.actType.all" h="B8B21253">Bogmærker med alle linktyper</text>
+		<text id="ebttf.actType.goto" h="05B4C93C">Bogmærker med 'Gå tilside'</text>
+		<text id="ebttf.actType.gotoR" h="41E1955E">Bogmærker med 'Gå til ekstern'</text>
+		<text id="ebttf.actType.js" h="07676EBA">Bogmærker med javascripthandlinger</text>
+		<text id="ebttf.actType.launch" h="38537D36">Bogmærker med 'Åben fil'</text>
+		<text id="ebttf.actType.uri" h="F39B51AE">Bogmærker med 'Åben weblink'</text>
+		<text id="ebttf.cb.separator.comma" h="827998F7">Komma</text>
+		<text id="ebttf.cb.separator.semi" h="988594A6">Semikolon</text>
+		<text id="ebttf.ch.doNotEscape" h="09B53F9F">Escape tegn som f.eks. @ # { }  : etc.</text>
+		<text id="ebttf.ch.expClosedState" h="46E4EC7E">Eksportér bogmærketræs aktuelle visning</text>
+		<text id="ebttf.ch.expDetailedGotoDescr" h="18B9C243">Eksportér detaljeret destinationsbeskrivelse</text>
+		<text id="ebttf.ch.exportActions" h="3444FE51">Eksporthandlinger</text>
+		<text id="ebttf.ch.exportGoto" h="37493654">Eksportér siden som bogmærket peger på</text>
+		<text id="ebttf.ch.exportGotoR" h="92C06BA6">Eksportér 'gå til ekstern' handlingsbeskrivelse</text>
+		<text id="ebttf.ch.exportJS" h="9362EAE3">Eksportér javascriptkode</text>
+		<text id="ebttf.ch.exportLaunch" h="1B39BF89">Eksportér 'åben fil' handlingsbeskrivelse</text>
+		<text id="ebttf.ch.exportStyle" h="A6713F10">Eksportér tekststil og farvevalg</text>
+		<text id="ebttf.ch.exportWebLinks" h="3C61424C">Eksportér weblinks</text>
+		<text id="ebttf.ch.includeSubBookmarks" h="051C6219">Medtag underbogmærker</text>
+		<text id="ebttf.ch.openContFolder" h="80BDDAAC">Åben resultatmappen</text>
+		<text id="ebttf.ch.overwriteExistingFiles" h="29981774">Overskriv eksisterende fil(er)</text>
+		<text id="ebttf.ch.resloveNamedDests" h="D1E8A9BC">Fortolk navngiven destination som sidenummmer</text>
+		<text id="ebttf.gb.actionExportParams" h="DA853D34">Vælg egenskaber</text>
+		<text id="ebttf.gb.savingResults" h="49571A59">Parametre</text>
+		<text id="ebttf.gb.selectBookmarks" h="E2AFC2C6">Vælg bogmærker</text>
+		<text id="ebttf.infoBtn.doNotEscape" h="93A6DD6C">Escape tegn anbefales hvis du senere vil bruge filen til 'Opret bogmærker fra tekstfil'.</text>
+		<text id="ebttf.infoBtn.invalidSeparator" h="44875D1F">Separatoren må ikke være tom, indeholde alfanumeriske tegn og mellemrum, eller indeholde følgende tegn: @ # : { } </text>
+		<text id="ebttf.lbl.folder" h="3F9ED2F9">Mappe:</text>
+		<text id="ebttf.lbl.separator" h="E9D351AC">Separator:</text>
+		<text id="ebttf.rb.exportActionTypes" h="533F8EA6">Eksportér bogmærker der udfører linkhandlinger:</text>
+		<text id="ebttf.rb.exportAll" h="8F2ED544">Eksportér alt</text>
+		<text id="ebttf.rb.exportSelected" h="69FB5145">Eksportér valgte bogmærker</text>
+		<text id="ebttf.rb.useDefaultFilename" h="0E7FC989">Brug dokumentes filnavn til resulatet</text>
+		<text id="esw.chb.matchCase" h="2E5EFD7E">Genkend versaler</text>
+		<text id="esw.chb.matchWhole" h="17009870">Genkend hele ord</text>
+		<text id="esw.chb.useRegExp" h="7FC6EB4F">Brug regulære udtryk</text>
+		<text id="esw.l.explanation" h="2C312B17">Tekst der indeholder disse stopord, ignoreres og bruges ikke til bogmærker.</text>
+		<text id="fn.l.selectFontNames" h="0CCEF1FA">Vælg skrifttypenavn(e):</text>
+		<text id="frbt.chb.MatchCase" h="12EB8088">Versalfølsom</text>
+		<text id="frbt.chb.MatchWholeWord" h="FE8CC762">Genkend hele ord</text>
+		<text id="frbt.chb.UseRegex" h="7FC6EB4F">Brug regulære udtryk</text>
+		<text id="frbt.gb.FindReplace" h="BA012728">Søg og erstat</text>
+		<text id="frbt.lbl.FindWhat" h="D0A8A2C5">Søg:</text>
+		<text id="frbt.lbl.ReplaceWith" h="3BE65784">Erstat:</text>
+		<text id="ftoc.allIncluded" h="C994FC1B">Inkludér alt</text>
+		<text id="ftoc.b.indents" h="48800D32">Tilpas forskydning...</text>
+		<text id="ftoc.chb.addBookmarks" h="CBBAE768">Bogmærk sider udfra indholdsfortegnelsen</text>
+		<text id="ftoc.chb.addLinks" h="68456DBA">Føj links til indholdsfortegnelsen</text>
+		<text id="ftoc.chb.createLevels" h="58CF083A">Opret hierarkiske bogmærker (bogmærketræ) fra indholdsfortegnelse</text>
+		<text id="ftoc.chb.improveDest" h="417AD7B0">Optimér bogmærker baseret på tekst</text>
+		<text id="ftoc.chb.trimNumbers" h="40ACC5F5">Fjern foranstillede numre fra bogmærker</text>
+		<text id="ftoc.chb.trimSpaces" h="5A27A063">Fjern gentagne mellemrum fra bogmærker</text>
+		<text id="ftoc.chb.useExistingLinks" h="E214DBE7">Brug eksisterende links som nye bogmærkedestinationer</text>
+		<text id="ftoc.l.bottomIndent" h="C983AD6F">Bund:</text>
+		<text id="ftoc.l.expl" h="1FAB779E">Dette vil oprette bogmærker baseret på indholdsfortegnelsen. Desuden kan links føjes til indholdsfortegnelsen, eller eksisterende links kan bruges som bogmærkerdetstinationer.</text>
+		<text id="ftoc.l.offsetExpl" h="9D6C25F6">Forskellen mellem sidenumre i dokumentet, og udskrevne sidenumre.
+Kan være positiv eller negativ.</text>
+		<text id="ftoc.l.pageOffset" h="9E563407">Sideforskydning:</text>
+		<text id="ftoc.l.separator" h="45CF4893">Vælg separator:</text>
+		<text id="ftoc.l.topIndent" h="FA827580">Top:</text>
+		<text id="msg.bft.warning" h="726201E6">Vælg andre tegn til felt- og handlingsseparatorer!</text>
+		<text id="msg.cbc.excludedwords.add.title" h="9ADE883B">Nyt ekskluderingsord</text>
+		<text id="msg.cbc.excludedwords.caption" h="6B29D4B4">Angiv ekskluderingsord:</text>
+		<text id="msg.cbc.excludedwords.edit.title" h="82F8AAA6">Redigér valgte ekskluderingsord</text>
+		<text id="msg.dlg.bookmarksToTextFile.done" h="8E1397E9">Bogmærkeeksport gennemført</text>
+		<text id="msg.dlg.emptyFilename.warning" h="96A438DA">Filnavn skal udfyldes.</text>
+		<text id="msg.dlg.invalidFilename.slashes" h="626318B0">Filnavnet må ikke indeholde  og / , og må heller ikke slutte med dem.</text>
+		<text id="msg.dlg.invalidFilename.warning" h="46CD566C">Windows forbyde filnavne med følgende tegn: * : ? | " &lt; &gt;</text>
+		<text id="msg.dlg.noActionsSelected.warning" h="933F1901">Eksporthandlinger er valgt uden nogen tilhørende handlinger. Vælg en eller flere handlinger, eller fravælg eksporthandlinger.</text>
+		<text id="msg.dlg.noSelectedBookmarks.warning" h="21F37C67">Ingen valgte bogmærker. Vælg et eller flere, eller skift til 'Alle bogmærker'.</text>
+		<text id="msg.dlg.pathDoesntExist.warning" h="0804B942">Valgte mappe findes ikke. Vælg en anden og prøv igen.</text>
+		<text id="msg.font.addCustom.caption" h="75533687">Angiv ny PDF skrifttype:</text>
+		<text id="msg.font.addCustom.title" h="06AFFCAB">Ny tilpasset skrift</text>
+		<text id="msg.frbt.result.bookmarksCount" h="EE00AC0B">Søgning gennemført. Antal ændrede bogmærker: %1</text>
+		<text id="msg.frbt.result.noBookmarksModified" h="84BE491B">Søgning gennemført. Ingen bogmærker blev ændret.</text>
+		<text id="msg.levelDesc.title" h="E92EACC5">Niveauregler</text>
+		<text id="msg.levelDesc.warning" h="86A85979">Kan ikke oprette nyt niveau med de aktuelle parametre. Vælg mindst et passende kriterie i tekstgenkendelse, og sørg for at valgte emner indeholder data. </text>
+		<text id="msg.oper.noChanges" h="5777DD79">Der blev ikke ændret noget. Kontrollér dine valg og prøv igen.</text>
+		<text id="msg.oper.warning" h="ABDCBB65">Der var problemer under udførelsen. Kontrollér resultatet.</text>
+		<text id="msg.regex.error" h="D799FCBE">Regex fortolkningsfejl</text>
+		<text id="msg.stopWords.add.title" h="F6B54725">Ny stopsætning</text>
+		<text id="msg.stopWords.caption" h="E2BC1B9E">Angiv nyt stopord eller stopsætning:</text>
+		<text id="msg.stopWords.edit.title" h="AFE604DF">Redigér valgte stopsætninger</text>
+		<text id="msg.validateBookmarks.delete.caption" h="ED4457F4">Vil du slette valgte bogmærke(r) og underbogmærker?</text>
+		<text id="msg.validateBookmarks.delete.title" h="8FF00765">Slet ugyldigt bogmærke</text>
+		<text id="msg.validateBookmarks.rename.caption" h="CE842D61">Angiv nyt bogmærkenavn:</text>
+		<text id="msg.validateBookmarks.rename.title" h="ED9AF7FA">Omdøb bogmærke</text>
+		<text id="ndpn.ch.deleteDests" h="BC12FBF0">Fjern konverterede navngivne destinationer fra dokumentet</text>
+		<text id="op.GenerateBookmarks" h="05382BCA">Opret bogmærker</text>
+		<text id="op.ValidateBookmarks.msg.emptyActionsList" h="A0A0065C">Bogmærket har ingen tilknyttet handling</text>
+		<text id="op.ValidateBookmarks.msg.emptyTitle" h="83F3E965">Bogmærket har ingen titel.</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidDestName" h="81A40483">Gå til henviser til en ugyldig navngiven destination.</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidPageNumber" h="C8941D79">Gå til henviser til en side uden for rækkevidde.</text>
+		<text id="op.ValidateBookmarks.msg.goto.noAction" h="368F0970">Der  findes ingen GåTil i handlingslisten.</text>
+		<text id="op.ValidateBookmarks.msg.gotoE.invalidTargetPath" h="9D8A50F1">Destinationsstien er tom eller manglende i GåTil handlingen.</text>
+		<text id="op.ValidateBookmarks.msg.gotoR.invalidFile" h="76CCA61D">Gå tilR henviser til en ugyldig fil.</text>
+		<text id="op.ValidateBookmarks.msg.gotoR.invalidPath" h="560614BE">Filplaceringen er ugyldig.</text>
+		<text id="op.ValidateBookmarks.msg.invalidAction" h="84877FDA">%1 er en ugyldig handling.</text>
+		<text id="progress.BookmarkEveryNthPage.title" h="DA523087">Bogmærker sider...</text>
+		<text id="progress.addTextToBookmarkTitle.text" h="BE27C5C9">Føjer tekst til bogmærke: %1...</text>
+		<text id="progress.addTextToBookmarkTitle.title" h="EC7EB408">Føjer tekst til bogmærker...</text>
+		<text id="progress.addingBookmark" h="45BBB17E">Tilføjer bogmærke: %1 af %2...</text>
+		<text id="progress.bookmarksToHtmlFile.status" h="AF1901AD">Eksporterer bogmærker %1 af%2...</text>
+		<text id="progress.bookmarksToHtmlFile.text" h="4DD531FF">Eksporterer bogmærke: %1...</text>
+		<text id="progress.bookmarksToHtmlFile.title" h="E1D21FEE">Eksporterer bogmærker til HTML...</text>
+		<text id="progress.bookmarksToNamedDests.text" h="CE73819F">Konverterer bogmærke: %1...</text>
+		<text id="progress.bookmarksToNamedDests.title" h="8DB00717">Konverterer til navngivne destinationer...</text>
+		<text id="progress.bookmarksToTextFile.text" h="6E74EA26">Behandler bogmærke til eksport: %1</text>
+		<text id="progress.bookmarksToTextFile.title" h="D2C04472">Eksporterer bogmærker til tekstfil...</text>
+		<text id="progress.calculatingBookmarks" h="4AC26E12">Tæller bogmærker...</text>
+		<text id="progress.changingBookmarkCase.text" h="107628CA">Ændrer bogmærkeversal: %1...</text>
+		<text id="progress.changingBookmarkCase.title" h="E01AED17">Ændrer bogmærkeversaler</text>
+		<text id="progress.findReplaceBookmarkText.text" h="ABC58F1D">Behandler bogmærke: %1</text>
+		<text id="progress.findReplaceBookmarkText.title" h="00FEBD2A">Erstatter bogmærketekst...</text>
+		<text id="progress.generateBookmarks" h="3D5E30ED">Opretter bogmærker fra side %1...</text>
+		<text id="progress.generatingBookmarks" h="CFF0F2A9">Opretter bogmærker</text>
+		<text id="progress.generatingBookmarks.label" h="043CF7B1">Tilføjer bogmærket: %1...</text>
+		<text id="progress.generatingLevels" h="07A22443">Opretter niveauer fra bogmærker...</text>
+		<text id="progress.generatingTOC" h="A438CB9C">Opretter indholdsfortegnelse</text>
+		<text id="progress.generatingTOCFromBookmark" h="C9213435">Opretter indhold fra bogmærke: %1...</text>
+		<text id="progress.namedDestsToPageNumbers.deleteNds" h="5DFFFF06">Sletter navngiven destination...</text>
+		<text id="progress.namedDestsToPageNumbers.title" h="4615CB0B">Konverterer navngivne til sidenumre...</text>
+		<text id="progress.parsingFile" h="B2405DA1">Læser bogmærkestruktur fra tekstfilen...</text>
+		<text id="progress.precalculatingPages" h="DB83BEF7">Opretter side(r) til indholdsfortegnelse...</text>
+		<text id="progress.preparingSelected" h="52031EDE">Forbereder valgte bogmærker...</text>
+		<text id="progress.sortingBookmarks" h="99E846CF">Sorterer bogmærke: %1...</text>
+		<text id="progress.sortingBookmarks.status" h="451C3890">Sorterer %1 bogmærke af %2...</text>
+		<text id="progress.sortingBookmarks.title" h="E134B46E">Sorterer bogmærker</text>
+		<text id="progress.statusText.ProcessingBookmarks" h="3836AD6B">Behandler bogmærke %1 af %2</text>
+		<text id="progress.statusText.ProcessingBookmarksDone" h="67CB6C48">Bogmærkning gennemført</text>
+		<text id="progress.undoingChanges" h="BBD3EE96">Fortryder ændringer...</text>
+		<text id="regex.error.backref" h="3D1C1BE5">Udtrykket indeholdt en ugyldig tilbage reference.</text>
+		<text id="regex.error.badbrace" h="4363EA7D">Udtrykket indeholdt et ugyldigt interval i Tuborg paranteser: '{' og '}'.</text>
+		<text id="regex.error.badrepeat" h="9091944F">Udtrykket indeholdt en gentager (*?+{) der ikke var indledt med et gyldigt regulært udtryk.</text>
+		<text id="regex.error.brace" h="3031B0A1">Udtrykket indeholdt ugyldige Tuborg paranteser: '{' og '}'.</text>
+		<text id="regex.error.brack" h="A41AB311">Udtrykket indeholdt ugyldige firkantparanteser: '[' og ']'</text>
+		<text id="regex.error.collate" h="D15FB49F">Udtrykket indeholdt et ugyldigt sorteringselement.</text>
+		<text id="regex.error.complexity" h="76ADCA5C">Komplexiteten for et forsøgt regex match, oversteg et forudbestemt niveau.</text>
+		<text id="regex.error.ctype" h="76D6C176">Udtrykket indeholdt en ugyldig karakterklasse.</text>
+		<text id="regex.error.default" h="509A660E">Fortolkning af regex fejlede.</text>
+		<text id="regex.error.escape" h="4BAF1552">Udtrykket indeholdt en ugyldig escapekarakter, eller en efterfølgende escape.</text>
+		<text id="regex.error.paren" h="11F2EE54">Udtrykket indeholdt ugyldige paranteser: '(' og ')'</text>
+		<text id="regex.error.range" h="CDB00023">Udtrykket indeholdt et ugyldigt tegninterval (f.eks.[z-a]).</text>
+		<text id="regex.error.space" h="2FFB9DD7">Der var ikke nok hukommelse til at behandle det regulære udtryk.</text>
+		<text id="regex.error.stack" h="2F47E3EC">Der var ikke nok hukommelse til at behandle det regulære udtryk.</text>
+		<text id="regex.error.syntax" h="4F399035">Syntaksfejl i et regulært udtryk.</text>
+		<text id="sb.ascending" h="59F2363F">Stigende</text>
+		<text id="sb.chb.ignoreCase" h="E0949C6C">Ignorer store/små bogstaver</text>
+		<text id="sb.chb.sortAll" h="7BB3E98C">Sortér alle niveauer</text>
+		<text id="sb.chb.sortChildren" h="B1087C90">Sortér underbogmærker</text>
+		<text id="sb.descending" h="74091246">Faldende</text>
+		<text id="sb.g.sortingMethod" h="93D0D863">Metoder</text>
+		<text id="sb.l.selectLevel" h="62FA8E9C">Vælg niveau:</text>
+		<text id="sb.l.sortType" h="85828DAE">Retning:</text>
+		<text id="sb.rb.sortAlpha" h="F9CD110C">Sortér alfabetisk</text>
+		<text id="sb.rb.sortByPage" h="EB2AF7E4">Sortér efter sidenumre</text>
+		<text id="test" h="A538F326">Teststreng</text>
+		<text id="tree.fontColor" h="210B1C91">Tekstfarve:</text>
+		<text id="tree.fontName" h="ACA86074">Skrifttype:</text>
+		<text id="tree.fontSize" h="B3CE43BA">Skriftstørrelse</text>
+		<text id="tree.fontTolerance" h="7781AAB6">Præcision:</text>
+		<text id="tree.level" h="9B075A86">Niveau:</text>
+		<text id="tree.textPattern" h="24121AD7">Mønster:</text>
+		<text id="tree.vb.bookmark" h="9926EC31">&lt;b&gt;%1. Bogmærke:&lt;/b&gt; "%2"</text>
+		<text id="ttoc.b.build" h="DE9A0F1C">Opret</text>
+		<text id="ttoc.b.changeNumber" h="DD04BEA8">Tilpas format...</text>
+		<text id="ttoc.b.changeTitle" h="3B951B9A">Tilpas titelformat...</text>
+		<text id="ttoc.chb.asLastPage" h="D323F9DD">Som sidste side</text>
+		<text id="ttoc.chb.end" h="9F41B967">Anvend alle niveauer</text>
+		<text id="ttoc.chb.skipInvalid" h="F864C487">Spring ugyldige bogmærker over</text>
+		<text id="ttoc.chb.useDifferentNumberFormatting" h="A39D9F18">Anvend tilpasset nummerformet</text>
+		<text id="ttoc.chb.useDifferentSeparatorFormatting" h="7D6F82B2">Anvend tilpassede separatorer</text>
+		<text id="ttoc.chb.useSizeFromDoc" h="79C19271">Bestem sidestørrelse fra dokument</text>
+		<text id="ttoc.g.pageNumbering" h="21AF4605">Sidenumre</text>
+		<text id="ttoc.g.pageSettings" h="D82087B4">Sideindstillinger</text>
+		<text id="ttoc.ib.numberFormat" h="D41C6CB8">&lt;b&gt;Nummerformat:&lt;/b&gt; &lt;i&gt;Skrifttype:&lt;/i&gt; %1, &lt;i&gt;Størrelse:&lt;/i&gt; %2 pkt, &lt;i&gt;Farve:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.ib.separatorFormat" h="14A80F28">&lt;b&gt;Separatorformat:&lt;/b&gt; &lt;i&gt;Skrifttype:&lt;/i&gt; %1, &lt;i&gt;Størrelse:&lt;/i&gt; %2 pkt, &lt;i&gt;Farve:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.ib.titleFormat" h="4A9C0388">&lt;b&gt;Titelformat:&lt;/b&gt; &lt;i&gt;Skrifttype:&lt;/i&gt; %1, &lt;i&gt;Størrelse:&lt;/i&gt; %2 pkt, &lt;i&gt;Farve:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.l.end" h="43FA653A">Sidste inkluderede bogmærke:</text>
+		<text id="ttoc.l.insertAsPage" h="B68AF5B1">Indsæt før side:</text>
+		<text id="ttoc.l.outputPagesAs" h="96E6A50A">Resultatets sidenumre som:</text>
+		<text id="ttoc.l.pageMargins" h="DA4D6B15">Margener:</text>
+		<text id="ttoc.l.start" h="B03149CB">Første inkluderede bogmærke:</text>
+		<text id="ttoc.l.title" h="930D3835">Titel:</text>
+		<text id="ttoc.l.titleFormatting" h="21C775EE">Opdatér titelformatering:</text>
+		<text id="ttoc.output.bates" h="ECE56FA9">Serienumre (hvis muligt)</text>
+		<text id="ttoc.output.labels" h="EAE579C1">Sideetiketter</text>
+		<text id="ttoc.output.numbers" h="38E0043C">Originale sidenumre</text>
+		<text id="ttoc.style.dots" h="C13D9439">Kapitel........1</text>
+		<text id="ttoc.style.spaces" h="D9E4F5A0">Kapitel        1</text>
+		<text id="ttoc.style.underline" h="B52B746A">Kapitel_____1</text>
+		<text id="ttoc.tableOfContents" h="080B4CC0">Indholdsfortegnelse</text>
+		<text id="undefinedFont" h="06D72DED">Ukendt skrift (%1)</text>
+		<text id="vb.invalidALWarining" h="6B3E67E5">Ændringerne blev elimineret p.g.a. en ugyldig handlingsliste. Efterlad mindst en handling!</text>
+		<text id="vb.l.invalidBookmarks" h="EE502FFE">%1 ugyldige bogmærke(r) fundet</text>
+		<text id="rtab" h="7CDCE9BE">Bogmærker </text>
+		<text id="rbar.create" h="EDCA1553">Opret</text>
+		<text id="rbar.modify" h="EA358CAF">Tilpas</text>
+		<text id="rbar.convert" h="EFAC3874">Konvertér</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117213644">2.00.00</Version>
+	<Author>Alfonso Seoage</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Galician (Galician)" lName="Galego" code="gl-ES" R2L="false"/>
+	<Module name="MarkdownPlugin" namespace="md" version="6.0.322.7"/>
+	<Strings>
+		<text id="btn.md.submenu" h="89D1502A">Desde &amp;Markdown</text>
+		<text id="cmd.tip" h="117085B4">Crea un documento novo a partir de arquivo(s) Markdown.</text>
+		<text id="converter.desc" h="41356938">Converte arquivos Markdown</text>
+		<text id="converter.filterName" h="AE86B691">Arquivos Markdown</text>
+		<text id="converter.name" h="AE86B691">Arquivos Markdown</text>
+		<text id="converting.progress.text" h="4DD2C8CD">Está a converterse o arquivo:</text>
+		<text id="grb.style" h="1FF454A3">Estilo de texto</text>
+		<text id="msg.error" h="51BFF51D">Erro</text>
+		<text id="msg.file.empty" h="8F9B5982">O arquivo está en baleiro.</text>
+		<text id="opt.all.files" h="C68ACE05">Todos os arquivos</text>
+		<text id="opt.btn.clear.style" h="8932B6EE">Volve ao estilo CSS predeterminado</text>
+		<text id="opt.create.style" h="EDCA1553">Crear</text>
+		<text id="opt.file" h="45B5DF3A">Arquivo</text>
+		<text id="opt.margins.fixed" h="6103695E">As marxes son excesivos e corrixiranse automaticamente.</text>
+		<text id="opt.none" h="F9398D7D">Ningún</text>
+		<text id="opt.style" h="5CEA121A">Estilo:</text>
+		<text id="opt.test.title" h="44732FAA">Proba</text>
+		<text id="opt.title" h="45D26671">Opcións de conversión desde Markdown a PDF</text>
+		<text id="opt.unavailable" h="5669C949">non está dispoñible</text>
+		<text id="prefs.name" h="07E67B98">De Markdown a PDF</text>
+		<text id="prefs.title" h="45D26671">Opcións de conversión desde Markdown a PDF</text>
+		<text id="prop.list.extension" h="14FEB836">Extensión</text>
+		<text id="prop.list.location" h="BB241F45">Localizacións</text>
+		<text id="prop.list.modified" h="30325672">Modificado</text>
+		<text id="prop.list.size" h="17A58A52">Tamaño</text>
+		<text id="prop.list.title" h="796DFAD3">Título</text>
+		<text id="prop.source" h="AE86B691">Arquivos Markdown</text>
+		<text id="prop.source.file" h="F3110572">Elixa arquivos Markdown</text>
+		<text id="prop.source.file.unavailable" h="AE2771B8">O arquivo de estilo non está dispoñible</text>
+		<text id="prop.source.folder" h="8477FBD3">Elixa o arquivo con Markdown</text>
+		<text id="prop.source.subfolder" h="F053B635">Mirar en subcartafoles</text>
+		<text id="prop.source.txt" h="0B465380">Arquivos de texto</text>
+		<text id="prop.window.name" h="6E4F5CCE">Conversión de Markdown a PDF</text>
+		<text id="style.edit.default" h="600F2F18">Usar o estilo predeterminado</text>
+		<text id="style.files.title" h="26E23587">Arquivos CSS</text>
+		<text id="style.folder.name" h="2F5ECDDE">Estilos Markdown</text>
+		<text id="style.save.title" h="2E270E87">Garda o estilo</text>
+		<text id="style.select.file" h="37C34A80">Elixa un arquivo de estilo</text>
+	</Strings>
+</Localization>

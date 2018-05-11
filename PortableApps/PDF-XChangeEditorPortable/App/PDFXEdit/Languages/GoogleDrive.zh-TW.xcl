@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220820">2.00.00</Version>
+	<Author>Andy Chen</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Chinese (Traditional, Taiwan)" lName="中文(繁體)" code="zh-TW" R2L="true"/>
+	<Module name="GoogleDrivePlugin" namespace="gd" version="6.0.322.7"/>
+	<Strings>
+		<text id="DlgOpenFile" h="B98AB29D">從 Google 雲端硬碟開啟檔案</text>
+		<text id="DlgSaveFile" h="81F99046">儲存檔案到 Google 雲端硬碟</text>
+		<text id="GDPlugin" h="32B7E3E0">Google 雲端硬碟插件</text>
+		<text id="btn.connectToAnother" h="508BDBC5">切換帳號...</text>
+		<text id="cmd.cmdsCategory" h="AD23B285">Google 雲端硬碟</text>
+		<text id="cmd.googledrive" h="1D28DF85">Google 雲端硬碟(&amp;G)</text>
+		<text id="cmd.open" h="F32ECED5">Google 雲端硬碟(&amp;G)...</text>
+		<text id="cmd.open.tip" h="933837A2">從 Google 雲端硬碟開啟文件</text>
+		<text id="cmd.save" h="F32ECED5">Google 雲端硬碟(&amp;G)...</text>
+		<text id="cmd.save.tip" h="948C3269">儲存現用文件到 Google 雲端硬碟</text>
+		<text id="cpt.fileNotFound" h="A7F5FA7A">找不到檔案</text>
+		<text id="cpt.invalidFileName" h="79C1387C">檔案名無效</text>
+		<text id="cpt.navigateError" h="3D300A1C">無法導航</text>
+		<text id="cpt.saveReplace" h="520CB069">儲存檔案</text>
+		<text id="cpt.selectFile" h="C55D68B0">選取檔案</text>
+		<text id="dlg.googleAuth" h="E5642F22">登入 Google 雲端硬碟</text>
+		<text id="fileName" h="DEC92488">檔案名稱:</text>
+		<text id="lb.CurrentFolder" h="44158804">現用資料夾:</text>
+		<text id="lb.Test" h="273F3E5B">測試 測試 測試！</text>
+		<text id="lb.googleAccName" h="C94645A3">Google 帳號:</text>
+		<text id="msg.fileNotFound" h="430E08B1">現用資料夾下找不到檔案 「%1」</text>
+		<text id="msg.invalidFileName" h="7C0655B5">"%1" 是無效的檔案名.</text>
+		<text id="msg.navigateError" h="2FCAA72A">無法導航到 Google 雲端硬碟資源。請檢查您的互聯網連線和訪問請求的 Google 雲端硬碟資源的權限。</text>
+		<text id="msg.openFailed" h="AC94D960">無法開啟檔案。請確保檔案存在，未被其他用戶簽出並且你有讀取權限。</text>
+		<text id="msg.saveFailed" h="4D413392">無法儲存檔案。請確保檔案名有效並且你有寫入權限。</text>
+		<text id="msg.saveReplace" h="5D56833E">檔案 「%1」 已存在。你是否要置換它？</text>
+		<text id="msg.selectFile" h="2530C20F">請選取檔案，然後點擊確定</text>
+		<text id="ls.column.created" h="FE6510B7">建立日期</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">建立檔案、資料夾、清單的日期和時間</text>
+		<text id="ls.column.extension" h="14FEB836">副檔名</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">檔案副檔名</text>
+		<text id="ls.column.modified" h="7E234D6D">修改日期</text>
+		<text id="ls.column.modified.hint" h="12933E76">最後修改檔案、資料夾、清單的日期和時間</text>
+		<text id="ls.column.size" h="17A58A52">大小</text>
+		<text id="ls.column.size.hint" h="9C4BD847">檔案大小</text>
+		<text id="ls.column.title" h="D18643E3">名稱</text>
+		<text id="ls.column.title.hint" h="6A895576">檔案、資料夾名或清單標題</text>
+		<text id="virtualfolder.mydrive" h="84C2D3A6">我的雲端硬碟</text>
+		<text id="virtualfolder.sharedwithme" h="8B65307E">與我共享</text>
+		<text id="cpt.unableToSaveToVirtualFolder" h="778EF99A">無法儲存檔案到資料夾</text>
+		<text id="msg.unableToSaveToVirtualFolder" h="A6644426">無法將檔案儲存到選取的位置。請選取 "我的雲端硬碟" 資料夾，它的一個子資料夾或是 "與我共享" 的子資料夾來儲存檔案.</text>
+	</Strings>
+</Localization>

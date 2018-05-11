@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20170425233727">2.00.00</Version>
+	<Author>Michael Dodl</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="German (Germany)" lName="Deutsch" code="de-DE" R2L="false"/>
+	<Module name="OCRPlugin" namespace="ocr" version="6.0.322.0"/>
+	<Strings>
+		<text id="OrientationDetection" h="40F7AA0E">Ausrichtung automatisch bestimmen</text>
+		<text id="accuracy.high" h="21A95620">Hoch</text>
+		<text id="accuracy.low" h="845E3D8C">Niedrig</text>
+		<text id="accuracy.medium" h="91153342">Mittel</text>
+		<text id="cb.cuenoany" h="899F9872">Keine installiert</text>
+		<text id="cmd.name" h="6DAA8A17">Texterkennung auf Seiten...</text>
+		<text id="l.accuracy" h="3B2028D8">&amp;Genauigkeit:</text>
+		<text id="l.language" h="7B707020">&amp;Sprache:</text>
+		<text id="lnk.more" h="2E2CCD84">&lt;a=1&gt;Mehr Sprachen...&lt;/a&gt;</text>
+		<text id="prefs.title" h="D0975E29">OCR-Einstellungen</text>
+	</Strings>
+</Localization>

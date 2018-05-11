@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123215742">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Russian (Russia)" lName="Русский" code="ru-RU" R2L="false"/>
+	<Module name="FileOpenSH" namespace="fopw" version="7.0.323.3"/>
+	<Strings>
+		<text id="secure.printer.title" h="448D1D7F">Этот принтер не разрешен.</text>
+		<text id="secure.printer.text" h="7488F002">Этот принтер не разрешен для защищенной печати. Выберите, пожалуйста, другой принтер и начните печать снова.</text>
+	</Strings>
+</Localization>

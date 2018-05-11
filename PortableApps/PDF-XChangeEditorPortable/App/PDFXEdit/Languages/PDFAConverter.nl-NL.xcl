@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20170426011253">2.00.00</Version>
+	<Author>pdf.xchange.translate@gmail.com</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Dutch (Netherlands)" lName="Nederlands" code="nl-NL" R2L="false"/>
+	<Module name="PDFAConverter" namespace="pdfa" version="6.0.322.0"/>
+	<Strings>
+		<text id="auto.pdfa.level" h="FF103EFE">Automatische PDF/A overeenstemming</text>
+		<text id="conv.name" h="7A00CE23">PDF/A (*.pdf)</text>
+		<text id="dlg.opt.autopdfa.info" h="C447FB84">Laat PDF-editor zelf kiezen om het meest geschikte niveau van overeenkomst om het document op te slaan.</text>
+		<text id="dlg.opt.cb.correction" h="966C50DF">Correcties toepassen</text>
+		<text id="dlg.opt.g1.title" h="E2E36D8A">Overeenstemming</text>
+		<text id="dlg.opt.g2.title" h="8FB1A988">Kleurprofiel</text>
+		<text id="dlg.opt.g3.title" h="8AD54EB1">Correcties</text>
+		<text id="dlg.opt.label.auto" h="FF103EFE">Automatische PDF/A overeenstemming</text>
+		<text id="dlg.opt.label1" h="64F6A34C">Kies overeenstemming:</text>
+		<text id="dlg.opt.label2" h="62138C1D">Kies &amp;profiel:</text>
+		<text id="dlg.opt.title" h="86709E15">Converteren naar PDF/A</text>
+		<text id="dlg.rep.errors" h="EC9E93B4">Foutmeldingen (%1):</text>
+		<text id="dlg.rep.fixes" h="594F7931">Reparaties (%1):</text>
+		<text id="dlg.rep.title" h="05F8973F">Conversie rapport</text>
+		<text id="dlg.rep.warnings" h="6F8DAB37">Waarschuwingen (%1):</text>
+		<text id="msg.err.alternate_presenatations" h="19A17FF2">Document bevat alternatieve presentaties</text>
+		<text id="msg.err.embed_file_missing_key" h="B12243CC">Ingesloten bestand: sleutel %1 ontbreekt</text>
+		<text id="msg.err.embed_file_no_AF" h="8AFF5E80">Ingesloten bestand heeft geen AF toegang</text>
+		<text id="msg.err.embed_file_no_AFRelationship" h="40AF7AB1">Ingesloten bestand heeft geen AF-relatie toegang</text>
+		<text id="msg.err.embed_file_no_MIME_type" h="B23BB7AE">Ingesloten bestand heeft geen vermelding voor MIME-type</text>
+		<text id="msg.err.embed_file_no_ModDate" h="A584D355">Ingesloten bestand heeft geen ModDate vermelding in parameter woordenboek</text>
+		<text id="msg.err.embed_file_not_PDF" h="D261C134">Sommige van ingesloten bestanden zijn geen PDF-bestanden</text>
+		<text id="msg.err.embed_file_not_PDFA_compliance" h="69851F66">Ten minste één ingesloten PDF-document is niet PDF/A compatibel</text>
+		<text id="msg.err.font" h="E728DE31">Lettertype %1 is niet geldig: %2</text>
+		<text id="msg.err.halftone_has_name" h="044A925B">Geavanceerde grafische conditie: Halftoon heeft een Halftoonnaam</text>
+		<text id="msg.err.image_bpc_more" h="63802D36">Afbeelding bits per componenten is meer dan %1</text>
+		<text id="msg.err.impl_limit_obj_size_more" h="3A9756F7">grootte object %1 is meer dan %2</text>
+		<text id="msg.err.impl_limit_pagebox_less" h="39206E0E">Implementatie grenzen: grootte van %1 minder dan 3 eenheden</text>
+		<text id="msg.err.impl_limit_pagebox_more" h="7793CF00">Implementatie grenzen: grootte van %1 meer dan 14.400 eenheden</text>
+		<text id="msg.err.impl_limit_val_out_range" h="0778EBD3">waarde %1 is buiten bereik</text>
+		<text id="msg.err.incomp_docinfo_metadata" h="4CE13608"> foutieve aanpassing %1 tussen document info en Metadata</text>
+		<text id="msg.err.incomp_ge_cs_with_outintent" h="A7DB0264">Kleur %2 voor de gewenste uitvoer is %1</text>
+		<text id="msg.err.incomp_image_cs_with_outintent" h="FA83CF54">Afbeelding %2 voor de gewenste uitvoer is %1</text>
+		<text id="msg.err.incomp_shading_cs_with_outintent" h="6CEF543E">Arcering %2 voor de gewenste uitvoer is %1</text>
+		<text id="msg.err.invalid.xform" h="735966B8">Document bevat ongeldig XForm</text>
+		<text id="msg.err.keys_not_UR3_DocMDP" h="EBD832B7">Andere dan UR3 en DocMDP toetsen worden gebruikt in de toestemmingen</text>
+		<text id="msg.err.metadata_missing" h="52FA2A56">Metadata is leeg</text>
+		<text id="msg.err.obj_validator_name_not_UTF8" h="FB949014">De naam is geen geldige UTF-8-tekenreeks</text>
+		<text id="msg.err.preliminary.modify" h="413E0B86">Wijziging van het document is verboden</text>
+		<text id="msg.err.preliminary.secured" h="1CA464FB">Het document is beveiligd</text>
+		<text id="msg.err.preliminary.xfa" h="1B4F1FD1">Het document bevat XFA formulieren. Kan niet opslaan naar PDF/A standaard</text>
+		<text id="msg.err.pressteps" h="74AC0960">Pagine heeft PresSteps</text>
+		<text id="msg.err.st_root_elem_type_not_standard" h="F26BDE8C">PDF structuur; element gebruikt geen standaard type</text>
+		<text id="msg.err.st_root_missing" h="5579E540">Structuur stamboom ontbreekt</text>
+		<text id="msg.err.substitute_filter" h="50898016">%1 is vervangen door %2</text>
+		<text id="msg.err.subtype_xform_missing" h="E297FD31">Subtype ontbreekt in XForm</text>
+		<text id="msg.err.tagging_structure" h="025A02E3">Structuur labelen</text>
+		<text id="msg.err.used_egs_key" h="8964F17F">Geavanceerde grafische conditie: %1%2%3 is gebruikt</text>
+		<text id="msg.err.used_embedded_files" h="5D7BA79C">Ingesloten bestanden worden gebruikt in het document</text>
+		<text id="msg.err.used_ext_stream" h="7B302079">Externe stream is gebruikt</text>
+		<text id="msg.err.used_fiter" h="C350A2BE">filter %1 is gebruikte</text>
+		<text id="msg.err.used_fiter_invalid" h="2604E73C">Het document gebruikte een onbekend type compressie</text>
+		<text id="msg.err.used_jpeg2000" h="52FB4580">JPEG2000 compressie is gebruikt</text>
+		<text id="msg.err.used_key" h="48336238">sleutel %1 is gebruikt</text>
+		<text id="msg.err.used_obj_transparency" h="A7E6E8BD">Object gebruikt transparantie: %1</text>
+		<text id="msg.err.used_scale_factor" h="341357C0">Schaalfactor is gebruikt</text>
+		<text id="msg.fix.added_mark_info" h="A14BC073">Marknfo toegevoegd aan document catalogus</text>
+		<text id="msg.fix.annot" h="5056B1BD">Voorbereiden aantekening naar PDF/A standaard</text>
+		<text id="msg.fix.append.data" h="C09E2EE2">Repareer onvoldoende gegevens in afbeelding</text>
+		<text id="msg.fix.blendingCS" h="C69A9AF9">Vaste kleurruimte mengen</text>
+		<text id="msg.fix.convert_ge_to" h="0F8BC341">Kleurruimte grafisch element is omgezet naar %1</text>
+		<text id="msg.fix.convert_image_to" h="4C6135BC">Kleurruimte van afbeelding is omgezet naar %1</text>
+		<text id="msg.fix.convert_shading_to" h="62CBFA3C">Schaduw kleurruimte omgezet naar %1</text>
+		<text id="msg.fix.create_metadata" h="D90DAD7D">Metadata is gemaakt</text>
+		<text id="msg.fix.create_res_dict" h="FCE6D2B1">Hulpbron woordenboek werd toegevoegd aan pagina</text>
+		<text id="msg.fix.create_st_root" h="C9038B9E">Structuur stamboom is gemaakt</text>
+		<text id="msg.fix.discard_action_annotation" h="494AD767">Verwerp actie foutaanpassing van aantekening</text>
+		<text id="msg.fix.discard_action_catalog" h="83A75397">Verwerp actie foutaanpassing van catalogus</text>
+		<text id="msg.fix.discard_action_document" h="B676D55F">Verwerp actie foutaanpassing van document</text>
+		<text id="msg.fix.discard_action_outlines" h="8DDE59BB">Verwerp actie foutaanpassing van omtrekken</text>
+		<text id="msg.fix.embed_ext_stream" h="048B6358">Externe stream is ingesloten</text>
+		<text id="msg.fix.embed_file_fixed" h="31D72A99">Ingesloten PDF-document werd omgezet naar PDF/A standaard</text>
+		<text id="msg.fix.embed_file_set_AF" h="9ED2BA67">Ingesloten bestand: maak bijbehorende sleutel in AF invoer</text>
+		<text id="msg.fix.embed_file_set_MIME" h="3EF87FF1">Ingesloten bestand: MIME-type is ingesteld</text>
+		<text id="msg.fix.embed_file_set_ModDate" h="BA267B98">Ingesloten bestand: Wijziging datum werd vastgesteld op woordenboek parameter</text>
+		<text id="msg.fix.embed_file_set_key_to" h="BC68FC0B">Ingesloten bestand: sleutel %1 is ingesteld op %2 </text>
+		<text id="msg.fix.flatten_opt_contents" h="6B973C9C">Afgevlakte optionele inhoud</text>
+		<text id="msg.fix.flatten_transparency" h="1A34D6C7">Afgeplatte transparantie</text>
+		<text id="msg.fix.font" h="D72B5D39">Lettertype %1 is gerepareerd: %2</text>
+		<text id="msg.fix.font_rasterized" h="F886ED6D">Tekst object van lettertype %1 is gerasterd</text>
+		<text id="msg.fix.pages.root" h="E42A835E">Pagina bron gerepareerd</text>
+		<text id="msg.fix.rasterize.invalid.form" h="D899922D">Ongeldig formulier is gerasterd</text>
+		<text id="msg.fix.recompress_image_to_target_BPC" h="FF073DE9">afbeelding comprimeren tot %1 bits per componenten</text>
+		<text id="msg.fix.recompress_jpeg2000" h="99C21C1F">JPEG 2000 comprimeren</text>
+		<text id="msg.fix.remove.alternate_presentations" h="504508D7">Alternatieve presentaties verwijderd van document</text>
+		<text id="msg.fix.remove_JS" h="60C345B8">JavaScripts verwijderd</text>
+		<text id="msg.fix.remove_TR" h="0F9F4216">Overdrachtcurve wordt verwijderd</text>
+		<text id="msg.fix.remove_annot" h="034BF2CE">Verwijder verboden aantekening</text>
+		<text id="msg.fix.remove_annot_invalid" h="F94382C8">Verwijder ongeldige object uit aantekeningreeks</text>
+		<text id="msg.fix.remove_egs_key" h="C443AC00">Geavanceerde grafische conditie: sleutel %1 is verwijdert</text>
+		<text id="msg.fix.remove_element_with_zero_cm" h="A33839BA">Verwijder element met nul transformatiematrix</text>
+		<text id="msg.fix.remove_embedded_files" h="01ED20A2">Verwijder eventuele ingebedde bestanden in het PDF-document, zoals vereist door de PDF/A</text>
+		<text id="msg.fix.remove_ext_stream" h="AFDE8AD8">Externe stream is verwijdert</text>
+		<text id="msg.fix.remove_interpolate" h="F32EB202">Interpolatie sleutel werd verwijderd uit afbeelding</text>
+		<text id="msg.fix.remove_key" h="4413CC72">%1 is verwijdert</text>
+		<text id="msg.fix.remove_scale_factor" h="143311F1">Schaalfactor is verwijderd</text>
+		<text id="msg.fix.remove_transparency" h="7E5AEEAE">Transparantie verwijderd</text>
+		<text id="msg.fix.set_PDFA_version_conformance" h="AB0F972F">Instellen van PDF/A-versie en conformiteit</text>
+		<text id="msg.fix.set_egs_key_to" h="63221188">Geavanceerde grafische conditie: sleutel %1 is ingesteld op%2</text>
+		<text id="msg.fix.set_image_intent_to_rc_metric" h="8FA7BAE8">Opzet afbeelding is ingesteld op RelativeColorimetric</text>
+		<text id="msg.fix.set_op_mode_to_0" h="5F8AB92B">Overdruk-modus werd ingesteld op 0 voor 4-component ICCBased kleurruimte</text>
+		<text id="msg.fix.set_page_size_to_pdfa" h="196F4E85">Stel de grootte van %1 tot grenzen uitvoering van PDF/A</text>
+		<text id="msg.fix.synch_docinfo_metadata" h="BF00D7E3">onderdeel %1 is gesynchroniseerd tussen document info en XMP Metadata</text>
+		<text id="msg.param.PSForm" h="33125BC8">Postscript vorm</text>
+		<text id="msg.param.cs_based_on" h="FFE0AF7F">gebaseerd op</text>
+		<text id="msg.param.cs_with_alternate" h="B031D3C5">afwisselend</text>
+		<text id="msg.param.font_CIDToGID_name_not_Identity" h="D25E4547">CIDToGIDMap wordt genoemd, maar heeft geen identiteit</text>
+		<text id="msg.param.font_convert_opentype" h="079FAAF6">OpenType-lettertypen werd omgezet</text>
+		<text id="msg.param.font_create_CIDSet" h="B8A4E169">Maak CIDset invoer naar corresponderende PDF/A standaard</text>
+		<text id="msg.param.font_create_CIDToGID" h="E1B68352">Maak CIDToGIDMap invoer overeenkomstige PDF/A standaard in TrueType (CID) lettertype</text>
+		<text id="msg.param.font_create_charset" h="9936EE1E">Maak tekenset invoer naar corresponderende PDF/A standaard</text>
+		<text id="msg.param.font_embed" h="9A6990DE">insluiten lettertype-bestand</text>
+		<text id="msg.param.font_fix_lenghts" h="298EC697">Repareer lengte1, lengte2 en lengte in object lettertypebestand</text>
+		<text id="msg.param.font_fix_width" h="034ED3BC">Corrigeren breedte symbool</text>
+		<text id="msg.param.font_incomp_CIDSet" h="D4F36CC7">CIDset is incompleet in deelverzameling CID letetrtype</text>
+		<text id="msg.param.font_incomp_charset" h="DFFF9082">onvolledige charset in deelverzameling lettertype</text>
+		<text id="msg.param.font_incomp_width" h="AAD233DC">breedte informatie symbolen zijn niet consistent</text>
+		<text id="msg.param.font_incons_ordering" h="85409AB5">Bestellen vermelding in CIDSystemlnfo niet compatibel met bijbehorende vermelding in CMap</text>
+		<text id="msg.param.font_incons_registry" h="B78E6D80">Registervermelding in CIDSystemlnfo niet compatibel met bijbehorende vermelding in CMap</text>
+		<text id="msg.param.font_incons_supplement" h="E36DF08C">Supplement vermelding in CIDSystemlnfo niet compatibel met bijbehorende vermelding in CMap</text>
+		<text id="msg.param.font_insert_CIDSet" h="D5E3BAEB">invoegen invoer CIDSet</text>
+		<text id="msg.param.font_insert_charset" h="8F852948">invoegen invoer tekenset</text>
+		<text id="msg.param.font_invalid_Unicode" h="DC6A7C4D">Lettertype heeft een Unicode map met ongeldige waarden</text>
+		<text id="msg.param.font_invalid_fontname" h="71C51772">naam van lettertype is geen geldige UTF-8 tekenreeks</text>
+		<text id="msg.param.font_invalid_lenghts" h="1D3DC2E0">lettertype heeft ongeldige lengte1, lengte2 en (of) vermeldingen lengte3 in object lettertypebestand</text>
+		<text id="msg.param.font_license_error" h="4B95C372">vlag lettertype licentie verbiedt insluiten</text>
+		<text id="msg.param.font_missing_CIDSet" h="C5865B8F">CIDset ontbreekt</text>
+		<text id="msg.param.font_missing_CIDToGID" h="B068A3D4">CIDToGIDMap ontbreken in TrueType (CID) lettertype</text>
+		<text id="msg.param.font_missing_charset" h="AA8CF2AF">karakterset ontbreekt</text>
+		<text id="msg.param.font_missing_glyph" h="48D3F8B3">glyph (teken) ontbreekt in ingesloten lettertype</text>
+		<text id="msg.param.font_not_map_Unicode" h="6C4EAF86">tekst kan niet worden toegewezen aan Unicode</text>
+		<text id="msg.param.font_refer_notdef" h="8A352025">Characters verwijzen naar .notdef symbool</text>
+		<text id="msg.param.font_remove_diff_from_tt" h="989AD5E2">Verschillen zijn verwijderd uit TrueType-lettertype</text>
+		<text id="msg.param.font_tt_nonsymb_has_diff" h="15A5E12C">nonsymbolic true lettertype heeft verschillen</text>
+		<text id="msg.param.font_tt_nonsymb_has_diff_names_not_from_AGL" h="3C710F75">TrueType font omvat verschillen in symbool namen, die niet zijn opgenomen in het pictogram lijst Adobe</text>
+		<text id="msg.param.font_tt_nonsymb_has_diff_not_enc31" h="596A57F1">Niet-symbolische TrueType-lettertype bevat verschillen, maar bevat geen Microsoft Unicode (3.1) codering</text>
+		<text id="msg.param.font_tt_nonsymb_wrong_enc" h="A3CC05FE">verkeerde codering voor nonsymbolic true type lettertype</text>
+		<text id="msg.param.font_tt_symb_enc_prohibit" h="567F543A">codering van invoer wordt verboden voor symbolische TrueType lettertype</text>
+		<text id="msg.param.font_tt_symb_more_one_enc" h="5C1A2311">meer dan één codering in true type symbolisch lettertype</text>
+		<text id="msg.param.font_tt_symb_more_one_enc_not_enc30" h="3E42D77A">meer dan één codering in true type symbolische lettertype en geen Microsoft Symbol (3.0) codering</text>
+		<text id="msg.param.font_unembed" h="D58DB454">lettertype is niet ingesloten</text>
+		<text id="msg.param.font_unembed_CMap" h="9A7C00A5">CMap niet ingesloten bij aangepaste CMap</text>
+		<text id="msg.param.font_unknown_enc" h="41169097">codering object dat lettertype beschrijft, is onbekend</text>
+		<text id="msg.param.font_used_opentype" h="3293DA7B">opentypefont gebruikt</text>
+		<text id="msg.param.font_was_converted" h="F6A778E4">lettertype %1 is geconverteerd naar lettertype %2</text>
+		<text id="msg.param.transparent_bm" h="F48139D3">mixed modus is niet "Normaal" of "Compatibel"</text>
+		<text id="msg.param.transparent_cafill" h="0422F119">alpha-vulling is kleiner dan 1,0</text>
+		<text id="msg.param.transparent_castroke" h="4AE94E2B">alpha lijn is minder dan 1,0</text>
+		<text id="msg.param.transparent_smask" h="FB9037E9">soft maskering is niet makkelijk</text>
+		<text id="msg.param.transparent_smask_image" h="5D8093D1">het beeld bevat een zacht masker met een andere dan "Geen" value</text>
+		<text id="msg.param.transparent_trgroup" h="60E2ACCB">transparantie groep wordt gebruikt</text>
+		<text id="msg.warn.annot.is.RGB" h="BBEA0231">Aantekening maakt gebruik van RGB-kleuren, terwijl de gewenste uitvoer niet RGB is. Waarde van PDF/A wordt verhoogd tot 2</text>
+		<text id="msg.warn.doc_has_embeddedfiles" h="E84C59BF">Document bevat ingesloten bestanden. Waarde van PDF/A wordt verhoogd tot 2</text>
+		<text id="msg.warn.doc_has_layers" h="83853EB9">Document bevat lagen. Waarde van PDF/A wordt verhoogd tot 2</text>
+		<text id="msg.warn.doc_has_notpdf" h="A4A335D0">Document bevat ingesloten bestanden die geen PDF-documenten zijn. Waarde van PDF/A wordt verhoogd tot 3</text>
+		<text id="msg.warn.doc_has_transparent" h="7DA0DFA8">Het document bevat transparante objecten. De waarde voor het PDF/A-gedeelte wordt verhoogd tot 2</text>
+		<text id="msg.warn.doc_not_marked" h="C9BEF804">Het document is niet gemarkeerd. Het overeenstemming-niveau is verlaagd tot B</text>
+		<text id="msg.warn.font_not_map_Unicode" h="E326DC30">De tekst kan niet worden toegewezen aan Unicode. Conformiteit niveau is teruggebracht tot B</text>
+		<text id="msg.warn.st_root_elem_type_not_standard" h="D150764F">PDF structuur; element gebruikt geen standaard type. Overeenstemmingsniveau is teruggebracht tot B</text>
+		<text id="opt.report" h="2D42B915">Rapport optie</text>
+		<text id="opt.showreport" h="AA4A3F31">Weergeven rapport:</text>
+		<text id="report.noshow" h="CE659F1F">Nooit weergeven</text>
+		<text id="report.show.always" h="E69A07D6">Altijd weergeven</text>
+		<text id="report.show.errwarn" h="4A9C5823">Weergeven bij foutmelding of waarschuwing</text>
+		<text id="status.proc.converting" h="9CE2B7EC">Converteren document naar PDF/A</text>
+		<text id="status.proc.saving" h="3D2A3BDC">Opslaan document</text>
+		<text id="status.res.fail" h="6161C41F">Conversie is mislukt</text>
+		<text id="status.res.success" h="9F1280CB">Conversie is geslaagd</text>
+	</Strings>
+</Localization>

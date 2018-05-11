@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171116223014">2.00.00</Version>
+	<Author>Michael Dodl</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="German (Germany)" lName="Deutsch" code="de-DE" R2L="false"/>
+	<Module name="PDFConverter" namespace="pdfconv" version="6.0.322.7"/>
+	<Strings>
+		<text id="DT" h="68CCD7A1">Dezimal- und Tausendertrennzeichen:</text>
+		<text id="Decimal" h="97B538F3">Dezimaltrennzeichen:</text>
+		<text id="Fonts" h="09BC9E47">Schrift:</text>
+		<text id="NoPermission" h="F6BEA48A">Dieses Dokument ist geschützt. Sie haben nicht genügend Rechte um es umzuwandeln.</text>
+		<text id="cmd.name.P" h="FE79EAE9">In Microsoft PowerPoint-Präsentation exportieren...</text>
+		<text id="cmd.name.Sel.P" h="10B9EA70">Auswahl in Microsoft PowerPoint-Präsentation exportieren...</text>
+		<text id="cmd.name.Sel.W" h="F60B7012">Auswahl in Microsoft Word-Dokument exportieren...</text>
+		<text id="cmd.name.Sel.X" h="53447190">Auswahl in Microsoft Excel-Tabelle exportieren...</text>
+		<text id="cmd.name.W" h="36A68CE1">In Microsoft Word-Dokument exportieren...</text>
+		<text id="cmd.name.X" h="5F515377">In Microsoft Excel-Tabelle exportieren...</text>
+		<text id="cmd.nameShort.P" h="C4DB7FDB">Zu MS PowerPoint...</text>
+		<text id="cmd.nameShort.W" h="23467A9D">Zu MS Word...</text>
+		<text id="cmd.nameShort.X" h="4FDED68C">Zu MS Excel</text>
+		<text id="cmd.nameTip.P" h="5DF5F44C">Exportiert das aktive Dokument in eine Microsoft PowerPoint-Präsentation...</text>
+		<text id="cmd.nameTip.Sel.P" h="547499FA">Exportiert die Auswahl in eine Microsoft PowerPoint-Präsentation...</text>
+		<text id="cmd.nameTip.Sel.W" h="9526C3A8">Exportiert die Auswahl in eine Microsoft Word-Dokument...</text>
+		<text id="cmd.nameTip.Sel.X" h="9DBFD9AB">Exportiert die Auswahl in eine Microsoft Excel-Tabelle...</text>
+		<text id="cmd.nameTip.W" h="08C70E7C">Das aktive Dokument in eine Microsoft Word-Dokument exportieren...</text>
+		<text id="cmd.nameTip.X" h="71C65F22">Das aktive Dokument in eine Microsoft Excel-Tabelle exportieren...</text>
+		<text id="convertation" h="B1E1828B">PDF-Dokument wird umgewandelt</text>
+		<text id="convertation.DecimalError" h="AB9CA906">Ungültiges Dezimaltrennzeichen</text>
+		<text id="convertation.DecimalThousandsError" h="9002FE5E">Dezimal- und Tausendertrennzeichen müssen unterschiedlich sein</text>
+		<text id="convertation.Error1" h="388D83B4">Ein kritischer Fehler ist bei der Umwandlung des Dokuments aufgetreten:</text>
+		<text id="convertation.Error2" h="A394ADBC">Das Ergebnis kann nicht gespeichert werden.</text>
+		<text id="convertation.ThousandsError" h="1660BD37">Ungültiges Tausendertrennzeichen</text>
+		<text id="dpi" h="B39AC2C1">dpi</text>
+		<text id="elseUseRegional" h="8F1D3748">* sonst werden die lokalen Spracheinstellungen verwendet</text>
+		<text id="excel.filter" h="D766664D">MS Excel-Tabelle</text>
+		<text id="newRowRul" h="4CD45F3D">Neue Zeile in der Tabelle nutzen pro:</text>
+		<text id="options" h="DAD7B4F4">Einstellungen</text>
+		<text id="options.compress.0" h="378201C4">PNG</text>
+		<text id="options.compress.1" h="25090095">JPG</text>
+		<text id="options.dpilevel" h="4D4FE579">%1 dpi</text>
+		<text id="options.fontsembedmode.0" h="4FD6EAB9">Nur Schriftarten einbetten, die im PDF-Dokument eingebettet sind</text>
+		<text id="options.fontsembedmode.1" h="485361C4">Schriftarten nicht einbetten</text>
+		<text id="options.quality.0" h="8415F85F">Minimal</text>
+		<text id="options.quality.1" h="845E3D8C">Niedrig</text>
+		<text id="options.quality.2" h="91153342">Mittel</text>
+		<text id="options.quality.3" h="21A95620">Hoch</text>
+		<text id="options.quality.4" h="A8A97F0E">Maximal</text>
+		<text id="options.textmode.0" h="77B1E837">Bearbeitbarkeit von Text erhalten</text>
+		<text id="options.textmode.1" h="8419D7CE">In Kurven umwandeln</text>
+		<text id="options.textmode.2" h="60E91945">In Bilder umwandeln</text>
+		<text id="options.newRow.0" h="9CF38C36">Absatz</text>
+		<text id="options.newRow.1" h="6D45691D">Zeile</text>
+		<text id="optionsCBAllowCurves" h="976099D8">Text mit problematischen Schriftarten in Kurven konvertieren</text>
+		<text id="optionsCBAllowSubstitution" h="169F5988">Ersetzen von Schriftarten, die nicht eingebettet werden können</text>
+		<text id="optionsCBEmbedFont" h="3E50224C">Alle Schriftarten einbetten</text>
+		<text id="optionsCBIncludeComments" h="B08E5CA8">Kommentare einschließen</text>
+		<text id="optionsCBIncludeImages" h="969B2F6C">Bilder einschließen</text>
+		<text id="optionsCBIncludeLinks" h="F5F4CED4">Verknüpfungen einschlißen</text>
+		<text id="optionsCBPageToImage" h="0707FDB4">Gesamten Seiteninhalt in ein Bild umwandeln</text>
+		<text id="optionsGBCommonOpt" h="5B3B421B">Allgemeine Einstellungen</text>
+		<text id="optionsGBTextOpt" h="D7BD8320">Einstellungen zur Textumwandlung</text>
+		<text id="optionsIBTextRaster" h="699A1B72">Text wird als Bild gerastert, wenn er nicht mit den obigen Einstellungen umgewandelt werden kann.</text>
+		<text id="optionsLBCompres" h="990F2529">Kompression:</text>
+		<text id="optionsLBIssuesFont" h="BB2E863E">Bei Kompatibilitätsproblemen mit Schriftarten:</text>
+		<text id="optionsLBMode" h="274455FC">Modus:</text>
+		<text id="optionsLBQuality" h="E3A77A93">Qualität:</text>
+		<text id="optionsLBTextRaster" h="32A3B18F">Rasterqualität für Textumwandlung</text>
+		<text id="optionsLBToImgParam" h="4ED54AB4">Einstellung zur Umwandlung von Text in Bilder</text>
+		<text id="optionsLBdpiComm" h="0FE84938">Auflösung:</text>
+		<text id="optionsLBdpiCompression" h="4CA3E32A">Sie können die Rasterqualität für nicht-konvertierbare Inhalte (wie komplexe Farbverläufe) oder für die ganze Seite, falls die obige Option aktiviert ist, auswählen:</text>
+		<text id="optionsLBlastHope" h="F73DC603">Falls die Umwandlung von Text in Kurven fehlschlägt, wird er in Bilder umgewandelt.</text>
+		<text id="powerpoint.filter" h="9FB63544">MS PowerPoint-Präsentation</text>
+		<text id="regionalDT" h="929F7393">Lokale Spracheinstellungen verwenden</text>
+		<text id="thousands" h="256655C5">Tausendertrennzeichen:</text>
+		<text id="userDefinedDT" h="CFDC144E">Eigene verwenden:</text>
+		<text id="word.filter" h="6BB79C71">MS Word-Dokument</text>
+	</Strings>
+</Localization>

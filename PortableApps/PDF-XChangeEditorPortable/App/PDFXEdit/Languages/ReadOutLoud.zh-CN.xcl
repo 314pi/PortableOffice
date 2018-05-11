@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Version date="20160923234230">2.00.00</Version>
+	<Author>Peng Gang, Zach Yu</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Chinese (PRC)" lName="中文(简体)" code="zh-CN" R2L="false"/>
+	<Module name="ReadOutLoud" namespace="speech" version="6.0.318.1"/>
+	<Strings>
+		<text id="cmd.category" h="A1EB605F">朗读</text>
+		<text id="cmd.readSelection" h="D8939664">朗读所选文本</text>
+		<text id="cmd.readStop" h="06B322F6">停止朗读</text>
+		<text id="opt.l.pitch" h="A6915A2C">语调(&amp;P)</text>
+		<text id="opt.l.rate" h="10B1E128">语速(&amp;R)</text>
+		<text id="opt.l.volume" h="8C0E20F2">音量(&amp;V):</text>
+		<text id="opt.l.max" h="284585D5">最大</text>
+		<text id="opt.l.min" h="F16918ED">最小</text>
+		<text id="opt.cb.readComments" h="070A2526">朗读注释(&amp;C)</text>
+		<text id="opt.cb.readFields" h="4331E3A2">朗读表单域(&amp;F)</text>
+		<text id="speech.opt.title" h="54357DDF">朗读选项</text>
+		<text id="opt.group.title" h="54357DDF">朗读选项</text>
+		<text id="opt.btn.test" h="EA3839EC">朗读这段文本(&amp;T)</text>
+		<text id="prefs.name" h="06D67BEF">朗读</text>
+		<text id="prefs.title" h="110DB02C">朗读选项</text>
+		<text id="prefs.tips" h="110DB02C">朗读选项</text>
+		<text id="opt.test.title" h="44732FAA">测试</text>
+		<text id="test.text" h="6B245451">欢迎您使用 PDF-XChange Editor</text>
+		<text id="opt.cb.defVoice" h="972D8B4B">使用默认语音(&amp;D)</text>
+		<text id="opt.cb.defAttr" h="74D7B3DB">使用默认语音属性(&amp;A)</text>
+		<text id="opt.l.voice" h="5026E016">语音(&amp;I)</text>
+		<text id="opt.l.wpm" h="7AEF5446">字 / 分钟</text>
+</Strings>
+</Localization>

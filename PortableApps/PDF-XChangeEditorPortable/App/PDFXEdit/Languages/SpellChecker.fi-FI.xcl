@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220838">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Finnish (Finland)" lName="Suomi" code="fi-FI" R2L="false"/>
+	<Module name="SpellChecker" namespace="spell" version="6.0.322.7"/>
+	<Strings>
+		<text id="dict.param.hyphen" h="50549BEC">Tavutus</text>
+		<text id="dict.param.spell" h="E10DA1DD">Tarkista oikeinkirjoitus</text>
+		<text id="lstDicts.empty" h="FFD5B8BB">&lt;Ei sanastoja&gt;</text>
+		<text id="msg.CopyDictError" h="81324CC9">Sanastotiedostoja ei voi kopioida</text>
+		<text id="msg.DictExists" h="650ABF1A">Sanasto on jo olemassa</text>
+		<text id="msg.DictExists.title" h="B025530B">Sanasto on olemassa </text>
+		<text id="msg.ErrorTitle" h="D9DB5E01">Tarkistusvirhe</text>
+		<text id="msg.LoadDictError" h="D139CD51">Sanastoa ei voitu ladata</text>
+		<text id="msg.RemoveError" h="DDD3D452">Sanastotiedostoja ei voi poistaa, pääsy kielletty.</text>
+		<text id="msg.WordExists" h="54B206DA">Sana on jo olemassa</text>
+		<text id="msg.WordExists.title" h="A9AFB29B">Sana on olemassa</text>
+		<text id="opt.b.AddDict" h="E0BF5FDE">Lisää sanasto</text>
+		<text id="opt.b.CustomWordList" h="D1505337">Mukautettu sanaluettelo</text>
+		<text id="opt.b.RemoveDict" h="D94F3439">Poista sanasto</text>
+		<text id="opt.cb.AllowAlgoHyphens" h="D8C41308">Tavuta tuntemattomat sanat</text>
+		<text id="opt.cb.EnableAllHyphens" h="207464CF">Ota tavutus käyttöön</text>
+		<text id="opt.cb.EnableHyphens" h="71ECEEC4">Ota käyttöön tavutus</text>
+		<text id="opt.cb.EnableSpellChecker" h="1D563674">Ota oikeinkirjoituksen tarkistus käyttöön</text>
+		<text id="opt.cb.IgnoreWordsInUppercase" h="BEB17F5B">Hylkää suurilla kirjaimilla kirjoitetut sanat</text>
+		<text id="opt.cb.IgnoreWordsWithNumbers" h="2AA28F70">Hylkää numeroita sisältävät sanat</text>
+		<text id="opt.title" h="AEF9F007">Oikeinkirjoituksen tarkistuksen asetukset</text>
+		<text id="wrd.b.AddWord" h="8E2EE8C1">Lisää</text>
+		<text id="wrd.b.Delete" h="D8FE3F70">Poista</text>
+		<text id="wrd.b.DeleteAll" h="848E003C">Poista kaikki</text>
+		<text id="wrd.l.Dictionary" h="66E4322E">Sanasto:</text>
+		<text id="wrd.l.Word" h="7AFBC23E">Sana:</text>
+		<text id="wrd.title" h="66DDC653">Mukautetut sanaluettelot</text>
+	</Strings>
+</Localization>

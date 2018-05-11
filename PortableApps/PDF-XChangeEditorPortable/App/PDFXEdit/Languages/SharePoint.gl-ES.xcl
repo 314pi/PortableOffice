@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117213645">2.00.00</Version>
+	<Author>Alfonso Seoage</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Galician (Galician)" lName="Galego" code="gl-ES" R2L="false"/>
+	<Module name="SharePoint" namespace="sp" version="6.0.322.7"/>
+	<Strings>
+		<text id="btn.checkIn" h="09996473">&amp;Protexer</text>
+		<text id="btn.discardCheckOut" h="40AC5603">Descar&amp;tar a desprotección</text>
+		<text id="btn.checkInAndKeepCkeckedOut" h="34DA624B">P&amp;rotexer e manter a desprotección</text>
+		<text id="btn.keepCkeckedOut" h="AEA0D6B1">&amp;Manter a desprotección</text>
+		<text id="btn.navigate" h="B03F439E">&amp;Navegar</text>
+		<text id="btn.open" h="B1A510F0">&amp;Abrir</text>
+		<text id="btn.openWithCheckOut" h="2F774735">Abrir con &amp;comprobación</text>
+		<text id="btn.save" h="F363C410">&amp;Gardar</text>
+		<text id="btn.saveAndCheckOut" h="E44D9A0A">&amp;Gardar e desprotexer</text>
+		<text id="btn.saveReplace" h="11BF9724">Gardar e &amp;substituír</text>
+		<text id="btn.signOut" h="645CEBE2">Pechar a sesión</text>
+		<text id="cb.url.tip" h="CD81E674">Escriba a dirección...</text>
+		<text id="cmd.checkIn" h="AEF235ED">&amp;Protexer</text>
+		<text id="cmd.checkIn.tip" h="C9DCA405">Protexe o arquivo do documento ao compartir.</text>
+		<text id="cmd.checkOut" h="E6A87AFE">&amp;Desprotexer</text>
+		<text id="cmd.checkOut.tip" h="E1B64D30">Desprotexe o arquivo do documento compartido.</text>
+		<text id="cmd.cmdsCategory" h="56A5F9B3">Compartir</text>
+		<text id="cmd.discardCheckOut" h="40AC5603">Descar&amp;tar a desprotección</text>
+		<text id="cmd.discardCheckOut.tip" h="ED54ACC3">&amp;Descarta a desprotección do arquivo do documento compartido.</text>
+		<text id="cmd.open" h="68595810">&amp;Compartir...</text>
+		<text id="cmd.open.tip" h="007B7200">Abre un documento compartido.</text>
+		<text id="cmd.prepareFileInfo" h="56811CA0">Preparar &amp;información do arquivo</text>
+		<text id="cmd.prepareFileInfo.tip" h="E609EA07">Prepara a información para o arquivo do documento compartido</text>
+		<text id="cmd.save" h="68595810">&amp;Compartir...</text>
+		<text id="cmd.save.tip" h="C48C1C25">Garda un documento activo para compartir</text>
+		<text id="cmd.share_point" h="B7423C0E">&amp;Compartir</text>
+		<text id="dlg.liveLogin" h="BFADC685">Acceso en vivo</text>
+		<text id="dlg.openFile" h="435887CD">Abrir un arquivo</text>
+		<text id="dlg.saveFile" h="520CB069">Gardar un arquivo</text>
+		<text id="lb.checkInComment" h="694DD18A">Comentario (opcional):</text>
+		<text id="lb.name" h="F7B9E475">Arquivo:</text>
+		<text id="ls.column.created" h="FE6510B7">Data de creación</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Data e hora en que o arquivo, o cartafol ou a listaxe creáronse</text>
+		<text id="ls.column.extension" h="14FEB836">Extensión</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Extensión do arquivo</text>
+		<text id="ls.column.modified" h="691C3610">Data de modificación</text>
+		<text id="ls.column.modified.hint" h="12933E76">Data e hora en que o arquivo, o cartafol ou a listaxe modificáronse por última vez</text>
+		<text id="ls.column.size" h="17A58A52">Tamaño</text>
+		<text id="ls.column.size.hint" h="E79CA174">Tamaño do arquivo</text>
+		<text id="ls.column.title" h="D18643E3">Nome</text>
+		<text id="ls.column.title.hint" h="81F4F728">Nome do arquivo ou do cartafol, ou título da listaxe</text>
+		<text id="msg.askForCheckInOnClose" h="8F50A2BC">Quere protexer o arquivo &lt;b&gt;%1&lt;/b&gt; antes de pechalo, de modo que quede dispoñible cos cambios para outros usuarios?</text>
+		<text id="msg.askForCheckOutOnOpen" h="20742355">Pode abrir o arquivo &lt;b&gt;%1&lt;/b&gt; e permitir que outros usuarios modifíqueno, ou ben abrilo con desprotección para que outros só poidan lelo.</text>
+		<text id="msg.askForCheckOutOnSave" h="0D7127AB">O arquivo &lt;b&gt;%1&lt;/b&gt; non está desprotexido. Debe desprotexer o arquivo antes de tentar gardalo.</text>
+		<text id="msg.askForDiscardCheckOutOnClose" h="CF92CA4B">O arquivo &lt;b&gt;%1&lt;/b&gt; está desprotexido para Ud. Quere cancelar a desprotección para permitir que outros usuarios modifíqueno?</text>
+		<text id="msg.checkInFailed" h="3E327B8B">O arquivo &lt;b&gt;%1&lt;/b&gt; non se puido protexer. Asegúrese de que este arquivo existe e que está desprotexido para vostede.</text>
+		<text id="msg.checkInDialogMessage" h="8A8CB676">Protexer o arquivo &lt;b&gt;%1&lt;/b&gt;.</text>
+		<text id="msg.checkedOutToOtherOnOpen" h="0931ED51">Non pode abrir o arquivo &lt;b&gt;%1&lt;/b&gt; sen desprotección, xa que está desprotexido para o usuario "%2".</text>
+		<text id="msg.checkedOutToOtherOnSave" h="2974FCD2">O arquivo &lt;b&gt;%1&lt;/b&gt; está desprotexido para o usuario "%2". Non se pode gardar este arquivo para compartir, a menos que estea desprotexido para vostede, pero pode gardar os cambios nun lugar diferente.</text>
+		<text id="msg.checkOutFailed" h="AE188A1B">O arquivo &lt;b&gt;%1&lt;/b&gt; non se puido desprotexer. Asegúrese de que este arquivo exista no servidor e non estea desprotexido a un usuario diferente.</text>
+		<text id="msg.connectError" h="18DFEDBE">Non se puido conectar co servidor SharePoint. Comprobe a súa conexión a internet, a dirección do servidor e os seus permisos de acceso ao recurso en SharePoint.</text>
+		<text id="msg.discardCheckOutFailed" h="427CEAFC">Erro ao descartar o estado de desproteccion do arquivo &lt;b&gt;%1&lt;/b&gt;. Asegúrese de que este arquivo existe e está desprotexido para vostede.</text>
+		<text id="msg.errorOnCheckOutNoEditPermissions" h="72CACDDF">Non se pode desprotexer o arquivo &lt;b&gt;%1&lt;/b&gt; xa que non ten permisos de edición para este arquivo.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedCheckOut" h="0075F732">Non pode abrir o arquivo &lt;b&gt;%1&lt;/b&gt; sen protección, xa que non ten permisos de edición para este arquivo.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedWriteAccess" h="FD9B1AB1">Non pode abrir o arquivo &lt;b&gt;%1&lt;/b&gt; para editalo xa que non ten permisos de edición para este arquivo.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedWriteAccess" h="3453F306">non pode gardar o arquivo &lt;b&gt;%1&lt;/b&gt; en SharePoint, xa que non ten permisos de edición para este arquivo.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedCheckOut" h="833598E7">O arquivo &lt;b&gt;%1&lt;/b&gt; débese desprotexer antes de que se gardar, pero non ten permisos de edición para este arquivo.</text>
+		<text id="msg.fileNotFound" h="381368F8">Non se atopou o arquivo &lt;b&gt;%1&lt;/b&gt; no cartafol actual.</text>
+		<text id="msg.invalidFileName" h="5F43EF67">&lt;b&gt;%1&lt;/b&gt; non é un nome de arquivo válido.</text>
+		<text id="msg.navigateError" h="CF23B4B6">Non se puido navegar ata o recurso en SharePoint. Comprobe a súa conexión a internet, a dirección do recurso e os seus permisos de acceso ao recurso en SharePoint.</text>
+		<text id="msg.openFailed" h="34DE1259">Non se puido abrir o arquivo. Asegúrese de que existe, que non está desprotexido para outro usuario e que ten permiso de acceso.</text>
+		<text id="msg.outdatedFileOnWrite" h="1D71732B">O arquivo &lt;b&gt;%1&lt;/b&gt; non se pode gardar en SharePont xa que hai un conflito de cambios. O documento que descargou contén cambios realizados en &lt;b&gt;%2&lt;/b&gt;, pero o servidor contén cambios máis novos, realizados en &lt;b&gt;%3&lt;/b&gt;. Garde os cambios nun novo arquivo, logo abra o último documento sen protección desde Sharepoint, combine os cambios e gárdeos no servidor.</text>
+		<text id="msg.saveFailed" h="967D2A64">Non se puido gardar o arquivo. Asegúrese de que o nome de arquivo é válido, que non está desprotexido para outro usuario e que ten permiso de acceso.</text>
+		<text id="msg.saveReplace" h="B1889DFB">O arquivo &lt;b&gt;%1&lt;/b&gt; xa existe. Quere substituílo?</text>
+		<text id="msg.signOutError" h="0E6A5F45">Non se puido pechar a sesión deste usuario no servidor SharePoint. Podería aínda acceder a SharePoint sen que se lle pida autenticación.</text>
+		<text id="msg.warnOnOpenWithNoEditPermissions" h="E1A7E642">Está a abrir o arquivo &lt;b&gt;%1&lt;/b&gt; pero non ten permisos de edición para este arquivo. Teña en conta que non poderá gardar cambios en SharePoint a menos que teña os permisos necesarios.</text>
+		<text id="msg.warnOnOpenWithOthersCheckOut" h="46080172">O arquivo &lt;b&gt;%1&lt;/b&gt; está desprotexido para o usuario "%2". Non pode gardar este arquivo en SharePoint a menos que "%2" descarte o estado desprotexido. Se "%2" comproba no arquivo con cambios, experimentará un conflito de cambios.</text>
+		<text id="opt.keepCkeckedOut" h="15301A94">&amp;Mantén o arquivo desprotexido tras gardalo</text>
+		<text id="rbar.sharepoint" h="56A5F9B3">Compartir</text>
+	</Strings>
+</Localization>

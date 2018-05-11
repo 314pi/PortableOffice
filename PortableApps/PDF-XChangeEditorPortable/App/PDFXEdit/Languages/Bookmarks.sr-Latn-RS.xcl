@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220831">2.00.00</Version>
+	<Author>Jovo Vilendečić</Author>
+	<Copyright>Jovo Vilendečić</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Serbian (Latin, Serbia)" lName="Srpski" code="sr-Latn-RS" R2L="false"/>
+	<Module name="BookmarksPlugin" namespace="bp" version="6.0.322.7"/>
+	<Strings>
+		<text id="DlgAddExcludedWords" h="BED549D0">Dodaj novu isključenu reč</text>
+		<text id="DlgAddTextToBookmark" h="E5B26485">Dodaj tekst u naslov obeleživača</text>
+		<text id="DlgAutoGenerateBookmarks.Title" h="0E85373B">Generisanje obeleživača od stranice teksta</text>
+		<text id="DlgBookmarkAppearance" h="7544DDCE">Rezultirajući izgled</text>
+		<text id="DlgBookmarkEveryNthPage" h="B6869582">Postavi svaku N-tu stranu u obeleživač</text>
+		<text id="DlgBookmarkLevelDescription" h="186C1D0A">Opcije uparivanja teksta</text>
+		<text id="DlgBookmarkPropSheet" h="862C67E7">Karakteristike generisanja obeleživača</text>
+		<text id="DlgBookmarkTitleFormatting" h="A87502C2">Formatiranje naslova</text>
+		<text id="DlgBookmarksToNamedDests" h="8A0957E5">Konvertuj u odredišta sa nazivima</text>
+		<text id="DlgBookmarksToTextFile" h="29F18B82">Izvezi obeleživače u tekstualnu datoteku</text>
+		<text id="DlgChangeBookmarkCase" h="4D74C7D9">Promeni veličinu slova obeleživača</text>
+		<text id="DlgEditStopWords" h="911413E7">Uredi reči zaustavljanja</text>
+		<text id="DlgFindReplaceBookmarkText" h="733A7FC1">Nađi i zameni tekst obeleživača</text>
+		<text id="DlgFontNames" h="3C8B1F88">Izaberi nazive fonta</text>
+		<text id="DlgFromTOC" h="AC2ED85C">Sadržaj obeleživača</text>
+		<text id="DlgFromTOCIndentation" h="12688622">Promeni pomak</text>
+		<text id="DlgFromTextFile" h="B3799046">Generiši obeleživače iz tekstualne datoteke</text>
+		<text id="DlgNamedDestsToPageNumbers" h="9CAE5E39">Konvertuj odredišta sa nazivima u regularna odredišta</text>
+		<text id="DlgSheetBttfBookmarkProps" h="4B2F0AA2">Karakteristike obeleživača</text>
+		<text id="DlgSheetBttfSelectBookmarks" h="30673BCD">Opšte</text>
+		<text id="DlgSortBookmarks" h="8339BB6C">Sortiranje obeleživača</text>
+		<text id="DlgToTOC" h="2B3E9BF1">Pravljenje sadržaja</text>
+		<text id="DlgValidateBookmarks" h="0CD39971">Validiranje obeleživača</text>
+		<text id="atb.btn.Macroses" h="81734E4F">Max</text>
+		<text id="atb.chb.IncludeChildren" h="0AC4CB2B">Uključi sve podnivoe</text>
+		<text id="atb.chb.ProcessAllLevels" h="26C3B2DF">Procesuiraj sve nivoe obeleživača</text>
+		<text id="atb.chb.RemoveSpaces" h="ABDEA5BC">Obriši nepotrebne razmake iz originalnog Naslova obeleživača</text>
+		<text id="atb.gb.AddText" h="E21C9B55">Dodaj tekst</text>
+		<text id="atb.gb.Levels" h="8A668489">Izaberi nivo obeleživača za procesuiranje</text>
+		<text id="atb.gb.SelectSource" h="1E2E96A4">Izaberi izvor obeleživača</text>
+		<text id="atb.lbl.BookmarkTitle" h="2DC1254E">Naslov obeleživača</text>
+		<text id="atb.lbl.Prefix" h="A51A4726">Dodaj prefiks u naslov obeleživača:</text>
+		<text id="atb.lbl.SelectLevel" h="D1263889">Izaberi nivo za procesuiranje:</text>
+		<text id="atb.lbl.Suffix" h="C27741D5">Dodaj sufiks u naslov obeleživača:</text>
+		<text id="atb.lbl.UseBookmarksFrom" h="E770326C">Koristi obeleživače:</text>
+		<text id="ba.chb.expand" h="BBA3BD8A">Prikaži prošireno (prikaži svu decu)</text>
+		<text id="ba.l.expl" h="EE297184">Izaberi vizuelni izgled rezultujućih obeleživača:</text>
+		<text id="ba.l.textStyle" h="8D5CA9B5">Stil teksta:</text>
+		<text id="benp.Gb.Main" h="4B2F0AA2">Karakteristike obeleživača</text>
+		<text id="benp.Label.TitleTemplate" h="5E999567">Obrazac naziva obeleživača:</text>
+		<text id="benp.Label1.SelectN" h="8626E4EA">Postavi svaku</text>
+		<text id="benp.Label2.SelectN" h="6270721D">stranu u izabranom rasponu strana</text>
+		<text id="benp.infoBtn.invalidMacro" h="1561C0F2">Ovaj string sadrži nedefinisani naziv makroa koji može biti ingorisan</text>
+		<text id="bft.l.actionSeparator" h="5C05CE1E">Separator parametara akcija:</text>
+		<text id="bft.l.separator" h="A4269065">Delimiter polja:</text>
+		<text id="bld.btn.selStyle" h="EE213BC5">Preuzmi stil od izabranog teksta</text>
+		<text id="bld.chb.fontNames" h="AB457B23">Nazivi fontova:</text>
+		<text id="bld.chb.limitToPattern" h="7F0826AB">Ograniči naslove obeleživača samo na upareni obrazac</text>
+		<text id="bld.chb.matchTextPattern" h="5A64E195">Obrazac uparivanja teksta:</text>
+		<text id="bld.chb.multilineBookmarks" h="CB4817D1">Dozvoli višestruke naslove obeleživača</text>
+		<text id="bld.g.textContentRules" h="5B364747">Pravila sadržaja teksta</text>
+		<text id="bld.l.description" h="2F770A5B">Izaberi kombinaciju sledećih atributa za automatsko generisanje obeleživača iz dokumenta:</text>
+		<text id="bld.l.matchTextCase" h="43616BDA">Upari veličinu slova:</text>
+		<text id="bld.matchTextCase.allCapital" h="D4E8E731">Svi znakovi su pisani velikim slovima</text>
+		<text id="bld.matchTextCase.firstCapital" h="CAA2E79D">Prvi znak je veliko slovo</text>
+		<text id="bld.matchTextCase.firstDigit" h="42E73545">Prvi znak je broj</text>
+		<text id="bld.matchTextCase.noRestrictions" h="93089981">Bez ograničenja</text>
+		<text id="bnd.gb.Main" h="4DDA9780">Naslov odredišta sa nazivima</text>
+		<text id="bnd.lbl.NDTitle" h="7F7F73EC">Naslov odredišta sa nazivima će biti kreiran koristeći obrazac:</text>
+		<text id="btf.chb.insertAfter" h="DD7B743E">Dodaj ovaj tekst nakon svakog naslova:</text>
+		<text id="btf.chb.insertBefore" h="CBDD1CF8">Ubaci ovaj tekst pre svakog naslova:</text>
+		<text id="btf.chb.removeDuplicateSpaces" h="2653A648">Ukloni duple razmake</text>
+		<text id="btf.chb.replaceLineBreaks" h="0C51EEEB">Zameni prelomne linije sa razmacima</text>
+		<text id="btf.chb.replaceTitle" h="097EF3C2">Traži i zameni naslove obeleživača sa obrascem teksta</text>
+		<text id="btf.g.advancedFormatting" h="9130441A">Napredno formatiranje</text>
+		<text id="btf.g.textCase" h="97FCC959">Mala/velika slova u tekstu</text>
+		<text id="btf.l.characters" h="189C88D2">(znakova)</text>
+		<text id="btf.l.expl" h="169A084A">Izaberi karakteristike teksta koje će biti primenjene na nove naslove obeleživača:</text>
+		<text id="btf.l.leadingNumbers" h="074A1A51">Vodeći brojevi:</text>
+		<text id="btf.l.maxLength" h="A52EC501">Maks. dužina naslova:</text>
+		<text id="btf.l.replacePattern" h="B54B1F92">Obrazac zamene:</text>
+		<text id="btf.l.searchPattern" h="E87DDC08">Obrazac pretrage:</text>
+		<text id="btf.l.use" h="46DEA47A">Korišćenje:</text>
+		<text id="btf.leadingNumbers.noChange" h="3399B0A0">Bez promene</text>
+		<text id="btf.rb.doNotChange" h="4CBF2C1B">Nemoj menjati</text>
+		<text id="btf.rb.lowercase" h="82451817">mala slova</text>
+		<text id="btf.rb.sentenceCase" h="B26B2798">Mala/velika slova u rečenici</text>
+		<text id="btf.rb.titleCase" h="2C8DBF1B">Mala/velika slova u naslovu</text>
+		<text id="btf.rb.uppercase" h="42F820C7">VELIKA SLOVA</text>
+		<text id="btf.use.letters" h="6EE7E478">Slova</text>
+		<text id="btf.use.numbers" h="E2FE5FA7">Brojevi</text>
+		<text id="btf.use.romanLetters" h="290A50ED">Rimska slova</text>
+		<text id="btn.add.custom" h="3080663C">Dodaj prilagođeno...</text>
+		<text id="btn.highlight" h="2485FBFF">Istakni obeleživače</text>
+		<text id="btn.validate" h="1E91E484">Validiraj</text>
+		<text id="cbc.aew.label" h="7EC386C0">Dodaj novu isključenu reč unosom jedne reči po liniji (pritisni Enter nakon svake reči):</text>
+		<text id="cbc.cb.fromBookmarks" h="CF38CD8D">Izabrano</text>
+		<text id="cbc.cb.fromDocument" h="424CAFC5">Svi obeleživači</text>
+		<text id="cbc.chb.EnterCustomWordList" h="EB8ACE1B">Unesi prilagođenu listu reči koje se neće procesuirati</text>
+		<text id="cbc.chb.IncludeChildrenBookmarks" h="051C6219">Uključi sve podobeleživače</text>
+		<text id="cbc.gb.SelectTextCase" h="F9747FC0">Izaberi veličinu slova teksta</text>
+		<text id="cbc.gb.TextCaseOptions" h="DAD7B4F4">Opcije</text>
+		<text id="cbc.list.header" h="647D6FC4">Isključene reči</text>
+		<text id="cbc.rbtn.LowerCase" h="82451817">mala slova</text>
+		<text id="cbc.rbtn.SentenceCase" h="B26B2798">Veličina slova rečenice</text>
+		<text id="cbc.rbtn.TitleCase" h="2C8DBF1B">Veličina slova naslova</text>
+		<text id="cbc.rbtn.UpperCase" h="42F820C7">VELIKA SLOVA</text>
+		<text id="chb.ignoreDuplicates" h="B30FC50E">Ignoriši susedne duple obeleživače</text>
+		<text id="chb.stopWords" h="491ED7FC">Ignoriši tekst koji sadrži reči zaustavljanja</text>
+		<text id="chb.verifyLinks" h="7A46B598">Verifikuj veze do eksternih dokumenata i datoteka</text>
+		<text id="chb.warnGoTo" h="911FC68A">Upozori o nevalidnoj "Idi na" akciji</text>
+		<text id="chb.warnGoToRE" h="C0827D11">Upozori o nevalidnoj "Idi na R" ili "Idi na E" akcije</text>
+		<text id="chb.warnLaunchURI" h="94F27C09">Upozori o nevalidnom pokretanju i URI akciji</text>
+		<text id="chb.warnNoActions" h="FBF997CF">Upozori o praznoj listi akcija ili nevalidnoj deci</text>
+		<text id="chb.warnNoGoTo" h="66B02339">Upozori o odsustvu akcije "Idi na" u akcionoj listi</text>
+		<text id="chb.warnOther" h="B30D6C64">Upozori o drugim nevalidnim akcijama</text>
+		<text id="chb.warnTitle" h="F0B5EE52">Upozori o praznom naslovu</text>
+		<text id="cmd.addAGBLevel" h="928E2BB5">Koristi izabrani stil teksta pri generisanju obeleživača...</text>
+		<text id="cmd.addTextToBookmarkTitle" h="C4C93738">Dodaj tekst u naslov obeleživača...</text>
+		<text id="cmd.addTextToBookmarkTitle.short" h="E21C9B55">Dodaj tekst</text>
+		<text id="cmd.addTextToBookmarkTitle.tip" h="B412507B">Dodaj prefiske i sufikse u naslove obeleživača.</text>
+		<text id="cmd.changeBookmarkCase" h="359544B0">Promeni veličinu slova obeleživača...</text>
+		<text id="cmd.changeBookmarkCase.short" h="BC4AE60A">Veličina slova</text>
+		<text id="cmd.changeBookmarkCase.tip" h="48522DE3">Promeni veličinu slova naslova obeleživača.</text>
+		<text id="cmd.findReplaceBookmarkText" h="AF996007">Nađi i zameni tekst Izvezi obeleživača...</text>
+		<text id="cmd.findReplaceBookmarkText.short" h="9F35A871">Pronađi i zameni</text>
+		<text id="cmd.findReplaceBookmarkText.tip" h="7ED81F66">Pronalazi i zamenjuje elemente teksta u naslovima obeleživača</text>
+		<text id="cmd.sort" h="B1FFF012">Sortiraj obeleživače...</text>
+		<text id="cmd.sort.short" h="579162B0">Sortiraj</text>
+		<text id="cmd.sort.tip" h="90B74C06">Sortiraj obeležiače po datim kriterijima.</text>
+		<text id="cmd.validate" h="E61D60D2">Validiraj obeleživače...</text>
+		<text id="cmd.validate.short" h="1E91E484">Validiraj</text>
+		<text id="cmd.validate.tip" h="AF7C0DD0">Validiraj obeleživače za validnost po datim kriterijima.</text>
+		<text id="cmd.toTOC" h="9B7AEEEA">Napravi sadržaj...</text>
+		<text id="cmd.toTOC.short" h="2B3E9BF1">Napravi sadržaj</text>
+		<text id="cmd.toTOC.tip" h="E92DA1A8">Napravi sadržaj na bazi strukture obeleživača i strana na koje upućuju</text>
+		<text id="cmd.bookmarksToNamedDests" h="9A9E5CF2">Konvertuj u odredište sa nazivom...</text>
+		<text id="cmd.bookmarksToNamedDests.short" h="9226CE11">Konvertuj u odredište sa nazivom</text>
+		<text id="cmd.bookmarksToNamedDests.tip" h="76CA39A1">Konvertuj regularne destinacije u listi akcije obeleživača u odredište sa nazivom. Onda pri pomeranju ili brisanju strana, obeleživači će upućivati na iste strane kao pre.</text>
+		<text id="cmd.bookmarksToTextFile" h="DBEBEEB8">Izvezi obeleživače u tekstualnu datoteku...</text>
+		<text id="cmd.bookmarksToTextFile.short" h="738D44A8">Izvezi u tekstualnu datoteku</text>
+		<text id="cmd.bookmarksToTextFile.tip" h="2F1DD236">Sačuvaj strukturu obeleživača u tekstualnu datoteku.</text>
+		<text id="cmd.bookmarksToHtmlFile" h="EFF75744">Izvezi obeleživače u HTML datoteku...</text>
+		<text id="cmd.bookmarksToHtmlFile.short" h="76C20816">Izvezi u HTML</text>
+		<text id="cmd.bookmarksToHtmlFile.tip" h="8968844D">Sačuvaj strukturu obeleživača kao HTML datoteku.</text>
+		<text id="cmd.namedDestsToPageNumbers" h="3A651CA9">Konvertuj odredišta sa nazivima u regularna odredišta...</text>
+		<text id="cmd.namedDestsToPageNumbers.short" h="74C22304">Odredišta sa nazivima u regularna</text>
+		<text id="cmd.namedDestsToPageNumbers.tip" h="2ABF8034">Konvertuj odredišta sa nazivima u listi operacija obeleživača u regularna odredišta. Onda pri pomeranju ili brisanju strana, obeleživači će odgovarati broju strane odredišta.</text>
+		<text id="cmd.bookmarkEveryNthPage" h="940FCD39">Stavi obeleživač na svaku N-tu stranu...</text>
+		<text id="cmd.bookmarkEveryNthPage.short" h="71BCE832">Obeleži svaku N-tu stranu</text>
+		<text id="cmd.bookmarkEveryNthPage.tip" h="B60E23D7">Kreiraj obeleživač u odnosu na brojeve strana dokumenta.</text>
+		<text id="cmd.generate" h="2147DF79">Generiši obeleživače od teksta strane...</text>
+		<text id="cmd.generate.short" h="8BE514A6">Od strane teksta</text>
+		<text id="cmd.generate.tip" h="2A03253C">Kreira obeleživače od trenutnog teksta dokumenta koristeći dati stil i parametre fonta.</text>
+		<text id="cmd.fromTOC" h="D15400EB">Generiši obeleživače od sadržaja...</text>
+		<text id="cmd.fromTOC.short" h="3AB39C50">Iz sadržaja</text>
+		<text id="cmd.fromTOC.tip" h="D4170828">Kreira obeleživače od postojećeg sadržaja. Sadržaj mora prvo biti označen koristeći Alatku za selekciju teksta da bi ova opcija radila.</text>
+		<text id="cmd.fromTextFile" h="55CA46BC">Generiši obeleživače iz tekstualne datoteke...</text>
+		<text id="cmd.fromTextFile.short" h="3619B3DB">Iz tekstualne datoteke</text>
+		<text id="cmd.fromTextFile.tip" h="11167525">Kreira obeleživače od tekstualne datoteke. Format tekstualne datoteke treba da prati pravila opcije "Ivezi obeleživač u tekstualnu datoteku".</text>
+		<text id="cmd.name" h="E2032460">Obeleživači</text>
+		<text id="cmd.macro.firstLine" h="613F14A5">Prva linija teksta strane</text>
+		<text id="cmd.macro.hierIndex" h="7DCA5F4D">Hijerarhijski indeks</text>
+		<text id="cmd.macro.hierTitle" h="0E7B4B6F">Obeleži hijerarhijski naslov</text>
+		<text id="cmd.macro.indexInParent" h="1B41AFB1">Indeks u roditelju</text>
+		<text id="cmd.macro.label" h="EEE40FF3">Etiketa strane</text>
+		<text id="cmd.macro.launch" h="87D9EB8D">Datoteka za otvaranje</text>
+		<text id="cmd.macro.level" h="B863033F">Nivo obeleživača</text>
+		<text id="cmd.macro.namedDest" h="C4E8D8F5">Odredite sa nazivom</text>
+		<text id="cmd.macro.sequentialNum" h="CDF4EA5E">Sekvencijalni broj</text>
+		<text id="cmd.macro.title" h="3AB782A4">Naslov obeleživača</text>
+		<text id="cmd.macro.uri" h="6C21F7EF">Web linkovi za otvaranje</text>
+		<text id="ebttf.actType.all" h="B8B21253">Obeleživači sa svim tipovima akcija hiperlinkova</text>
+		<text id="ebttf.actType.goto" h="05B4C93C">Obeleživači sa akcijama "Idi na stranu"</text>
+		<text id="ebttf.actType.gotoR" h="41E1955E">Obeleživači sa akcijama "Idi na udaljeno"</text>
+		<text id="ebttf.actType.js" h="07676EBA">Obeleživači sa JavaSkript akcijama</text>
+		<text id="ebttf.actType.launch" h="38537D36">Obeleživači sa akcijama "Otvori datoteku"</text>
+		<text id="ebttf.actType.uri" h="F39B51AE">Obeleživači sa akcijama "Otvori web link"</text>
+		<text id="ebttf.cb.separator.comma" h="827998F7">Zarez</text>
+		<text id="ebttf.cb.separator.semi" h="988594A6">Tačka-zarez</text>
+		<text id="ebttf.ch.doNotEscape" h="09B53F9F">Nemoj izbegavati servisne znakove kao @ # { }  : itd.</text>
+		<text id="ebttf.ch.expClosedState" h="46E4EC7E">Izvezi obeleživačev "zatvoreni" status</text>
+		<text id="ebttf.ch.expDetailedGotoDescr" h="18B9C243">Izvezi detaljne opise odredišta</text>
+		<text id="ebttf.ch.exportActions" h="3444FE51">Izvezi akcije obeleživača</text>
+		<text id="ebttf.ch.exportGoto" h="37493654">Izvezi stranu na koju pokazuje obeleživač</text>
+		<text id="ebttf.ch.exportGotoR" h="92C06BA6">Izvezi opise akcija "Udaljeno Idi na"</text>
+		<text id="ebttf.ch.exportJS" h="9362EAE3">Izvezi kod akcije JavaSkript</text>
+		<text id="ebttf.ch.exportLaunch" h="1B39BF89">Izvezi opis akcije "Otvori datoteoku"</text>
+		<text id="ebttf.ch.exportStyle" h="A6713F10">Izvezi stil teksta i karakteristike boje obeleživača</text>
+		<text id="ebttf.ch.exportWebLinks" h="3C61424C">Izvezi web linkove</text>
+		<text id="ebttf.ch.includeSubBookmarks" h="051C6219">Uključi sve podobeležiače</text>
+		<text id="ebttf.ch.openContFolder" h="80BDDAAC">Otvori fasciklu</text>
+		<text id="ebttf.ch.overwriteExistingFiles" h="29981774">Prepiši preko postojećih datoteka</text>
+		<text id="ebttf.ch.resloveNamedDests" h="D1E8A9BC">Rastavi odredišta sa destinacijama na brojeve strana</text>
+		<text id="ebttf.gb.actionExportParams" h="DA853D34">Izaberi karakteristike datoteke za izvoz</text>
+		<text id="ebttf.gb.savingResults" h="49571A59">Izlazni parametri</text>
+		<text id="ebttf.gb.selectBookmarks" h="E2AFC2C6">Izaberi obeleživače za izvoz</text>
+		<text id="ebttf.infoBtn.doNotEscape" h="93A6DD6C">Izbegavanje servisnih simbola nije preporučljivo ako koristite izlaznu datoteku sa opcijom "Generiši obeleživače iz tekstualne datoteke" u budućnosti.</text>
+		<text id="ebttf.infoBtn.invalidSeparator" h="44875D1F">Karakteristike delimitera ne sme biti prazan string, koji sadrži alfanumeričke znakove ili razmake i ne sme biti jedan od sledećih karaktera @ # : { } </text>
+		<text id="ebttf.lbl.folder" h="3F9ED2F9">Fascikla:</text>
+		<text id="ebttf.lbl.separator" h="E9D351AC">Karakteristike delimitera:</text>
+		<text id="ebttf.rb.exportActionTypes" h="533F8EA6">Izvezi obeleživače koji vrše akcije hiperlinkova:</text>
+		<text id="ebttf.rb.exportAll" h="8F2ED544">Izvezi sve</text>
+		<text id="ebttf.rb.exportSelected" h="69FB5145">Izvezi izabrane obeleživače</text>
+		<text id="ebttf.rb.useDefaultFilename" h="0E7FC989">Koristi naziv PDF dokumenta da sačuvaš rezultate </text>
+		<text id="esw.chb.matchCase" h="2E5EFD7E">Upari veličinu slova</text>
+		<text id="esw.chb.matchWhole" h="17009870">Upari cele reči</text>
+		<text id="esw.chb.useRegExp" h="7FC6EB4F">Koristi regularne izraze</text>
+		<text id="esw.l.explanation" h="2C312B17">Tekst koji sadrži ove reči zaustavljanja će biti ignorisan i neće se koristiti za kreiranje obeleživača.</text>
+		<text id="fn.l.selectFontNames" h="0CCEF1FA">Izaberi nazive fontova:</text>
+		<text id="frbt.chb.MatchCase" h="12EB8088">Upari mala/velika slova</text>
+		<text id="frbt.chb.MatchWholeWord" h="FE8CC762">Upari celu reč</text>
+		<text id="frbt.chb.UseRegex" h="7FC6EB4F">Koristi regularne izraz</text>
+		<text id="frbt.gb.FindReplace" h="BA012728">Opcije "Nađi i zameni"</text>
+		<text id="frbt.lbl.FindWhat" h="D0A8A2C5">Nađi šta:</text>
+		<text id="frbt.lbl.ReplaceWith" h="3BE65784">Zameni šta:</text>
+		<text id="ftoc.allIncluded" h="C994FC1B">Uključi sve</text>
+		<text id="ftoc.b.indents" h="48800D32">Promeni pomak...</text>
+		<text id="ftoc.chb.addBookmarks" h="CBBAE768">Dodaj obeleživače na strane koristeći sadržaj</text>
+		<text id="ftoc.chb.addLinks" h="68456DBA">Dodaj veze u sadržaj</text>
+		<text id="ftoc.chb.createLevels" h="58CF083A">Koristi uvlačenje sadržaja za kreiranje hijerarhije obeleživača </text>
+		<text id="ftoc.chb.improveDest" h="417AD7B0">Pokušaj poboljšati odredišta obeleživača baziranih na tekstu</text>
+		<text id="ftoc.chb.trimNumbers" h="40ACC5F5">Obriši brojeve u prefiksima naslova obeleživača</text>
+		<text id="ftoc.chb.trimSpaces" h="5A27A063">Obriši uzastopne razmake iz naslova obeleživača</text>
+		<text id="ftoc.chb.useExistingLinks" h="E214DBE7">Koristi postojeće veze kao nova odredišta obeleživača</text>
+		<text id="ftoc.l.bottomIndent" h="C983AD6F">Donji pomak:</text>
+		<text id="ftoc.l.expl" h="1FAB779E">Operacija će dodati obeleživač stranama baziranim na izabranom sadržaju. Opciono, ova operacija može dodati veze u sadržaj ili koristiti veze kao odredište obeleživača.</text>
+		<text id="ftoc.l.offsetExpl" h="9D6C25F6">Ovo je razlika između fizičkog broja strane u PDF dokumentu i odštampanih brojeva strana koje mogu biti pozitivne ili negativne.</text>
+		<text id="ftoc.l.pageOffset" h="9E563407">Pomeraj strane:</text>
+		<text id="ftoc.l.separator" h="45CF4893">Izaberi tip separatora:</text>
+		<text id="ftoc.l.topIndent" h="FA827580">Gornji pomak:</text>
+		<text id="msg.bft.warning" h="726201E6">Molimo da izaberete različite znakove za delimiter polja i akciju separatora!</text>
+		<text id="msg.cbc.excludedwords.add.title" h="9ADE883B">Dodaj novu isključenu reč</text>
+		<text id="msg.cbc.excludedwords.caption" h="6B29D4B4">Unesi novu isključenu reč:</text>
+		<text id="msg.cbc.excludedwords.edit.title" h="82F8AAA6">Uredi izbrane isključene reči</text>
+		<text id="msg.dlg.bookmarksToTextFile.done" h="8E1397E9">Obeleživači su uspešno izvezeni u datoteku.</text>
+		<text id="msg.dlg.emptyFilename.warning" h="96A438DA">Naziv datoteke ne može biti prazan.</text>
+		<text id="msg.dlg.invalidFilename.slashes" h="626318B0">Naziv datoteke ne sme sadržavati uzastopne  ili / znakove, niti se završiti sa jednim od njih.</text>
+		<text id="msg.dlg.invalidFilename.warning" h="46CD566C">Naziv Windows dateoteke ne sme sadržavati neke od sledećih znakova: * ? : | " &lt; &gt;</text>
+		<text id="msg.dlg.noActionsSelected.warning" h="933F1901">"Izvezi akcije obeleživača" polje je čekirano a nije izabran tip akcije. Molimo da izaberete jedan ili više tipova akcije za izvoz ili ukinete oznaku iz polja "Izvezi akcije obeleživača".</text>
+		<text id="msg.dlg.noSelectedBookmarks.warning" h="21F37C67">Niste izabrali nijedan obeleživač u dokumentu. Molimo da izaberete jedan ili više obeleživača ili promenite parametar "Izvor obeleživača" u "Svi obeleživači" da izršite operaciju.</text>
+		<text id="msg.dlg.pathDoesntExist.warning" h="0804B942">Fascikla koju ste naveli ne postoji. Molimo da izaberete validnu odredišnu fasciklu i pokušate ponovo.</text>
+		<text id="msg.font.addCustom.caption" h="75533687">Unesi novi naziv PDF fonta:</text>
+		<text id="msg.font.addCustom.title" h="06AFFCAB">Dodaj novi prilagođeni font</text>
+		<text id="msg.frbt.result.bookmarksCount" h="EE00AC0B">Ova pretraga je kompletna. Ukupan broj modifikovanih obeleživača: %1</text>
+		<text id="msg.frbt.result.noBookmarksModified" h="84BE491B">Ova pretraga je kompletna. Obeleživači nisu modifikovani.</text>
+		<text id="msg.levelDesc.title" h="E92EACC5">Speficikacije nivoa</text>
+		<text id="msg.levelDesc.warning" h="86A85979">Nije moguće kreirati novi nivo obeleživača sa datim podacima. Molimo da izaberete najmanje jedan podudarni kriterij u opcijama uparivanja akođe, proverite da li izabrani elementi sadrže podatke.</text>
+		<text id="msg.oper.noChanges" h="5777DD79">Stvarne promene nisu vršene dok se izvršavala operacija. Molimo da proverite svoje ulazne podatke i pokušate ponovo.</text>
+		<text id="msg.oper.warning" h="ABDCBB65">Ima nekih problema pri izvršenju operacije. Molimo da proverite rezultat.</text>
+		<text id="msg.regex.error" h="D799FCBE">Greška raščlanjivanja regex-a</text>
+		<text id="msg.stopWords.add.title" h="F6B54725">Dodaj novu frazu zaustavljanja</text>
+		<text id="msg.stopWords.caption" h="E2BC1B9E">Unesi novu "reč zaustavljanja" ili "rečenica zaustavljanja":</text>
+		<text id="msg.stopWords.edit.title" h="AFE604DF">Uredi izbrane fraze zaustavljanja</text>
+		<text id="msg.validateBookmarks.delete.caption" h="ED4457F4">Da li želite obrisati izabrane obeleživače sa decom?</text>
+		<text id="msg.validateBookmarks.delete.title" h="8FF00765">Obriši nevalidan obeleživač</text>
+		<text id="msg.validateBookmarks.rename.caption" h="CE842D61">Unesi novi naziv obeleživača:</text>
+		<text id="msg.validateBookmarks.rename.title" h="ED9AF7FA">Preimenuj obeleživač</text>
+		<text id="ndpn.ch.deleteDests" h="BC12FBF0">Ukloni konvertovana odredišta naziva iz dokumenta</text>
+		<text id="op.GenerateBookmarks" h="05382BCA">Generiši obeleživače</text>
+		<text id="op.ValidateBookmarks.msg.emptyActionsList" h="A0A0065C">Obeleživač nema dodeljene akcije</text>
+		<text id="op.ValidateBookmarks.msg.emptyTitle" h="83F3E965">Naslov obeleživača je prazan.</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidDestName" h="81A40483">Akcija "Idi na" se odnosi na nevalidno odredište sa nazivom.</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidPageNumber" h="C8941D79">Akcija "Idi na" se odnosi na stranu koja je van okvira.</text>
+		<text id="op.ValidateBookmarks.msg.goto.noAction" h="368F0970">Nema akcije "Idi na" u unapred postavljenom u listi akcija.</text>
+		<text id="op.ValidateBookmarks.msg.gotoE.invalidTargetPath" h="9D8A50F1">Ciljna putanja je prazna ili nedostaje u akciji "Idi na E".</text>
+		<text id="op.ValidateBookmarks.msg.gotoR.invalidFile" h="76CCA61D">"Idi na R" se odnosi na nevalidnu datoteku.</text>
+		<text id="op.ValidateBookmarks.msg.gotoR.invalidPath" h="560614BE">Putanja do eksternog dokumenta ili datoteke nije validna.</text>
+		<text id="op.ValidateBookmarks.msg.invalidAction" h="84877FDA">%1 akcija nije validna</text>
+		<text id="progress.BookmarkEveryNthPage.title" h="DA523087">Obeležavanje strana...</text>
+		<text id="progress.addTextToBookmarkTitle.text" h="BE27C5C9">Dodavanje teksta u obeleživač: %1...</text>
+		<text id="progress.addTextToBookmarkTitle.title" h="EC7EB408">Dodavanje teksta u obeleživače...</text>
+		<text id="progress.addingBookmark" h="45BBB17E">Dodavanje obeleživača: %1 od %2</text>
+		<text id="progress.bookmarksToHtmlFile.status" h="AF1901AD">Izvoženje obeleživača %1 od %2</text>
+		<text id="progress.bookmarksToHtmlFile.text" h="4DD531FF">Izvoženje obeleživača: %1...</text>
+		<text id="progress.bookmarksToHtmlFile.title" h="E1D21FEE">Izvoženje obeleživača u HTML datoteku...</text>
+		<text id="progress.bookmarksToNamedDests.text" h="CE73819F">Konvertovanje obeleživače: %1...</text>
+		<text id="progress.bookmarksToNamedDests.title" h="8DB00717">Konvertovanje u odredišta sa nazivima...</text>
+		<text id="progress.bookmarksToTextFile.text" h="6E74EA26">Procesuiranje obeleživača za izvoz: %1</text>
+		<text id="progress.bookmarksToTextFile.title" h="D2C04472">Izvoženje obeleživača u tekstualnu datoteku...</text>
+		<text id="progress.calculatingBookmarks" h="4AC26E12">Brojanje obeleživača...</text>
+		<text id="progress.changingBookmarkCase.text" h="107628CA">Promena veličine slova obeleživača: %1...</text>
+		<text id="progress.changingBookmarkCase.title" h="E01AED17">Promena veličine slova obeleživača...</text>
+		<text id="progress.findReplaceBookmarkText.text" h="ABC58F1D">Procesuiranje obeleživača %1</text>
+		<text id="progress.findReplaceBookmarkText.title" h="00FEBD2A">Zamena teksta obeleživača...</text>
+		<text id="progress.generateBookmarks" h="3D5E30ED">Generiši obeleživače od strane %1...</text>
+		<text id="progress.generatingBookmarks" h="CFF0F2A9">Generiši obeleživače</text>
+		<text id="progress.generatingBookmarks.label" h="043CF7B1">Dodavanje obeleživača: %1...</text>
+		<text id="progress.generatingLevels" h="07A22443">Generiši nivoe iz obeleživača...</text>
+		<text id="progress.generatingTOC" h="A438CB9C">Generiši sadržaja</text>
+		<text id="progress.generatingTOCFromBookmark" h="C9213435">Generiši sadržaja iz obeleživača: %1...</text>
+		<text id="progress.namedDestsToPageNumbers.deleteNds" h="5DFFFF06">Brisanje odredišta sa nazivom...</text>
+		<text id="progress.namedDestsToPageNumbers.title" h="4615CB0B">Konvertovanje odredišta sa nazivima u brojeve strana...</text>
+		<text id="progress.parsingFile" h="B2405DA1">Čitanje strukture obeleživača iz tekstualne datoteke...</text>
+		<text id="progress.precalculatingPages" h="DB83BEF7">Kreiranje strana u sadržaju...</text>
+		<text id="progress.preparingSelected" h="52031EDE">Priprema izbora obeleživača...</text>
+		<text id="progress.sortingBookmarks" h="99E846CF">Sortiranje obeleživača: %1...</text>
+		<text id="progress.sortingBookmarks.status" h="451C3890">Sortiranej %1 obeleživača od %2..</text>
+		<text id="progress.sortingBookmarks.title" h="E134B46E">Sortiranje obeleživača</text>
+		<text id="progress.statusText.ProcessingBookmarks" h="3836AD6B">Procesuiranje obeleživača %1 od %2</text>
+		<text id="progress.statusText.ProcessingBookmarksDone" h="67CB6C48">Proces obeležavanja je završen.</text>
+		<text id="progress.undoingChanges" h="BBD3EE96">Poništavanje promena...</text>
+		<text id="regex.error.backref" h="3D1C1BE5">Izraz sadrži nevalidnu povratnu referencu.</text>
+		<text id="regex.error.badbrace" h="4363EA7D">Izraz sadrži nevalidan raspon između zagrada: "{" i "}"</text>
+		<text id="regex.error.badrepeat" h="9091944F">Izraz sadrži specifajer koji se ponavlja (jedan od *?+{}) koji nisu ispred validnog regularnog izraza.</text>
+		<text id="regex.error.brace" h="3031B0A1">Izraz sadrži nepodudarne vitičaste zagrade: "{" i "}"</text>
+		<text id="regex.error.brack" h="A41AB311">Izraz sadrži nepodudarne srednje zagrade: "[" i "]"</text>
+		<text id="regex.error.collate" h="D15FB49F">Izraz sadrži nevalidan naziv uparenog elementa.</text>
+		<text id="regex.error.complexity" h="76ADCA5C">Kompleksnost pokušanog uparivanja prema regulatnom izrazu je prešla predefinisani nivo.</text>
+		<text id="regex.error.ctype" h="76D6C176">Izraz sadrži nevalidan znak u nazivu klase.</text>
+		<text id="regex.error.default" h="509A660E">Greška se pojavila pri procesuiranju ulaznog regex-a.</text>
+		<text id="regex.error.escape" h="4BAF1552">Izraz sadrži nevalidan naziv izbegnutog znaka, ili zaostajućeg izbegavanja (trailing escape).</text>
+		<text id="regex.error.paren" h="11F2EE54">Izraz sadrži nepodudarne zagrade: "(" i ")"</text>
+		<text id="regex.error.range" h="CDB00023">Izraz sadrži nevalidan raspon znakova (npr. [z-a])</text>
+		<text id="regex.error.space" h="2FFB9DD7">Nema dovoljno memorije da se obradi ovaj regularni izraz.</text>
+		<text id="regex.error.stack" h="2F47E3EC">Ima nedovoljno memorije za utvrđivanje da li regularni izraz može odgovarati navedenoj sekvenci znakova.</text>
+		<text id="regex.error.syntax" h="4F399035">Ima greška u Regex sintaksi.</text>
+		<text id="sb.ascending" h="59F2363F">Rastući</text>
+		<text id="sb.chb.ignoreCase" h="E0949C6C">Ignoriši veličinu slova (mala/velika)</text>
+		<text id="sb.chb.sortAll" h="7BB3E98C">Sortiraj sve nivoe obeleživača</text>
+		<text id="sb.chb.sortChildren" h="B1087C90">Sortiraj dete obeleživača</text>
+		<text id="sb.descending" h="74091246">Opadajući</text>
+		<text id="sb.g.sortingMethod" h="93D0D863">Metod sortiranja</text>
+		<text id="sb.l.selectLevel" h="62FA8E9C">Izaberi nivo obeleživača za sortiranje:</text>
+		<text id="sb.l.sortType" h="85828DAE">Sortiraj tip</text>
+		<text id="sb.rb.sortAlpha" h="F9CD110C">Sortiraj obeleživače prema abecedi</text>
+		<text id="sb.rb.sortByPage" h="EB2AF7E4">Sortiraj obeleživače referenciranjem broja strane</text>
+		<text id="test" h="A538F326">Testni string</text>
+		<text id="tree.fontColor" h="210B1C91">Boja teksta:</text>
+		<text id="tree.fontName" h="ACA86074">Naziv fonta:</text>
+		<text id="tree.fontSize" h="B3CE43BA">Veličina fonta:</text>
+		<text id="tree.fontTolerance" h="7781AAB6">Tolerancija:</text>
+		<text id="tree.level" h="9B075A86">Nivo:</text>
+		<text id="tree.textPattern" h="24121AD7">Obrazac teksta:</text>
+		<text id="tree.vb.bookmark" h="9926EC31">&lt;b&gt;%1. Obeleživač:&lt;/b&gt; "%2"</text>
+		<text id="ttoc.b.build" h="DE9A0F1C">Napravi</text>
+		<text id="ttoc.b.changeNumber" h="DD04BEA8">Promeni format:</text>
+		<text id="ttoc.b.changeTitle" h="3B951B9A">Promeni format naslova...</text>
+		<text id="ttoc.chb.asLastPage" h="D323F9DD">Kao poslednja strana</text>
+		<text id="ttoc.chb.end" h="9F41B967">Koristi sve nivoe obeleživača</text>
+		<text id="ttoc.chb.skipInvalid" h="F864C487">Preskoči nevalidne obeleživače</text>
+		<text id="ttoc.chb.useDifferentNumberFormatting" h="A39D9F18">Koristi prilagođeni format numerisanja</text>
+		<text id="ttoc.chb.useDifferentSeparatorFormatting" h="7D6F82B2">Koristi prilagođeni format separatora</text>
+		<text id="ttoc.chb.useSizeFromDoc" h="79C19271">Utvrdi veličinu strane od dokumenta</text>
+		<text id="ttoc.g.pageNumbering" h="21AF4605">Numerisanje strane</text>
+		<text id="ttoc.g.pageSettings" h="D82087B4">Podešavanja strane</text>
+		<text id="ttoc.ib.numberFormat" h="D41C6CB8">&lt;b&gt;Formata naslova:&lt;/b&gt; &lt;i&gt;Porodica fonta&lt;/i&gt; %1, &lt;i&gt;Veličina fonta&lt;/i&gt; %2, &lt;i&gt;Boja fonta&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.ib.separatorFormat" h="14A80F28">&lt;b&gt;Format separatora:&lt;/b&gt; &lt;i&gt;Porodica fonta&lt;/i&gt; %1, &lt;i&gt;Veličina fonta&lt;/i&gt; %2, &lt;i&gt;Boja fonta&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.ib.titleFormat" h="4A9C0388">&lt;b&gt;Formata naslova:&lt;/b&gt; &lt;i&gt;Porodica fonta&lt;/i&gt; %1, &lt;i&gt;Veličina fonta&lt;/i&gt; %2, &lt;i&gt;Boja fonta&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.l.end" h="43FA653A">Poslednji nivo obeleživača za uključivanje u sadržaj:</text>
+		<text id="ttoc.l.insertAsPage" h="B68AF5B1">Ubaci sadržaj pre strane:</text>
+		<text id="ttoc.l.outputPagesAs" h="96E6A50A">Izlazni broj strana kao:</text>
+		<text id="ttoc.l.pageMargins" h="DA4D6B15">Margine strana:</text>
+		<text id="ttoc.l.start" h="B03149CB">Prvi nivo obeleživača za uključivanje u sadržaj:</text>
+		<text id="ttoc.l.title" h="930D3835">Naslov:</text>
+		<text id="ttoc.l.titleFormatting" h="21C775EE">Ažuriranje formatiranje naslova:</text>
+		<text id="ttoc.output.bates" h="ECE56FA9">Bejts numerisanje (ako je pristuno)</text>
+		<text id="ttoc.output.labels" h="EAE579C1">Etikete strane</text>
+		<text id="ttoc.output.numbers" h="38E0043C">Originalni brojevi strane</text>
+		<text id="ttoc.style.dots" h="C13D9439">Poglavlje........1</text>
+		<text id="ttoc.style.spaces" h="D9E4F5A0">Poglavlje        1</text>
+		<text id="ttoc.style.underline" h="B52B746A">Poglavlje_____1</text>
+		<text id="ttoc.tableOfContents" h="080B4CC0">Sadržaj</text>
+		<text id="undefinedFont" h="06D72DED">Nedefinisani font (%1)</text>
+		<text id="vb.invalidALWarining" h="6B3E67E5">Promene su negirane zbog postavljene nevalidne liste akcija. Molimo da ostavite bar jednu akciju!</text>
+		<text id="vb.l.invalidBookmarks" h="EE502FFE">Našao %1 nevalidnih obeleživača</text>
+		<text id="rtab" h="E2032460">Obeleživači</text>
+		<text id="rbar.create" h="EDCA1553">Kreiraj</text>
+		<text id="rbar.modify" h="EA358CAF">Modifikuj</text>
+		<text id="rbar.convert" h="EFAC3874">Konvertuj</text>
+	</Strings>
+</Localization>

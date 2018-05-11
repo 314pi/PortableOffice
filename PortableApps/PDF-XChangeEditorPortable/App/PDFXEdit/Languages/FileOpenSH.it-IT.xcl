@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220812">2.00.00</Version>
+	<Author>Violi S.; Pari D.</Author>
+	<Copyright>©Violi S.
+Opera distribuita con Licenza Creative Commons
+Attribuzione - Condividi allo stesso modo 3.0 Italia
+http://creativecommons.org/licenses/by-sa/3.0/it/
+
+Per commenti/suggerimenti:
+http://plus.google.com/+SantoVioli	</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Italian (Italy)" lName="italiano" code="it-IT" R2L="false"/>
+	<Module name="FileOpenSH" namespace="fopw" version="6.0.322.7"/>
+	<Strings>
+		<text id="secure.printer.title" h="448D1D7F">Questa stampante non è ammessa.</text>
+		<text id="secure.printer.text" h="7488F002">Questa stampante non può essere usata per la stampa protetta. Prego lanciare di nuovo la stampa selezionando un'altra stampante.</text>
+	</Strings>
+</Localization>

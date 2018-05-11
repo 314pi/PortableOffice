@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20170425233740">2.00.00</Version>
+	<Author>Jeff Mahe (jfmahe@europe.com), Swirti</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="French (France)" lName="Français" code="fr-FR" R2L="false"/>
+	<Module name="PDFConverter" namespace="pdfconv" version="6.0.322.7"/>
+	<Strings>
+		<text id="DT" h="68CCD7A1">Symbole décimal et séparateur de milliers :</text>
+		<text id="Decimal" h="97B538F3">Symbole décimal :</text>
+		<text id="Fonts" h="09BC9E47">Polices :</text>
+		<text id="NoPermission" h="F6BEA48A">Le document est protégé. Vous n’avez pas les autorisations suffisantes pour effectuer la conversion.</text>
+		<text id="cmd.name.P" h="FE79EAE9">Exporter vers Microsoft PowerPoint...</text>
+		<text id="cmd.name.Sel.P" h="10B9EA70">Exporter la sélection vers Microsoft PowerPoint...</text>
+		<text id="cmd.name.Sel.W" h="F60B7012">Exporter la sélection vers Microsoft Word...</text>
+		<text id="cmd.name.Sel.X" h="53447190">Exporter la sélection vers Microsoft Excel</text>
+		<text id="cmd.name.W" h="36A68CE1">Exporter vers Microsoft Word...</text>
+		<text id="cmd.name.X" h="5F515377">Exporter vers Microsoft Excel...</text>
+		<text id="cmd.nameShort.P" h="C4DB7FDB">Vers MS-PowerPoint...</text>
+		<text id="cmd.nameShort.W" h="23467A9D">Vers MS-Word...</text>
+		<text id="cmd.nameShort.X" h="4FDED68C">Vers MS-Excel...</text>
+		<text id="cmd.nameTip.P" h="5DF5F44C">Exporter le document actif vers Microsoft PowerPoint...</text>
+		<text id="cmd.nameTip.Sel.P" h="547499FA">Exporter la sélection en cours vers Microsoft PowerPoint...</text>
+		<text id="cmd.nameTip.Sel.W" h="9526C3A8">Exporter la sélection en cours vers Microsoft Word...</text>
+		<text id="cmd.nameTip.Sel.X" h="9DBFD9AB">Exporter la sélection en cours vers Microsoft Excel...</text>
+		<text id="cmd.nameTip.W" h="08C70E7C">Exporter le document actif vers Microsoft Word...</text>
+		<text id="cmd.nameTip.X" h="71C65F22">Exporter le document actif vers Microsoft Excel...</text>
+		<text id="convertation" h="B1E1828B">Conversion du document PDF</text>
+		<text id="convertation.DecimalError" h="AB9CA906">Symbole décimal invalide</text>
+		<text id="convertation.DecimalThousandsError" h="9002FE5E">Le symbole décimal et le séparateur de milliers doivent être différents</text>
+		<text id="convertation.Error1" h="388D83B4">Une erreur critique est survenue durant la conversion du document :</text>
+		<text id="convertation.Error2" h="A394ADBC">Impossible d’enregistrer le fichier de résultat.</text>
+		<text id="convertation.ThousandsError" h="1660BD37">Séparateur de milliers invalide</text>
+		<text id="dpi" h="B39AC2C1">dpi</text>
+		<text id="elseUseRegional" h="8F1D3748">* Sinon en utilisant les paramètres régionaux</text>
+		<text id="excel.filter" h="D766664D">Feuille MS Excel</text>
+		<text id="newRowRul" h="4CD45F3D">Utilisez une nouvelle ligne pour chaque</text>
+		<text id="options" h="DAD7B4F4">Options</text>
+		<text id="options.compress.0" h="378201C4">PNG</text>
+		<text id="options.compress.1" h="25090095">JPG</text>
+		<text id="options.dpilevel" h="4D4FE579">%1 dpi</text>
+		<text id="options.fontsembedmode.0" h="4FD6EAB9">Incorporer uniquement les polices intégrées au document PDF</text>
+		<text id="options.fontsembedmode.1" h="485361C4">Non incorporé</text>
+		<text id="options.quality.0" h="8415F85F">Minimale</text>
+		<text id="options.quality.1" h="845E3D8C">Basse</text>
+		<text id="options.quality.2" h="91153342">Moyenne</text>
+		<text id="options.quality.3" h="21A95620">Haute</text>
+		<text id="options.quality.4" h="A8A97F0E">Maximum</text>
+		<text id="options.textmode.0" h="77B1E837">Préserver le texte modifiable</text>
+		<text id="options.textmode.1" h="8419D7CE">Convertir en courbes</text>
+		<text id="options.textmode.2" h="60E91945">Convertir en images</text>
+		<text id="options.newRow.0" h="9CF38C36">Paragraphe</text>
+		<text id="options.newRow.1" h="6D45691D">Ligne</text>
+		<text id="optionsCBAllowCurves" h="976099D8">Conversion du texte utilisant des polices incompatibles en courbes</text>
+		<text id="optionsCBAllowSubstitution" h="169F5988">Autoriser la substitution des polices qui ne peuvent pas être incorporées</text>
+		<text id="optionsCBEmbedFont" h="3E50224C">Incorporer toutes les polices</text>
+		<text id="optionsCBIncludeComments" h="B08E5CA8">Inclure les commentaires</text>
+		<text id="optionsCBIncludeImages" h="969B2F6C">Inclure les images</text>
+		<text id="optionsCBIncludeLinks" h="F5F4CED4">Inclure les liens</text>
+		<text id="optionsCBPageToImage" h="0707FDB4">Convertir le contenu de la page entière en image</text>
+		<text id="optionsGBCommonOpt" h="5B3B421B">Paramètres généraux</text>
+		<text id="optionsGBTextOpt" h="D7BD8320">Options de conversion du texte</text>
+		<text id="optionsIBTextRaster" h="699A1B72">Le texte sera pixellisé s'il ne peut pas être converti en courbes selon les options ci-dessus.</text>
+		<text id="optionsLBCompres" h="990F2529">Compression:</text>
+		<text id="optionsLBIssuesFont" h="BB2E863E">Lorsqu’il y a des problèmes de compatibilité/portabilité avec les polices :</text>
+		<text id="optionsLBMode" h="274455FC">Mode :</text>
+		<text id="optionsLBQuality" h="E3A77A93">Qualité :</text>
+		<text id="optionsLBTextRaster" h="32A3B18F">Qualité de pixellisation du texte :</text>
+		<text id="optionsLBToImgParam" h="4ED54AB4">Paramètres de conversion du texte en image :</text>
+		<text id="optionsLBdpiComm" h="0FE84938">Résolution :</text>
+		<text id="optionsLBdpiCompression" h="4CA3E32A">Vous pouvez régler la qualité de pixellisation pour les éléments du contenu non convertibles (tels que des dégradés complexes) ou d’une page entière, lorsque l’option ci-dessus est activée :</text>
+		<text id="optionsLBlastHope" h="F73DC603">NOTE : si la conversion du texte en courbes échoue, le texte sera converti en image.</text>
+		<text id="powerpoint.filter" h="9FB63544">Présentation MS PowerPoint</text>
+		<text id="regionalDT" h="929F7393">Utiliser les paramètres régionaux</text>
+		<text id="thousands" h="256655C5">Séparateur de milliers :</text>
+		<text id="userDefinedDT" h="CFDC144E">Personnaliser :</text>
+		<text id="word.filter" h="6BB79C71">Document MS Word</text>
+	</Strings>
+</Localization>

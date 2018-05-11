@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117213644">2.00.00</Version>
+	<Author>pdf.xchange.translate@gmail.com</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Dutch (Netherlands)" lName="Nederlands" code="nl-NL" R2L="false"/>
+	<Module name="MarkdownPlugin" namespace="md" version="6.0.322.7"/>
+	<Strings>
+		<text id="cmd.tip" h="7F449B9F">Maak een nieuw document vanuit Markdown bestand(en).</text>
+		<text id="converter.filterName" h="AE86B691">Markdown bestanden</text>
+		<text id="opt.style" h="5CEA121A">Stijl:</text>
+		<text id="opt.test.title" h="44732FAA">Test</text>
+		<text id="opt.title" h="45D26671">Opties Markdown naar PDF</text>
+		<text id="prefs.name" h="07E67B98">Markdown naar PDF</text>
+		<text id="prefs.title" h="45D26671">Opties Markdown naar PDF</text>
+		<text id="prop.list.extension" h="14FEB836">Extensie</text>
+		<text id="prop.list.location" h="BB241F45">Locaties</text>
+		<text id="prop.list.modified" h="30325672">Gewijzigd</text>
+		<text id="prop.list.size" h="17A58A52">Grootte</text>
+		<text id="prop.list.title" h="796DFAD3">Titel</text>
+		<text id="prop.source" h="AE86B691">Markdown bestanden</text>
+		<text id="prop.source.file" h="F3110572">Selecteer Markdown bestanden</text>
+		<text id="prop.source.folder" h="8477FBD3">Selecteer map met Markdown</text>
+		<text id="prop.source.subfolder" h="CBDB440E">Kijk in sub-mappen</text>
+	</Strings>
+</Localization>

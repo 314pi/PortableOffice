@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20170425233742">2.00.00</Version>
+	<Author>Michael Dodl</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="German (Germany)" lName="Deutsch" code="de-DE" R2L="false"/>
+	<Module name="GoogleDrivePlugin" namespace="gd" version="6.0.322.0"/>
+	<Strings>
+		<text id="DlgOpenFile" h="B98AB29D">Datei von Google Drive öffnen</text>
+		<text id="DlgSaveFile" h="81F99046">Datei auf Google Drive speichern</text>
+		<text id="GDPlugin" h="32B7E3E0">Google Drive Plugin</text>
+		<text id="btn.connectToAnother" h="508BDBC5">Neues Konto...</text>
+		<text id="cmd.cmdsCategory" h="AD23B285">Google Drive</text>
+		<text id="cmd.googledrive" h="1D28DF85">&amp;Google Drive</text>
+		<text id="cmd.open" h="F32ECED5">&amp;Google Drive...</text>
+		<text id="cmd.open.tip" h="933837A2">Ein Dokument von Google Drive öffnen</text>
+		<text id="cmd.save" h="F32ECED5">&amp;Google Drive...</text>
+		<text id="cmd.save.tip" h="948C3269">Das aktive Dokument auf Google Drive speichern.</text>
+		<text id="cpt.fileNotFound" h="A7F5FA7A">Datei wurde nicht gefunden</text>
+		<text id="cpt.invalidFileName" h="79C1387C">"Ungültiger Dateiname</text>
+		<text id="cpt.navigateError" h="3D300A1C">Navigationsfehler</text>
+		<text id="cpt.saveReplace" h="520CB069">Datei speichern</text>
+		<text id="cpt.selectFile" h="C55D68B0">Datei auswählen</text>
+		<text id="dlg.googleAuth" h="E5642F22">Anmeldung an Google Drive</text>
+		<text id="fileName" h="DEC92488">Dateiname:</text>
+		<text id="lb.CurrentFolder" h="44158804">Aktueller Ordner:</text>
+		<text id="lb.Test" h="273F3E5B">Test Test Test!</text>
+		<text id="lb.googleAccName" h="C94645A3">Google-Konto:</text>
+		<text id="msg.fileNotFound" h="430E08B1">Die Datei "%1" konnte im aktuellen Ordner nicht gefunden werden.</text>
+		<text id="msg.invalidFileName" h="7C0655B5">"%1" ist kein gültiger Dateiname.</text>
+		<text id="msg.navigateError" h="2FCAA72A">Google Drive konnte nicht geöffnet werden. Bitte prüfen Sie Ihre Internetverbindung und die Berechtigung um auf Google Drive zuzugreifen.</text>
+		<text id="msg.openFailed" h="AC94D960">Die Datei konnte nicht geöffnet werden. Stellen Sie sicher, dass die Datei existiert, nicht von einem anderen Benutzer verwendet wird und Sie Leserechte für die Datei haben. </text>
+		<text id="msg.saveFailed" h="4D413392">Die Datei konnte nicht gespeichert werden. Stellen Sie sicher, dass der Dateiname gültig ist und Sie Schreibrechte für die Datei haben.</text>
+		<text id="msg.saveReplace" h="5D56833E">Die Datei %1 existiert bereits. Wollen Sie sie ersetzen?</text>
+		<text id="msg.selectFile" h="2530C20F">Bitte wählen Sie eine Datei vor Sie auf OK klicken</text>
+		<text id="ls.column.created" h="FE6510B7">Erstellungsdatum</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Datum und Uhrzeit zu der die Datei, der Ordner oder die Liste erstellt wurde</text>
+		<text id="ls.column.extension" h="14FEB836">Erweiterung</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Dateierweiterung</text>
+		<text id="ls.column.modified" h="7E234D6D">Änderungsdatum</text>
+		<text id="ls.column.modified.hint" h="12933E76">Datum und Uhrzeit zu der die Datei, der Ordner oder die Liste zuletzt geändert wurde</text>
+		<text id="ls.column.size" h="17A58A52">Größe</text>
+		<text id="ls.column.size.hint" h="9C4BD847">Größe der Datei</text>
+		<text id="ls.column.title" h="D18643E3">Name</text>
+		<text id="ls.column.title.hint" h="6A895576">Datei-, Ordner- oder Listenname</text>
+		<text id="virtualfolder.mydrive" h="84C2D3A6">Mein Laufwerk</text>
+		<text id="virtualfolder.sharedwithme" h="8B65307E">Mit mir geteilt</text>
+		<text id="cpt.unableToSaveToVirtualFolder" h="778EF99A">Die Datei konnte nicht im ausgewählten Ordner gespeichert werden</text>
+		<text id="msg.unableToSaveToVirtualFolder" h="A6644426">Die Datei konnte nicht am ausgewählten Ort gespeichert werden. Bitte wählen Sie den 'Mein Laufwerk'-Ordner, einen seiner Unterordner oder einen Unterordner von 'Mit mir geteilt' um die Datei zu speichern.</text>
+	</Strings>
+</Localization>

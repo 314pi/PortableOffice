@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123223622">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Russian (Russia)" lName="Русский" code="ru-RU" R2L="false"/>
+	<Module name="PDFAConverter" namespace="pdfa" version="7.0.323.3"/>
+	<Strings>
+		<text id="auto.pdfa.level" h="778FAC3D">Автоматический подбор версии PDF/A</text>
+		<text id="conv.name" h="7A00CE23">PDF/A (*.pdf)</text>
+		<text id="dlg.opt.autopdfa.info" h="4FBB3824">Разрешать PDF-XChange Editor применять наиболее подходящую версию стандарта при сохранении документа.</text>
+		<text id="dlg.opt.cb.correction" h="1EF3C21C">Применить правки</text>
+		<text id="dlg.opt.embedfonts.lbl" h="61AFDA73">Встроить подмножество шрифтов</text>
+		<text id="dlg.opt.g1.title" h="DAD7B4F4">Параметры</text>
+		<text id="dlg.opt.g2.title" h="8FB1A988">Цветовой профиль</text>
+		<text id="dlg.opt.g3.title" h="8AD54EB1">Исправления</text>
+		<text id="dlg.opt.label.auto" h="FF103EFE">Автоматический подбор версии PDF/A</text>
+		<text id="dlg.opt.label1" h="EB2313FD">Выбрать версию спецификации:</text>
+		<text id="dlg.opt.label2" h="752CF760">Выбрать профиль:</text>
+		<text id="dlg.opt.title" h="86709E15">Преобразование в PDF/A</text>
+		<text id="dlg.pdfxConvert" h="1D70370D">Преобразовать в PDF/X</text>
+		<text id="dlg.rep.errors" h="EC9E93B4">Ошибки (%1):</text>
+		<text id="dlg.rep.fixes" h="594F7931">Исправлено (%1):</text>
+		<text id="dlg.rep.title" h="1DC94CC7">Отчет преобразования</text>
+		<text id="dlg.rep.warnings" h="6F8DAB37">Предупреждения (%1):</text>
+		<text id="lbl.chooseStd" h="4CB6AFEB">Выбрать стандарт:</text>
+		<text id="rasterize.error.chk" h="1CB52AC5">Растрировать невстроенные шрифты</text>
+		<text id="msg.err.alternate_presenatations" h="19A17FF2">Документ содержит альтернативные изображения</text>
+		<text id="msg.err.embed_file_missing_key" h="B12243CC">Внедренный файл: ключ %1 отсутствует</text>
+		<text id="msg.err.embed_file_no_AF" h="0D075E68">Внедренный файл не содержит элемента "AF"</text>
+		<text id="msg.err.embed_file_no_AFRelationship" h="0F2FF281">Внедренный файл не содержит элемента "AFRelationship"</text>
+		<text id="msg.err.embed_file_no_MIME_type" h="B23BB7AE">Для внедренного файла не задан тип MIME</text>
+		<text id="msg.err.embed_file_no_ModDate" h="32393EC5">Внедренный файл не содержит элемента "ModeDate"</text>
+		<text id="msg.err.embed_file_not_PDF" h="ACB6C0B4">Некоторые внедренные файлы не PDF-формата</text>
+		<text id="msg.err.embed_file_not_PDFA_compliance" h="69851F66">Как минимум один внедренный PDF-документ не соотвествует PDF/А</text>
+		<text id="msg.err.font" h="E728DE31">Шрифт %1 неправильный: %2</text>
+		<text id="msg.err.invalidfontobject" h="D0411546">Неправильный объект шрифта</text>
+		<text id="msg.err.halftone_has_name" h="044A925B">Расширенное графическое состояние: Halftone задан именем</text>
+		<text id="msg.err.image_bpc_more" h="63802D36">Бит на компоненту для изображения больше %1</text>
+		<text id="msg.err.impl_limit_obj_size_more" h="3A9756F7">размер объекта %1 больше %2</text>
+		<text id="msg.err.impl_limit_pagebox_less" h="39206E0E">Ограничение реализации: размер %1 меньше 3 единиц</text>
+		<text id="msg.err.impl_limit_pagebox_more" h="7793CF00">Ограничение реализации: размер %1 больше 14400 единиц</text>
+		<text id="msg.err.impl_limit_val_out_range" h="0778EBD3">Значение %1 вне допустимых пределов</text>
+		<text id="msg.err.incomp_docinfo_metadata" h="4CE13608">1% несоответсвия между информацией о документе (Document Info) и XMP метаданными (XMP Metadata)</text>
+		<text id="msg.err.incomp_ge_cs_with_outintent" h="A7DB0264">использован цвет %2 при целевом %1</text>
+		<text id="msg.err.incomp_image_cs_with_outintent" h="FA83CF54">изображение в %2 при целевом %1</text>
+		<text id="msg.err.incomp_shading_cs_with_outintent" h="6CEF543E">градиент %2 при целевом %1</text>
+		<text id="msg.err.invalid.xform" h="735966B8">Документ содержит некорректную ХForm</text>
+		<text id="msg.err.invalid_image" h="A275C999">Изображение не является допустимым</text>
+		<text id="msg.err.keys_not_UR3_DocMDP" h="33EEDCA6">В разрешениях использованы ключи, отличные от "UR3" и "DocMDP"</text>
+		<text id="msg.err.mbox.missing" h="529404DB">"MediaBox" отсутствует</text>
+		<text id="msg.err.metadata_missing" h="52FA2A56">Метаданные пустые</text>
+		<text id="msg.err.obj_validator_name_not_UTF8" h="FB949014">Некорректная UTF-8 строка в имени</text>
+		<text id="msg.err.pageseparated" h="04FDB927">Страница отделена</text>
+		<text id="msg.err.preliminary.modify" h="413E0B86">Модификация документа запрещена</text>
+		<text id="msg.err.preliminary.secured" h="1CA464FB">Документ защищен</text>
+		<text id="msg.err.preliminary.xfa" h="1B4F1FD1">Документ, содержащий XFA-форму, невозможно сохранить как PDF/A</text>
+		<text id="msg.err.root.invalid.key" h="AB4A8812">Корневой объект содержит недействительный ключ</text>
+		<text id="msg.err.xfa" h="7CB7EB6A">Преобразование невозможно: документ содержит форму XFA</text>
+		<text id="msg.err.pressteps" h="1CBEE75B">Страница содержит "PresSteps"</text>
+		<text id="msg.err.st_root_elem_type_not_standard" h="F26BDE8C">Cтруктурированный PDF: элемент нестандартного типа</text>
+		<text id="msg.err.st_root_missing" h="7F7D9806">Отсутствует "StructTreeRoot"</text>
+		<text id="msg.err.substitute_filter" h="50898016">%1 заменен на %2</text>
+		<text id="msg.err.subtype_xform_missing" h="00C060BB">Элемент "Subtype" отсутствует в XForm</text>
+		<text id="msg.err.tagging_structure" h="025A02E3">Структура тегирования</text>
+		<text id="msg.err.used_egs_key" h="8964F17F">Расширенное графическое состояние: %1%2%3 использован</text>
+		<text id="msg.err.used_embedded_files" h="5D7BA79C">Документ содержит внедренные файлы</text>
+		<text id="msg.err.used_ext_stream" h="7B302079">Использованы внешние данные</text>
+		<text id="msg.err.used_fiter" h="C350A2BE">%1 фильтр использован</text>
+		<text id="msg.err.used_fiter_invalid" h="2604E73C">Документ использует неизвестный тип сжатия</text>
+		<text id="msg.err.used_jpeg2000" h="52FB4580">Использовано JPEG2000 сжатие</text>
+		<text id="msg.err.used_key" h="48336238">%1 ключ использован</text>
+		<text id="msg.err.used_obj_transparency" h="A7E6E8BD">Объект содержит прозрачность: %1</text>
+		<text id="msg.err.used_scale_factor" h="341357C0">Масштабирование страниц (UserUnit) использовано</text>
+		<text id="msg.err.layer_is_not_ocgs" h="192BDC6C">Cлой не содержится в списке слоев документа</text>
+		<text id="msg.err.realnumber.high" h="66E0E3DB">Дійсне число завелике</text>
+		<text id="msg.err.realnumber.low" h="2A96B6D3">Дійсне число замале</text>
+		<text id="msg.err.outlinetitle.missing" h="DDDF0A13">Отсутствует заголовок</text>
+		<text id="msg.err.dictsize" h="A051CB86">Размер словаря больше 4095</text>
+		<text id="msg.err.filespecification" h="E67D7D14">Документ содержит спецификацию файла.</text>
+		<text id="msg.warn.image.reencoded" h="E4131E9E">Данные изображения были перекодированы</text>
+		<text id="msg.fix.added_mark_info" h="6603ECE2">Добавлено MarkInfo в каталог документа</text>
+		<text id="msg.fix.annot" h="A3ED2923">Подготовленная аннотация для PDF/А стандарта</text>
+		<text id="msg.fix.annotPDFX" h="5675C2EF">Подготовленная аннотация для PDF/Х</text>
+		<text id="msg.fix.append.data" h="C09E2EE2">Заполнены недостающие данные изображения</text>
+		<text id="msg.fix.blendingCS" h="C69A9AF9">Исправлено цветовое пространство растеризации</text>
+		<text id="msg.fix.convert_ge_to" h="0F8BC341">Цветовое пространство графического элемента преобразовано в %1</text>
+		<text id="msg.fix.convert_image_to" h="4C6135BC">Цветовое пространство изображения преобразовано в %1</text>
+		<text id="msg.fix.convert_shading_to" h="62CBFA3C">Цветовое пространство градиента преобразовано в %1</text>
+		<text id="msg.fix.create_metadata" h="D90DAD7D">Метаданные созданы</text>
+		<text id="msg.fix.create_res_dict" h="FCE6D2B1">Словарь ресурсов был добавлен на страницу</text>
+		<text id="msg.fix.create_st_root" h="41944498">Создано "StructTreeRoot"</text>
+		<text id="msg.fix.discard_action_annotation" h="F7198D05">Исключены несовместимые действия из аннотации</text>
+		<text id="msg.fix.discard_action_catalog" h="C3900926">Исключены несовместимые действия из каталога</text>
+		<text id="msg.fix.discard_action_document" h="C016B27B">Исключены несовместимые действия из документа</text>
+		<text id="msg.fix.discard_action_outlines" h="FBBE3E9F">Исключены несовместимые действия из закладок</text>
+		<text id="msg.fix.embed_ext_stream" h="048B6358">Внешние данные встроены в документ</text>
+		<text id="msg.fix.embed_file_fixed" h="31D72A99">Внедренный PDF-документ преобразован в стандарт PDF/A </text>
+		<text id="msg.fix.embed_file_set_AF" h="D2B4D107">Внедренный файл: создать соответствующий ключ в элементе "AF"</text>
+		<text id="msg.fix.embed_file_set_MIME" h="3EF87FF1">Внедренный файл: тип MIME был задан</text>
+		<text id="msg.fix.embed_file_set_ModDate" h="BA267B98">Внедренный файл: Дата модификации записана в параметрах описания</text>
+		<text id="msg.fix.embed_file_set_key_to" h="BC68FC0B">Внедренный файл: ключ %1 установлен в %2</text>
+		<text id="msg.fix.fixed.pageboxes" h="99E435FA">Исправлено </text>
+		<text id="msg.fix.flatten_opt_contents" h="6B973C9C">Объединение содержимого слоев</text>
+		<text id="msg.fix.flatten_transparency" h="1A34D6C7">Объединение прозрачности</text>
+		<text id="msg.fix.font" h="D72B5D39">Шрифт %1 исправлен: %2</text>
+		<text id="msg.fix.font_rasterized" h="F886ED6D">Текст, использующий шрифт %1, был растеризован</text>
+		<text id="msg.fix.insert_correct_parent_outline_item_key" h="0EAAA35B">Исправлен элемент Parent для закладки</text>
+		<text id="msg.fix.insert_parent_outline_item_key" h="345CBC49">Исправлен элемент Parent для закладки</text>
+		<text id="msg.fix.io.set" h="F9298C4C">Целевой установлен как %1</text>
+		<text id="msg.fix.pages.root" h="A1647A90">Исправлена структуру дерева страниц</text>
+		<text id="msg.fix.rasterize.invalid.form" h="D899922D">Некорректная форма растеризиована</text>
+		<text id="msg.fix.recompress_image_to_target_BPC" h="FF073DE9">Изображение преобразовано к %1 битам на компоненту</text>
+		<text id="msg.fix.recompress_jpeg2000" h="99C21C1F">JPEG 2000 изображения перекодировано</text>
+		<text id="msg.fix.remove.alternate_presentations" h="504508D7">Альтернативные изображения удалены из документа</text>
+		<text id="msg.fix.remove.embedded.files" h="26C6032E">Удалить из документа встроенные шрифты</text>
+		<text id="msg.fix.remove_JS" h="60C345B8">JavaScripts удален</text>
+		<text id="msg.fix.remove_TR" h="E292DCE2">Кривая трансформации удалена</text>
+		<text id="msg.fix.remove_annot" h="6BD2280C">Несовместимая аннотация удалена</text>
+		<text id="msg.fix.remove_annot_invalid" h="F94382C8">Некорректный объект из списка аннотаций удален</text>
+		<text id="msg.fix.remove_egs_key" h="C443AC00">Расширенное графическое состояние: ключ %1 удален</text>
+		<text id="msg.fix.remove_element_with_zero_cm" h="F8645451">Элемент c нулевой матрицей трансформации удален</text>
+		<text id="msg.fix.remove_embedded_files" h="8F0B4037">Внедренные файлы удалены из PDF-документа в соответсвии со стандартом PDF/A </text>
+		<text id="msg.fix.remove_ext_stream" h="AFDE8AD8">Ссылка на внешние данные удалена</text>
+		<text id="msg.fix.remove_interpolate" h="F32EB202">Элемент Interpolate удален из изображения</text>
+		<text id="msg.fix.remove_key" h="4413CC72">%1 удален</text>
+		<text id="msg.fix.remove_scale_factor" h="143311F1">Масштабирование страниц (UserUnit) удалено</text>
+		<text id="msg.fix.remove_transparency" h="7E5AEEAE">Прозрачность удалена</text>
+		<text id="msg.fix.remove.invalid.ge" h="1ADE8289">Удалить некорректный графический элемент</text>
+		<text id="msg.fix.set_PDFA_version_conformance" h="AB0F972F">Установить версию PDF/A и соостветсвие</text>
+		<text id="msg.fix.set_PDFX_version" h="7AA4188B">Установить версию PDF/Х как %1</text>
+		<text id="msg.fix.set_egs_key_to" h="63221188">Расширенное графическое состояние: ключ %1 установлен в %2</text>
+		<text id="msg.fix.set_image_intent_to_rc_metric" h="CF86B7A2">Параметр "Intent" для изображения был установлен в значение "RelativeColorimetric"</text>
+		<text id="msg.fix.set_op_mode_to_0" h="5F8AB92B">Режим Overprint установлен в 0 для 4-х компонентного ICCBased цветового пространства</text>
+		<text id="msg.fix.set_page_size_to_pdfa" h="196F4E85">Установить размер %1 согласно ограничениям реализации PDF/A</text>
+		<text id="msg.fix.settitle.unk" h="63847E95">Указать заглавие документа как %1</text>
+		<text id="msg.fix.synch_docinfo_metadata" h="725D19C7">%1 вхождения синхронизировано между информацией о документе (Document Info) и XMP метаданными (XMP Metadata)</text>
+		<text id="msg.fix.trapped" h="A5390027">Флаг Trapped установлен в %1</text>
+		<text id="msg.fix.added_layer_to_ocgs" h="384350C4">Добавить слой к списку слоев документа</text>
+		<text id="msg.param.PSForm" h="33125BC8">Форма Postsript</text>
+		<text id="msg.param.created_CIDSet" h="68DA0CCF">созданный CIDSet соответственно</text>
+		<text id="msg.param.created_CIDToGID" h="36E9144C">созданный CIDToGIDMap в шрифте TrueType(CID)</text>
+		<text id="msg.param.created_charset" h="476FD8FB">созданный charset</text>
+		<text id="msg.param.cs_based_on" h="FFE0AF7F">основано на</text>
+		<text id="msg.param.cs_with_alternate" h="B031D3C5">с Alternate</text>
+		<text id="msg.param.font_CIDToGID_name_not_Identity" h="0DB4EA77">Для "CIDToGIDMap" задано имя, отличное от "Identity"</text>
+		<text id="msg.param.font_convert_opentype" h="CAE0DA1F">OpenType-шрифт преобразован</text>
+		<text id="msg.param.font_create_CIDSet" h="A849D837">создать "CIDSet", соответствующий стандарту PDF/A</text>
+		<text id="msg.param.font_create_CIDToGID" h="141C53C9">создать "CIDToGIDMap" для TrueType (CID) шрифта, соответствующий стандарту PDF/A</text>
+		<text id="msg.param.font_create_charset" h="9936EE1E">создать charset, соответствующий стандарту PDF/A</text>
+		<text id="msg.param.font_embed" h="9A6990DE">внедренный шрифт</text>
+		<text id="msg.param.font_fix_lenghts" h="30C5F865">Исправлено значения "Length1", "Length2" и "Length3" в параметрах шрифта</text>
+		<text id="msg.param.font_fix_width" h="034ED3BC">Исправлена ширина глифа</text>
+		<text id="msg.param.font_incomp_CIDSet" h="9548B2AE">"CIDset" неполный в CID-шрифте</text>
+		<text id="msg.param.font_incomp_charset" h="DFFF9082">неполный набор символов в подможестве шрифта</text>
+		<text id="msg.param.font_incomp_width" h="AAD233DC">информация о ширине отображаемых глифов противоречивая</text>
+		<text id="msg.param.font_incons_ordering" h="EDC4D27C">"Ordering" в "CIDSystemInfo" не совпадает с соответствующим элементом в CMap</text>
+		<text id="msg.param.font_incons_registry" h="F21A60E4">"Registry" в "CIDSystemInfo" не совпадает с соответствующим элементом в CMap</text>
+		<text id="msg.param.font_incons_supplement" h="8475905C">"Supplement" в "CIDSystemInfo" не совпадает с соответствующим элементом в CMap</text>
+		<text id="msg.param.font_insert_CIDSet" h="3A450980">добавлен элемент "CIDSet"</text>
+		<text id="msg.param.font_insert_charset" h="8F852948">добален charset элемент</text>
+		<text id="msg.param.font_invalid_Unicode" h="5CDDB7B2">Шрифт содержит "ToUnicode" таблицу с некорректными значениями</text>
+		<text id="msg.param.font_invalid_fontname" h="71C51772">имя шрифта не корректная строка стандарта UTF-8 </text>
+		<text id="msg.param.font_invalid_lenghts" h="CCBC3ABE">Неверные значения элементов "Length1", "Length2" и "Length3" в параметрах шрифта</text>
+		<text id="msg.param.font_license_error" h="4B95C372">шрифт запрещен для внедрения</text>
+		<text id="msg.param.font_missing_CIDSet" h="D6A633DA">"CIDset" отсутствует</text>
+		<text id="msg.param.font_missing_CIDToGID" h="F18AFC8B">"CIDToGIDMap" отсутствует в TrueType(CID)-шрифте</text>
+		<text id="msg.param.font_missing_charset" h="99C00B0D">"Charset" отсутствует</text>
+		<text id="msg.param.font_missing_glyph" h="C8DB86BB">глиф отсутствует во внедренном шрифте</text>
+		<text id="msg.param.font_not_map_Unicode" h="6C4EAF86">текст не может быть преобразован в Unicode</text>
+		<text id="msg.param.font_refer_notdef" h="8A352025">символ использует глиф .notdef</text>
+		<text id="msg.param.font_remove_diff_from_tt" h="CD98800F">'Differences' удалены из TrueType-шрифта</text>
+		<text id="msg.param.font_tt_nonsymb_has_diff" h="352685E0">несимвольный TrueType шриф содержит 'Differences'</text>
+		<text id="msg.param.font_tt_nonsymb_has_diff_names_not_from_AGL" h="29AB9D70">Таблица 'Differences' TrueType шрифта содержит имена символов, не входящие в список Adobe Glyph</text>
+		<text id="msg.param.font_tt_nonsymb_has_diff_not_enc31" h="4EF1854A">Несимвольный TrueType-шрифт содержит таблицу 'Differences' при отсутствии таблицы Microsoft Unicode(3.1)</text>
+		<text id="msg.param.font_tt_nonsymb_wrong_enc" h="A3CC05FE">неверная кодировка для несимвольного TrueType-шрифта</text>
+		<text id="msg.param.font_tt_symb_enc_prohibit" h="567F543A">Элемент Encoding недопустим в символьных TrueType-шрифтах</text>
+		<text id="msg.param.font_tt_symb_enc_removed" h="B6D46693">Элемент Encoding удален из символьного TrueType-шрифта</text>
+		<text id="msg.param.font_tt_symb_more_one_enc" h="5C1A2311">больше одной таблицы символов в символьном TrueType-шрифте</text>
+		<text id="msg.param.font_tt_symb_more_one_enc_not_enc30" h="3E42D77A">больше одной таблицы символов в символьном TrueType-шрифте при отсутствии таблицы Microsoft Symbol(3.0)</text>
+		<text id="msg.param.font_unembed" h="D58DB454">шрифт не внедрен</text>
+		<text id="msg.param.font_unembed_CMap" h="9A7C00A5">CMap не включен в нестандартные CMap</text>
+		<text id="msg.param.font_unknown_enc" h="41169097">Неизвестный Encoding-элемент</text>
+		<text id="msg.param.font_used_opentype" h="1DDFBB22">использован OpenType-шрифт</text>
+		<text id="msg.param.font_was_converted" h="F6A778E4">Шрифт %1 преобразован в шрифт %2</text>
+		<text id="msg.param.transparent_bm" h="6113A951">режим смешивания отличен от "Normal" или "Compatible"</text>
+		<text id="msg.param.transparent_cafill" h="0422F119">прозрачность заливки меньше 1.0</text>
+		<text id="msg.param.transparent_castroke" h="4AE94E2B">прозрачность контура меньше 1.0</text>
+		<text id="msg.param.transparent_smask" h="FB9037E9">Soft Mask не тривиальная</text>
+		<text id="msg.param.transparent_smask_image" h="0B94C935">изображение содержит Soft Mask из значением, отличным от 'Без значения'</text>
+		<text id="msg.param.transparent_trgroup" h="60E2ACCB">Задано transparency group</text>
+		<text id="msg.warn.annot.is.RGB" h="BBEA0231">В аннотации использован RGB цвет, хотя целевой цвет не RGB. Значение версии PDF/A установлено в 2.</text>
+		<text id="msg.warn.doc_has_embeddedfiles" h="E84C59BF">Документ содержит встроенные файлы. Значение версии PDF/A установлено в 2</text>
+		<text id="msg.warn.doc_has_layers" h="83853EB9">Документ содержит слои. Значение версии PDF/A установлено в 2</text>
+		<text id="msg.warn.doc_has_notpdf" h="A4A335D0">Документ содержит встроенные не-PDF файлы. Значение версии PDF/A установлено в 3</text>
+		<text id="msg.warn.doc_has_transparent" h="7DA0DFA8">Документ содержит прозрачные объекты. Значение версии PDF/A установлено в 2</text>
+		<text id="msg.warn.doc_not_marked" h="C9BEF804">Документ не маркирован. Уровень соответствия понижен к В</text>
+		<text id="msg.warn.font_not_map_Unicode" h="E326DC30">Текст не может быть преобразован в Unicode. Уровень соответствия понижен к В.</text>
+		<text id="msg.warn.st_root_elem_type_not_standard" h="D150764F">Cтруктурированный PDF: элемент нестандартного типа. Уровень соответствия понижен к В.</text>
+		<text id="msg.warn.dictsize" h="9B24E799">Размер словаря больше 4095. Значение версии PDF/A установлено в 2</text>
+		<text id="msg.warn.realvaluerange" h="410D6B7D">Действительное значение превышает допустимую норму. Значение версии PDF/A установлено в 2</text>
+		<text id="opt.report" h="2D42B915">Параметры отчета</text>
+		<text id="opt.showreport" h="672E47E9">Показывать отчет:</text>
+		<text id="removeannots.chk" h="6BD67279">Удалить аннотации (формы, ссылки, др.)</text>
+		<text id="report.noshow" h="2B0D94AA">Никогда</text>
+		<text id="report.show.always" h="E8FA61CB">Всегда</text>
+		<text id="report.show.errwarn" h="2DCF92BE">При наличии ошибок или предупреждений</text>
+		<text id="status.proc.cnvPage" h="92A4E6A3">Преобразование страницы %1</text>
+		<text id="status.proc.tools.cnvPage" h="60077237">%2: Преобразование страницы %1...</text>
+		<text id="status.proc.converting" h="9CE2B7EC">Преобразование документа в PDF/A</text>
+		<text id="status.proc.convertingPage" h="C25CC6CC">Преобразование страницы %1 в PDF/A</text>
+		<text id="status.proc.convertingX" h="CD65583F">Преобразование документа...</text>
+		<text id="status.proc.saving" h="3D2A3BDC">Сохранение документа</text>
+		<text id="status.proc.gatherfont" h="C8B76D87">Сбор информации о шрифтах...</text>
+		<text id="status.res.fail" h="79501FE7">Сбой при преобразовании</text>
+		<text id="status.res.success" h="C25438FB">Преобразование завершилось успешно</text>
+	</Strings>
+</Localization>

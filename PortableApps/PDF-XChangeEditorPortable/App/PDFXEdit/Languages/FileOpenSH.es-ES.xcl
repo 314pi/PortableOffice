@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20170425233726">2.00.00</Version>
+	<Author>Angel Herráez</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Spanish (Spain, Traditional Sort)" lName="español" code="es-ES" R2L="false"/>
+	<Module name="FileOpenSH" namespace="fopw" version="6.0.322.0"/>
+	<Strings>
+		<text id="secure.printer.title" h="F43CD4DF">Impressora no permitida.</text>
+		<text id="secure.printer.text" h="7488F002">No se permite esta impresora para una impresión segura. Comience de nuevo y elija otra impresora.</text>
+	</Strings>
+</Localization>

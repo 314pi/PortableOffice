@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220838">2.00.00</Version>
+	<Author>Sergio</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Italian (Italy)" lName="italiano" code="it-IT" R2L="false"/>
+	<Module name="SpellChecker" namespace="spell" version="6.0.322.7"/>
+	<Strings>
+		<text id="dict.param.hyphen" h="50549BEC">Sillabazione</text>
+		<text id="dict.param.spell" h="E10DA1DD">Spelling</text>
+		<text id="lstDicts.empty" h="FFD5B8BB">&lt;Nessun Dizionario&gt;</text>
+		<text id="msg.CopyDictError" h="81324CC9">Impossibile copiare i file del dizionario</text>
+		<text id="msg.DictExists" h="650ABF1A">Il dizionario esiste già</text>
+		<text id="msg.DictExists.title" h="B025530B">Il dizionario esiste</text>
+		<text id="msg.ErrorTitle" h="D9DB5E01">Errore del controllo ortografico</text>
+		<text id="msg.LoadDictError" h="D139CD51">Impossibile caricare il dizionario</text>
+		<text id="msg.RemoveError" h="DDD3D452">Impossibile rimuovere i file del dizionario. Accesso negato.</text>
+		<text id="msg.WordExists" h="54B206DA">La parola esiste già</text>
+		<text id="msg.WordExists.title" h="A9AFB29B">La parola esiste</text>
+		<text id="opt.b.AddDict" h="E0BF5FDE">Aggiungi Dizionario</text>
+		<text id="opt.b.CustomWordList" h="D1505337">Lista parole personale</text>
+		<text id="opt.b.RemoveDict" h="D94F3439">Rimuovi dizionario</text>
+		<text id="opt.cb.AllowAlgoHyphens" h="D8C41308">Sillaba parole sconosciute</text>
+		<text id="opt.cb.EnableAllHyphens" h="207464CF">Attiva sillabazione</text>
+		<text id="opt.cb.EnableHyphens" h="71ECEEC4">Attiva dizionario di sillabazione</text>
+		<text id="opt.cb.EnableSpellChecker" h="1D563674">Abilita controllo ortografico</text>
+		<text id="opt.cb.IgnoreWordsInUppercase" h="BEB17F5B">Ignora scritte in MAIUSCOLO</text>
+		<text id="opt.cb.IgnoreWordsWithNumbers" h="2AA28F70">Ignora testi con numeri</text>
+		<text id="opt.title" h="AEF9F007">Impostazioni controllo ortografico</text>
+		<text id="wrd.b.AddWord" h="8E2EE8C1">Aggiungi</text>
+		<text id="wrd.b.Delete" h="D8FE3F70">Cancella</text>
+		<text id="wrd.b.DeleteAll" h="848E003C">Cancella tutto</text>
+		<text id="wrd.l.Dictionary" h="66E4322E">Dizionario:</text>
+		<text id="wrd.l.Word" h="7AFBC23E">Parola</text>
+		<text id="wrd.title" h="66DDC653">Lista parole personale</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20170131190349">2.00.00</Version>
+	<Author>Michael Dodl</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Polish" lName="polski" code="pl-PL" R2L="false"/>
+	<Module name="SharePoint" namespace="sp" version="6.0.320.0"/>
+	<Strings>
+		<text id="btn.cancel" h="3D302A38">&amp;Anuluj</text>
+		<text id="btn.checkIn" h="09996473">&amp;Wybierz</text>
+		<text id="btn.discardCheckOut" h="40AC5603">&amp;Odrzuć Wybrane Zewnętrzne</text>
+		<text id="btn.keepCkeckedOut" h="AEA0D6B1">Pozostaw Wybrane Zewnętrzne</text>
+		<text id="btn.navigate" h="B03F439E">&amp;Nawigacja</text>
+		<text id="btn.ok" h="FEF0C771">&amp;OK</text>
+		<text id="btn.open" h="B1A510F0">&amp;Otwórz</text>
+		<text id="btn.openWithCheckOut" h="2F774735">Otwórz i Wybierz Zewnętrzny</text>
+		<text id="btn.save" h="F363C410">&amp;Zapisz</text>
+		<text id="btn.saveAndCheckOut" h="E44D9A0A">&amp;Zapisz i Wybrane Zewnętrzne</text>
+		<text id="btn.saveReplace" h="11BF9724">Zapisz i &amp;Zamień</text>
+		<text id="btn.signOut" h="645CEBE2">Wy&amp;loguj się</text>
+		<text id="cb.url.tip" h="CD81E674">Wpisz  adres...</text>
+		<text id="cmd.checkIn" h="AEF235ED">Sprawdź &amp;w </text>
+		<text id="cmd.checkIn.tip" h="3AEF3C8D">Wybierz wewnętrzny plik dokumentu w SharePoint.</text>
+		<text id="cmd.checkOut" h="E6A87AFE">Sprawdź &amp;zewnątrz</text>
+		<text id="cmd.checkOut.tip" h="5C7938B4">Wybierz zewnątrny  plik dokumentu w SharePoint.</text>
+		<text id="cmd.cmdsCategory" h="56A5F9B3">SharePoint</text>
+		<text id="cmd.discardCheckOut" h="541A4ED2">Odrzuć Wybrane Zewnętrzne</text>
+		<text id="cmd.discardCheckOut.tip" h="B5673BAE">Odrzuć zewnętrzny wybrany plik dokumentu w SharePoint.</text>
+		<text id="cmd.open" h="68595810">Share&amp;Point...</text>
+		<text id="cmd.open.tip" h="42228BCF">Otwórz dokument z SharePoint.</text>
+		<text id="cmd.prepareFileInfo" h="56811CA0">Przygotowanie Info o &amp;Pliku</text>
+		<text id="cmd.prepareFileInfo.tip" h="2BF55A56">Przygotowanie informacji o pliku w SharePoint.</text>
+		<text id="cmd.save" h="68595810">Share&amp;Point...</text>
+		<text id="cmd.save.tip" h="FCA25307">Zapisz aktywny dokument do SharePoint.</text>
+		<text id="cmd.share_point" h="B7423C0E">Share&amp;Point</text>
+		<text id="dlg.liveLogin" h="BFADC685">Logowanie na żywo</text>
+		<text id="dlg.openFile" h="435887CD">Otwórz Plik</text>
+		<text id="dlg.saveFile" h="520CB069">Zapisz Plik</text>
+		<text id="lb.itemsInFolder" h="8F56A98C">%d pozycja</text>
+		<text id="lb.name" h="DEC92488">Nazwa Pliku:</text>
+		<text id="ls.column.created" h="FE6510B7">Data utworzenia</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Data i godzina, gdy plik, folder lub lista została utworzona</text>
+		<text id="ls.column.extension" h="14FEB836">Rozszerzenie</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Rozszerzenie pliku</text>
+		<text id="ls.column.modified" h="7E234D6D">Data modyfikacji</text>
+		<text id="ls.column.modified.hint" h="12933E76">Data i godzina, gdy plik, folder lub lista została ostatnio zmodyfikowana</text>
+		<text id="ls.column.size" h="17A58A52">Rozmiar</text>
+		<text id="ls.column.size.hint" h="9C4BD847">Rozmiar pliku</text>
+		<text id="ls.column.title" h="D18643E3">Nazwa</text>
+		<text id="ls.column.title.hint" h="6A895576">Nazwa pliku, nazwa katalogu lub tytuł listy</text>
+		<text id="msg.askForCheckInOnClose" h="7B06F17B">Czy chcesz przed zamknięciem wybrać plik zewnętrzny , aby wprowadzić zmiany dla innych użytkowników?</text>
+		<text id="msg.askForCheckOutOnOpen" h="7803C4A6">Możesz zwyczajnie otworzyć plik i zezwolić innym użytkownikom na jego zmianę lub możesz go otworzyć wybrany zewnętrzny, aby plik był czytelny tylko dla innych, zapisywalny dla Ciebie.</text>
+		<text id="msg.askForCheckOutOnSave" h="8E5C5FBB">Nie wybranio pliku zewnętrznego. Należy wybrać plik i kontynuować zapisywanie operacji.</text>
+		<text id="msg.askForDiscardCheckOutOnClose" h="6ADE6C3D">Ten plik z dokumentem jest wybrany przez ciebie. Czy chcesz odrzucić wybrany zewnętrzny i pozwolić innym użytkownikom na edycję pliku?</text>
+		<text id="msg.checkIn" h="BC40B537">Nie udało się wybrać z pliku. Sprawdż, czy plik istnieje i jest wybrany.</text>
+		<text id="msg.checkOut" h="D1B23376">Nie udało się wybraić pliku. Sprawdź, czy plik istnieje i nie jest wybrany.</text>
+		<text id="msg.connectError" h="D31B7CA0">Nie można połączyć się z serwerem SharePoint. Proszę sprawdzić połączenie z internetem, poprawność adresu serwera i prawa dostępu do żądanego zasobu SharePoint.</text>
+		<text id="msg.discardCheckOut" h="6CD5936B">Nie udało się usunąć wybranego pliku. Sprawdź, czy plik istnieje i jest wybrany przez użytkownika.</text>
+		<text id="msg.fileNotFound" h="CD319CFB">Plik "%s" nie znajduje się w bieżącym folderze.</text>
+		<text id="msg.invalidFileName" h="4FAC9EDF">"%s" jest nie prawidłową nazwę pliku.</text>
+		<text id="msg.navigateError" h="DE02F44B">Nie udało się przejść do zasobów SharePoint. Sprawdź połączenie internetowe, prawidłowość adres i prawo dostępu do żądanego zasobu SharePoint.</text>
+		<text id="msg.openFailed" h="A9228907">Nie udało się otworzyć pliku. Sprawdź, czy plik istnieje i nie jest wybrany przez innego użytkownika i masz uprawnienia do jego odczytu.</text>
+		<text id="msg.saveFailed" h="2C1B0E0B">Nie można zapisać pliku. Sprawdź, czy nazwa pliku jest poprawna, nie jest wybrany przez innego użytkownika i masz uprawnienia do zapisu.</text>
+		<text id="msg.saveReplace" h="D31D53A9">Plik "%s" już istnieje. Czy chcesz go zastąpić?</text>
+		<text id="msg.signOutError" h="B348A2EC">Nie można się wylogować bieżącego użytkownika z serwera SharePoint. Nadal możesz mieć dostęp do SharePoint bez żądania uwierzytelnienia.</text>
+		<text id="opt.keepFileCheckedOut" h="FBA0F8E9">&amp;Zachowaj plik wybrany zewętrzny</text>
+	</Strings>
+</Localization>

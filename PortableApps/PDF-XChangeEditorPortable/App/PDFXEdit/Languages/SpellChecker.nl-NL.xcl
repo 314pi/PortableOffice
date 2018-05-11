@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20170425233744">2.00.00</Version>
+	<Author>pdf.xchange.translate@gmail.com</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Dutch (Netherlands)" lName="Nederlands" code="nl-NL" R2L="false"/>
+	<Module name="SpellChecker" namespace="spell" version="6.0.322.0"/>
+	<Strings>
+		<text id="dict.param.hyphen" h="50549BEC">Woordafbreking</text>
+		<text id="dict.param.spell" h="E10DA1DD">Spelling</text>
+		<text id="lstDicts.empty" h="FFD5B8BB">&lt;Geen woordenboeken&gt;</text>
+		<text id="msg.CopyDictError" h="81324CC9">Kan de woordenboekbestanden niet kopiëren</text>
+		<text id="msg.DictExists" h="650ABF1A">Woordenboek bestaat al</text>
+		<text id="msg.DictExists.title" h="A81488F3">Woordenboek bestaat</text>
+		<text id="msg.ErrorTitle" h="8FEB05A5">Spellingcontrole fout</text>
+		<text id="msg.LoadDictError" h="D139CD51">Kan woordenboek niet laden</text>
+		<text id="msg.RemoveError" h="4A6BC8EB">Kan de woordenboekbestanden niet verwijderen. Toegang geweigerd.</text>
+		<text id="msg.WordExists" h="08449B8B">Woord bestaat al</text>
+		<text id="msg.WordExists.title" h="B19E6963">Woord bestaat</text>
+		<text id="opt.b.AddDict" h="E0BF5FDE">Voeg woordenboek toe</text>
+		<text id="opt.b.CustomWordList" h="D1505337">Aangepaste lijst</text>
+		<text id="opt.b.RemoveDict" h="D94F3439">Verwijder woordenboek</text>
+		<text id="opt.cb.AllowAlgoHyphens" h="D8C41308">Onbekende woorden afbreken</text>
+		<text id="opt.cb.EnableAllHyphens" h="207464CF">Woordafbreking aanzetten</text>
+		<text id="opt.cb.EnableHyphens" h="71ECEEC4">Woordenboek woordafbreking aanzetten</text>
+		<text id="opt.cb.EnableSpellChecker" h="1D563674">Zet spellingcontrole aan</text>
+		<text id="opt.cb.IgnoreWordsInUppercase" h="DAE258CD">Negeer woorden in HOOFDLETTERS</text>
+		<text id="opt.cb.IgnoreWordsWithNumbers" h="2AA28F70">Negeer woorden die cijfers bevatten</text>
+		<text id="opt.title" h="AEF9F007">Instellingen van spellingcontrole</text>
+		<text id="wrd.b.AddWord" h="8E2EE8C1">Voeg toe</text>
+		<text id="wrd.b.Delete" h="D8FE3F70">Verwijder</text>
+		<text id="wrd.b.DeleteAll" h="848E003C">Alles Verwijderen</text>
+		<text id="wrd.l.Dictionary" h="66E4322E">Woordenboek:</text>
+		<text id="wrd.l.Word" h="7AFBC23E">Woord:</text>
+		<text id="wrd.title" h="66DDC653">Aangepaste woordenlijsten</text>
+	</Strings>
+</Localization>

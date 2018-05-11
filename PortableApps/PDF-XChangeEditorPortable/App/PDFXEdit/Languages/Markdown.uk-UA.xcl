@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123222427">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Ukrainian (Ukraine)" lName="Українська" code="uk-UA" R2L="false"/>
+	<Module name="MarkdownPlugin" namespace="md" version="7.0.323.3"/>
+	<Strings>
+		<text id="btn.md.submenu" h="89D1502A">Із &amp;Markdown...</text>
+		<text id="cmd.tip" h="117085B4">Створити новий документ із файла(-ів) Markdown.</text>
+		<text id="converter.desc" h="41356938">Перетворити файли Markdown</text>
+		<text id="converter.filterName" h="AE86B691">Файли Markdown</text>
+		<text id="converter.name" h="AE86B691">Файли Markdown</text>
+		<text id="converting.progress.text" h="4DD2C8CD">Перетворення файла:</text>
+		<text id="grb.style" h="1FF454A3">Стиль тексту</text>
+		<text id="msg.error" h="51BFF51D">Поимлка</text>
+		<text id="msg.file.empty" h="8F9B5982">Файл порожній.</text>
+		<text id="opt.all.files" h="C68ACE05">Всі файли</text>
+		<text id="opt.btn.clear.style" h="8932B6EE">Вертає стиль CSS до початкового</text>
+		<text id="opt.create.style" h="EDCA1553">Створити</text>
+		<text id="opt.file" h="45B5DF3A">Файл</text>
+		<text id="opt.margins.fixed" h="6103695E">Поля завеликі. Їх буде поправлено автоматично.</text>
+		<text id="opt.none" h="F9398D7D">Ніякий</text>
+		<text id="opt.style" h="5CEA121A">Стиль:</text>
+		<text id="opt.test.title" h="44732FAA">Тест</text>
+		<text id="opt.title" h="45D26671">Параметри перетворення Markdown в PDF</text>
+		<text id="opt.unavailable" h="5669C949">недоступний</text>
+		<text id="prefs.name" h="07E67B98">Перетворення Markdown в PDF</text>
+		<text id="prefs.title" h="45D26671">Параметри перетворення Markdown в PDF</text>
+		<text id="prop.list.extension" h="14FEB836">Розширення</text>
+		<text id="prop.list.location" h="BB241F45">Розташування</text>
+		<text id="prop.list.modified" h="30325672">Змінений</text>
+		<text id="prop.list.size" h="17A58A52">Розмір</text>
+		<text id="prop.list.title" h="796DFAD3">Заголовок</text>
+		<text id="prop.source" h="AE86B691">Файли Markdown</text>
+		<text id="prop.source.file" h="F3110572">Вибрати файли Markdown</text>
+		<text id="prop.source.file.unavailable" h="AE2771B8">Файл стилів не доступний</text>
+		<text id="prop.source.folder" h="8477FBD3">Вибрати папку з файлами Markdown</text>
+		<text id="prop.source.subfolder" h="F053B635">Перегляд в підпапках</text>
+		<text id="prop.source.txt" h="0B465380">Текстові файли</text>
+		<text id="prop.window.name" h="6E4F5CCE">Перетворити файли Markdown в PDF</text>
+		<text id="style.edit.default" h="600F2F18">Використовувати стиль за замовчуванням</text>
+		<text id="style.files.title" h="26E23587">Файли CSS</text>
+		<text id="style.folder.name" h="2F5ECDDE">Стилі Markdown</text>
+		<text id="style.save.title" h="2E270E87">Зберегти стиль</text>
+		<text id="style.select.file" h="37C34A80">Вибрати файл зі стилем</text>
+	</Strings>
+</Localization>

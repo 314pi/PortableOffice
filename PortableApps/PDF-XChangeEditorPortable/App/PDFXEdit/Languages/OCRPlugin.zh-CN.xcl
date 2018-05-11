@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Version date="20160323040102">2.00.00</Version>
+	<Author>LI, QIANG</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Chinese (PRC)" lName="中文(简体)" code="zh-CN" R2L="false"/>
+	<Module name="OCRPlugin" namespace="ocr" version="6.0.317.0"/>
+	<Strings>
+		<text id="cmd.name" h="6DAA8A17">页面识别...</text>
+		<text id="l.accuracy" h="3B2028D8">准确度(&amp;A):</text>
+		<text id="l.language" h="7B707020">语言(&amp;L)</text>
+		<text id="ocr.l.language" h="7B707020">语言(&amp;L):</text>
+		<text id="LANGUAGE" h="7B707020">主语言(&amp;L):</text>
+		<text id="lnk.more" h="2E2CCD84">&lt;a=1&gt;更多语言包...&lt;/a&gt;</text>
+		<text id="OrientationDetection" h="40F7AA0E">自动检测方向</text>
+		<text id="LanguageSelect" h="13F6EE1C">选择 ...</text>
+		<text id="ComplexBackground" h="7D4E65E9">去除复杂背景</text>
+		<text id="outputtype.editable" h="B24B2872">创建新的可编辑PDF</text>
+		<text id="outputtype.new" h="85C87BB3">创建新的可搜索PDF</text>
+		<text id="progress.finalizing" h="BD3E3BA6">定稿</text>
+		<text id="accuracy.high" h="21A95620">高</text>
+		<text id="accuracy.low" h="845E3D8C">低</text>
+		<text id="accuracy.medium" h="91153342">中</text>
+		<text id="cb.cuenoany" h="57DD34C3">未安装语言包</text>
+		<text id="prefs.name" h="00DD8F43">OCR</text>
+		<text id="notice.notfinished" h="F46B8362">初始化失败: 请检查语言和输出的属性设置</text>
+		<text id="notice.emptyselection" h="2B9E6261">无效的文档或者选择为空</text>
+		<text id="notice.finished" h="0CFE0EC4">任务完成</text>
+		<text id="prefs.title" h="D0975E29">OCR 选项</text>
+		<text id="prefs.tips" h="D0975E29">OCR 选项</text>
+		<text id="progress.title" h="8E35B0D9">OCR识别页面中,请稍等</text>
+		<text id="prefs.langdir" h="ED1B4BF6">识别语言</text>
+		<text id="progress.placing" h="C9F1FA8A">放置内容</text>
+		<text id="PREFERENCES" h="4481257B">属性</text>
+		<text id="outputtype.layer" h="DFA4EAA6">保留原内容并添加文字层</text>
+		<text id="progress.pageinfo" h="4580EE29">处理%d到%d页面</text>
+		<text id="progress.rasterizing" h="ACB9131E">栅格化</text>
+		<text id="g.recognition" h="962555B5">识别</text>
+		<text id="progress.recognizing" h="281E6862">识别中</text>
+		<text id="notice.notavailable" h="CAC07593">选择的OCR类型当前版本不可用。</text>
+		<text id="notice.permissions" h="3BE9C6A8">文档受保护，请通过菜单 文件 -&gt; 文档属性 -&gt; 安全 检查权限。</text>
+		<text id="MULTIPLECORES" h="C21D9F69">使用多线程</text>
+		<text id="WHITELIST" h="68C2961B">白名单</text>
+		<text id="TITLEWHITELIST" h="B446B537">黑白名单</text>
+</Strings>
+</Localization>

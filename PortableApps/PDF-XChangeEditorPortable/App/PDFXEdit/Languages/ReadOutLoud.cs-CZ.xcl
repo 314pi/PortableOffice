@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171220231403">2.00.00</Version>
+	<Author>Martin Paulík</Author>
+	<Copyright>TERAGON SW s.r.o.
+www.pdfxchange.cz</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Czech (Czech Republic)" lName="čeština" code="cs-CZ" R2L="false"/>
+	<Module name="ReadOutLoud" namespace="speech" version="7.0.323.2"/>
+	<Strings>
+		<text id="opt.btn.test" h="EA3839EC">Přečíst tento text</text>
+		<text id="opt.cb.defAttr" h="74D7B3DB">Použít výchozí nastavení řeči</text>
+		<text id="opt.cb.defVoice" h="972D8B4B">Použít výchozí hlas</text>
+		<text id="opt.cb.readComments" h="070A2526">Číst komentáře</text>
+		<text id="opt.cb.readFields" h="4331E3A2">Číst formulářová pole</text>
+		<text id="opt.group.title" h="54357DDF">Možnosti hlasitého čtení</text>
+		<text id="opt.l.max" h="284585D5">Max</text>
+		<text id="opt.l.min" h="F16918ED">Min</text>
+		<text id="opt.l.pitch" h="A6915A2C">Výšky:</text>
+		<text id="opt.l.rate" h="10B1E128">Tempo:</text>
+		<text id="opt.l.voice" h="5026E016">Hlas:</text>
+		<text id="opt.l.volume" h="8C0E20F2">Hlasitost:</text>
+		<text id="opt.l.wpm" h="7AEF5446">slov za minutu</text>
+		<text id="opt.test.title" h="44732FAA">Test</text>
+		<text id="prefs.name" h="06D67BEF">Řeč</text>
+		<text id="prefs.tips" h="110DB02C">Možnosti řeči</text>
+		<text id="prefs.title" h="110DB02C">Možnosti řeči</text>
+		<text id="speech.opt.title" h="54357DDF">Možnosti hlasitého čtení</text>
+		<text id="test.text" h="6B245451">The quick brown fox jumps over the lazy dog.</text>
+		<text id="cmd.readSelection" h="D8939664">Přečíst nahlas vybraný text</text>
+		<text id="cmd.readStop" h="06B322F6">Zastavit čtení</text>
+		<text id="cmd.category" h="A1EB605F">Čtení nahlas</text>
+	</Strings>
+</Localization>

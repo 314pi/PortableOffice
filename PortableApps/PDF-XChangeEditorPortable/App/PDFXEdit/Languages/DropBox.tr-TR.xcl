@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117213643">2.00.00</Version>
+	<Author>Osman Öz</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Turkish (Turkey)" lName="Türkçe" code="tr-TR" R2L="false"/>
+	<Module name="Dropbox" namespace="db" version="6.0.322.7"/>
+	<Strings>
+		<text id="btn.cancel" h="3D302A38">&amp;İptal</text>
+		<text id="btn.chooseUser" h="4E5DDBFB">Kullanıcı Seçimi</text>
+		<text id="btn.ok" h="FEF0C771">&amp;TAMAM</text>
+		<text id="btn.open" h="B1A510F0">&amp;Aç</text>
+		<text id="btn.save" h="F363C410">&amp;Kayıt</text>
+		<text id="btn.saveReplace" h="11BF9724">Kaydet ve &amp;Değiştir</text>
+		<text id="cmd.cmdsCategory" h="22B8ECE9">Dropbox</text>
+		<text id="cmd.open" h="028048E8">&amp;Dropbox...</text>
+		<text id="cmd.open.tip" h="683AE278">Dropbox'tan belge açılır.</text>
+		<text id="cmd.save" h="028048E8">&amp;Dropbox...</text>
+		<text id="cmd.save.tip" h="B5D0B78F">Aktif bir belge Dropbox'a kaydedilir.</text>
+		<text id="cmd.dropbox" h="6616FE70">&amp;Dropbox</text>
+		<text id="dlg.authenticate" h="E6E77652">Kimlik Doğrulama</text>
+		<text id="dlg.openFile" h="435887CD">Dosya Aç</text>
+		<text id="dlg.saveFile" h="520CB069">Dosya Kaydet</text>
+		<text id="lb.itemsInFolder" h="8F56A98C">%d öğe</text>
+		<text id="lb.name" h="F7B9E475">Dosya Adı</text>
+		<text id="ls.column.created" h="9E0B497D">Oluşturma Tarihi</text>
+		<text id="ls.column.created.hint" h="291F5AEC">Dosya, klasör veya listenin oluşturulduğu tarih ve saat.</text>
+		<text id="ls.column.extension" h="14FEB836">Uzantı</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Dosya uzantısı</text>
+		<text id="ls.column.modified" h="691C3610">Değişiklik Tarihi</text>
+		<text id="ls.column.modified.hint" h="2C2CF8F2">Dosya, klasör veya listede son değişikliğin yapıldığı tarih ve saat.</text>
+		<text id="ls.column.size" h="17A58A52">Boyut</text>
+		<text id="ls.column.size.hint" h="E79CA174">Dosyanın boyutu</text>
+		<text id="ls.column.title" h="D18643E3">Ad</text>
+		<text id="ls.column.title.hint" h="D883F263">Dosya/Klasör adı</text>
+		<text id="msg.connectError" h="A594B0D5">Dropbox' a bağlanılamadı. Lütfen internet bağlantınızı ve istenen Dropbox kaynağına erişim haklarınızı kontrol ediniz.</text>
+		<text id="msg.fileNotFound" h="381368F8">Dosya &lt;b&gt;%1&lt;/b&gt; geçerli klasörde bulunamadı.</text>
+		<text id="msg.invalidFileName" h="6BE657E3">&lt;b&gt;%1&lt;/b&gt; geçerli bir dosya adı değil, semboller &lt; &gt; " /   | olarak ? * izin verilmez.</text>
+		<text id="msg.navigateError" h="8BCFBD0F">Dropbox kaynağına gidilemedi, lütfen internet bağlantınızı kontrol ediniz, kaynak adresinin ve istenen Dropbox kaynağına erişim haklarınızın doğruluğuna emin olunuz.</text>
+		<text id="msg.openFailed" h="794811DE">Dosya açılamadı, dosyanın mevcut olduğuna ve okuma erişim iznine sahip olduğunuza emin olunuz.</text>
+		<text id="msg.saveFailed" h="36780EC6">Dosya kaydedilemedi, dosya adının geçerli olduğuna ve yazma iznine sahip olduğunuza emin olunuz.</text>
+		<text id="msg.saveReplace" h="B1889DFB">Dosya &lt;b&gt;%1&lt;/b&gt; zaten mevcut. Bunu değiştirmek ister misiniz?</text>
+		<text id="msg.wrongUser" h="27773B86">Kaynak, başka bir kullanıcının Dropbox' una ait olduğu için açılamıyor. Başka bir kullanıcı seçmek ister misiniz?</text>
+	</Strings>
+</Localization>

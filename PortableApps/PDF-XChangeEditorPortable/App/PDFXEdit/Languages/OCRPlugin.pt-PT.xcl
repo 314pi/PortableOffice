@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20161130215844">2.00.00</Version>
+	<Author>Nuno Filipe Rego</Author>
+	<Copyright>Nuno Filipe Rego ©
+
+Coments and\or suggestions about the translations:
+Comentários e\ou sugestões sobre as traduções: 
+
+nunito.mokito@gmail.com</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Portuguese (Portugal)" lName="português" code="pt-PT" R2L="false"/>
+	<Module name="OCRPlugin" namespace="ocr" version="6.0.319.0"/>
+	<Strings>
+		<text id="ComplexBackground" h="7D4E65E9">Remoção Complexa de Fundo</text>
+		<text id="LANGUAGE" h="7B707020">Idioma:</text>
+		<text id="LanguageSelect" h="13F6EE1C">Escolher...</text>
+		<text id="MULTIPLECORES" h="C21D9F69">Utilizar multitarefa</text>
+		<text id="OrientationDetection" h="40F7AA0E">Deteção Automática da Orientação</text>
+		<text id="PREFERENCES" h="4481257B">Preferências</text>
+		<text id="TITLEWHITELIST" h="B446B537">Lista Branca e Lista Negra</text>
+		<text id="WHITELIST" h="68C2961B">Lista Branca</text>
+		<text id="accuracy.high" h="21A95620">Alto</text>
+		<text id="accuracy.low" h="845E3D8C">Baixo</text>
+		<text id="accuracy.medium" h="91153342">Médio</text>
+		<text id="cb.cuenoany" h="57DD34C3">Nenhum instalado</text>
+		<text id="cmd.name" h="6DAA8A17">Páginas OCR...</text>
+		<text id="g.recognition" h="962555B5">Reconhecimento</text>
+		<text id="l.accuracy" h="3B2028D8">Precisão:</text>
+		<text id="l.language" h="7B707020">Idioma:</text>
+		<text id="lnk.more" h="2E2CCD84">&lt;a=1&gt;Mais Idiomas...&lt;/a&gt;</text>
+		<text id="notice.emptyselection" h="2B9E6261">OCR Falhou: Documento Inválido ou Seleção Vazia</text>
+		<text id="notice.finished" h="0CFE0EC4">Tarefa OCR Terminada</text>
+		<text id="notice.notavailable" h="CAC07593">O tipo de OCR selecionada não está disponível nesta versão.</text>
+		<text id="notice.notfinished" h="F46B8362">Falha ao iniciar OCR: Verifique as Definições de Idioma e as Preferências de Saída.</text>
+		<text id="notice.permissions" h="3BE9C6A8">Este documento encontra-se protegido. Verifique as permissões em Ficheiro -&gt; Propriedades do Documento -&gt; Segurança.</text>
+		<text id="ocr.l.language" h="7B707020">Idioma:</text>
+		<text id="outputtype.editable" h="B24B2872">Criar Novo PDF Editável</text>
+		<text id="outputtype.layer" h="DFA4EAA6">Manter Conteúdo Original e Adicionar Componente de Texto</text>
+		<text id="outputtype.new" h="85C87BB3">Criar Novo PDF Pesquisável</text>
+		<text id="prefs.langdir" h="ED1B4BF6">Idiomas OCR</text>
+		<text id="prefs.name" h="00DD8F43">OCR</text>
+		<text id="prefs.tips" h="D0975E29">Opções OCR</text>
+		<text id="prefs.title" h="D0975E29">Opções OCR</text>
+		<text id="progress.finalizing" h="BD3E3BA6">Finalizando...</text>
+		<text id="progress.pageinfo" h="4580EE29">Processando Página %d de %d...</text>
+		<text id="progress.placing" h="C9F1FA8A">Posicionando Conteúdo...</text>
+		<text id="progress.rasterizing" h="ACB9131E">Convertendo 3D em 2D...</text>
+		<text id="progress.recognizing" h="281E6862">Reconhecendo...</text>
+		<text id="progress.title" h="8E35B0D9">Páginas OCR, Aguarde...</text>
+	</Strings>
+</Localization>

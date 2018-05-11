@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220812">2.00.00</Version>
+	<Author>Regmos</Author>
+	<Copyright>Regmos 2018</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Danish (Denmark)" lName="dansk" code="da-DK" R2L="false"/>
+	<Module name="FileOpenSH" namespace="fopw" version="6.0.322.7"/>
+	<Strings>
+		<text id="secure.printer.title" h="448D1D7F">Printer ikke tilladt.</text>
+		<text id="secure.printer.text" h="7488F002">Printeren kan ikke bruges til sikker udskrivning. Udskriv igen, eller vælg en anden printer.</text>
+	</Strings>
+</Localization>

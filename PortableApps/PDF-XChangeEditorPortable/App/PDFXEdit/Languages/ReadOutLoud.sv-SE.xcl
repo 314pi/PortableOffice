@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220803">2.00.00</Version>
+	<Author>Markus Konsa, support@PDF-XChange.se,tel+46(0)31-3121100</Author>
+	<Copyright>PDF-XChange Sverige, +46(0)31-312 11 00
+https://pdf-xchange.se, 
+Tracker Software Products(Canada+UK) reg. partner.</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Swedish (Sweden)" lName="Svenska" code="sv-SE" R2L="false"/>
+	<Module name="ReadOutLoud" namespace="speech" version="6.0.322.7"/>
+	<Strings>
+		<text id="opt.btn.test" h="D799C8E8">Läs &amp;Text</text>
+		<text id="opt.cb.defAttr" h="232D9E03">Använd standard&amp;attribut för tal</text>
+		<text id="opt.cb.defVoice" h="57A5382A">Använd &amp;Standardröst</text>
+		<text id="opt.cb.readComments" h="070A2526">Läs &amp;kommentarer</text>
+		<text id="opt.cb.readFields" h="4331E3A2">Läs formulär&amp;Fält</text>
+		<text id="opt.group.title" h="54357DDF">Alternativ för Läs högt</text>
+		<text id="opt.l.max" h="284585D5">Max</text>
+		<text id="opt.l.min" h="F16918ED">Min</text>
+		<text id="opt.l.pitch" h="A6915A2C">&amp;Tonhöjd:</text>
+		<text id="opt.l.rate" h="10B1E128">&amp;Hastighet:</text>
+		<text id="opt.l.voice" h="5026E016">R&amp;öst:</text>
+		<text id="opt.l.volume" h="8C0E20F2">&amp;Volym:</text>
+		<text id="opt.l.wpm" h="9421CA7D">ord per minut</text>
+		<text id="opt.test.title" h="44732FAA">Test</text>
+		<text id="prefs.name" h="06D67BEF">Tal</text>
+		<text id="prefs.tips" h="110DB02C">Alternativ för tal</text>
+		<text id="prefs.title" h="110DB02C">Alternativ för tal</text>
+		<text id="speech.opt.title" h="54357DDF">Alternativ för Läs högt</text>
+		<text id="test.text" h="6B245451">Den kvicka bruna räven hoppar över den lata hunden.</text>
+		<text id="cmd.readSelection" h="D503AA0C">Läs den markerade texten Högt</text>
+		<text id="cmd.readStop" h="06B322F6">Sluta läsa</text>
+		<text id="cmd.category" h="A1EB605F">Läs Högt</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20170131185628">2.00.00</Version>
+	<Author>Hélio de Souza</Author>
+	<Copyright>Hélio de Souza ©
+heliodesouza@mail.com</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Portuguese (Brazil)" lName="português" code="pt-BR" R2L="false"/>
+	<Module name="GoogleDrivePlugin" namespace="gd" version="0.0.0.0"/>
+	<Strings>
+		<text id="DlgOpenFile" h="B98AB29D">Abrir arquivo do Google Drive</text>
+		<text id="DlgSaveFile" h="81F99046">Salvar no Google Drive</text>
+		<text id="GDPlugin" h="32B7E3E0">Plugin para Google Drive</text>
+		<text id="btn.connectToAnother" h="508BDBC5">Novo Login...</text>
+		<text id="cmd.cmdsCategory" h="AD23B285">Google Drive </text>
+		<text id="cmd.googledrive" h="1D28DF85">&amp;Google Drive </text>
+		<text id="cmd.open" h="F32ECED5">&amp;Google Drive... </text>
+		<text id="cmd.open.tip" h="933837A2">Abre um arquivo a partir do Google Drive.</text>
+		<text id="cmd.save" h="F32ECED5">&amp;Google Drive... </text>
+		<text id="cmd.save.tip" h="948C3269">Salva o documento atual no Google Drive.</text>
+		<text id="cpt.fileNotFound" h="A7F5FA7A">Arquivo não encontrado</text>
+		<text id="cpt.invalidFileName" h="79C1387C">Nome de arquivo inválido.</text>
+		<text id="cpt.navigateError" h="3D300A1C">Erro de Navegação</text>
+		<text id="cpt.saveReplace" h="520CB069">Salvar Arquivo</text>
+		<text id="cpt.selectFile" h="C55D68B0">Selecionando Arquivo</text>
+		<text id="dlg.googleAuth" h="E5642F22">Autenticação Google Drive</text>
+		<text id="fileName" h="DEC92488">Arquivo:</text>
+		<text id="lb.CurrentFolder" h="44158804">Pasta atual:</text>
+		<text id="lb.Test" h="273F3E5B">Teste Teste Teste!</text>
+		<text id="lb.googleAccName" h="C94645A3">Conta do Google:</text>
+		<text id="msg.fileNotFound" h="430E08B1">O arquivo "%1" não foi encontrado.</text>
+		<text id="msg.invalidFileName" h="7C0655B5">"%1" não é um nome de arquivo válido.</text>
+		<text id="msg.navigateError" h="2FCAA72A">Falha ao acessar o recurso do Google Drive. Verifique sua conexão à Internet e os direitos de acesso do Google Drive.</text>
+		<text id="msg.openFailed" h="AC94D960">Falha ao abrir arquivo. Certifique-se de que o arquivo existe, não está aberto para outro usuário e você tem permissões suficientes.</text>
+		<text id="msg.saveFailed" h="4D413392">Falha ao salvar arquivo. Verifique se o nome do arquivo é válido e você tem permissões para gravação.</text>
+		<text id="msg.saveReplace" h="5D56833E">O arquivo %1 já existe. Deseja substituir?</text>
+		<text id="msg.selectFile" h="2530C20F">Selecione um arquivo e pressione OK</text>
+		<text id="ls.column.created" h="FE6510B7">Data de Criação</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Data e hora em que o arquivo, pasta ou lista foi criado</text>
+		<text id="ls.column.extension" h="14FEB836">Extensão</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Extensão de Arquivo</text>
+		<text id="ls.column.modified" h="7E234D6D">Data de Modificação</text>
+		<text id="ls.column.modified.hint" h="12933E76">Data e hora em que o arquivo, pasta ou lista foi modificado</text>
+		<text id="ls.column.size" h="17A58A52">Tamanho</text>
+		<text id="ls.column.size.hint" h="9C4BD847">Tamanho do Arquivo</text>
+		<text id="ls.column.title" h="D18643E3">Nome</text>
+		<text id="ls.column.title.hint" h="6A895576">Nome do arquivo, nome da pasta ou título da lista</text>
+		<text id="virtualfolder.mydrive" h="84C2D3A6">Meu Drive</text>
+		<text id="virtualfolder.sharedwithme" h="8B65307E">Compartilhado</text>
+		<text id="cpt.unableToSaveToVirtualFolder" h="778EF99A">Não é possível salvar o arquivo na pasta</text>
+		<text id="msg.unableToSaveToVirtualFolder" h="A6644426">O arquivo não pode ser salvo no local selecionado. Escolha a pasta 'Meu Drive', uma das suas subpastas ou uma das subpastas 'Compartilhadas' para salvar o arquivo.</text>
+	</Strings>
+</Localization>

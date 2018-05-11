@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220820">2.00.00</Version>
+	<Author>Alfonso Seoage</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Galician (Galician)" lName="Galego" code="gl-ES" R2L="false"/>
+	<Module name="GoogleDrivePlugin" namespace="gd" version="6.0.322.7"/>
+	<Strings>
+		<text id="DlgOpenFile" h="B98AB29D">Abrir un arquivo desde Google Drive</text>
+		<text id="DlgSaveFile" h="81F99046">Gardar un arquivo en Google Drive</text>
+		<text id="GDPlugin" h="32B7E3E0">Complemento para Google Drive</text>
+		<text id="btn.connectToAnother" h="508BDBC5">Acceso novo...</text>
+		<text id="cmd.cmdsCategory" h="AD23B285">Google Drive</text>
+		<text id="cmd.googledrive" h="1D28DF85">&amp;Google Drive</text>
+		<text id="cmd.open" h="F32ECED5">&amp;Google Drive...</text>
+		<text id="cmd.open.tip" h="933837A2">Abre un arquivo desde Google Drive.</text>
+		<text id="cmd.save" h="F32ECED5">&amp;Google Drive...</text>
+		<text id="cmd.save.tip" h="948C3269">Garda o documento actual en Google Drive.</text>
+		<text id="cpt.fileNotFound" h="A7F5FA7A">Non se atopa o arquivo</text>
+		<text id="cpt.invalidFileName" h="79C1387C">Nome de arquivo non válido</text>
+		<text id="cpt.navigateError" h="3D300A1C">Erro de navegación</text>
+		<text id="cpt.saveReplace" h="520CB069">Gardar arquivo</text>
+		<text id="cpt.selectFile" h="C55D68B0">Está a seleccionarse un arquivo</text>
+		<text id="dlg.googleAuth" h="E5642F22">Autentificación en Google Drive</text>
+		<text id="fileName" h="DEC92488">Nome arquivo</text>
+		<text id="lb.CurrentFolder" h="44158804">Cartafol actual:</text>
+		<text id="lb.Test" h="273F3E5B">Proba, proba, proba!</text>
+		<text id="lb.googleAccName" h="C94645A3">Conta en Google:</text>
+		<text id="msg.fileNotFound" h="430E08B1">Non se atopou o arquivo "%1" no cartafol actual.</text>
+		<text id="msg.invalidFileName" h="7C0655B5">"%1" non é un nome de arquivo válido.</text>
+		<text id="msg.navigateError" h="2FCAA72A">Non se puido navegar ata o recurso Google Drive. Comprobe a súa conexión a internet e os permisos de acceso ao devandito recurso.</text>
+		<text id="msg.openFailed" h="AC94D960">Non se puido abrir o arquivo. Comprobe que exista, que non estea reservado a outro usuario e que ten permisos de lectura para el.</text>
+		<text id="msg.saveFailed" h="4D413392">Non se puido gardar o arquivo. Comprobe que o nome de arquivo sexa válido e que ten permisos de escritura para el.</text>
+		<text id="msg.saveReplace" h="5D56833E">Xa existe o arquivo %1. Quere substituílo?</text>
+		<text id="msg.selectFile" h="2530C20F">Elixa un arquivo antes de pulsar en Aceptar</text>
+		<text id="ls.column.created" h="FE6510B7">Data de creación</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Data e hora na que se creou o arquivo, o cartafol ou a listaxe</text>
+		<text id="ls.column.extension" h="14FEB836">Extensión</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Extensión de arquivo</text>
+		<text id="ls.column.modified" h="7E234D6D">Data de modificación</text>
+		<text id="ls.column.modified.hint" h="12933E76">Data e hora na que se modificou o arquivo, o cartafol ou a listaxe</text>
+		<text id="ls.column.size" h="17A58A52">Tamaño</text>
+		<text id="ls.column.size.hint" h="9C4BD847">Tamaño do arquivo</text>
+		<text id="ls.column.title" h="D18643E3">Nome</text>
+		<text id="ls.column.title.hint" h="6A895576">Nome de arquivo ou de cartafol, ou título da listaxe</text>
+		<text id="virtualfolder.mydrive" h="84C2D3A6">Mi Drive</text>
+		<text id="virtualfolder.sharedwithme" h="8B65307E">Compartido conmigo</text>
+		<text id="cpt.unableToSaveToVirtualFolder" h="778EF99A">Non se puido gardar o arquivo nese cartafol</text>
+		<text id="msg.unableToSaveToVirtualFolder" h="A6644426">O arquivo non pode gardarse na localización seleccionada. Elixa gardalo no cartafol 'Miña unidade', nun subcartafol ou ben nun cartafol de 'Compartir comigo'.</text>
+	</Strings>
+</Localization>

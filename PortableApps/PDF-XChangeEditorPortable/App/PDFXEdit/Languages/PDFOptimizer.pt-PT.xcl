@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20161130215845">2.00.00</Version>
+	<Author>Nuno Filipe Rego</Author>
+	<Copyright>Nuno Filipe Rego ©
+
+Coments and\or suggestions about the translations:
+Comentários e\ou sugestões sobre as traduções: 
+
+nunito.mokito@gmail.com</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Portuguese (Portugal)" lName="português" code="pt-PT" R2L="false"/>
+	<Module name="PDFOptimizer" namespace="pdfopt" version="6.0.319.0"/>
+	<Strings>
+		<text id="AcrobatForms" h="45DE15E7">Formulários Acrobat</text>
+		<text id="AllInPPI" h="73445ABD">Todas as unidades estão em pixeis por polegada (ppp).</text>
+		<text id="BookMarks" h="E2032460">Marcadores</text>
+		<text id="Bytes" h="4EF6C00A">Bytes</text>
+		<text id="CleanUp" h="C194E67C">Limpeza</text>
+		<text id="ColorSpaces" h="4035B7FB">Espaços de Cor</text>
+		<text id="Comments3D" h="1A213B5F">Comentários e Conteúdo 3D</text>
+		<text id="ContentStreams" h="EC5AA2E9">Fluxos de Conteúdo</text>
+		<text id="Count" h="48FC51FB">Contar</text>
+		<text id="CrossReferenceTable" h="B0A3CE52">Tabela de Referências Cruzadas</text>
+		<text id="Description" h="8990DB08">Descrição</text>
+		<text id="ObjectFor" h="24200BB3">Objetos PDF para...</text>
+		<text id="DiscardObjects" h="9A75CFD1">Rejeitar Objetos</text>
+		<text id="DiscardUserData" h="1B55800A">Rejeitar Dados do Utilizador</text>
+		<text id="DocOverhead" h="8AF9C6B9">Cabeçalho do Documento</text>
+		<text id="ErrCount" h="494DF48F">Erros detetados:</text>
+		<text id="ExGStates" h="CFF492D3">Estados Gráficos Avançados</text>
+		<text id="Fonts" h="B72149DB">Tipo de Letra</text>
+		<text id="Images" h="77764F9D">Imagens</text>
+		<text id="LinkAnnotations" h="50D3AB53">Anotações da Ligação</text>
+		<text id="Mobile" h="A5903811">Móvel</text>
+		<text id="Mobile.Desc" h="AC3CDB44">Definições para visualizadores móveis</text>
+		<text id="NamedDect" h="C4E8D8F5">Nome do Destino</text>
+		<text id="Optimize.Error1" h="C319CA59">Ocorreu um erro critíco durante a optimização do documento:</text>
+		<text id="Optimize.Error2" h="A394ADBC">O ficheiro de resultado não pôde ser guardado.</text>
+		<text id="Optimize.IsXFA" h="58B9F3C4">Este documento possui um formulário Adobe XML.
+
+Tais ficheiros não podem ser optimizados.</text>
+		<text id="OptimizeCleanUp" h="321A47D5">Limpar o documento...</text>
+		<text id="OptimizeCropContent" h="0178DFBF">Localizar e Remover conteúdo fora da caixa de recorte</text>
+		<text id="OptimizeDiscardObj" h="0F6D2E1E">Descartar Objeto proveniente do documento...</text>
+		<text id="OptimizeDiscardUD" h="8298BB8B">Descartar Dados do Utilizador provenientes do documento...</text>
+		<text id="OptimizeDuplicates" h="ADD4C1C1">Procurando objetos duplicados (Imagens, X-Forms, Fontes) e a sua remoção...</text>
+		<text id="OptimizeFonts" h="B3521B7F">Optimização de tipos de letra...</text>
+		<text id="OptimizeImages" h="D042191D">Optimização de imagens...</text>
+		<text id="OptimizeTransparency" h="117EF944">Optimização de transparência...</text>
+		<text id="PDFAuditInfo" h="3689108E">Informação sobre Auditoria ao PDF</text>
+		<text id="PDFOptimizer" h="E369C144">Optimizar PDF</text>
+		<text id="PatternInfo" h="BF98E424">Informação do Padrão</text>
+		<text id="Percentage" h="AB9C5DE5">Percentagem</text>
+		<text id="PieceInfo" h="14FA9D8A">Pedaço de Informação</text>
+		<text id="ProgOptimizing" h="307A05DD">Optimizando o documento, aguarde um momento...</text>
+		<text id="ProgPreparing" h="88C0C05E">Preparando o documento para optimização...</text>
+		<text id="ProgTitle" h="9480CEF5">Optimizando...</text>
+		<text id="SavingDocument" h="56115414">Guardando documento optimizado...</text>
+		<text id="ShadingInfo" h="F222371A">Informação de Sombreamento</text>
+		<text id="Standard" h="C6DA1F99">Padrão</text>
+		<text id="Standard.Desc" h="4B85CB86">Definições base para todos os dispositivos</text>
+		<text id="StructInfo" h="75C658E9">Informação da Estrutura</text>
+		<text id="Thumbnails" h="47B1B2D9">Miniaturas</text>
+		<text id="Total" h="9CAA90C0">Total</text>
+		<text id="Transparency" h="9EAC5CA4">Transparência</text>
+		<text id="VersionWarning" h="2AFD0301">A versão da especificação-PDF para o documento foi reduzida de %1.%2 para %3.%4, derivado às definições de optimização.
+Isto pode causar problemas com algumas aplicações. Por favor verifique o documento optimizado.</text>
+		<text id="XForms" h="336DF358">Formulários Objetos X</text>
+		<text id="abc" h="BD101B14">Texto de</text>
+		<text id="alpha" h="632E9A25">Predefinir</text>
+		<text id="alpha.resolution.0" h="D33F1C80">Baixa Resolução</text>
+		<text id="alpha.resolution.1" h="64A38366">Resolução Média</text>
+		<text id="alpha.resolution.2" h="0B020749">Resolução Elevada</text>
+		<text id="alpha.set" h="A135F93B">Definições de Predefinição:</text>
+		<text id="alpha.set.0" h="04DA8EE6">Nível de Transparência: %1</text>
+		<text id="alpha.set.1" h="E18C52C1">Linha de Texto e Arte: %1</text>
+		<text id="alpha.set.2" h="82CFFAB0">Gradiente e Grelhas: %1</text>
+		<text id="alpha.set.3" h="6FFD6051">Converter Todos os Textos em Contornos: %1</text>
+		<text id="alpha.set.4" h="F2FA75FC">Converter Todos os Traçados em Contornos: %1</text>
+		<text id="alpha.set.5" h="B3DB6D2B">Recortar Regiões Complexas: %1</text>
+		<text id="alpha.set.6" h="33A6ABAC">Preservar Impressão Sobreposta: %1</text>
+		<text id="cleanUp" h="BC454C9C">Definições de Limpeza</text>
+		<text id="cleanUp.DelDuplicateFont" h="A9B95EB3">Rejeitar duplicados de Tipo de Letra</text>
+		<text id="cleanUp.DelDuplicateImg" h="5981356D">Rejeitar duplicados de Imagens</text>
+		<text id="cleanUp.DelDuplicateXForm" h="FAA4C52C">Rejeitar duplicados do XForms</text>
+		<text id="cleanUp.LZW" h="4AB18C2D">Nos fluxos que utilizem codificação LZM utilizar Flate</text>
+		<text id="cleanUp.bookmark" h="116E391E">Rejeitar marcadores inválidos</text>
+		<text id="cleanUp.compress" h="469EFC00">Opções da Compressão de Objetos:</text>
+		<text id="cleanUp.compress.0" h="590461FB">Comprimir todo o ficheiro</text>
+		<text id="cleanUp.compress.1" h="223C9F8A">Comprimir estrutura do documento</text>
+		<text id="cleanUp.compress.2" h="02FEB23B">Remover compressão</text>
+		<text id="cleanUp.compress.3" h="00A7F105">Não alterar nível de compressão</text>
+		<text id="cleanUp.content" h="9C2423FB">Optimizar conteúdo da página</text>
+		<text id="cleanUp.destinat" h="0B5DB0C4">Rejeitar nomes de destinos não referenciados</text>
+		<text id="cleanUp.link" h="1456C457">Rejeitar ligações inválidas</text>
+		<text id="cleanUp.stream" h="28B1810A">Utilizar Flate para codificar fluxos que não são codificados</text>
+		<text id="cleanUp.web" h="512E797E">Optimizar o PDF para visualização rápida na Internet</text>
+		<text id="cmd.name" h="E03D5D96">Guardar como Optimizado...</text>
+		<text id="cmd.nameTip" h="DBCE5DD2">Permite guardar um documento como optimizado por forma a reduzir o seu tamanho e diminuir o tempo de abertura.</text>
+		<text id="diObject" h="686FD8CF">Definições de Rejeição de Objetos</text>
+		<text id="diObject.action" h="05E16E16">Rejeitar todas submissões de formulários, importação e acções de predefinição</text>
+		<text id="diObject.bookmark" h="A40329EB">Rejeitar marcadores</text>
+		<text id="diObject.curves" h="919F43B2">Converter linhas suaves em curvas</text>
+		<text id="diObject.flatten" h="73C56406">Limpar campos de preenchimento</text>
+		<text id="diObject.fragment" h="CD4A23BC">Detectar e unir fragmentos de imagens</text>
+		<text id="diObject.image" h="63729870">Rejeitar todas as imagens alternativas</text>
+		<text id="diObject.javascript" h="7FFE9012">Rejeitar todas as acções JavaScript</text>
+		<text id="diObject.print" h="BD6C83FA">Rejeitar definições de impressão incorporadas</text>
+		<text id="diObject.search" h="7B117F1A">Rejeitar índices de pesquisa incorporados</text>
+		<text id="diObject.tags" h="3C045100">Rejeitar as etiquetas de documentos</text>
+		<text id="diObject.thumbnail" h="9599423F">Rejeitar todas as miniaturas de páginas incorporadas</text>
+		<text id="diUserData" h="94495488">Rejeitar Informação Relacionada com o Utilizador</text>
+		<text id="diUserData.attach" h="92D67E12">Rejeitar anexos do ficheiro</text>
+		<text id="diUserData.form" h="A5238C7D">Rejeitar todos os Comentários, formulários e multimédia</text>
+		<text id="diUserData.layer" h="D2512415">Rejeitar conteúdo de campos ocultos e limpar campos visíveis</text>
+		<text id="diUserData.metadata" h="1E9402E3">Rejeitar toda a informação do documento e metadata</text>
+		<text id="diUserData.object" h="6C03028D">Rejeitar todos os dados do objeto</text>
+		<text id="diUserData.privat" h="304A6889">Rejeitar informação privada proveniente de outras aplicações</text>
+		<text id="diUserData.refer" h="B0E9F442">Rejeitar referências externas</text>
+		<text id="dlg.POTitle" h="E462CC15">Optimização de PDF</text>
+		<text id="dlg.delete" h="38F26847">Tem a certeza que quer eliminar a definição '%1'?</text>
+		<text id="dlg.save" h="9A3AA1B1">Criar definições de Optimizador PDF</text>
+		<text id="dlg.save.text" h="A599E751">Guardar definições actuais como:</text>
+		<text id="fonts" h="4EA24A2A">Definições de Desincorporação de Tipo de Letra</text>
+		<text id="fonts.active" h="5C8642DA">Não Desincorporar Nenhm Tipo de letra.</text>
+		<text id="fonts.all" h="3FE17594">Desincorporar todos os tipos de letra</text>
+		<text id="fonts.btn.retain" h="BAD13ABC">&lt;&lt; Manter</text>
+		<text id="fonts.btn.unembed" h="760953D2">Desincorporar &gt;&gt;</text>
+		<text id="fonts.comment" h="E0CEEE00">Os tipos de letra listados acima estão actualamente incorporados no ficheiro PDF. Para desincorporar um tipo de letra, mova-o parao painel da direita. Os tipos de letra no painel da esquerda serão mantidos.</text>
+		<text id="fonts.custom" h="2AAB35CE">Escolha os tipos de letra a desinbumtir manualmente</text>
+		<text id="fonts.embedded" h="A77293DA">Tipos de Letra incorporados:</text>
+		<text id="fonts.mergesubsets" h="F0C43A59">Unificar subconjuntos de tipos de letra</text>
+		<text id="fonts.recommend" h="F9ABDD3E">Desincorporar tipos de letra recomendados</text>
+		<text id="fonts.subset" h="6EC24EDD">Criar subconjunto com todos os tipos de letra incorporados</text>
+		<text id="fonts.unembed" h="D1144C15">Tipos de Letra a incorporar:</text>
+		<text id="images.above" h="09C2601E">para as imagens acima:</text>
+		<text id="images.color" h="EFDBFA28">Cor da Imagem</text>
+		<text id="images.compress" h="990F2529">Compressão:</text>
+		<text id="images.compress.0" h="6258BC37">Manter existente</text>
+		<text id="images.compress.1" h="3A603972">JPEG2000</text>
+		<text id="images.compress.2" h="58DE58E0">JPEG</text>
+		<text id="images.compress.3" h="0E4D9E8D">ZIP</text>
+		<text id="images.compress.indexed.0" h="6258BC37">Manter existente</text>
+		<text id="images.compress.indexed.1" h="0E4D9E8D">ZIP</text>
+		<text id="images.compress.indexed.2" h="82741A51">Duração da Execução</text>
+		<text id="images.compress.indexed.3" h="D62F11BD">LZW</text>
+		<text id="images.compress.mono.0" h="6258BC37">Manter existente</text>
+		<text id="images.compress.mono.1" h="DE3BC257">JBIG2</text>
+		<text id="images.compress.mono.2" h="B7DD624B">Grupo 3 CCITT</text>
+		<text id="images.compress.mono.3" h="F89CF48C">Grupo 4 CCITT</text>
+		<text id="images.compress.mono.4" h="0E4D9E8D">ZIP</text>
+		<text id="images.compress.mono.5" h="82741A51">Duração da Execução</text>
+		<text id="images.downsampling.0" h="747AEF4D">Sem Redução da resolução</text>
+		<text id="images.downsampling.1" h="9DF5988E">Diminuir resolução pela média para</text>
+		<text id="images.downsampling.2" h="F298A3BE">Definir subamostragem para</text>
+		<text id="images.downsampling.3" h="2B989117">Redução Bicúbica de resolução para</text>
+		<text id="images.downsampling.indexed.0" h="747AEF4D">Sem Redução da resolução</text>
+		<text id="images.downsampling.indexed.1" h="F298A3BE">Definir subamostragem para</text>
+		<text id="images.grey" h="F9551019">Imagens em Escala de Cinza</text>
+		<text id="images.ingexed" h="FE837B06">Imagens Indexadas</text>
+		<text id="images.mono" h="19F5498E">Imagens Monocromáticas</text>
+		<text id="images.quality.0" h="8415F85F">Mínimo</text>
+		<text id="images.quality.1" h="845E3D8C">Baixa</text>
+		<text id="images.quality.2" h="91153342">Média</text>
+		<text id="images.quality.3" h="21A95620">Alta</text>
+		<text id="images.quality.4" h="A8A97F0E">Máxima</text>
+		<text id="images.quality.5" h="40A582D7">Sem Degradação</text>
+		<text id="images.quality.mono.0" h="78731864">Com Degradação</text>
+		<text id="images.quality.mono.1" h="40A582D7">Sem Degradação</text>
+		<text id="images.reduct" h="96D00A5D">Optimizar imagens apenas se houver redução no tamanho</text>
+		<text id="msg.NoPermission" h="073C6158">O documento está protegido e voçê não possui permissões suficientes para realizar a optimização.</text>
+		<text id="ppi" h="B39AC2C1">dpi</text>
+		<text id="quality" h="E3A77A93">Qualidade:</text>
+		<text id="result" h="CE676C2B">Resultado:</text>
+		<text id="settings" h="B781AB7B">Definições:</text>
+		<text id="settings.Custom" h="A918FF38">Personalizar</text>
+		<text id="settings.Mobile" h="A5903811">Móvel</text>
+		<text id="settings.Standard" h="C6DA1F99">Padrão</text>
+		<text id="spaceusage" h="0E26C3EE">Analisando utilização de espaço...</text>
+		<text id="stage.getfonts" h="9DF9EE20">Compilando tipos de letra do documento...</text>
+		<text id="stage.preparing" h="3F6313D6">Preparando documento...</text>
+		<text id="tileSize" h="A4FAD93F">Tamanho da Tela:</text>
+		<text id="ver" h="B0A620D6">Tornar compatível com:</text>
+		<text id="ver.0" h="6258BC37">Manter existente</text>
+		<text id="ver.1" h="8B2AEC62">Versão 1.3 (Acrobat 4.0 ou superior)</text>
+		<text id="ver.2" h="A0EA502A">Versão 1.4 (Acrobat 5.0 ou superior)</text>
+		<text id="ver.3" h="26054EFC">Versão 1.5 (Acrobat 6.0 ou superior)</text>
+		<text id="ver.4" h="70929FB3">Versão 1.6 (Acrobat 7.0 ou superior)</text>
+		<text id="ver.5" h="FD059DF9">Versão 1.7 (Acrobat 8.0 ou superior)</text>
+		<text id="ver.current" h="17DA1613">Versão PDF Atual: %1.%2</text>
+	</Strings>
+</Localization>

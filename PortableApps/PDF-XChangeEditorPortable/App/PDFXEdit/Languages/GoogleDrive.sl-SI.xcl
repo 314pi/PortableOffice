@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20161130215843">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Slovenian" lName="slovenščina" code="sl-SI" R2L="false"/>
+	<Module name="GoogleDrivePlugin" namespace="gd" version="0.0.0.0"/>
+	<Strings>
+		<text id="DlgOpenFile" h="B98AB29D">Odpri datoteko iz Google Drive</text>
+		<text id="DlgSaveFile" h="81F99046">Shrani datoteko v Google Drive</text>
+		<text id="GDPlugin" h="32B7E3E0">Google Drive vtičnik</text>
+		<text id="btn.connectToAnother" h="508BDBC5">Nova prijava ...</text>
+		<text id="cmd.cmdsCategory" h="AD23B285">Google Drive</text>
+		<text id="cmd.googledrive" h="1D28DF85">&amp;Google Drive</text>
+		<text id="cmd.open" h="F32ECED5">&amp;Google Drive ...</text>
+		<text id="cmd.open.tip" h="933837A2">Odpri dokument iz Google Drive.</text>
+		<text id="cmd.save" h="F32ECED5">&amp;Google Drive ...</text>
+		<text id="cmd.save.tip" h="948C3269">Shrani aktivni dokument v Google Drive.</text>
+		<text id="cpt.fileNotFound" h="A7F5FA7A">Datoteka ni najdena</text>
+		<text id="cpt.invalidFileName" h="79C1387C">Neveljavno ime datoteke</text>
+		<text id="cpt.navigateError" h="3D300A1C">Navigacijska napaka</text>
+		<text id="cpt.saveReplace" h="520CB069">Shrani datoteko</text>
+		<text id="cpt.selectFile" h="C55D68B0">Izbira datoteke</text>
+		<text id="dlg.googleAuth" h="E5642F22">Google Drive preverjanje pristnosti</text>
+		<text id="fileName" h="DEC92488">Ime datoteke:</text>
+		<text id="lb.CurrentFolder" h="44158804">Trenutna mapa:</text>
+		<text id="lb.Test" h="273F3E5B">Test Test Test!</text>
+		<text id="lb.googleAccName" h="C94645A3">Google Račun:</text>
+		<text id="msg.fileNotFound" h="430E08B1">Datoteke "%1" ni mogoče najti v trenutni mapi.</text>
+		<text id="msg.invalidFileName" h="7C0655B5">"%1" ni veljavno ime datoteke.</text>
+		<text id="msg.navigateError" h="2FCAA72A">Spodletela navigacija v Google Drive viru. Preverite internetno povezavo in pravice za dostop do zahtevanega vira Google Drive.</text>
+		<text id="msg.openFailed" h="AC94D960">Napaka pri odpiranju datoteke. Prepričajte se, da datoteka obstaja, ni ogledovana od drugega uporabnika in da imate dovoljenje za branje.</text>
+		<text id="msg.saveFailed" h="4D413392">Datoteke ni bilo mogoče shraniti. Prepričajte se, da je ime datoteke veljavno in da imate dovoljenje za pisanje.</text>
+		<text id="msg.saveReplace" h="5D56833E">Datoteka %1 že obstaja. Ali jo želite zamenjati?</text>
+		<text id="msg.selectFile" h="2530C20F">Izberite datoteko, preden pritisnete V redu</text>
+		<text id="ls.column.created" h="FE6510B7">Datum nastanka</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Datum in čas, ko je bila ustvarjena datoteka, mapa ali seznam</text>
+		<text id="ls.column.extension" h="14FEB836">Pripona</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Pripona datoteke</text>
+		<text id="ls.column.modified" h="7E234D6D">Datum spremembe</text>
+		<text id="ls.column.modified.hint" h="12933E76">Datum in čas, ko so bili datoteka, mapa ali seznam nazadnje spremenjeni</text>
+		<text id="ls.column.size" h="17A58A52">Velikost</text>
+		<text id="ls.column.size.hint" h="9C4BD847">Velikost datoteke</text>
+		<text id="ls.column.title" h="D18643E3">Ime</text>
+		<text id="ls.column.title.hint" h="6A895576">Ime datoteke, ime mape ali naziv seznama</text>
+		<text id="virtualfolder.mydrive" h="84C2D3A6">My Drive</text>
+		<text id="virtualfolder.sharedwithme" h="8B65307E">V skupni rabi z mano</text>
+		<text id="cpt.unableToSaveToVirtualFolder" h="778EF99A">Datoteke ni mogoče shraniti v mapo</text>
+		<text id="msg.unableToSaveToVirtualFolder" h="A6644426">Datoteke ni mogoče shraniti na izbrano lokacijo. Izberi mapo "My Drive", eno od podmap ali eno od podmap v "Skupni rabi z mano", da shranite datoteko.</text>
+	</Strings>
+</Localization>

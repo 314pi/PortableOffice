@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Version date="20131230153752">2.00.00</Version>
+	<Author>Jack G.</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor" />
+	<Language eName="Hebrew" lName="עברית" code="he-IL" R2L="true"/>
+	<Module name="SpellChecker" namespace="spell" version="5.5.312" />
+	<Strings>
+		<text id="lstDicts.empty" h="FFD5B8BB">&lt; אין מילון&gt;</text>
+		<text id="wrd.b.AddWord" h="8E2EE8C1">הוסף</text>
+		<text id="opt.b.AddDict" h="E0BF5FDE">הוסף מילון</text>
+		<text id="msg.CopyDictError" h="81324CC9">לא מסוגל לפתוח קובץ מילון</text>
+		<text id="msg.LoadDictError" h="D139CD51">לא יכול לטעון מילון</text>
+		<text id="msg.RemoveError" h="10071F88">לא ניתן להסיר קובץ מילון.גישה נדחתה</text>
+		<text id="opt.b.CustomWordList" h="D1505337"> רשימת מלים ערוכות</text>
+		<text id="wrd.title" h="66DDC653">רשימת מילים ערוכות</text>
+		<text id="wrd.b.Delete" h="D8FE3F70">מחק</text>
+		<text id="wrd.b.DeleteAll" h="848E003C">מחק הכל</text>
+		<text id="msg.DictExists" h="650ABF1A">המילון כבר קיים</text>
+		<text id="msg.DictExists.title" h="A81488F3">מילון קיים</text>
+		<text id="wrd.l.Dictionary" h="66E4322E">מילון:</text>
+		<text id="opt.cb.EnableHyphens" h="BC236380">אפשר המיקוף מילון</text>
+		<text id="opt.cb.EnableAllHyphens" h="207464CF">אפשר מיקוף</text>
+		<text id="opt.cb.EnableSpellChecker" h="1D563674">הפעל בודק איות</text>
+		<text id="opt.cb.AllowAlgoHyphens" h="184CA069">מקף מילות לא ידועות</text>
+		<text id="dict.param.hyphen" h="50549BEC">מקוף</text>
+		<text id="opt.b.RemoveDict" h="D94F3439">הסר מילון</text>
+		<text id="dict.param.spell" h="E10DA1DD">איות</text>
+		<text id="opt.title" h="AEF9F007">הגדרות לבודק איות</text>
+		<text id="msg.ErrorTitle" h="8FEB05A5">שגיאה בבדיקת איות</text>
+		<text id="msg.WordExists" h="08449B8B">המילה כבר קיימת</text>
+		<text id="msg.WordExists.title" h="B19E6963">מילה קיימת</text>
+		<text id="wrd.l.Word" h="7AFBC23E">מילה:</text>
+</Strings>
+</Localization>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20161130215843">2.00.00</Version>
+	<Author>Nuno Filipe Rego</Author>
+	<Copyright>Nuno Filipe Rego ©
+
+Coments and\or suggestions about the translations:
+Comentários e\ou sugestões sobre as traduções: 
+
+nunito.mokito@gmail.com</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Portuguese (Portugal)" lName="português" code="pt-PT" R2L="false"/>
+	<Module name="FileOpenSH" namespace="fopw" version="6.0.319.0"/>
+	<Strings>
+		<text id="secure.printer.title" h="F43CD4DF">Impressora não permitida.</text>
+		<text id="secure.printer.text" h="0AF11744">Esta impressora não tem permissões para realizar impressão segura. Por favor, inicie novamente a impressão, selecionando outra impressora.</text>
+	</Strings>
+</Localization>

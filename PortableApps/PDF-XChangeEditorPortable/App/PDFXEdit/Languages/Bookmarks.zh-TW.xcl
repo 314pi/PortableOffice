@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123215804">2.00.00</Version>
+	<Author>Andy Chen</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Chinese (Traditional, Taiwan)" lName="中文(繁體)" code="zh-TW" R2L="true"/>
+	<Module name="BookmarksPlugin" namespace="bp" version="7.0.323.3"/>
+	<Strings>
+		<text id="DlgAddExcludedWords" h="BED549D0">新增排除字詞</text>
+		<text id="DlgAddTextToBookmark" h="E5B26485">在書籤名稱加入文字</text>
+		<text id="DlgAutoGenerateBookmarks.Title" h="0E85373B">從頁面文字產生書籤</text>
+		<text id="DlgBookmarkAppearance" h="7544DDCE">結果外觀</text>
+		<text id="DlgBookmarkEveryNthPage" h="B6869582">每 N 頁加入書籤</text>
+		<text id="DlgBookmarkLevelDescription" h="186C1D0A">文字符合選項</text>
+		<text id="DlgBookmarkPropSheet" h="862C67E7">書籤產生屬性</text>
+		<text id="DlgBookmarkTitleFormatting" h="A87502C2">名稱格式化</text>
+		<text id="DlgBookmarksToNamedDests" h="8A0957E5">轉換為命名目標</text>
+		<text id="DlgBookmarksToTextFile" h="29F18B82">匯出書籤到文字檔案</text>
+		<text id="DlgChangeBookmarkCase" h="4D74C7D9">變更書籤大小寫</text>
+		<text id="DlgEditStopWords" h="911413E7">編輯停用字詞</text>
+		<text id="DlgFindReplaceBookmarkText" h="733A7FC1">搜尋及取代書籤文字</text>
+		<text id="DlgFontNames" h="3C8B1F88">選擇字型名稱</text>
+		<text id="DlgFromTOC" h="AC2ED85C">將目錄製作成書籤</text>
+		<text id="DlgFromTOCIndentation" h="12688622">變更縮排</text>
+		<text id="DlgFromTextFile" h="B3799046">從文字檔產生書籤</text>
+		<text id="DlgNamedDestsToPageNumbers" h="9CAE5E39">將命名目標轉換為一般頁次目標</text>
+		<text id="DlgSheetBttfBookmarkProps" h="4B2F0AA2">書籤屬性</text>
+		<text id="DlgSheetBttfSelectBookmarks" h="30673BCD">一般</text>
+		<text id="DlgSortBookmarks" h="8339BB6C">書籤排序</text>
+		<text id="DlgToTOC" h="2B3E9BF1">建立書籤</text>
+		<text id="DlgValidateBookmarks" h="0CD39971">驗證書籤</text>
+		<text id="atb.btn.Macroses" h="81734E4F">Mac</text>
+		<text id="atb.chb.IncludeChildren" h="0AC4CB2B">包含所有子層級</text>
+		<text id="atb.chb.ProcessAllLevels" h="26C3B2DF">處理所有書籤層級</text>
+		<text id="atb.chb.RemoveSpaces" h="ABDEA5BC">移除書籤名稱中過多的空白</text>
+		<text id="atb.gb.AddText" h="E21C9B55">加入文字</text>
+		<text id="atb.gb.Levels" h="8A668489">選擇處理的書籤層級</text>
+		<text id="atb.gb.SelectSource" h="1E2E96A4">選擇書籤來源</text>
+		<text id="atb.lbl.BookmarkTitle" h="2DC1254E">"書籤名稱"</text>
+		<text id="atb.lbl.Prefix" h="A51A4726">書籤名稱加入前綴：</text>
+		<text id="atb.lbl.SelectLevel" h="D1263889">選擇處理的層級：</text>
+		<text id="atb.lbl.Suffix" h="C27741D5">書籤名稱加入後綴：</text>
+		<text id="atb.lbl.UseBookmarksFrom" h="E770326C">指定書籤：</text>
+		<text id="ba.chb.expand" h="BBA3BD8A">展開顯示（顯示所有子書籤）</text>
+		<text id="ba.l.expl" h="EE297184">選取結果書籤的視覺外觀：</text>
+		<text id="ba.l.textStyle" h="8D5CA9B5">文字型態：</text>
+		<text id="benp.Gb.Main" h="4B2F0AA2">書籤屬性</text>
+		<text id="benp.Label.TitleTemplate" h="5E999567">書籤標題範本：</text>
+		<text id="benp.Label1.SelectN" h="8626E4EA">所選頁面範圍內每</text>
+		<text id="benp.Label2.SelectN" h="6270721D">頁加入一個書籤</text>
+		<text id="benp.infoBtn.invalidMacro" h="1561C0F2">字串包括未定義的宏。未定義宏將被忽略。</text>
+		<text id="bft.l.actionSeparator" h="5C05CE1E">動作參數分隔符號:</text>
+		<text id="bft.l.separator" h="A4269065">欄位分隔符號：</text>
+		<text id="bld.btn.selStyle" h="EE213BC5">從所選文字取得型態</text>
+		<text id="bld.chb.fontNames" h="AB457B23">字體名稱：</text>
+		<text id="bld.chb.limitToPattern" h="7F0826AB">僅將通配式符合的部分作為書籤標題</text>
+		<text id="bld.chb.matchTextPattern" h="5A64E195">符合文字通配式：</text>
+		<text id="bld.chb.multilineBookmarks" h="CB4817D1">容許多行書籤標題</text>
+		<text id="bld.g.textContentRules" h="5B364747">文字內容規則</text>
+		<text id="bld.l.description" h="2F770A5B">設定一個下列文字屬性的組合以自動從文件產生書籤：</text>
+		<text id="bld.l.matchTextCase" h="43616BDA">符合文字大小寫：</text>
+		<text id="bld.matchTextCase.allCapital" h="D4E8E731">所有字元大寫</text>
+		<text id="bld.matchTextCase.firstCapital" h="CAA2E79D">首個字元為大寫</text>
+		<text id="bld.matchTextCase.firstDigit" h="42E73545">首個字元為數字</text>
+		<text id="bld.matchTextCase.noRestrictions" h="93089981">無限制</text>
+		<text id="bnd.gb.Main" h="4DDA9780">命名目標標題</text>
+		<text id="bnd.lbl.NDTitle" h="7F7F73EC">使用此通配式生成命名的目的標題：</text>
+		<text id="btf.chb.insertAfter" h="DD7B743E">每個名稱後加入文字:</text>
+		<text id="btf.chb.insertBefore" h="CBDD1CF8">在每個名稱前面插入此文字：</text>
+		<text id="btf.chb.removeDuplicateSpaces" h="2653A648">刪除重複的空格</text>
+		<text id="btf.chb.replaceLineBreaks" h="0C51EEEB">用空格替換分行符號</text>
+		<text id="btf.chb.replaceTitle" h="097EF3C2">使用文字模式來搜尋取代書籤</text>
+		<text id="btf.g.advancedFormatting" h="9130441A">進階格式化</text>
+		<text id="btf.g.textCase" h="97FCC959">文字大小寫</text>
+		<text id="btf.l.characters" h="189C88D2">(字元)</text>
+		<text id="btf.l.expl" h="169A084A">選擇將被套用到新書籤名稱的文字屬性：</text>
+		<text id="btf.l.leadingNumbers" h="074A1A51">前置數字：</text>
+		<text id="btf.l.maxLength" h="A52EC501">名稱最大長度：</text>
+		<text id="btf.l.replacePattern" h="B54B1F92">取代模式：</text>
+		<text id="btf.l.searchPattern" h="E87DDC08">搜尋模式：</text>
+		<text id="btf.l.use" h="46DEA47A">使用：</text>
+		<text id="btf.leadingNumbers.noChange" h="3399B0A0">不改變</text>
+		<text id="btf.rb.doNotChange" h="4CBF2C1B">不要變更</text>
+		<text id="btf.rb.lowercase" h="82451817">全部小寫</text>
+		<text id="btf.rb.sentenceCase" h="B26B2798">句首大寫</text>
+		<text id="btf.rb.titleCase" h="2C8DBF1B">字首大寫</text>
+		<text id="btf.rb.uppercase" h="42F820C7">全部大寫</text>
+		<text id="btf.use.letters" h="6EE7E478">字母</text>
+		<text id="btf.use.numbers" h="E2FE5FA7">編號</text>
+		<text id="btf.use.romanLetters" h="290A50ED">羅馬字母</text>
+		<text id="btn.add.custom" h="3080663C">加入自定義...</text>
+		<text id="btn.highlight" h="2485FBFF">高亮度顯示書籤</text>
+		<text id="btn.validate" h="1E91E484">驗證</text>
+		<text id="cbc.aew.label" h="7EC386C0">每行輸入一個排除字詞(在每個字詞後方按"Enter"換行)</text>
+		<text id="cbc.cb.fromBookmarks" h="CF38CD8D">選取的書籤</text>
+		<text id="cbc.cb.fromDocument" h="424CAFC5">所有書籤</text>
+		<text id="cbc.chb.EnterCustomWordList" h="EB8ACE1B">輸入要排除處理的自訂文字清單</text>
+		<text id="cbc.chb.IncludeChildrenBookmarks" h="051C6219">包含所有子書籤</text>
+		<text id="cbc.gb.SelectTextCase" h="F9747FC0">選擇文字大小寫</text>
+		<text id="cbc.gb.TextCaseOptions" h="DAD7B4F4">選項</text>
+		<text id="cbc.list.header" h="647D6FC4">排除字</text>
+		<text id="cbc.rbtn.LowerCase" h="82451817">全部小寫</text>
+		<text id="cbc.rbtn.SentenceCase" h="B26B2798">句首大寫</text>
+		<text id="cbc.rbtn.TitleCase" h="2C8DBF1B">字首大寫</text>
+		<text id="cbc.rbtn.UpperCase" h="42F820C7">全部大寫</text>
+		<text id="chb.ignoreDuplicates" h="B30FC50E">忽略連續重複的書籤</text>
+		<text id="chb.stopWords" h="491ED7FC">忽略包含停用字詞的文字</text>
+		<text id="chb.verifyLinks" h="7A46B598">驗證文件及檔案的外部連結</text>
+		<text id="chb.warnGoTo" h="911FC68A">警告無效的移至動作</text>
+		<text id="chb.warnGoToRE" h="C0827D11">警告無效的 GoToR 及 GoToE 動作</text>
+		<text id="chb.warnLaunchURI" h="94F27C09">警告無效的開啟及 URI 動作</text>
+		<text id="chb.warnNoActions" h="FBF997CF">警告空白動作清單或沒有有效子項目</text>
+		<text id="chb.warnNoGoTo" h="66B02339">警告動作清單中移至動作的項目</text>
+		<text id="chb.warnOther" h="B30D6C64">警告其他無效的動作</text>
+		<text id="chb.warnTitle" h="F0B5EE52">警告空白名稱</text>
+		<text id="cmd.addAGBLevel" h="928E2BB5">使用選取的文字樣式產生書籤...</text>
+		<text id="cmd.addTextToBookmarkTitle" h="C4C93738">於書籤名稱插入文字...</text>
+		<text id="cmd.addTextToBookmarkTitle.short" h="E21C9B55">添加文字</text>
+		<text id="cmd.addTextToBookmarkTitle.tip" h="B412507B">將首碼和尾碼添加到書簽的標題中。</text>
+		<text id="cmd.changeBookmarkCase" h="359544B0">變更書籤名稱大小寫...</text>
+		<text id="cmd.changeBookmarkCase.short" h="BC4AE60A">更改案例</text>
+		<text id="cmd.changeBookmarkCase.tip" h="48522DE3">更改書簽標題的大小寫。</text>
+		<text id="cmd.findReplaceBookmarkText" h="AF996007">搜尋並取代書籤名稱文字...</text>
+		<text id="cmd.findReplaceBookmarkText.short" h="9F35A871">查找和替換</text>
+		<text id="cmd.findReplaceBookmarkText.tip" h="7ED81F66">查找和替換書簽標題中的文本元素。</text>
+		<text id="cmd.sort" h="B1FFF012">排序書籤...</text>
+		<text id="cmd.sort.short" h="579162B0">排序</text>
+		<text id="cmd.sort.tip" h="90B74C06">按給定的條件對書簽進行排序。</text>
+		<text id="cmd.validate" h="E61D60D2">驗證書籤...</text>
+		<text id="cmd.validate.short" h="1E91E484">驗證</text>
+		<text id="cmd.validate.tip" h="AF7C0DD0">根據給定的條件檢查書簽是否有效。</text>
+		<text id="cmd.toTOC" h="9B7AEEEA">產生目錄...</text>
+		<text id="cmd.toTOC.short" h="2B3E9BF1">組建目錄</text>
+		<text id="cmd.toTOC.tip" h="E92DA1A8">根據書簽的結構和所指向的頁面創建目錄。</text>
+		<text id="cmd.bookmarksToNamedDests" h="9A9E5CF2">轉換為命名目標...</text>
+		<text id="cmd.bookmarksToNamedDests.short" h="9226CE11">轉換為命名的目的。</text>
+		<text id="cmd.bookmarksToNamedDests.tip" h="76CA39A1">將 "書簽" 動作清單中的常規目標轉換為指定的目標。然後, 當頁面被移動或刪除時, 這些書簽將指向與以前相同的頁面。</text>
+		<text id="cmd.bookmarksToTextFile" h="DBEBEEB8">書籤匯出為文字檔...</text>
+		<text id="cmd.bookmarksToTextFile.short" h="738D44A8">匯出到文字檔</text>
+		<text id="cmd.bookmarksToTextFile.tip" h="2F1DD236">將書簽的結構保存為文字檔。</text>
+		<text id="cmd.bookmarksToHtmlFile" h="EFF75744">書籤匯出為HTML檔...</text>
+		<text id="cmd.bookmarksToHtmlFile.short" h="76C20816">匯出到 HTML</text>
+		<text id="cmd.bookmarksToHtmlFile.tip" h="8968844D">Saves the bookmarks' structure as a HTML file.</text>
+		<text id="cmd.namedDestsToPageNumbers" h="3A651CA9">將命名目標轉換為一般頁次目標...</text>
+		<text id="cmd.namedDestsToPageNumbers.short" h="74C22304">命名的。到常規</text>
+		<text id="cmd.namedDestsToPageNumbers.tip" h="2ABF8034">將 "書簽" 動作清單中的命名目標轉換為常規目標。然後, 當頁面被移動或刪除時, 書簽將指向與目的地的頁碼相對應的頁面。</text>
+		<text id="cmd.bookmarkEveryNthPage" h="940FCD39">每N頁自動產生書籤...</text>
+		<text id="cmd.bookmarkEveryNthPage.short" h="71BCE832">每個第 n 頁的書簽</text>
+		<text id="cmd.bookmarkEveryNthPage.tip" h="B60E23D7">創建與文檔頁碼相關的書簽。</text>
+		<text id="cmd.generate" h="2147DF79">從頁面文字產生書籤...</text>
+		<text id="cmd.generate.short" h="8BE514A6">從頁面文本</text>
+		<text id="cmd.generate.tip" h="2A03253C">使用給定的字體樣式和參數創建來自當前文檔文本的書簽。</text>
+		<text id="cmd.fromTOC" h="D15400EB">將目錄製作成書籤...</text>
+		<text id="cmd.fromTOC.short" h="3AB39C50">從目錄</text>
+		<text id="cmd.fromTOC.tip" h="D4170828">從現有目錄創建書簽。必須首先使用 "選擇文本" 工具來選擇目錄, 此功能才能操作。</text>
+		<text id="cmd.fromTextFile" h="55CA46BC">從文字檔產生書籤...</text>
+		<text id="cmd.fromTextFile.short" h="3619B3DB">從文字檔案</text>
+		<text id="cmd.fromTextFile.tip" h="11167525">從文字檔創建書簽。請注意, 文字檔資料格式應遵循 "匯出書簽到文字檔" 功能的規則。</text>
+		<text id="cmd.name" h="7CDCE9BE">書籤(&amp;B)</text>
+		<text id="cmd.macro.firstLine" h="613F14A5">頁面第一文字行</text>
+		<text id="cmd.macro.hierIndex" h="7DCA5F4D">在分級結構中的位置</text>
+		<text id="cmd.macro.hierTitle" h="0E7B4B6F">書籤分級結構標題</text>
+		<text id="cmd.macro.indexInParent" h="1B41AFB1">在父節點中的位置</text>
+		<text id="cmd.macro.label" h="EEE40FF3">頁標籤</text>
+		<text id="cmd.macro.launch" h="87D9EB8D">要開啟的檔案</text>
+		<text id="cmd.macro.level" h="B863033F">書籤層級</text>
+		<text id="cmd.macro.namedDest" h="C4E8D8F5">命名目標</text>
+		<text id="cmd.macro.sequentialNum" h="CDF4EA5E">順序號</text>
+		<text id="cmd.macro.title" h="3AB782A4">書籤名稱</text>
+		<text id="cmd.macro.uri" h="6C21F7EF">要開啟的網路連結</text>
+		<text id="ebttf.actType.all" h="B8B21253">有所有超連結動作類型的書籤</text>
+		<text id="ebttf.actType.goto" h="05B4C93C">有轉到頁動作的書籤</text>
+		<text id="ebttf.actType.gotoR" h="41E1955E">有轉到遠端動作的書籤</text>
+		<text id="ebttf.actType.js" h="07676EBA">有 JavaScript 動作的書籤</text>
+		<text id="ebttf.actType.launch" h="38537D36">有開啟檔案動作的書籤</text>
+		<text id="ebttf.actType.uri" h="F39B51AE">有開啟網路連結動作的書籤</text>
+		<text id="ebttf.cb.separator.comma" h="827998F7">逗號</text>
+		<text id="ebttf.cb.separator.semi" h="988594A6">分好</text>
+		<text id="ebttf.ch.doNotEscape" h="09B53F9F">不轉義服務符號，例如 @ # { }    : 等。</text>
+		<text id="ebttf.ch.expClosedState" h="46E4EC7E">匯出書籤「已折疊」狀態</text>
+		<text id="ebttf.ch.expDetailedGotoDescr" h="18B9C243">匯出詳細的目的描述</text>
+		<text id="ebttf.ch.exportActions" h="3444FE51">匯出書籤動作</text>
+		<text id="ebttf.ch.exportGoto" h="37493654">匯出書籤指向的頁面</text>
+		<text id="ebttf.ch.exportGotoR" h="92C06BA6">匯出遠端轉到動作描述</text>
+		<text id="ebttf.ch.exportJS" h="9362EAE3">匯出 JavaScript 動作代碼</text>
+		<text id="ebttf.ch.exportLaunch" h="1B39BF89">匯出開啟檔案動作的描述</text>
+		<text id="ebttf.ch.exportStyle" h="A6713F10">匯出書籤文字型態和彩色屬性</text>
+		<text id="ebttf.ch.exportWebLinks" h="3C61424C">匯出 Web 連結</text>
+		<text id="ebttf.ch.includeSubBookmarks" h="051C6219">內含所有子書籤</text>
+		<text id="ebttf.ch.openContFolder" h="80BDDAAC">開啟所在資料夾</text>
+		<text id="ebttf.ch.overwriteExistingFiles" h="29981774">覆蓋現有檔案</text>
+		<text id="ebttf.ch.resloveNamedDests" h="D1E8A9BC">將命名的目的解析為頁碼</text>
+		<text id="ebttf.gb.actionExportParams" h="DA853D34">選取要匯出的書籤屬性</text>
+		<text id="ebttf.gb.savingResults" h="49571A59">輸出參數</text>
+		<text id="ebttf.gb.selectBookmarks" h="E2AFC2C6">選取要匯出的書籤</text>
+		<text id="ebttf.infoBtn.doNotEscape" h="93A6DD6C">如果您以後要在輸出檔案時使用功能 "利用文字檔案產生後書籤"，那麼推薦您轉義服務符號。</text>
+		<text id="ebttf.infoBtn.invalidSeparator" h="44875D1F">屬性分隔符不能為空，不能包括字母/空格/或這些字元： @ # { }  : \</text>
+		<text id="ebttf.lbl.folder" h="3F9ED2F9">資料夾：</text>
+		<text id="ebttf.lbl.separator" h="E9D351AC">屬性分隔符：</text>
+		<text id="ebttf.rb.exportActionTypes" h="533F8EA6">匯出執行超連結動作的書籤：</text>
+		<text id="ebttf.rb.exportAll" h="8F2ED544">匯出全部</text>
+		<text id="ebttf.rb.exportSelected" h="69FB5145">匯出所選書籤</text>
+		<text id="ebttf.rb.useDefaultFilename" h="0E7FC989">使用 PDF 文件檔案名來儲存結果</text>
+		<text id="esw.chb.matchCase" h="2E5EFD7E">符合大小寫</text>
+		<text id="esw.chb.matchWhole" h="17009870">符合全字拼寫</text>
+		<text id="esw.chb.useRegExp" h="7FC6EB4F">使用規則運算式</text>
+		<text id="esw.l.explanation" h="2C312B17">包含停用字詞的文字將被忽略並不會用來產生書籤</text>
+		<text id="fn.l.selectFontNames" h="0CCEF1FA">選擇字型名稱：</text>
+		<text id="frbt.chb.MatchCase" h="12EB8088">符合大小寫</text>
+		<text id="frbt.chb.MatchWholeWord" h="FE8CC762">符合全字拼寫</text>
+		<text id="frbt.chb.UseRegex" h="7FC6EB4F">使用規則運算式</text>
+		<text id="frbt.gb.FindReplace" h="BA012728">搜尋及取代選項</text>
+		<text id="frbt.lbl.FindWhat" h="D0A8A2C5">搜尋什麼：</text>
+		<text id="frbt.lbl.ReplaceWith" h="3BE65784">取代什麼：</text>
+		<text id="ftoc.allIncluded" h="C994FC1B">包含所有</text>
+		<text id="ftoc.b.indents" h="48800D32">變更縮排...</text>
+		<text id="ftoc.chb.addBookmarks" h="CBBAE768">使用目錄來為頁面加入書籤</text>
+		<text id="ftoc.chb.addLinks" h="68456DBA">將連結加入目錄項目</text>
+		<text id="ftoc.chb.createLevels" h="58CF083A">沿用目錄縮排來建立書籤的層次</text>
+		<text id="ftoc.chb.improveDest" h="417AD7B0">嘗試改善文字型態的書籤目標連結</text>
+		<text id="ftoc.chb.trimNumbers" h="40ACC5F5">從書籤名稱移除前綴號碼</text>
+		<text id="ftoc.chb.trimSpaces" h="5A27A063">從書籤名稱移除連續的空格</text>
+		<text id="ftoc.chb.useExistingLinks" h="E214DBE7">使用目前連結為新書籤的目標連結</text>
+		<text id="ftoc.l.bottomIndent" h="C983AD6F">底部縮排：</text>
+		<text id="ftoc.l.expl" h="1FAB779E">此操作將根據選取的目錄項目自動產生書籤，也可以在目錄項目中加入連結，或者使用現有的連結當成書籤的連結目標。</text>
+		<text id="ftoc.l.offsetExpl" h="9D6C25F6">文件實體頁碼與實際顯示頁碼不同時，可使用此功能，可為正數或負數。</text>
+		<text id="ftoc.l.pageOffset" h="9E563407">頁面縮排:</text>
+		<text id="ftoc.l.separator" h="45CF4893">選擇分隔符號類型：</text>
+		<text id="ftoc.l.topIndent" h="FA827580">頂部縮排：</text>
+		<text id="msg.bft.warning" h="726201E6">請選取其它字段分隔符和動作分隔符！</text>
+		<text id="msg.cbc.excludedwords.add.title" h="9ADE883B">加入新的排除字</text>
+		<text id="msg.cbc.excludedwords.caption" h="6B29D4B4">輸入新的排除字：</text>
+		<text id="msg.cbc.excludedwords.edit.title" h="82F8AAA6">編輯所選排除字</text>
+		<text id="msg.dlg.bookmarksToTextFile.done" h="8E1397E9">書籤已成功輸出為檔案。</text>
+		<text id="msg.dlg.emptyFilename.warning" h="96A438DA">檔案名不能為空。</text>
+		<text id="msg.dlg.invalidFilename.slashes" h="626318B0">檔案名必須不包括連續的   或 / 符號，或是用它們結尾。</text>
+		<text id="msg.dlg.invalidFilename.warning" h="46CD566C">Windows 檔案名不能包括這些字元： * ? : | " &lt; &gt; </text>
+		<text id="msg.dlg.noActionsSelected.warning" h="933F1901">"匯出書籤動作" 復選框已選中，但未指定動作類型。請選取一個或多個要匯出的動作或取消選中復選框 "匯出書籤動作"。</text>
+		<text id="msg.dlg.noSelectedBookmarks.warning" h="21F37C67">您未選定文件內的任何書籤。請選取一個/多個書籤或變更「書籤源」參數為「所有書籤」以執行動作。</text>
+		<text id="msg.dlg.pathDoesntExist.warning" h="0804B942">您特殊的資料夾不存在。請選取有效的目的資料夾後重試。</text>
+		<text id="msg.font.addCustom.caption" h="75533687">輸入新的 PDF 字體名稱：</text>
+		<text id="msg.font.addCustom.title" h="06AFFCAB">加入新的自定義字體</text>
+		<text id="msg.frbt.result.bookmarksCount" h="EE00AC0B">搜尋完成。已修改書籤總數: %1</text>
+		<text id="msg.frbt.result.noBookmarksModified" h="84BE491B">搜尋已完成。沒有書籤被修改。</text>
+		<text id="msg.levelDesc.title" h="E92EACC5">層級規範</text>
+		<text id="msg.levelDesc.warning" h="86A85979">不能用給予的資料建立新書籤層級。請在文字符合選項頁選取至少一個符合標準。同時，請檢查所選元素包括的資料。</text>
+		<text id="msg.oper.noChanges" h="5777DD79">執行動作時沒有實際的變化。請檢查您輸入的資料並重試。</text>
+		<text id="msg.oper.warning" h="ABDCBB65">執行動作期間發生問題。請檢查結果。</text>
+		<text id="msg.regex.error" h="D799FCBE">正規表示式解析錯誤</text>
+		<text id="msg.stopWords.add.title" h="F6B54725">加入新的停止字</text>
+		<text id="msg.stopWords.caption" h="E2BC1B9E">輸入新的 停止字 或 停止句：</text>
+		<text id="msg.stopWords.edit.title" h="AFE604DF">編輯所選停止字</text>
+		<text id="msg.validateBookmarks.delete.caption" h="ED4457F4">您確定要移除所選書籤及其子書籤嗎？</text>
+		<text id="msg.validateBookmarks.delete.title" h="8FF00765">移除無效的書籤</text>
+		<text id="msg.validateBookmarks.rename.caption" h="CE842D61">輸入新的書籤名稱：</text>
+		<text id="msg.validateBookmarks.rename.title" h="ED9AF7FA">重命名書籤</text>
+		<text id="ndpn.ch.deleteDests" h="BC12FBF0">從文件中移除已轉換的命名目標</text>
+		<text id="op.GenerateBookmarks" h="05382BCA">產生書籤</text>
+		<text id="op.ValidateBookmarks.msg.emptyActionsList" h="A0A0065C">您還未給書籤指派動作。</text>
+		<text id="op.ValidateBookmarks.msg.emptyTitle" h="83F3E965">書籤標題為空。</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidDestName" h="81A40483">轉到動作引用了無效的命名的目的。</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidPageNumber" h="C8941D79">轉到動作的引用頁越界。</text>
+		<text id="op.ValidateBookmarks.msg.goto.noAction" h="368F0970">動作清單內不存在轉到動作。</text>
+		<text id="op.ValidateBookmarks.msg.gotoE.invalidTargetPath" h="9D8A50F1">轉到檔案動作的目的路徑不能為空。</text>
+		<text id="op.ValidateBookmarks.msg.gotoR.invalidFile" h="76CCA61D">轉到矩形動作引用了無效的檔案。</text>
+		<text id="op.ValidateBookmarks.msg.gotoR.invalidPath" h="560614BE">外部文件或檔案的路徑無效。</text>
+		<text id="op.ValidateBookmarks.msg.invalidAction" h="84877FDA">%1 動作無效。</text>
+		<text id="progress.BookmarkEveryNthPage.title" h="DA523087">正在書籤頁...</text>
+		<text id="progress.addTextToBookmarkTitle.text" h="BE27C5C9">正在加入文字到書籤： %1...</text>
+		<text id="progress.addTextToBookmarkTitle.title" h="EC7EB408">正在加入文字到書籤...</text>
+		<text id="progress.addingBookmark" h="45BBB17E">正在加入書籤： %1 / %2...</text>
+		<text id="progress.bookmarksToHtmlFile.status" h="AF1901AD">正在匯出書籤 %1 / %2...</text>
+		<text id="progress.bookmarksToHtmlFile.text" h="4DD531FF">正在匯出書籤：%1...</text>
+		<text id="progress.bookmarksToHtmlFile.title" h="E1D21FEE">匯出書籤為 HTML 檔案...</text>
+		<text id="progress.bookmarksToNamedDests.text" h="CE73819F">正在轉換書籤： %1...</text>
+		<text id="progress.bookmarksToNamedDests.title" h="8DB00717">轉換為命名目標中...</text>
+		<text id="progress.bookmarksToTextFile.text" h="6E74EA26">正在處理輸出書籤：%1</text>
+		<text id="progress.bookmarksToTextFile.title" h="D2C04472">匯出書籤為文字檔案...</text>
+		<text id="progress.calculatingBookmarks" h="4AC26E12">計數書籤...</text>
+		<text id="progress.changingBookmarkCase.text" h="107628CA">變更書籤大小寫： %1...</text>
+		<text id="progress.changingBookmarkCase.title" h="E01AED17">變更書籤大小寫...</text>
+		<text id="progress.findReplaceBookmarkText.text" h="ABC58F1D">正在處理書籤：%1</text>
+		<text id="progress.findReplaceBookmarkText.title" h="00FEBD2A">置換書籤文字...</text>
+		<text id="progress.generateBookmarks" h="3D5E30ED">正在從頁 %1 產生書籤...</text>
+		<text id="progress.generatingBookmarks" h="CFF0F2A9">產生書籤中</text>
+		<text id="progress.generatingBookmarks.label" h="043CF7B1">正在加入書籤：%1...</text>
+		<text id="progress.generatingLevels" h="07A22443">利用書籤產生層級...</text>
+		<text id="progress.generatingTOC" h="A438CB9C">產生目錄中</text>
+		<text id="progress.generatingTOCFromBookmark" h="C9213435">正在利用書籤產生目錄：%1...</text>
+		<text id="progress.namedDestsToPageNumbers.deleteNds" h="5DFFFF06">刪除命名目標中...</text>
+		<text id="progress.namedDestsToPageNumbers.title" h="4615CB0B">命名目標轉換為頁次目標中...</text>
+		<text id="progress.parsingFile" h="B2405DA1">從文字檔案讀取書籤結構...</text>
+		<text id="progress.precalculatingPages" h="DB83BEF7">正在建立目錄頁...</text>
+		<text id="progress.preparingSelected" h="52031EDE">正在準備所選書籤...</text>
+		<text id="progress.sortingBookmarks" h="99E846CF">排序中書籤：%1...</text>
+		<text id="progress.sortingBookmarks.status" h="451C3890">正在排序 %2 的 %1 書籤...</text>
+		<text id="progress.sortingBookmarks.title" h="E134B46E">書籤排序中</text>
+		<text id="progress.statusText.ProcessingBookmarks" h="3836AD6B">正在處理書籤 %1 / %2...</text>
+		<text id="progress.statusText.ProcessingBookmarksDone" h="67CB6C48">書籤處理完成。</text>
+		<text id="progress.undoingChanges" h="BBD3EE96">撤消變更...</text>
+		<text id="regex.error.backref" h="3D1C1BE5">表達式包括無效的後向引用。</text>
+		<text id="regex.error.badbrace" h="4363EA7D">表達式在花括號 '{' 和 '}' 中包括有無效的範圍。</text>
+		<text id="regex.error.badrepeat" h="9091944F">表達式中的限定符（*?+{ 中的一個）必須位於有效的正則表達式之後。</text>
+		<text id="regex.error.brace" h="3031B0A1">表達式包括有不符合的花括號：  '{' 和 '}'。</text>
+		<text id="regex.error.brack" h="A41AB311">表達式包括有不符合的方括號：'[' 和 ']'。</text>
+		<text id="regex.error.collate" h="D15FB49F">表達式包括有無效的排序元素。</text>
+		<text id="regex.error.complexity" h="76ADCA5C">正則表達式的符合複雜度超過了預置層級。</text>
+		<text id="regex.error.ctype" h="76D6C176">表達式包括有無效的字元類。</text>
+		<text id="regex.error.default" h="509A660E">處理正則表達式時發生錯誤。</text>
+		<text id="regex.error.escape" h="4BAF1552">表達式包括有無效的轉義或是拖尾轉義。</text>
+		<text id="regex.error.paren" h="11F2EE54">表達式包括有不符合的圓括號： '(' 和 ')'。</text>
+		<text id="regex.error.range" h="CDB00023">表達式包括有無效的字元範圍（例如 , [z-a]）</text>
+		<text id="regex.error.space" h="2FFB9DD7">沒有足夠的記憶體來處理此正則表達式。</text>
+		<text id="regex.error.stack" h="2F47E3EC">沒有足夠的記憶體來確定正則表達式是否符合所特殊的字串。</text>
+		<text id="regex.error.syntax" h="4F399035">正規表示法語法有誤</text>
+		<text id="sb.ascending" h="59F2363F">遞增</text>
+		<text id="sb.chb.ignoreCase" h="E0949C6C">忽略文字大小寫</text>
+		<text id="sb.chb.sortAll" h="7BB3E98C">排序所有書籤層級</text>
+		<text id="sb.chb.sortChildren" h="B1087C90">排序子書籤</text>
+		<text id="sb.descending" h="74091246">遞減</text>
+		<text id="sb.g.sortingMethod" h="93D0D863">排序方法</text>
+		<text id="sb.l.selectLevel" h="62FA8E9C">選擇排序的書籤層級：</text>
+		<text id="sb.l.sortType" h="85828DAE">排序類型：</text>
+		<text id="sb.rb.sortAlpha" h="F9CD110C">依字母排序書籤</text>
+		<text id="sb.rb.sortByPage" h="EB2AF7E4">引用頁碼來排序書籤</text>
+		<text id="test" h="A538F326">測試字串</text>
+		<text id="tree.fontColor" h="210B1C91">文字彩色：</text>
+		<text id="tree.fontName" h="ACA86074">字體名稱：</text>
+		<text id="tree.fontSize" h="B3CE43BA">字體大小：</text>
+		<text id="tree.fontTolerance" h="7781AAB6">容差：</text>
+		<text id="tree.level" h="9B075A86">層級：</text>
+		<text id="tree.textPattern" h="24121AD7">文字專案：</text>
+		<text id="tree.vb.bookmark" h="9926EC31">&lt;b&gt;%1.書籤：&lt;/b&gt; "%2"</text>
+		<text id="ttoc.b.build" h="DE9A0F1C">建立</text>
+		<text id="ttoc.b.changeNumber" h="DD04BEA8">改變格式...</text>
+		<text id="ttoc.b.changeTitle" h="3B951B9A">變更標題格式</text>
+		<text id="ttoc.chb.asLastPage" h="D323F9DD">作為尾頁</text>
+		<text id="ttoc.chb.end" h="9F41B967">使用所有書籤層級</text>
+		<text id="ttoc.chb.skipInvalid" h="F864C487">略過無效書籤</text>
+		<text id="ttoc.chb.useDifferentNumberFormatting" h="A39D9F18">使用自定義的數字格式</text>
+		<text id="ttoc.chb.useDifferentSeparatorFormatting" h="7D6F82B2">使用自定義分隔符型態 </text>
+		<text id="ttoc.chb.useSizeFromDoc" h="79C19271">正在利用文件確定頁尺寸</text>
+		<text id="ttoc.g.pageNumbering" h="21AF4605">頁面編號</text>
+		<text id="ttoc.g.pageSettings" h="D82087B4">頁面設定</text>
+		<text id="ttoc.ib.numberFormat" h="D41C6CB8">&lt;b&gt;數字格式:&lt;/b&gt; &lt;i&gt;字體:&lt;/i&gt; %1, &lt;i&gt;文字大小:&lt;/i&gt; %2 pt, &lt;i&gt;文字彩色:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.ib.separatorFormat" h="14A80F28">&lt;b&gt;分隔符型態:&lt;/b&gt; &lt;i&gt;字體:&lt;/i&gt; %1, &lt;i&gt;文字大小:&lt;/i&gt; %2 pt, &lt;i&gt;文字彩色:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.ib.titleFormat" h="4A9C0388">&lt;b&gt;標題格式:&lt;/b&gt; &lt;i&gt;字體:&lt;/i&gt; %1, &lt;i&gt;文字大小:&lt;/i&gt; %2 pt, &lt;i&gt;文字彩色:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.l.end" h="43FA653A">要納入目錄的最後一個書籤層級：</text>
+		<text id="ttoc.l.insertAsPage" h="B68AF5B1">於第幾頁之前插入目錄：</text>
+		<text id="ttoc.l.outputPagesAs" h="96E6A50A">輸出頁碼為：</text>
+		<text id="ttoc.l.pageMargins" h="DA4D6B15">頁面邊距：</text>
+		<text id="ttoc.l.start" h="B03149CB">要納入目錄的第一個書籤層級：</text>
+		<text id="ttoc.l.title" h="930D3835">標題：</text>
+		<text id="ttoc.l.titleFormatting" h="21C775EE">更新標題格式:</text>
+		<text id="ttoc.output.bates" h="ECE56FA9">貝茨編號（如果存在）</text>
+		<text id="ttoc.output.labels" h="EAE579C1">頁標籤</text>
+		<text id="ttoc.output.numbers" h="38E0043C">原始頁號</text>
+		<text id="ttoc.style.dots" h="C13D9439">章節..........1</text>
+		<text id="ttoc.style.spaces" h="D9E4F5A0">章節          1</text>
+		<text id="ttoc.style.underline" h="B52B746A">章節______1</text>
+		<text id="ttoc.tableOfContents" h="080B4CC0">目錄</text>
+		<text id="undefinedFont" h="06D72DED">未定義的字體 (%1)</text>
+		<text id="vb.invalidALWarining" h="6B3E67E5">由於動作清單無效，所做的變更已取消。請至少設定一個動作 ！</text>
+		<text id="vb.l.invalidBookmarks" h="EE502FFE">找到 %1 個無效的書籤</text>
+		<text id="rtab" h="7CDCE9BE">書簽(&amp;B)</text>
+		<text id="rbar.create" h="EDCA1553">創建</text>
+		<text id="rbar.modify" h="EA358CAF">修改</text>
+		<text id="rbar.convert" h="EFAC3874">轉換</text>
+	</Strings>
+</Localization>

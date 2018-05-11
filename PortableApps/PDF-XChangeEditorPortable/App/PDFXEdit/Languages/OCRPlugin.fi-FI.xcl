@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20170425233727">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Finnish (Finland)" lName="suomi" code="fi-FI" R2L="false"/>
+	<Module name="OCRPlugin" namespace="ocr" version="6.0.322.0"/>
+	<Strings>
+		<text id="OrientationDetection" h="40F7AA0E">Automaattinen suunnan tunnistus</text>
+		<text id="accuracy.high" h="21A95620">Korkea</text>
+		<text id="accuracy.low" h="845E3D8C">Alhainen</text>
+		<text id="accuracy.medium" h="91153342">Keskitaso</text>
+		<text id="cb.cuenoany" h="899F9872">Ei asennettu mitään</text>
+		<text id="cmd.name" h="6DAA8A17">OCR-tekstintunnistus...</text>
+		<text id="l.accuracy" h="3B2028D8">Tarkkuus:</text>
+		<text id="l.language" h="7B707020">Kieli:</text>
+		<text id="lnk.more" h="2E2CCD84">&lt;a=1&gt;Lisää kieliä...&lt;/a&gt; </text>
+		<text id="prefs.title" h="D0975E29">OCR-asetukset</text>
+	</Strings>
+</Localization>

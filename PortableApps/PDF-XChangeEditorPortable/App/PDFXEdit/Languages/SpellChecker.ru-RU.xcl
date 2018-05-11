@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123215831">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Russian (Russia)" lName="Русский" code="ru-RU" R2L="false"/>
+	<Module name="SpellChecker" namespace="spell" version="7.0.323.3"/>
+	<Strings>
+		<text id="dict.param.hyphen" h="50549BEC">Расстановка переносов</text>
+		<text id="dict.param.spell" h="E10DA1DD">Правописание</text>
+		<text id="lstDicts.empty" h="FFD5B8BB">&lt;Нет словарей&gt;</text>
+		<text id="msg.CopyDictError" h="81324CC9">Невозможно скопировать файлы словарей</text>
+		<text id="msg.DictExists" h="650ABF1A">Словарь уже существует</text>
+		<text id="msg.DictExists.title" h="B025530B">Словарь существует</text>
+		<text id="msg.ErrorTitle" h="D9DB5E01">Ошибка проверки правописания</text>
+		<text id="msg.LoadDictError" h="D139CD51">Невозможно загрузить словарь</text>
+		<text id="msg.RemoveError" h="DDD3D452">Невозможно удалить файлы словарей из-за невозможности доступа к ним.</text>
+		<text id="msg.WordExists" h="54B206DA">Слово уже в списке</text>
+		<text id="msg.WordExists.title" h="A9AFB29B">Слово в списке</text>
+		<text id="opt.b.AddDict" h="E0BF5FDE">Добавить словарь</text>
+		<text id="opt.b.CustomWordList" h="D1505337">Заказной словарь...</text>
+		<text id="opt.b.RemoveDict" h="D94F3439">Удалить словарь</text>
+		<text id="opt.cb.AllowAlgoHyphens" h="D8C41308">Перенос слов, не включенных в словарь</text>
+		<text id="opt.cb.EnableAllHyphens" h="207464CF">Разрешить перенос</text>
+		<text id="opt.cb.EnableHyphens" h="71ECEEC4">Включить словарь переносов</text>
+		<text id="opt.cb.EnableSpellChecker" h="1D563674">Разрешить проверку правописания</text>
+		<text id="opt.cb.IgnoreWordsInUppercase" h="BEB17F5B">Пропускать слова, состоящие из ЗАГЛАВНЫХ букв</text>
+		<text id="opt.cb.IgnoreWordsWithNumbers" h="2AA28F70">Пропускать слова, содержащие цифры</text>
+		<text id="opt.title" h="AEF9F007">Параметры проверки правописания</text>
+		<text id="wrd.b.AddWord" h="8E2EE8C1">Добавить</text>
+		<text id="wrd.b.Delete" h="D8FE3F70">Удалить</text>
+		<text id="wrd.b.DeleteAll" h="848E003C">Удалить все</text>
+		<text id="wrd.l.Dictionary" h="66E4322E">Словарь:</text>
+		<text id="wrd.l.Word" h="7AFBC23E">Слово:</text>
+		<text id="wrd.title" h="66DDC653">Список слов пользователя</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171116223021">2.00.00</Version>
+	<Author>Michael Dodl</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="German (Germany)" lName="Deutsch" code="de-DE" R2L="false"/>
+	<Module name="SpellChecker" namespace="spell" version="6.0.322.7"/>
+	<Strings>
+		<text id="dict.param.hyphen" h="50549BEC">Silbentrennung</text>
+		<text id="dict.param.spell" h="E10DA1DD">Rechtschreibprüfung</text>
+		<text id="lstDicts.empty" h="FFD5B8BB">&lt;Keine Wörterbücher&gt;</text>
+		<text id="msg.CopyDictError" h="81324CC9">Wörterbuchdateien konnten nicht kopiert werden</text>
+		<text id="msg.DictExists" h="650ABF1A">Wörterbuch existiert bereits</text>
+		<text id="msg.DictExists.title" h="B025530B">Wörterbuch existiert</text>
+		<text id="msg.ErrorTitle" h="D9DB5E01">Fehler bei Rechtschreibprüfung</text>
+		<text id="msg.LoadDictError" h="D139CD51">Wörterbuch konnte nicht geladen werden</text>
+		<text id="msg.RemoveError" h="DDD3D452">Wörterbuchdateien konnten nicht entfernt werden, da der Zugriff verweigert wurde.</text>
+		<text id="msg.WordExists" h="54B206DA">Wort existiert bereits</text>
+		<text id="msg.WordExists.title" h="A9AFB29B">Wort existiert</text>
+		<text id="opt.b.AddDict" h="E0BF5FDE">Neues Wörterbuch</text>
+		<text id="opt.b.CustomWordList" h="D1505337">Eigene Wortliste</text>
+		<text id="opt.b.RemoveDict" h="D94F3439">Wörterbuch entfernen</text>
+		<text id="opt.cb.AllowAlgoHyphens" h="D8C41308">Trennung unbekannter Wörter</text>
+		<text id="opt.cb.EnableAllHyphens" h="207464CF">Silbentrennung</text>
+		<text id="opt.cb.EnableHyphens" h="71ECEEC4">Trennung von Wörtern im Wörterbuch</text>
+		<text id="opt.cb.EnableSpellChecker" h="1D563674">Rechtschreibprüfung einschalten</text>
+		<text id="opt.cb.IgnoreWordsInUppercase" h="BEB17F5B">Wörter in GROSSBUCHSTABEN ignorieren</text>
+		<text id="opt.cb.IgnoreWordsWithNumbers" h="2AA28F70">Wörter die Nummern enthalten ignorieren</text>
+		<text id="opt.title" h="AEF9F007">Einstellungen für Rechtschreibprüfung</text>
+		<text id="wrd.b.AddWord" h="8E2EE8C1">Hinzufügen</text>
+		<text id="wrd.b.Delete" h="D8FE3F70">Löschen</text>
+		<text id="wrd.b.DeleteAll" h="848E003C">Alle löschen</text>
+		<text id="wrd.l.Dictionary" h="66E4322E">Wörterbuch:</text>
+		<text id="wrd.l.Word" h="7AFBC23E">Wort:</text>
+		<text id="wrd.title" h="66DDC653">Eigene Wortliste</text>
+	</Strings>
+</Localization>

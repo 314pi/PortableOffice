@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220838">2.00.00</Version>
+	<Author>Andy Chen</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Chinese (Traditional, Taiwan)" lName="中文(繁體)" code="zh-TW" R2L="true"/>
+	<Module name="SpellChecker" namespace="spell" version="6.0.322.7"/>
+	<Strings>
+		<text id="dict.param.hyphen" h="50549BEC">斷字</text>
+		<text id="dict.param.spell" h="E10DA1DD">拼字</text>
+		<text id="lstDicts.empty" h="FFD5B8BB">沒有字典</text>
+		<text id="msg.CopyDictError" h="81324CC9">無法複製字典檔</text>
+		<text id="msg.DictExists" h="650ABF1A">字典已存在</text>
+		<text id="msg.DictExists.title" h="B025530B">已有字典</text>
+		<text id="msg.ErrorTitle" h="D9DB5E01">拼寫檢查錯誤</text>
+		<text id="msg.LoadDictError" h="D139CD51">無法載入字典</text>
+		<text id="msg.RemoveError" h="DDD3D452">無法移除字典檔，存取被拒。</text>
+		<text id="msg.WordExists" h="54B206DA">字詞已經存在</text>
+		<text id="msg.WordExists.title" h="A9AFB29B">已有字詞</text>
+		<text id="opt.b.AddDict" h="E0BF5FDE">新增字典</text>
+		<text id="opt.b.CustomWordList" h="D1505337">自定義字詞</text>
+		<text id="opt.b.RemoveDict" h="D94F3439">移除字典</text>
+		<text id="opt.cb.AllowAlgoHyphens" h="D8C41308">未知的詞斷字</text>
+		<text id="opt.cb.EnableAllHyphens" h="207464CF">使用斷字</text>
+		<text id="opt.cb.EnableHyphens" h="71ECEEC4">使用字典斷字</text>
+		<text id="opt.cb.EnableSpellChecker" h="1D563674">使用拼寫檢查</text>
+		<text id="opt.cb.IgnoreWordsInUppercase" h="BEB17F5B">忽略大寫詞</text>
+		<text id="opt.cb.IgnoreWordsWithNumbers" h="2AA28F70">忽略含數字的詞</text>
+		<text id="opt.title" h="AEF9F007">拼寫檢查設定</text>
+		<text id="wrd.b.AddWord" h="8E2EE8C1">新增</text>
+		<text id="wrd.b.Delete" h="D8FE3F70">刪除</text>
+		<text id="wrd.b.DeleteAll" h="848E003C">全部刪除</text>
+		<text id="wrd.l.Dictionary" h="66E4322E">字典:</text>
+		<text id="wrd.l.Word" h="7AFBC23E">字詞:</text>
+		<text id="wrd.title" h="66DDC653">自定義字詞清單</text>
+	</Strings>
+</Localization>

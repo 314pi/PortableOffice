@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123223622">2.00.00</Version>
+	<Author>Michael Dodl</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="German (Germany)" lName="Deutsch" code="de-DE" R2L="false"/>
+	<Module name="PDFAConverter" namespace="pdfa" version="7.0.323.3"/>
+	<Strings>
+		<text id="auto.pdfa.level" h="778FAC3D">Autom. PDF/A-Konformitätsstufe</text>
+		<text id="conv.name" h="7A00CE23">PDF/A (*.pdf)</text>
+		<text id="dlg.opt.autopdfa.info" h="4FBB3824">Das am besten passende Format automatisch bestimmen.</text>
+		<text id="dlg.opt.cb.correction" h="1EF3C21C">Korrekturen anwenden</text>
+		<text id="dlg.opt.embedfonts.lbl" h="61AFDA73">Schriftarten teilweise einbetten</text>
+		<text id="dlg.opt.g1.title" h="DAD7B4F4">Einstellungen</text>
+		<text id="dlg.opt.g2.title" h="8FB1A988">Farbprofil</text>
+		<text id="dlg.opt.g3.title" h="8AD54EB1">Korrekturen</text>
+		<text id="dlg.opt.label.auto" h="FF103EFE">Autom. PDF/A-Konformitätsstufe</text>
+		<text id="dlg.opt.label1" h="EB2313FD">Konformität mit:</text>
+		<text id="dlg.opt.label2" h="752CF760">Profil auswählen:</text>
+		<text id="dlg.opt.title" h="86709E15">In PDF/A umwandeln</text>
+		<text id="dlg.pdfxConvert" h="1D70370D">In PDF/X umwandeln</text>
+		<text id="dlg.rep.errors" h="EC9E93B4">Fehler (%1):</text>
+		<text id="dlg.rep.fixes" h="594F7931">Korrekturen (%1):</text>
+		<text id="dlg.rep.title" h="1DC94CC7">Bericht zur Umwandlung</text>
+		<text id="dlg.rep.warnings" h="6F8DAB37">Warnungen (%1):</text>
+		<text id="lbl.chooseStd" h="4CB6AFEB">Standard auswählen:</text>
+		<text id="rasterize.error.chk" h="1CB52AC5">Nicht eingebettete Schriftarten rastern</text>
+		<text id="msg.err.alternate_presenatations" h="19A17FF2">Das Dokument enthält alternative Präsentationen</text>
+		<text id="msg.err.embed_file_missing_key" h="B12243CC">Eingebettete Datei: Schlüssel %1 fehlt</text>
+		<text id="msg.err.embed_file_no_AF" h="0D075E68">Eingebettete Datei hat keinen AF-Eintrag</text>
+		<text id="msg.err.embed_file_no_AFRelationship" h="0F2FF281">Eingebettete Datei hat keinen AFRelationship-Eintrag</text>
+		<text id="msg.err.embed_file_no_MIME_type" h="B23BB7AE">Eingebettete Datei hat keinen Eintrag für den MIME-Typ</text>
+		<text id="msg.err.embed_file_no_ModDate" h="32393EC5">Die eingebettete Datei hat keinen ModDate-Eintrag im Parameterverzeichnis</text>
+		<text id="msg.err.embed_file_not_PDF" h="ACB6C0B4">Einige der eingebetteten Dateien sind keine PDF-Dateien</text>
+		<text id="msg.err.embed_file_not_PDFA_compliance" h="69851F66">Mindestens ein eingebettetes PDF-Dokument ist nicht PDF/A-konform.</text>
+		<text id="msg.err.font" h="E728DE31">Schrift %1 ist ungültig: %2</text>
+		<text id="msg.err.invalidfontobject" h="D0411546">Schrift ist ungültig</text>
+		<text id="msg.err.halftone_has_name" h="044A925B">Erweiterter Grafikzustand: Halbton hat einen Halbtonnamen</text>
+		<text id="msg.err.image_bpc_more" h="63802D36">Bits pro Komponente in Bild größer als %1</text>
+		<text id="msg.err.impl_limit_obj_size_more" h="3A9756F7">Objekt %1 ist größer als %2</text>
+		<text id="msg.err.impl_limit_pagebox_less" h="39206E0E">Implementierungseinschränkung: Größe von %1 ist kleiner als 3 Einheiten</text>
+		<text id="msg.err.impl_limit_pagebox_more" h="7793CF00">Implementierungseinschränkung: Größe von %1 ist größer als 14400 Einheiten</text>
+		<text id="msg.err.impl_limit_val_out_range" h="0778EBD3">Wert %1 ist nicht im gültigen Bereich</text>
+		<text id="msg.err.incomp_docinfo_metadata" h="4CE13608">%1 stimmt in Dokument-Info und XMP-Metadaten nicht überein</text>
+		<text id="msg.err.incomp_ge_cs_with_outintent" h="A7DB0264">Farbe %2 für gewünschte Ausgabe %1</text>
+		<text id="msg.err.incomp_image_cs_with_outintent" h="FA83CF54">Bild %2 für gewünschte Ausgabe %1</text>
+		<text id="msg.err.incomp_shading_cs_with_outintent" h="6CEF543E">Schattierung %2 für gewünschte Ausgabe %1</text>
+		<text id="msg.err.invalid.xform" h="735966B8">Das Dokument enthält ein ungültiges Formular</text>
+		<text id="msg.err.invalid_image" h="A275C999">Bild ist ungültig</text>
+		<text id="msg.err.keys_not_UR3_DocMDP" h="33EEDCA6">In den Berechtigungen werden andere Schlüssel als UR3 und DocMDP verwendet</text>
+		<text id="msg.err.mbox.missing" h="529404DB">MediaBox fehlt</text>
+		<text id="msg.err.metadata_missing" h="52FA2A56">Keine Metadaten</text>
+		<text id="msg.err.obj_validator_name_not_UTF8" h="FB949014">Der Name ist kein gültiger UTF-8-Wert</text>
+		<text id="msg.err.pageseparated" h="04FDB927">Seite ist getrennt</text>
+		<text id="msg.err.preliminary.modify" h="413E0B86">Änderungen am Dokument sind nicht erlaubt</text>
+		<text id="msg.err.preliminary.secured" h="1CA464FB">Dokument ist gesichert</text>
+		<text id="msg.err.preliminary.xfa" h="1B4F1FD1">Das Dokument enthält ein XFA-Formular. Es kann nicht im PDF/A-Standard gespeichert werden</text>
+		<text id="msg.err.root.invalid.key" h="AB4A8812">Das Wurzelobjekt enthält einen ungültigen Schlüssel</text>
+		<text id="msg.err.xfa" h="7CB7EB6A">Umwandlung nicht möglich: Das Dokument enthält ein XFA-Formular</text>
+		<text id="msg.err.pressteps" h="1CBEE75B">Seite enthält PresSteps</text>
+		<text id="msg.err.st_root_elem_type_not_standard" h="F26BDE8C">Strukturiertes PDF: Element benutzt keinen Standard-Typ</text>
+		<text id="msg.err.st_root_missing" h="7F7D9806">Wurzel des Strukturbaums fehlt</text>
+		<text id="msg.err.substitute_filter" h="50898016">%1 wurde durch %2 ersetzt</text>
+		<text id="msg.err.subtype_xform_missing" h="00C060BB">Untertyp in XForm fehlt</text>
+		<text id="msg.err.tagging_structure" h="025A02E3">Markiere Struktur</text>
+		<text id="msg.err.used_egs_key" h="8964F17F">Erweiterter Grafikzustand: %1%2%3 wird benutzt</text>
+		<text id="msg.err.used_embedded_files" h="5D7BA79C">Das Dokument enthält eingebettete Dateien</text>
+		<text id="msg.err.used_ext_stream" h="7B302079">Externer Stream wird verwendet</text>
+		<text id="msg.err.used_fiter" h="C350A2BE">Filter %1 wird benutzt</text>
+		<text id="msg.err.used_fiter_invalid" h="2604E73C">Dokument enthält eine unbekannte Kompressionsmethode</text>
+		<text id="msg.err.used_jpeg2000" h="52FB4580">JPEG2000-Kompression wird benutzt</text>
+		<text id="msg.err.used_key" h="48336238">Schlüssel %1 wird benutzt</text>
+		<text id="msg.err.used_obj_transparency" h="A7E6E8BD">Objekt verwendet Transparenz: %1</text>
+		<text id="msg.err.used_scale_factor" h="341357C0">Skalierungsfaktor wird verwendet</text>
+		<text id="msg.err.layer_is_not_ocgs" h="192BDC6C">Ebene ist nicht in der Ebenenliste des Dokuments</text>
+		<text id="msg.err.realnumber.high" h="66E0E3DB">Zahlenwert ist zu hoch</text>
+		<text id="msg.err.realnumber.low" h="2A96B6D3">Zahlenwert ist zu niedrig</text>
+		<text id="msg.err.outlinetitle.missing" h="DDDF0A13">Gliederung hat keinen Titel</text>
+		<text id="msg.err.dictsize" h="A051CB86">Das Verzeichnis hat mehr als 4095 Einträge.</text>
+		<text id="msg.err.filespecification" h="E67D7D14">Das Dokument enthält eine Dateispezifikation</text>
+		<text id="msg.warn.image.reencoded" h="E4131E9E">Bild wurde neu codiert</text>
+		<text id="msg.fix.added_mark_info" h="6603ECE2">'MarkInfo' zu Dokumentkatalog hinzugefügt</text>
+		<text id="msg.fix.annot" h="A3ED2923">Anmerkung für PDF/A-Standard vorbereitet</text>
+		<text id="msg.fix.annotPDFX" h="5675C2EF">Anmerkung für PDF/X vorbereitet</text>
+		<text id="msg.fix.append.data" h="C09E2EE2">Nicht ausreichende Bilddaten repariert</text>
+		<text id="msg.fix.blendingCS" h="C69A9AF9">Mischfarbraum korrigiert</text>
+		<text id="msg.fix.convert_ge_to" h="0F8BC341">Farbraum der Grafik wurde in %1 konvertiert</text>
+		<text id="msg.fix.convert_image_to" h="4C6135BC">Farbraum des Bilds wurde in %1 konvertiert</text>
+		<text id="msg.fix.convert_shading_to" h="62CBFA3C">Schattierungsfarbraum wurde in %1 umgewandelt</text>
+		<text id="msg.fix.create_metadata" h="D90DAD7D">Metadaten wurden erzeugt</text>
+		<text id="msg.fix.create_res_dict" h="FCE6D2B1">Ressourcenverzeichnis wurde zu Seite hinzugefügt</text>
+		<text id="msg.fix.create_st_root" h="41944498">Wurzel des Strukturbaums wurde erstellt</text>
+		<text id="msg.fix.discard_action_annotation" h="F7198D05">Nichtkonforme Aktion wurde aus Anmerkung entfernt</text>
+		<text id="msg.fix.discard_action_catalog" h="C3900926">Nichtkonforme Aktion wurde aus Katalog entfernt</text>
+		<text id="msg.fix.discard_action_document" h="C016B27B">Nichtkonforme Aktion wurde aus Dokument entfernt</text>
+		<text id="msg.fix.discard_action_outlines" h="FBBE3E9F">Nichtkonforme Aktion wurde aus Gliederung entfernt</text>
+		<text id="msg.fix.embed_ext_stream" h="048B6358">Externer Stream wurde eingebettet</text>
+		<text id="msg.fix.embed_file_fixed" h="31D72A99">Eingebettetes PDF-Dokument wurde in PDF/A-Standard umgewandelt</text>
+		<text id="msg.fix.embed_file_set_AF" h="D2B4D107">Eingebettete Datei: Erstelle entsprechenden Schlüssel in AF-Eintrag</text>
+		<text id="msg.fix.embed_file_set_MIME" h="3EF87FF1">Eingebettete Datei: MIME-Typ wurde festgelegt</text>
+		<text id="msg.fix.embed_file_set_ModDate" h="BA267B98">Eingebettete Datei: Änderungsdatum wurde im Parameterverzeichnis gesetzt</text>
+		<text id="msg.fix.embed_file_set_key_to" h="BC68FC0B">Eingebettete Datei: Schlüssel %1 wird auf %2 gesetzt</text>
+		<text id="msg.fix.fixed.pageboxes" h="99E435FA">Box-Layout korrigiert</text>
+		<text id="msg.fix.flatten_opt_contents" h="6B973C9C">Optionale Inhalte eingebettet</text>
+		<text id="msg.fix.flatten_transparency" h="1A34D6C7">Transparenzen eingebettet</text>
+		<text id="msg.fix.font" h="D72B5D39">Schrift %1 wurde korrigiert: %2</text>
+		<text id="msg.fix.font_rasterized" h="F886ED6D">Text der Schriftart %1 wurden gerastert</text>
+		<text id="msg.fix.insert_correct_parent_outline_item_key" h="0EAAA35B">Richtigen Oberschlüssel für Skizze einfügen</text>
+		<text id="msg.fix.insert_parent_outline_item_key" h="345CBC49">Oberschlüssel für Skizze einfügen</text>
+		<text id="msg.fix.io.set" h="F9298C4C">Ausgabe ist auf %1 festgelegt</text>
+		<text id="msg.fix.pages.root" h="A1647A90">Seitenverzeichnis repariert</text>
+		<text id="msg.fix.rasterize.invalid.form" h="D899922D">Ungültiges Objekt wurde gerastert</text>
+		<text id="msg.fix.recompress_image_to_target_BPC" h="FF073DE9">Bild mit %1 bits pro Komponente neu komprimieren</text>
+		<text id="msg.fix.recompress_jpeg2000" h="99C21C1F">JPEG2000-Bild neu komprimieren</text>
+		<text id="msg.fix.remove.alternate_presentations" h="504508D7">Entferne alternative Präsentationen aus Dokument</text>
+		<text id="msg.fix.remove.embedded.files" h="26C6032E">Eingebettete Dateien aus Dokument entfernen</text>
+		<text id="msg.fix.remove_JS" h="60C345B8">JavaScripts wurden entfernt</text>
+		<text id="msg.fix.remove_TR" h="E292DCE2">Transferkurve wurde entfernt</text>
+		<text id="msg.fix.remove_annot" h="6BD2280C">Nicht erlaubte Anmerkung wurde entfernt</text>
+		<text id="msg.fix.remove_annot_invalid" h="F94382C8">Ungültiges Objekt aus Anmerkungs-Array wurde entfernt</text>
+		<text id="msg.fix.remove_egs_key" h="C443AC00">Erweiterter Grafikzustand: Schlüssel %1 wurde entfernt</text>
+		<text id="msg.fix.remove_element_with_zero_cm" h="F8645451">Element mit ungültiger Transformations-Matrix wurde entfernt</text>
+		<text id="msg.fix.remove_embedded_files" h="8F0B4037">Alle eingebetteten Dateien aus dem PDF-Dokument wurden entfernt, wie es der PDF/A-Standard verlangt</text>
+		<text id="msg.fix.remove_ext_stream" h="AFDE8AD8">Externer Stream wurde entfernt</text>
+		<text id="msg.fix.remove_interpolate" h="F32EB202">Interpolationsschlüssel wurde aus Bild entfernt</text>
+		<text id="msg.fix.remove_key" h="4413CC72">%1 wurde entfernt</text>
+		<text id="msg.fix.remove_scale_factor" h="143311F1">Skalierungsfaktor wurde entfernt</text>
+		<text id="msg.fix.remove_transparency" h="7E5AEEAE">Transparenzen wurden entfernt</text>
+		<text id="msg.fix.remove.invalid.ge" h="1ADE8289">Ungültige Grafik entfernt</text>
+		<text id="msg.fix.set_PDFA_version_conformance" h="AB0F972F">PDF/A-Version und -Konformität festlegen</text>
+		<text id="msg.fix.set_PDFX_version" h="7AA4188B">PDF/X-Version auf %1 festlegen</text>
+		<text id="msg.fix.set_egs_key_to" h="63221188">Erweiterter Grafikzustand: Schlüssel %1 wird auf %2 gesetzt</text>
+		<text id="msg.fix.set_image_intent_to_rc_metric" h="CF86B7A2">Bildtyp wurde auf 'RelativeColorimetric' gesetzt</text>
+		<text id="msg.fix.set_op_mode_to_0" h="5F8AB92B">Überdruckmodus wurde für ICC-basierten 4-Komponenten-Farbraum auf 0 gesetzt</text>
+		<text id="msg.fix.set_page_size_to_pdfa" h="196F4E85">Setze die Größe von %1 auf die implementierte Grenze von PDF/A</text>
+		<text id="msg.fix.settitle.unk" h="63847E95">Dokumenttitel auf %1 festlegen</text>
+		<text id="msg.fix.synch_docinfo_metadata" h="725D19C7">Eintrag %1 wurde zwischen Dokument-Info und XMP-Metadaten synchronisiert</text>
+		<text id="msg.fix.trapped" h="A5390027">Sperr-Einstellung ist auf %1 gesetzt</text>
+		<text id="msg.fix.added_layer_to_ocgs" h="384350C4">Ebene zur Ebenenliste des Dokuments hinzugefügt</text>
+		<text id="msg.param.PSForm" h="33125BC8">Postscript-Formular</text>
+		<text id="msg.param.created_CIDSet" h="68DA0CCF">CID-Satz-Eintrag erstellt nach</text>
+		<text id="msg.param.created_CIDToGID" h="36E9144C">CIDToGIDMap-Eintrag in TrueType(CID)-Schrift erstellt</text>
+		<text id="msg.param.created_charset" h="476FD8FB">Zeichensatz-Eintrag erstellt</text>
+		<text id="msg.param.cs_based_on" h="FFE0AF7F">basiert auf</text>
+		<text id="msg.param.cs_with_alternate" h="B031D3C5">Abwechselnd</text>
+		<text id="msg.param.font_CIDToGID_name_not_Identity" h="0DB4EA77">CIDToGIDMap ist benannt, aber keine 'Identität'</text>
+		<text id="msg.param.font_convert_opentype" h="CAE0DA1F">OpenType-Schriftart wurde umgewandelt</text>
+		<text id="msg.param.font_create_CIDSet" h="A849D837">CID-Satzeintrag entsprechend PDF/A-Standard erstellen</text>
+		<text id="msg.param.font_create_CIDToGID" h="141C53C9">CIDToGIDMap-Eintrag entsprechend PDF/A-Standard in TrueType(CID)-Schriftart erstellen</text>
+		<text id="msg.param.font_create_charset" h="9936EE1E">Zeichensatzeintrag entsprechend PDF/A-Standard erstellen</text>
+		<text id="msg.param.font_embed" h="9A6990DE">Schriftart einbetten</text>
+		<text id="msg.param.font_fix_lenghts" h="30C5F865">Ungültige Length1, Length2 und Length3-Einträge in Schriftarten repariert</text>
+		<text id="msg.param.font_fix_width" h="034ED3BC">Breite von Symbol korrigiert</text>
+		<text id="msg.param.font_incomp_CIDSet" h="9548B2AE">CID-Satz nicht vollständig in eingebetteten Schriftzeichen enthalten</text>
+		<text id="msg.param.font_incomp_charset" h="DFFF9082">Zeichensatz nicht vollständig in eingebetteten Schriftzeichen enthalten</text>
+		<text id="msg.param.font_incomp_width" h="AAD233DC">Breiteninformationen für Symbole sind nicht konsistent</text>
+		<text id="msg.param.font_incons_ordering" h="EDC4D27C">Sortierungseintrag in CIDSystemInfo ist nicht kompatibel mit entsprechendem Eintrag in CMap</text>
+		<text id="msg.param.font_incons_registry" h="F21A60E4">Registereintrag in CIDSystemInfo nicht kompatibel mit entsprechendem Eintrag in CMap</text>
+		<text id="msg.param.font_incons_supplement" h="8475905C">Ergänzungseintrag in CIDSystemInfo ist nicht kompatibel mit dem entsprechenden Eintrag in CMap</text>
+		<text id="msg.param.font_insert_CIDSet" h="3A450980">CID-Satzeintrag einfügen</text>
+		<text id="msg.param.font_insert_charset" h="8F852948">Zeichensatzeintrag einfügen</text>
+		<text id="msg.param.font_invalid_Unicode" h="5CDDB7B2">Schriftart hat eine ToUnicode-Tabelle mit ungültigen Werten</text>
+		<text id="msg.param.font_invalid_fontname" h="71C51772">Schriftname ist keine gültige UTF-8-Zeichenkette</text>
+		<text id="msg.param.font_invalid_lenghts" h="CCBC3ABE">Schriftart hat ungültige Length1, Length2 und/oder Length3-Einträge im Datenstrom</text>
+		<text id="msg.param.font_license_error" h="4B95C372">Lizenzmarkierung in Schrift verbietet Einbettung</text>
+		<text id="msg.param.font_missing_CIDSet" h="D6A633DA">CID-Satz fehlt</text>
+		<text id="msg.param.font_missing_CIDToGID" h="F18AFC8B">CIDToGIDMap fehlt in TrueType(CID)-Schriftart</text>
+		<text id="msg.param.font_missing_charset" h="99C00B0D">Zeichensatz fehlt</text>
+		<text id="msg.param.font_missing_glyph" h="C8DB86BB">Symbol fehlt in eingebetteter Schrift</text>
+		<text id="msg.param.font_not_map_Unicode" h="6C4EAF86">Text kann nicht in Unicode umgewandelt werden</text>
+		<text id="msg.param.font_refer_notdef" h="8A352025">Zeichen referenziert das Symbol .notdef</text>
+		<text id="msg.param.font_remove_diff_from_tt" h="CD98800F">Unterschiede wurden aus TrueType-Schriftart entfernt</text>
+		<text id="msg.param.font_tt_nonsymb_has_diff" h="352685E0">nicht-symbolische TrueType-Schriftart hat Unterschiede</text>
+		<text id="msg.param.font_tt_nonsymb_has_diff_names_not_from_AGL" h="29AB9D70">TrueType-Schriftart enthält Unterschiede mit Symbolnamen, die nicht in der Adobe-Symbolliste enthalten sind</text>
+		<text id="msg.param.font_tt_nonsymb_has_diff_not_enc31" h="4EF1854A">Nicht-symbolische TrueType-Schriftart enthält Unterschiede, enthält aber keine Microsoft Unicode(3.1)-Kodierung</text>
+		<text id="msg.param.font_tt_nonsymb_wrong_enc" h="A3CC05FE">falsche Kodierung für nicht-symbolische TrueType-Schriftart</text>
+		<text id="msg.param.font_tt_symb_enc_prohibit" h="567F543A">der Kodierungseintrag für die symbolische TrueType-Schriftart ist nicht erlaubt</text>
+		<text id="msg.param.font_tt_symb_enc_removed" h="B6D46693">der Kodierungseintrag in der symbolischen TrueType-Schriftart wurde entfernt</text>
+		<text id="msg.param.font_tt_symb_more_one_enc" h="5C1A2311">mehrere Kodierungen in symbolischer TrueType-Schriftart</text>
+		<text id="msg.param.font_tt_symb_more_one_enc_not_enc30" h="3E42D77A">mehrere Kodierungen in symbolischer TrueType-Schriftart und keine Microsoft Symbol(3.0)-Kodierung</text>
+		<text id="msg.param.font_unembed" h="D58DB454">Schrift nicht eingebettet</text>
+		<text id="msg.param.font_unembed_CMap" h="9A7C00A5">CMap für benutzerdefinierte CMap nicht eingebettet</text>
+		<text id="msg.param.font_unknown_enc" h="41169097">Das Objekt, das die Schriftart beschreibt, ist unbekannt</text>
+		<text id="msg.param.font_used_opentype" h="1DDFBB22">OpenType-Schriftart wird benutzt</text>
+		<text id="msg.param.font_was_converted" h="F6A778E4">Schriftart %1 wurde in Schriftart %2 umgewandelt</text>
+		<text id="msg.param.transparent_bm" h="6113A951">Misch-Modus ist weder "Normal" noch "Kompatibel"</text>
+		<text id="msg.param.transparent_cafill" h="0422F119">Alpha-Füllwert ist kleiner als 1.0</text>
+		<text id="msg.param.transparent_castroke" h="4AE94E2B">Alpha-Strich ist kleiner als 1.0</text>
+		<text id="msg.param.transparent_smask" h="FB9037E9">Weiche Maskierung ist nicht einfach</text>
+		<text id="msg.param.transparent_smask_image" h="0B94C935">Bild enthält eine weiche Maskierung mit einem Wert ungleich "Keine"</text>
+		<text id="msg.param.transparent_trgroup" h="60E2ACCB">Transparenzgruppe wird benutzt</text>
+		<text id="msg.warn.annot.is.RGB" h="BBEA0231">Die Anmerkung verwendet eine RGB-Farbe, aber die Ausgabe soll nicht RGB sein. Der Wert des PDF/A-Teils wird auf 2 erhöht.</text>
+		<text id="msg.warn.doc_has_embeddedfiles" h="E84C59BF">Dokument enthält eingebettete Dateien. Der Wert des PDF/A-Teils wird auf 2 erhöht</text>
+		<text id="msg.warn.doc_has_layers" h="83853EB9">Dokument enthält Ebenen. Der Wert des PDF/A-Teils wird auf 2 erhöht</text>
+		<text id="msg.warn.doc_has_notpdf" h="A4A335D0">Dokument enthält eingebettete Dateien, die keine PDF-Dokumente sind. Der Wert des PDF/A-Teils wird auf 3 erhöht</text>
+		<text id="msg.warn.doc_has_transparent" h="7DA0DFA8">Das Dokument enthält transparente Objekte. Der Wert für den PDF/A-Teil wird auf 2 erhöht</text>
+		<text id="msg.warn.doc_not_marked" h="C9BEF804">Das Dokument ist nicht markiert. Die Konformitätsstufe wurde auf B herabgesetzt</text>
+		<text id="msg.warn.font_not_map_Unicode" h="E326DC30">Der Text kann nicht in Unicode umgewandelt werden. Die Konformitätsstufe wurde auf B reduziert</text>
+		<text id="msg.warn.st_root_elem_type_not_standard" h="D150764F">Strukturiertes PDF: Element benutzt keinen Standard-Typ. Konformitätsstufe wurde auf B reduziert</text>
+		<text id="msg.warn.dictsize" h="9B24E799">Das Verzeichnis hat mehr als 4095 Einträge. Der Wert des PDF/A-Teils wird auf 2 erhöht.</text>
+		<text id="msg.warn.realvaluerange" h="410D6B7D">Der Zahlenwert liegt nicht im gültigen Bereich. Der Wert des PDF/A-Teils wird auf 2 erhöht</text>
+		<text id="opt.report" h="2D42B915">Bericht</text>
+		<text id="opt.showreport" h="672E47E9">Bericht anzeigen:</text>
+		<text id="removeannots.chk" h="6BD67279">Anmerkungen entfernen</text>
+		<text id="report.noshow" h="2B0D94AA">Niemals anzeigen</text>
+		<text id="report.show.always" h="E8FA61CB">Immer anzeigen</text>
+		<text id="report.show.errwarn" h="2DCF92BE">Bei Fehler oder Warnung anzeigen</text>
+		<text id="status.proc.cnvPage" h="92A4E6A3">Konvertiere Seite %1</text>
+		<text id="status.proc.tools.cnvPage" h="60077237">%2: Konvertieren von Seite %1...</text>
+		<text id="status.proc.converting" h="9CE2B7EC">Konvertiere Dokument zu PDF/A</text>
+		<text id="status.proc.convertingPage" h="C25CC6CC">Konvertiere Seite %1 zu PDF/A</text>
+		<text id="status.proc.convertingX" h="CD65583F">Dokument konvertieren...</text>
+		<text id="status.proc.saving" h="3D2A3BDC">Dokument speichern</text>
+		<text id="status.proc.gatherfont" h="C8B76D87">Sammle Schrift-Informationen...</text>
+		<text id="status.res.fail" h="79501FE7">Umwandlung fehlgeschlagen</text>
+		<text id="status.res.success" h="C25438FB">Umwandlung erfolgreich</text>
+	</Strings>
+</Localization>

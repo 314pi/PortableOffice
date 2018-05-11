@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220838">2.00.00</Version>
+	<Author>Jungle, Inc / Tz</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Japanese (Japan)" lName="日本語 (日本)" code="ja-JP" R2L="false"/>
+	<Module name="SpellChecker" namespace="spell" version="6.0.322.7"/>
+	<Strings>
+		<text id="dict.param.hyphen" h="50549BEC">ハイフネーション</text>
+		<text id="dict.param.spell" h="E10DA1DD">スペル</text>
+		<text id="lstDicts.empty" h="FFD5B8BB">＜辞書がありません＞</text>
+		<text id="msg.CopyDictError" h="81324CC9">辞書ファイルをコピーできませんでした</text>
+		<text id="msg.DictExists" h="650ABF1A">辞書はすでに存在しています</text>
+		<text id="msg.DictExists.title" h="B025530B">辞書が存在します</text>
+		<text id="msg.ErrorTitle" h="D9DB5E01">スペルチェッカーのエラー</text>
+		<text id="msg.LoadDictError" h="D139CD51">辞書を読み込めませんでした</text>
+		<text id="msg.RemoveError" h="DDD3D452">アクセスが拒否されたため、辞書ファイルを削除できませんでした。</text>
+		<text id="msg.WordExists" h="54B206DA">単語はすでに存在しています</text>
+		<text id="msg.WordExists.title" h="A9AFB29B">単語が存在します</text>
+		<text id="opt.b.AddDict" h="E0BF5FDE">辞書を追加</text>
+		<text id="opt.b.CustomWordList" h="D1505337">カスタム単語リスト</text>
+		<text id="opt.b.RemoveDict" h="D94F3439">辞書を削除</text>
+		<text id="opt.cb.AllowAlgoHyphens" h="D8C41308">ハイフネートの不明な単語</text>
+		<text id="opt.cb.EnableAllHyphens" h="207464CF">ハイフネーションを有効にする</text>
+		<text id="opt.cb.EnableHyphens" h="71ECEEC4">辞書のハイフネーションを有効にする</text>
+		<text id="opt.cb.EnableSpellChecker" h="1D563674">スペルチェッカーを有効にする</text>
+		<text id="opt.cb.IgnoreWordsInUppercase" h="BEB17F5B">大文字を無視する</text>
+		<text id="opt.cb.IgnoreWordsWithNumbers" h="2AA28F70">数字を含む単語を無視する</text>
+		<text id="opt.title" h="AEF9F007">スペルチェッカーの設定</text>
+		<text id="wrd.b.AddWord" h="8E2EE8C1">追加</text>
+		<text id="wrd.b.Delete" h="D8FE3F70">削除</text>
+		<text id="wrd.b.DeleteAll" h="848E003C">すべて削除</text>
+		<text id="wrd.l.Dictionary" h="66E4322E">辞書：</text>
+		<text id="wrd.l.Word" h="7AFBC23E">単語：</text>
+		<text id="wrd.title" h="66DDC653">カスタム単語リスト</text>
+	</Strings>
+</Localization>

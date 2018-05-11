@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171221003619">2.00.00</Version>
+	<Author>Martin Paulík</Author>
+	<Copyright>TERAGON SW s.r.o.
+www.pdfxchange.cz</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Czech (Czech Republic)" lName="čeština" code="cs-CZ" R2L="false"/>
+	<Module name="PDFAConverter" namespace="pdfa" version="7.0.323.2"/>
+	<Strings>
+		<text id="auto.pdfa.level" h="FF103EFE">Automatická shoda s PDF/A</text>
+		<text id="conv.name" h="7A00CE23">PDF/A (*.pdf)</text>
+		<text id="dlg.opt.autopdfa.info" h="4FBB3824">Automaticky zvolit nejvhodnější úroveň shody s normou pro dokument.</text>
+		<text id="dlg.opt.cb.correction" h="966C50DF">Použít opravy</text>
+		<text id="dlg.opt.embedfonts.lbl" h="F1019348">Vložit podmnožinu písma</text>
+		<text id="dlg.opt.g1.title" h="DAD7B4F4">Možnosti</text>
+		<text id="dlg.opt.g2.title" h="8FB1A988">Barevný profil</text>
+		<text id="dlg.opt.g3.title" h="8AD54EB1">Opravy</text>
+		<text id="dlg.opt.label.auto" h="FF103EFE">Automatická shoda s PDF/A</text>
+		<text id="dlg.opt.label1" h="EB2313FD">Specifikace:</text>
+		<text id="dlg.opt.label2" h="752CF760">Vyberte &amp;profil:</text>
+		<text id="dlg.opt.title" h="86709E15">Konverze do PDF/A</text>
+		<text id="dlg.pdfxConvert" h="1D70370D">Konverze do PDF/X</text>
+		<text id="dlg.rep.errors" h="EC9E93B4">Chyby (%1):</text>
+		<text id="dlg.rep.fixes" h="594F7931">Opravy (%1):</text>
+		<text id="dlg.rep.title" h="1DC94CC7">Report konverze</text>
+		<text id="dlg.rep.warnings" h="6F8DAB37">Varování (%1):</text>
+		<text id="lbl.chooseStd" h="4CB6AFEB">Vyberte standard:</text>
+		<text id="rasterize.error.chk" h="1CB52AC5">Rasterizovat nevložená písma</text>
+		<text id="msg.err.alternate_presenatations" h="19A17FF2">Dokument obsahuje alternativní prezentace</text>
+		<text id="msg.err.embed_file_missing_key" h="B12243CC">Vložený soubor: Klíč %1 chybí</text>
+		<text id="msg.err.embed_file_no_AF" h="0D075E68">Vložený soubor neobsahuje AF záznam</text>
+		<text id="msg.err.embed_file_no_AFRelationship" h="0F2FF281">Vložený soubor neobsahuje AFRelationship záznam</text>
+		<text id="msg.err.embed_file_no_MIME_type" h="B23BB7AE">Vložený soubor neobsahuje záznam typu MIME</text>
+		<text id="msg.err.embed_file_no_ModDate" h="32393EC5">Vložený soubor neobsahuje záznam ModDate</text>
+		<text id="msg.err.embed_file_not_PDF" h="ACB6C0B4">Některé z vložených souborů nejsou PDF soubory</text>
+		<text id="msg.err.embed_file_not_PDFA_compliance" h="69851F66">Nejméně jeden připojený PDF soubor není ve shodě s PDF/A</text>
+		<text id="msg.err.font" h="E728DE31">Písmo %1 je neplatné: %2</text>
+		<text id="msg.err.invalidfontobject" h="D0411546">Objekt písma je neplatný</text>
+		<text id="msg.err.halftone_has_name" h="044A925B">Externí grafický stav: Půltóny obsahují názvy půltónů</text>
+		<text id="msg.err.image_bpc_more" h="63802D36">Bitů na komponenty obrázku je více než %1</text>
+		<text id="msg.err.impl_limit_obj_size_more" h="3A9756F7">objekt %1 má větší velikost než %2</text>
+		<text id="msg.err.impl_limit_pagebox_less" h="39206E0E">Limity implementace: velikost %1 je menší než 3 jednotky</text>
+		<text id="msg.err.impl_limit_pagebox_more" h="7793CF00">Limity implementace: velikost %1 je vyšší než 14400 jednotek</text>
+		<text id="msg.err.impl_limit_val_out_range" h="0778EBD3">hodnota %1 je mimo rozsah</text>
+		<text id="msg.err.incomp_docinfo_metadata" h="4CE13608">1% nesoulad mezi informacemi o dokumentu a XMP Metadaty</text>
+		<text id="msg.err.incomp_ge_cs_with_outintent" h="A7DB0264">%2 barva při výstupním požadavku na %1</text>
+		<text id="msg.err.incomp_image_cs_with_outintent" h="FA83CF54">%2 obrázek při výstupním požadavku na %1</text>
+		<text id="msg.err.incomp_shading_cs_with_outintent" h="6CEF543E">%2 stínování při výstupním požadavku na %1</text>
+		<text id="msg.err.invalid.xform" h="735966B8">Dokument obsahuje neplatný XForm</text>
+		<text id="msg.err.invalid_image" h="A275C999">Obrázek není platný</text>
+		<text id="msg.err.keys_not_UR3_DocMDP" h="EBD832B7">Jiné klíče než UR3 a DocMDP byly použity v oprávnění</text>
+		<text id="msg.err.mbox.missing" h="529404DB">'MediaBox' chybí</text>
+		<text id="msg.err.metadata_missing" h="52FA2A56">Metadata jsou prázdná</text>
+		<text id="msg.err.obj_validator_name_not_UTF8" h="FB949014">Název není platným UTF-8 řetězcem</text>
+		<text id="msg.err.pageseparated" h="04FDB927">Stránka je samostatný štítek</text>
+		<text id="msg.err.preliminary.modify" h="413E0B86">Modifikace dokumentu je zakázána</text>
+		<text id="msg.err.preliminary.secured" h="1CA464FB">Dokument je zabezpečený</text>
+		<text id="msg.err.preliminary.xfa" h="1B4F1FD1">Dokument obsahuje XFA form. Nemůže být proto uložen do PDF/A</text>
+		<text id="msg.err.root.invalid.key" h="AB4A8812">Kořenový objekt obsahuje neplatný klíč</text>
+		<text id="msg.err.xfa" h="7CB7EB6A">Nelze konvertovat: dokument obsahuje XFA formulář</text>
+		<text id="msg.err.pressteps" h="74AC0960">Stránky obsahuje PresSteps</text>
+		<text id="msg.err.st_root_elem_type_not_standard" h="F26BDE8C">Strukturované PDF: element nepoužívá standardní typ</text>
+		<text id="msg.err.st_root_missing" h="5579E540">Chybí stromová struktura</text>
+		<text id="msg.err.substitute_filter" h="50898016">%1 byl nahrazen %2</text>
+		<text id="msg.err.subtype_xform_missing" h="E297FD31">Chybějící subtyp v XForm</text>
+		<text id="msg.err.tagging_structure" h="025A02E3">Tagovací struktura</text>
+		<text id="msg.err.used_egs_key" h="8964F17F">Externí grafický stav: %1%2%3 je použitý</text>
+		<text id="msg.err.used_embedded_files" h="5D7BA79C">K dokumentu jsou připojeny soubory</text>
+		<text id="msg.err.used_ext_stream" h="7B302079">Byl použit externí stream</text>
+		<text id="msg.err.used_fiter" h="C350A2BE">byl použit filtr %1</text>
+		<text id="msg.err.used_fiter_invalid" h="2604E73C">Dokument používá neznámý typ komprese</text>
+		<text id="msg.err.used_jpeg2000" h="52FB4580">Byla použita komprese JPEG2000</text>
+		<text id="msg.err.used_key" h="48336238">byl použit klíč %1</text>
+		<text id="msg.err.used_obj_transparency" h="A7E6E8BD">Objekt používá průhlednost: %1</text>
+		<text id="msg.err.used_scale_factor" h="341357C0">Bylo použito měřítko</text>
+		<text id="msg.err.layer_is_not_ocgs" h="192BDC6C">Vrstva není v seznamu vrstev dokumentu</text>
+		<text id="msg.err.realnumber.high" h="66E0E3DB">Reálné číslo je moc vysoké</text>
+		<text id="msg.err.realnumber.low" h="2A96B6D3">Reálné číslo je moc nízké</text>
+		<text id="msg.err.outlinetitle.missing" h="DDDF0A13">Titulek s obrysy chybí</text>
+		<text id="msg.err.dictsize" h="A051CB86">Velikost slovníku je větší než 4095</text>
+		<text id="msg.err.filespecification" h="E67D7D14">Dokument obsahuje specifikaci souboru</text>
+		<text id="msg.warn.image.reencoded" h="E4131E9E">Data obrázku byla překódována</text>
+		<text id="msg.fix.added_mark_info" h="A14BC073">Položka MarkInfo byla přidána do katalogu dokumentu</text>
+		<text id="msg.fix.annot" h="A3ED2923">Přípravena anotace pro standard PDF/A</text>
+		<text id="msg.fix.annotPDFX" h="5675C2EF">Připraven komentář pro PDF/X</text>
+		<text id="msg.fix.append.data" h="C09E2EE2">Opraven nedostatek dat v obrázku</text>
+		<text id="msg.fix.blendingCS" h="C69A9AF9">Opraveno mísení barevného prostoru</text>
+		<text id="msg.fix.convert_ge_to" h="0F8BC341">Grafický element barevného prostoru byl převeden na %1</text>
+		<text id="msg.fix.convert_image_to" h="4C6135BC">Barevný prostor obrázku byl převeden na %1</text>
+		<text id="msg.fix.convert_shading_to" h="62CBFA3C">Stínování barevného prostoru bylo převodeno na %1</text>
+		<text id="msg.fix.create_metadata" h="D90DAD7D">Metadata byla vytvořena</text>
+		<text id="msg.fix.create_res_dict" h="FCE6D2B1">Zdrojový slovník byl přidán ke stránce</text>
+		<text id="msg.fix.create_st_root" h="C9038B9E">Stromová struktura byla vytvořena</text>
+		<text id="msg.fix.discard_action_annotation" h="F7198D05">Vypustěny nekompatibilní akce z anotací</text>
+		<text id="msg.fix.discard_action_catalog" h="C3900926">Vypustěny nekompatibilní akce z katalogu</text>
+		<text id="msg.fix.discard_action_document" h="C016B27B">Vypustěny nekompatibilní akce z dokumentu</text>
+		<text id="msg.fix.discard_action_outlines" h="FBBE3E9F">Vypustěny nekompatibilní akce z obrysů</text>
+		<text id="msg.fix.embed_ext_stream" h="048B6358">Externí stream byl připojen</text>
+		<text id="msg.fix.embed_file_fixed" h="31D72A99">Připojený PDF soubor byl převeden na PDF/A</text>
+		<text id="msg.fix.embed_file_set_AF" h="D2B4D107">Vložený soubor: vytvoření odpovídajícího klíče v AF záznamu</text>
+		<text id="msg.fix.embed_file_set_MIME" h="3EF87FF1">Připojený soubor: Typ MIME byl nastaven</text>
+		<text id="msg.fix.embed_file_set_ModDate" h="BA267B98">Připojený soubor: Datum modifikace byl upraven podle slovníku parametrů</text>
+		<text id="msg.fix.embed_file_set_key_to" h="BC68FC0B">Vložený soubor: Klíč %1 je nastaven na %2</text>
+		<text id="msg.fix.fixed.pageboxes" h="99E435FA">Opraveno rozvržení stránky</text>
+		<text id="msg.fix.flatten_opt_contents" h="6B973C9C">Volitelný obsah byl vyrovnán</text>
+		<text id="msg.fix.flatten_transparency" h="1A34D6C7">Průhlednost byla vyrovnána</text>
+		<text id="msg.fix.font" h="D72B5D39">Písmo %1 bylo opraveno: %2</text>
+		<text id="msg.fix.font_rasterized" h="F886ED6D">Textové objekty písma %1 byly rasterizovány</text>
+		<text id="msg.fix.insert_correct_parent_outline_item_key" h="0EAAA35B">vložení korektního rodičovského klíče pro obrysy</text>
+		<text id="msg.fix.insert_parent_outline_item_key" h="345CBC49">vložení rodičovského klíče pro obrysy</text>
+		<text id="msg.fix.io.set" h="F9298C4C">Výstupní záměr nastaven na %1</text>
+		<text id="msg.fix.pages.root" h="A1647A90">Opraven kořen stránek dokumentu</text>
+		<text id="msg.fix.rasterize.invalid.form" h="D899922D">Neplatný formulář byl rasterizován</text>
+		<text id="msg.fix.recompress_image_to_target_BPC" h="FF073DE9">Rekomprese obrázku na %1 bitů na komponenty</text>
+		<text id="msg.fix.recompress_jpeg2000" h="99C21C1F">Rekomprese JPEG2000 obrázku</text>
+		<text id="msg.fix.remove.alternate_presentations" h="504508D7">Odstraněny alternativní prezentace</text>
+		<text id="msg.fix.remove.embedded.files" h="26C6032E">Odstranit vložené soubory z dokumentu</text>
+		<text id="msg.fix.remove_JS" h="60C345B8">Odstraněny JavaScripty</text>
+		<text id="msg.fix.remove_TR" h="0F9F4216">Přenosová křivka byla odstraněna</text>
+		<text id="msg.fix.remove_annot" h="6BD2280C">Odstraněny zakázané komentáře</text>
+		<text id="msg.fix.remove_annot_invalid" h="F94382C8">Z anotace pole byla odebrán neplatný objekt</text>
+		<text id="msg.fix.remove_egs_key" h="C443AC00">Externí grafický stav: klíč %1 byl odstraněn</text>
+		<text id="msg.fix.remove_element_with_zero_cm" h="A33839BA">Odstraněn element s nulovou transformační maticí</text>
+		<text id="msg.fix.remove_embedded_files" h="8F0B4037">Odstraněny připojené soubory jak požaduje PDF/A</text>
+		<text id="msg.fix.remove_ext_stream" h="AFDE8AD8">Externí stream byl odstraněn</text>
+		<text id="msg.fix.remove_interpolate" h="F32EB202">klíč interpolace byl odstraněn z obrázku</text>
+		<text id="msg.fix.remove_key" h="4413CC72">%1 byl odstraněn</text>
+		<text id="msg.fix.remove_scale_factor" h="143311F1">Bylo odstraněno měříko</text>
+		<text id="msg.fix.remove_transparency" h="7E5AEEAE">Odstraněna průhlednost</text>
+		<text id="msg.fix.remove.invalid.ge" h="1ADE8289">Odstraněn neplatný grafický element</text>
+		<text id="msg.fix.set_PDFA_version_conformance" h="AB0F972F">Nastavit verzi PDF/A a shodu</text>
+		<text id="msg.fix.set_PDFX_version" h="7AA4188B">Nastavit verzi PDF/X na %1 </text>
+		<text id="msg.fix.set_egs_key_to" h="63221188">Externí grafický stav: klíč %1 je nastaven na %2</text>
+		<text id="msg.fix.set_image_intent_to_rc_metric" h="CF86B7A2">Záměr obrázku nastaven na relativní kolometrický</text>
+		<text id="msg.fix.set_op_mode_to_0" h="5F8AB92B">Přetiskový režim byl nastavena na 0 for 4-komponentní barevný prostor ICC</text>
+		<text id="msg.fix.set_page_size_to_pdfa" h="196F4E85">Nastavit velikost %1 pro limity implementace PDF/A</text>
+		<text id="msg.fix.settitle.unk" h="63847E95">Nastavit název dokumentu na %1</text>
+		<text id="msg.fix.synch_docinfo_metadata" h="BF00D7E3">záznam %1 byl synchronizován mezi informacemi o dokumentu a XMP Metadaty</text>
+		<text id="msg.fix.trapped" h="A5390027">Zachycený příznak nastaven na %1</text>
+		<text id="msg.fix.added_layer_to_ocgs" h="384350C4">Do seznamu vrstev byla přidána vrstva</text>
+		<text id="msg.param.PSForm" h="33125BC8">Postscript formulář</text>
+		<text id="msg.param.created_CIDSet" h="68DA0CCF">vytvořen odpovídající CIDSet záznam</text>
+		<text id="msg.param.created_CIDToGID" h="36E9144C">vytvořen záznam CIDtoGIDMap pro písmo TrueType(CID)</text>
+		<text id="msg.param.created_charset" h="476FD8FB">vytvořen záznam znakové sady</text>
+		<text id="msg.param.cs_based_on" h="FFE0AF7F">na základě</text>
+		<text id="msg.param.cs_with_alternate" h="B031D3C5">střídavě</text>
+		<text id="msg.param.font_CIDToGID_name_not_Identity" h="D25E4547">CIDToGIDMap je název, ale ne identita</text>
+		<text id="msg.param.font_convert_opentype" h="CAE0DA1F">Písmo OpenType bylo převedeno</text>
+		<text id="msg.param.font_create_CIDSet" h="A849D837">vytvoření záznamu CIDSet odpovídající PDF/A</text>
+		<text id="msg.param.font_create_CIDToGID" h="141C53C9">vytvoření záznamu CIDToGIDMap pro TrueType(CID) písmo odpovídající PDF/A</text>
+		<text id="msg.param.font_create_charset" h="9936EE1E">vytvořit znakovou sadu ve shodě s PDF/A </text>
+		<text id="msg.param.font_embed" h="9A6990DE">vložený soubor s písmem</text>
+		<text id="msg.param.font_fix_lenghts" h="298EC697">Opravit Length1, Length2 a Length3 záznamy ve streamech objektu</text>
+		<text id="msg.param.font_fix_width" h="034ED3BC">opravit informaci o tloušťce glyfu</text>
+		<text id="msg.param.font_incomp_CIDSet" h="D4F36CC7">CIDset je nekompletní v podmnožině CID fontu</text>
+		<text id="msg.param.font_incomp_charset" h="DFFF9082">v podmožině písma je nekompletní znaková sada</text>
+		<text id="msg.param.font_incomp_width" h="AAD233DC">informace o tloušťce vykreslených glyfů je nekonzistentní</text>
+		<text id="msg.param.font_incons_ordering" h="85409AB5">Záznam v CIDSystemInfo není kompatibilní s odpovídajícím záznamem v CMap</text>
+		<text id="msg.param.font_incons_registry" h="B78E6D80">Záznam v CIDSystemInfo není kompatibilní s odpovídajícím záznamem v CMap</text>
+		<text id="msg.param.font_incons_supplement" h="E36DF08C">Dodatková položka v CIDSystemInf není kompatibilní s odpovídajícím záznamem v CMap</text>
+		<text id="msg.param.font_insert_CIDSet" h="D5E3BAEB">vložení CIDSet záznamu</text>
+		<text id="msg.param.font_insert_charset" h="8F852948">vložení znakové sady</text>
+		<text id="msg.param.font_invalid_Unicode" h="DC6A7C4D">Písmo má ToUnicode mapování s nevhodnými hodnotami</text>
+		<text id="msg.param.font_invalid_fontname" h="71C51772">název písma není platným UTF-8 řetězcem</text>
+		<text id="msg.param.font_invalid_lenghts" h="1D3DC2E0">písmo má neplatné Length1, Length2 a/nebo Length3 záznamy ve streamech objektu</text>
+		<text id="msg.param.font_license_error" h="4B95C372">licence k písmu nedovoluje jeho vložení</text>
+		<text id="msg.param.font_missing_CIDSet" h="C5865B8F">Chybí CIDSet</text>
+		<text id="msg.param.font_missing_CIDToGID" h="B068A3D4">CIDToGIDMap chybí v TrueType(CID) fontu</text>
+		<text id="msg.param.font_missing_charset" h="AA8CF2AF">chybí znaková sada</text>
+		<text id="msg.param.font_missing_glyph" h="48D3F8B3">ve vloženém písmu chybí glyfy</text>
+		<text id="msg.param.font_not_map_Unicode" h="6C4EAF86">text nemůže být mapován jako Unicode</text>
+		<text id="msg.param.font_refer_notdef" h="8A352025">odkazy znaků .notdef glyf</text>
+		<text id="msg.param.font_remove_diff_from_tt" h="989AD5E2">Z TrueType fontu byly odstraněny odlišnosti</text>
+		<text id="msg.param.font_tt_nonsymb_has_diff" h="15A5E12C">nesymbolické True Type písmo obsahuje odlišnosti</text>
+		<text id="msg.param.font_tt_nonsymb_has_diff_names_not_from_AGL" h="29AB9D70">Písmo True Type má odlišnosti v názvech glyfů, které nejsou v seznamu glyfů Adobe</text>
+		<text id="msg.param.font_tt_nonsymb_has_diff_not_enc31" h="4EF1854A">Písmo True Type má odlišnosti, ale neobsahuje kódování Microsoft Unicode(3.1)</text>
+		<text id="msg.param.font_tt_nonsymb_wrong_enc" h="A3CC05FE">špatné kódování pro nesymbolické True Type písmo</text>
+		<text id="msg.param.font_tt_symb_enc_prohibit" h="567F543A">pro symbolické True Type písmo je zakázáno kódování</text>
+		<text id="msg.param.font_tt_symb_enc_removed" h="B6D46693">kódovací tabulka pro symbolická TrueType písma byla odstraněna</text>
+		<text id="msg.param.font_tt_symb_more_one_enc" h="5C1A2311">symbolické True Type písmo obsahuje více než jeden typ kódování</text>
+		<text id="msg.param.font_tt_symb_more_one_enc_not_enc30" h="3E42D77A">symbolické True Type písmo obsahuje více než jeden typ kódování a nemá kódování Microsoft Symbol (3.0)</text>
+		<text id="msg.param.font_unembed" h="D58DB454">písmo není vložené</text>
+		<text id="msg.param.font_unembed_CMap" h="9A7C00A5">CMap není vložen pro uživatelský CMap</text>
+		<text id="msg.param.font_unknown_enc" h="41169097">kódování objektu, který popisuje písmo, je neznámé</text>
+		<text id="msg.param.font_used_opentype" h="1DDFBB22">Bylo použito OpenType písmo</text>
+		<text id="msg.param.font_was_converted" h="F6A778E4">písmo %1 bylo zkonvertováno na písmo %2</text>
+		<text id="msg.param.transparent_bm" h="F48139D3">mód mísení není běžný nebo kompatibilní</text>
+		<text id="msg.param.transparent_cafill" h="0422F119">alpha výplň je nižší než 1.0</text>
+		<text id="msg.param.transparent_castroke" h="4AE94E2B">alpha obrys je nižší než 1.0</text>
+		<text id="msg.param.transparent_smask" h="FB9037E9">měkká maska je netriviální</text>
+		<text id="msg.param.transparent_smask_image" h="5D8093D1">obrázek obsahuje měkkou masku s hodnotu vyšší než 0</text>
+		<text id="msg.param.transparent_trgroup" h="60E2ACCB">je používána průhlednost</text>
+		<text id="msg.warn.annot.is.RGB" h="BBEA0231">Anotace používají RGB prostor, ale výstupní záměr není RGB. Dokument bude uložen jako PDF/A-2.</text>
+		<text id="msg.warn.doc_has_embeddedfiles" h="E84C59BF">Dokument obsahuje vložené soubory. Bude proto uložen do PDF/A-2.</text>
+		<text id="msg.warn.doc_has_layers" h="83853EB9">Dokument obsahuje vrstvy. Bude proto uložen do PDF/A-2.</text>
+		<text id="msg.warn.doc_has_notpdf" h="A4A335D0">Dokument obsahuje vložené soubory, které nejsou ve formátu PDF. Dokument bude uložen v PDF/A-3.</text>
+		<text id="msg.warn.doc_has_transparent" h="7DA0DFA8">Dokument obsahuje průhledné objekty. Specifikace byla proto nastavena na PDF/A-2</text>
+		<text id="msg.warn.doc_not_marked" h="C9BEF804">Dokument není označen. Úroveň shody byla redukována na B</text>
+		<text id="msg.warn.font_not_map_Unicode" h="E326DC30">Text nemůže být mapován jako Unicode. Úroveň shody byla redukována na B.</text>
+		<text id="msg.warn.st_root_elem_type_not_standard" h="D150764F">Strukturované PDF: element nepoužívá standardní typ. Úroveň shody byla redukována na B.</text>
+		<text id="msg.warn.dictsize" h="9B24E799">Velikost slovníku je větší než 4095. Hodnota PDF/A byla zvýšena na 2.</text>
+		<text id="msg.warn.realvaluerange" h="410D6B7D">Reálná hodnota je mimo rozsah. Hodnota PDF/A je zvýšena na 2</text>
+		<text id="opt.report" h="2D42B915">Report</text>
+		<text id="opt.showreport" h="672E47E9">Zobrazit report:</text>
+		<text id="removeannots.chk" h="6BD67279">Odstranit komentáře (formuláře, odkazy, atd.)</text>
+		<text id="report.noshow" h="CE659F1F">Nikdy</text>
+		<text id="report.show.always" h="E69A07D6">Vždy</text>
+		<text id="report.show.errwarn" h="4A9C5823">Při chybě nebo varování</text>
+		<text id="status.proc.cnvPage" h="92A4E6A3">Konvertuji stránku %1...</text>
+		<text id="status.proc.tools.cnvPage" h="60077237">%2: Konvertuji stránku %1...</text>
+		<text id="status.proc.converting" h="9CE2B7EC">Konvertuji dokument do PDF/A</text>
+		<text id="status.proc.convertingPage" h="C25CC6CC">Konvertuji stránku %1 do PDF/A</text>
+		<text id="status.proc.convertingX" h="CD65583F">Konvertuji dokument...</text>
+		<text id="status.proc.saving" h="3D2A3BDC">Ukládání dokumentu</text>
+		<text id="status.proc.gatherfont" h="C8B76D87">Získávám informace o písmech...</text>
+		<text id="status.res.fail" h="79501FE7">Konverze selhala</text>
+		<text id="status.res.success" h="C25438FB">Konverze  byla úspěšná</text>
+	</Strings>
+</Localization>

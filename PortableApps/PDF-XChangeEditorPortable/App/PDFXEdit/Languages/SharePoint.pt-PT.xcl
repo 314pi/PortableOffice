@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20161130215845">2.00.00</Version>
+	<Author>Nuno Filipe Rego</Author>
+	<Copyright>Nuno Filipe Rego ©
+
+Coments and\or suggestions about the translations:
+Comentários e\ou sugestões sobre as traduções: 
+
+nunito.mokito@gmail.com</Copyright>
+	<Product id="product"/>
+	<Language eName="Portuguese (Portugal)" lName="português" code="pt-PT" R2L="false"/>
+	<Module name="SharePoint" namespace="sp" version="6.0.319.0"/>
+	<Strings>
+		<text id="btn.cancel" h="3D302A38">Cancelar</text>
+		<text id="btn.checkIn" h="09996473">Proteger</text>
+		<text id="btn.discardCheckOut" h="40AC5603">Remover Proteção</text>
+		<text id="btn.keepCkeckedOut" h="AEA0D6B1">Manter desprotegido</text>
+		<text id="btn.navigate" h="B03F439E">Procurar</text>
+		<text id="btn.ok" h="FEF0C771">OK</text>
+		<text id="btn.open" h="B1A510F0">Abrir</text>
+		<text id="btn.openWithCheckOut" h="2F774735">Abrir com Confirmação</text>
+		<text id="btn.save" h="F363C410">Guardar</text>
+		<text id="btn.saveAndCheckOut" h="E44D9A0A">Guardar e Desproteger</text>
+		<text id="btn.saveReplace" h="11BF9724">Guardar e Substituir</text>
+		<text id="btn.signOut" h="645CEBE2">Sair</text>
+		<text id="cb.url.tip" h="CD81E674">Introduzir endereço...</text>
+		<text id="cmd.checkIn" h="AEF235ED">Proteger</text>
+		<text id="cmd.checkIn.tip" h="3AEF3C8D">Protege o documento guardado no SharePoint.</text>
+		<text id="cmd.checkOut" h="E6A87AFE">Desproteger</text>
+		<text id="cmd.checkOut.tip" h="5C7938B4">Deixa o documento guardado no SharePoint desprotegido.</text>
+		<text id="cmd.cmdsCategory" h="56A5F9B3">SharePoint</text>
+		<text id="cmd.discardCheckOut" h="541A4ED2">Remover Proteção</text>
+		<text id="cmd.discardCheckOut.tip" h="B5673BAE">Remove a proteção do documento guardado no SharePoint.</text>
+		<text id="cmd.open" h="68595810">SharePoint...</text>
+		<text id="cmd.open.tip" h="42228BCF">Abre um documento guardado no SharePoint.</text>
+		<text id="cmd.prepareFileInfo" h="56811CA0">Preparar informação do documento</text>
+		<text id="cmd.prepareFileInfo.tip" h="2BF55A56">Prepara a informação do documento no SharePoint.</text>
+		<text id="cmd.save" h="68595810">SharePoint...</text>
+		<text id="cmd.save.tip" h="FCA25307">Guarda o documento atual no SharePoint.</text>
+		<text id="cmd.share_point" h="B7423C0E">SharePoint</text>
+		<text id="dlg.liveLogin" h="BFADC685">Acesso em Tempo Real</text>
+		<text id="dlg.openFile" h="435887CD">Abrir ficheiro</text>
+		<text id="dlg.saveFile" h="520CB069">Guardar ficheiro</text>
+		<text id="lb.itemsInFolder" h="8F56A98C">%d objetos</text>
+		<text id="lb.name" h="DEC92488">Nome do Ficheiro:</text>
+		<text id="ls.column.created" h="FE6510B7">Data de criação</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Data e hora de quando foi criado(a) o(a) ficheiro, pasta ou lista</text>
+		<text id="ls.column.extension" h="14FEB836">Extensão</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Extensão do ficheiro</text>
+		<text id="ls.column.modified" h="7E234D6D">Data de modificação</text>
+		<text id="ls.column.modified.hint" h="12933E76">Data e hora de quando foi modificado(a) o(a) ficheiro, pasta ou lista pela última vez</text>
+		<text id="ls.column.size" h="17A58A52">Tamanho</text>
+		<text id="ls.column.size.hint" h="9C4BD847">Tamanho do ficheiro</text>
+		<text id="ls.column.title" h="D18643E3">Nome</text>
+		<text id="ls.column.title.hint" h="6A895576">Nome do ficheiro, nome da pasta ou título da lista</text>
+		<text id="msg.askForCheckInOnClose" h="7B06F17B">Deseja Proteger o documentoantes de fechâ-lo, de modo a permitir que as alterções efetuadas estejam disponíveis para outros utilizadores?</text>
+		<text id="msg.askForCheckOutOnOpen" h="7803C4A6">Pode simplesmente abrir o ficheiro permitir que outros utilizadores o modifiquem ou pode abrí-lo com a desproteção para o tornar de leitura apenas para outros, mas editável para si. </text>
+		<text id="msg.askForCheckOutOnSave" h="8E5C5FBB">Este ficheiro não está desprotegido. Deverá desprotegê-lo para continuar a operação.</text>
+		<text id="msg.askForDiscardCheckOutOnClose" h="6ADE6C3D">O ficheiro deste documento encontra-se Desprotegido para si. Deseja Remover a Desproteção, permitindo a modificação do ficheiro por outros utilizadores?</text>
+		<text id="msg.checkIn" h="BC40B537">Falha ao proteger o ficheiro. Certifique-se de que o ficheiro existe e está desprotegido para si.</text>
+		<text id="msg.checkOut" h="D1B23376">Falha ao desproteger o ficheiro. Certifique-se de que o ficheiro existe e não está desprotegido.</text>
+		<text id="msg.connectError" h="D31B7CA0">Falha ao ligar-se ao servidor do SharePoint. Verifique a sua ligação à Internet, se o endereço do servidor está correto e as permissões de acesso ao recurso pretendido no SharePoint.</text>
+		<text id="msg.discardCheckOut" h="6CD5936B">Falha ao descartar ficheiro desprotegido. Certifique-se de que o ficheiro existe e está desprotegido para si.</text>
+		<text id="msg.fileNotFound" h="CD319CFB">Não foi encontrado o ficheiro "%s" na pasta atual.</text>
+		<text id="msg.invalidFileName" h="4FAC9EDF">"%s" não é um nome válido.</text>
+		<text id="msg.navigateError" h="DE02F44B">Falha ao aceder ao recurso guardado no SharePoint. Verifique a sua ligação à Internet, se o endereço de recurso está correto e os direitos  de acesso ao recurso guardado no SharePoint.</text>
+		<text id="msg.openFailed" h="A9228907">Falha ao abrir o ficheiro. Certifique-se de que o ficheiro existe, não está desprotegido para outro utilizador e que possui para lê-lo.</text>
+		<text id="msg.saveFailed" h="2C1B0E0B">Falha ao guardar o ficheiro. Certifique-se de que o nome do ficheiro é válido, não está desprotegido para outro utilizador e de que possui permissões de escrita para o ficheiro.</text>
+		<text id="msg.saveReplace" h="D31D53A9">O ficheiro "%1" já existe. Deseja substituí-lo?</text>
+		<text id="msg.signOutError" h="B348A2EC">Falha ao do utilizador ao sair do servidor SharePoint. Aina lhe é possível aceder ao SharePoint sem proceder à autenticação.</text>
+		<text id="opt.keepFileCheckedOut" h="FBA0F8E9">Manter ficheiro desprotegido</text>
+	</Strings>
+</Localization>

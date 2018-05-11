@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117213644">2.00.00</Version>
+	<Author>Berend Ytsma</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Western Frisian (Netherlands)" lName="Frysk" code="fy-NL" R2L="false"/>
+	<Module name="MarkdownPlugin" namespace="md" version="6.0.322.7"/>
+	<Strings>
+		<text id="btn.md.submenu" h="89D1502A">Fan &amp;Markdown...</text>
+		<text id="cmd.tip" h="117085B4">In nij dokumint fan Markdown triemen oanmeitsje.</text>
+		<text id="converter.desc" h="41356938">Markdown triemmen omsette</text>
+		<text id="converter.filterName" h="AE86B691">Markdown triemmen</text>
+		<text id="converter.name" h="AE86B691">Markdown triemmen</text>
+		<text id="converting.progress.text" h="4DD2C8CD">Triem wurdt omsetten</text>
+		<text id="grb.style" h="1FF454A3">Tekst styl</text>
+		<text id="msg.error" h="51BFF51D">Flater</text>
+		<text id="msg.file.empty" h="8F9B5982">Triem is leech.</text>
+		<text id="opt.all.files" h="C68ACE05">Alle triemmen</text>
+		<text id="opt.btn.clear.style" h="8932B6EE">Set de CSS styl werom nei de standert</text>
+		<text id="opt.create.style" h="EDCA1553">Oanmeitsje</text>
+		<text id="opt.file" h="45B5DF3A">Triem</text>
+		<text id="opt.margins.fixed" h="6103695E">Jo marzjes binne te grut. Se sille automatysk oanpast wurde.</text>
+		<text id="opt.none" h="F9398D7D">Gjint</text>
+		<text id="opt.style" h="5CEA121A">Styl:</text>
+		<text id="opt.test.title" h="44732FAA">Test</text>
+		<text id="opt.title" h="45D26671">Markdown nei PDF opsjes</text>
+		<text id="opt.unavailable" h="5669C949">is net beskikber</text>
+		<text id="prefs.name" h="07E67B98">Markdown nei PDF</text>
+		<text id="prefs.title" h="45D26671">Markdown nei PDF opsjes</text>
+		<text id="prop.list.extension" h="14FEB836">Tafoeging</text>
+		<text id="prop.list.location" h="BB241F45">Lokaasjes</text>
+		<text id="prop.list.modified" h="30325672">Feroare</text>
+		<text id="prop.list.size" h="17A58A52">Grutte</text>
+		<text id="prop.list.title" h="796DFAD3">Titel</text>
+		<text id="prop.source" h="AE86B691">Markdown triemmen</text>
+		<text id="prop.source.file" h="F3110572">Markdown triemmen selektearje</text>
+		<text id="prop.source.file.unavailable" h="AE2771B8">Styl triem is net beskikber</text>
+		<text id="prop.source.folder" h="8477FBD3">Map mei Markdown selektearje</text>
+		<text id="prop.source.subfolder" h="F053B635">Yn submappen sjen</text>
+		<text id="prop.source.txt" h="0B465380">Tekst triemmen</text>
+		<text id="prop.window.name" h="6E4F5CCE">Markdown nei PDF omsette</text>
+		<text id="style.edit.default" h="600F2F18">Standert styl brûke</text>
+		<text id="style.files.title" h="26E23587">CSS triemmen</text>
+		<text id="style.folder.name" h="2F5ECDDE">Markdown stilen</text>
+		<text id="style.save.title" h="2E270E87">Styl bewarje</text>
+		<text id="style.select.file" h="37C34A80">Styl triem selektearje</text>
+	</Strings>
+</Localization>

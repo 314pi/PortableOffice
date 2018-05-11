@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123224509">2.00.00</Version>
+	<Author>Regmos</Author>
+	<Copyright>Regmos 2018</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Danish (Denmark)" lName="dansk" code="da-DK" R2L="false"/>
+	<Module name="SharePoint" namespace="sp" version="7.0.323.3"/>
+	<Strings>
+		<text id="btn.checkIn" h="09996473">Tjek ind</text>
+		<text id="btn.discardCheckOut" h="40AC5603">Kassér udtjekket</text>
+		<text id="btn.checkInAndKeepCkeckedOut" h="34DA624B">Tjek ind og behold udtjekket</text>
+		<text id="btn.connect" h="A79F815C">Kontakt</text>
+		<text id="btn.keepCkeckedOut" h="AEA0D6B1">Behold udtjekket</text>
+		<text id="btn.navigate" h="B03F439E">Gå til</text>
+		<text id="btn.open" h="B1A510F0">Åben</text>
+		<text id="btn.openWithCheckOut" h="2F774735">Åben med tjek ud</text>
+		<text id="btn.save" h="F363C410">Gem</text>
+		<text id="btn.saveAndCheckOut" h="E44D9A0A">Gem og tjek ud</text>
+		<text id="btn.saveReplace" h="11BF9724">Gem og erstat</text>
+		<text id="btn.signOut" h="645CEBE2">Log ud</text>
+		<text id="cb.url.tip" h="CD81E674">Skriv adresse...</text>
+		<text id="cmd.checkIn" h="AEF235ED">Tjek ind</text>
+		<text id="cmd.checkIn.tip" h="C9DCA405">Tjek dokumentet ind på SharePoint.</text>
+		<text id="cmd.checkOut" h="E6A87AFE">Tjek ud</text>
+		<text id="cmd.checkOut.tip" h="E1B64D30">Tjek dokumentet ud fra SharePoint.</text>
+		<text id="cmd.cmdsCategory" h="56A5F9B3">SharePoint</text>
+		<text id="cmd.discardCheckOut" h="40AC5603">Kassér udtjekket</text>
+		<text id="cmd.discardCheckOut.tip" h="ED54ACC3">Kassér udtjekket fil på SharePoint.</text>
+		<text id="cmd.open" h="68595810">SharePoint...</text>
+		<text id="cmd.open.tip" h="007B7200">Åben dokument fra SharePoint.</text>
+		<text id="cmd.prepareFileInfo" h="56811CA0">Forbered filinfo</text>
+		<text id="cmd.prepareFileInfo.tip" h="E609EA07">Forbered filoplysninger på SharePoint.</text>
+		<text id="cmd.save" h="68595810">SharePoint...</text>
+		<text id="cmd.save.tip" h="C48C1C25">Gem et aktivt dokument på SharePoint.</text>
+		<text id="cmd.share_point" h="B7423C0E">SharePoint</text>
+		<text id="cmd.share_point.tip" h="CA99078B">Arbejd med dokumenter i SharePoint</text>
+		<text id="dlg.liveLogin" h="BFADC685">Live log ind</text>
+		<text id="dlg.openFile" h="435887CD">Åben fil</text>
+		<text id="dlg.saveFile" h="520CB069">Gem fil</text>
+		<text id="lb.checkInComment" h="694DD18A">Kommentar (valgfrit):</text>
+		<text id="lb.name" h="F7B9E475">Filnavn:</text>
+		<text id="lb.sharePointPlaceUrl" h="F900769A">SharePoint URL:</text>
+		<text id="ls.column.created" h="FE6510B7">Oprettet</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Oprettelsesdato og tid</text>
+		<text id="ls.column.extension" h="14FEB836">Filtype</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Filtype</text>
+		<text id="ls.column.modified" h="691C3610">Ændret</text>
+		<text id="ls.column.modified.hint" h="12933E76">Ændringsdato og tid</text>
+		<text id="ls.column.size" h="17A58A52">Str.</text>
+		<text id="ls.column.size.hint" h="E79CA174">Filstr.</text>
+		<text id="ls.column.title" h="D18643E3">Navn</text>
+		<text id="ls.column.title.hint" h="81F4F728">Filnavn, mappenavn eller listetitel</text>
+		<text id="msg.askForCheckInOnClose" h="8F50A2BC">Vil du tjekke filen &lt;b&gt;%1&lt;/b&gt; ind før den lukkes. Det vil gøre ændringer tilgængelige for andre brugere.</text>
+		<text id="msg.askForCheckOutOnOpen" h="20742355">Du kan åbne filen &lt;b&gt;%1&lt;/b&gt; med tjek ud, og skrivebeskytte den for andre brugere, så du  kan gemme dine ændringer sikkert på SharePoint. Eller du kan tillade, at andre brugere kan redigere filen, men det kan resultere i konflikter.</text>
+		<text id="msg.askForCheckOutOnSave" h="0D7127AB">Filen &lt;b&gt;%1&lt;/b&gt; er ikke tjekket ud. Du skal tjekke filen ud, og fortsætte med at gemme.</text>
+		<text id="msg.askForDiscardCheckOutOnClose" h="CF92CA4B">Filen &lt;b&gt;%1&lt;/b&gt; er tjekket ud til dig. Vil du kassere udtjekningen og tillade en anden bruger at redigere filen?</text>
+		<text id="msg.checkInFailed" h="3E327B8B">Filen &lt;b&gt;%1&lt;/b&gt; kunne ikke tjekke ind. Kontrollér at filen findes og er tjekket ud til dig.</text>
+		<text id="msg.checkInDialogMessage" h="8A8CB676">Tjek filen &lt;b&gt;%1&lt;/b&gt; ind.</text>
+		<text id="msg.checkedOutToOtherOnOpen" h="0931ED51">Du kan ikke åbne filen &lt;b&gt;%1&lt;/b&gt; med tjek ud, da den allerede er tjekket ud til brugeren "%2".</text>
+		<text id="msg.checkedOutToOtherOnSave" h="2974FCD2">Filen &lt;b&gt;%1&lt;/b&gt; er tjekket ud til brugeren "%2". Du kan ikke gemme filen på SharePoint, når den ikke er tjekket ud til dig, men du kan gemme den et andet sted.</text>
+		<text id="msg.checkOutFailed" h="AE188A1B">Filen &lt;b&gt;%1&lt;/b&gt; kunne ikke tjekke ud. Kontrollér at filen findes og er tjekket ud til en anden bruger.</text>
+		<text id="msg.connectError" h="18DFEDBE">Kunne ikke kontakte SharePoint serveren. Kontrollér internetforbindelsen, serveradressen og dine rettigheder.</text>
+		<text id="msg.discardCheckOutFailed" h="427CEAFC">Kunne ikke kassere udtjekket status for filen&lt;b&gt;%1&lt;/b&gt;. Kontrollér at filen findes og er tjekket ud til dig.</text>
+		<text id="msg.errorOnCheckOutNoEditPermissions" h="72CACDDF">Du kan ikke tjekke filen &lt;b&gt;%1&lt;/b&gt; ud, da du ikke har de fornødne rettigheder.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedCheckOut" h="0075F732">Du kan ikke åbne filen &lt;b&gt;%1&lt;/b&gt; med tjek ud, da du ikke har de fornødne rettigheder.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedWriteAccess" h="FD9B1AB1">Du kan ikke redigere filen &lt;b&gt;%1&lt;/b&gt;, da du ikke har de fornødne rettigheder.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedWriteAccess" h="3453F306">Du kan ikke gemme filen &lt;b&gt;%1&lt;/b&gt; på SharePoint, da du ikke har de fornødne rettigheder.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedCheckOut" h="833598E7">Filen &lt;b&gt;%1&lt;/b&gt; skal tjekkes ud før den gemmes, men du har ikke de fornødne rettigheder.</text>
+		<text id="msg.fileNotFound" h="381368F8">Filen &lt;b&gt;%1&lt;/b&gt; blev ikke fundet i den aktuelle mappe.</text>
+		<text id="msg.invalidFileName" h="5F43EF67">Filnavnet &lt;b&gt;%1&lt;/b&gt; er ugyldigt.</text>
+		<text id="msg.navigateError" h="CF23B4B6">Kunne ikke finde SharePoint emnet. Kontrollér internetforbindelsen, serveradressen og dine rettigheder.</text>
+		<text id="msg.openFailed" h="34DE1259">Kunne ikke åbne filen. Kontrollér at filen findes, ikke er tjekket ud til en anden bruger, og at du har de fornødne rettigheder</text>
+		<text id="msg.outdatedFileOnWrite" h="1D71732B">Filen &lt;b&gt;%1&lt;/b&gt; kan ikke gemmes på SharePoint p.g.a. konflikt. Dokumentet du hentede indeholder ændringer fra &lt;b&gt;%2&lt;/b&gt;, men serveren indholder nyere ændringer fra &lt;b&gt;%3&lt;/b&gt;. Gem dine ændringer i en ny fil, åben det sennste dokument fra SharePoint, flet ændringerne og gem dem på serveren.</text>
+		<text id="msg.saveFailed" h="967D2A64">Kunne ikke gemme filen. Kontrollér at filnavnet er gyldigt, at filen ikke er tjekkt ud til en anden bruger, og at du har de fornødne rettigheder.</text>
+		<text id="msg.saveReplace" h="B1889DFB">Filen &lt;b&gt;%1&lt;/b&gt; findes allerede. Vil du erstatte?</text>
+		<text id="msg.signOutError" h="0E6A5F45">Kunne ikke logge aktuel bruger ud fra SharePoint serveren, men du kan muligvis stadig tilgå SharePoint uden en godkendelse.</text>
+		<text id="msg.warnOnOpenWithNoEditPermissions" h="E1A7E642">Du er ved at åbne filen &lt;b&gt;%1&lt;/b&gt;, men du har ikke rettigheder til at redigere den, så du kan ikke gemme ændringer på SharePoint.</text>
+		<text id="msg.warnOnOpenWithOthersCheckOut" h="46080172">Filen &lt;b&gt;%1&lt;/b&gt; er tjekket ud til en anden bruger. Du kan ikke gemme filen på SharePoint med mindre "%2" kasserer udtjekningen. Hvis "%2" tjekker filen med ændringer ind, vil der opstå konflikter.</text>
+		<text id="opt.keepCkeckedOut" h="15301A94">Behold udtjekket fil efter gem</text>
+		<text id="str.sharePoint" h="56A5F9B3">SharePoint</text>
+		<text id="rbar.sharepoint" h="56A5F9B3">SharePoint</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Version date="20150521211106">2.00.00</Version>
+	<Author>slavusec</Author>
+	<Copyright>slavo72@azet.sk</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Slovak" lName="slovenčina" code="sk-SK" R2L="false"/>
+	<Module name="OCRPlugin" namespace="ocr" version="5.5.312.1"/>
+	<Strings>
+		<text id="cmd.name" h="6DAA8A17">Spustiť OCR ...</text>
+		<text id="ACCURACY" h="3B2028D8">Presnosť:</text>
+		<text id="RangeCtl.All" h="BC5A21F7">Všetko</text>
+		<text id="MORELANGUAGES" h="B5A4C290">Viacej jazykov...</text>
+		<text id="QUALITY" h="B09D7E26">Kvalita:</text>
+		<text id="RUN" h="263F2B55">Spustiť</text>
+		<text id="RangeCtl.Array" h="3B3F1A04">Vybrané stránky</text>
+		<text id="RangeCtl.PageRangesTotalPages" h="AD7CC48B">(ceľkom %1 stránok)</text>
+		<text id="DPI100" h="32F53FC3">100 DPI</text>
+		<text id="DPI200" h="4E941A18">200 DPI</text>
+		<text id="DPI300" h="D39BFB6E">300 DPI</text>
+		<text id="OUTPUTOVERLAY" h="B50A7A21">Pridať vrstvu pre prehľadávanie PDF</text>
+		<text id="pages.All" h="83434A26">Všetko</text>
+		<text id="PageRangesFilter.All" h="83434A26">Všetko</text>
+		<text id="AUTODESKEW" h="626A3AF3">Auto natočenie</text>
+		<text id="OrientationDetection" h="40F7AA0E">Automatická detekcia natočenia</text>
+		<text id="BLACKLIST" h="23BACD95">Blacklist</text>
+		<text id="CANCEL" h="08961956">Zrušiť</text>
+		<text id="ComplexBackground" h="7D4E65E9">Kompletné odstránenie pozadia</text>
+		<text id="outputtype.editable" h="B24B2872">Vytvoriť nové editovateľné PDF</text>
+		<text id="outputtype.new" h="85C87BB3">Vytvoriť PDF s možnosťou vyhľadávania</text>
+		<text id="RangeCtl.Current" h="F154A390">Aktuálna stránka</text>
+		<text id="pages.Current" h="AA94BA52">Aktuálna</text>
+		<text id="PageRangesFilter.Even" h="B47F9CB2">dokonca</text>
+		<text id="OUTPUTEXPORT" h="AEBA8DAE">Exportovať do editovateľného dokumentu</text>
+		<text id="progress.finalizing" h="BD3E3BA6">Dokončujem...</text>
+		<text id="PageRangeHelp" h="2193298D">Napríklad: 1, 3, 5-12</text>
+		<text id="accuracy.high" h="21A95620">Vysoká</text>
+		<text id="accuracy.low" h="845E3D8C">Nízka</text>
+		<text id="accuracy.medium" h="91153342">Stredná</text>
+		<text id="OUTPUTEDITABLE" h="BD2E798E">Nový editovateľný PDF</text>
+		<text id="OUTPUTSEARCHABLE" h="AC331458">Nový prohledávateľný PDF</text>
+		<text id="prefs.name" h="00DD8F43">OCR</text>
+		<text id="notice.notfinished" h="F46B8362">Chyba inicializácie OCR: Skontroľujte dostupné jazyky a nastavenie výstupu</text>
+		<text id="notice.emptyselection" h="2B9E6261">Chyba OCR: Neplatný dokument alebo žiadny výber</text>
+		<text id="notice.finished" h="0CFE0EC4">Rozpoznanie textu bolo dokončené</text>
+		<text id="prefs.title" h="D0975E29">Možnosti OCR</text>
+		<text id="prefs.tips" h="D0975E29">Možnosti OCR</text>
+		<text id="progress.title" h="8E35B0D9">Rozpoznávam text...</text>
+		<text id="PROGRESSTITLE" h="EAC73B34">OCR</text>
+		<text id="LABELPROGRESS" h="EAC73B34">Prebieha rozpoznávanie textu</text>
+		<text id="prefs.langdir" h="ED1B4BF6">Jazyk pre OCR</text>
+		<text id="PageRangesFilter.Odd" h="B42489B1">Zvláštne</text>
+		<text id="OK" h="2F05215A">OK</text>
+		<text id="GROUPOUTPUT" h="99E2E755">Výstup</text>
+		<text id="OUTPUTTYPE" h="BCF60940">Typ výstupu:</text>
+		<text id="RangeCtl.Exact" h="F77481D2">Stránky:</text>
+		<text id="pages.Range" h="94D70EC1">Rozsah stránok</text>
+		<text id="RangeCtl.GroupBox" h="30C24AC3">Rozsah stránok</text>
+		<text id="PAGELABEL" h="23952CFD">Stránky:</text>
+		<text id="progress.placing" h="C9F1FA8A">Umiestňujem obsah...</text>
+		<text id="PREFERENCES" h="4481257B">Predvoľby:</text>
+		<text id="outputtype.layer" h="DFA4EAA6">Zachovať pôvodný obsah a pridať textovú vrstvu</text>
+		<text id="LANGUAGE" h="9BF1BFB7">Primárny jazyk:</text>
+		<text id="progress.pageinfo" h="4580EE29">Spracovávam stránku %d z %d...</text>
+		<text id="PAGES" h="E85B0001">Rozsah:</text>
+		<text id="progress.rasterizing" h="ACB9131E">Rasterizujem...</text>
+		<text id="GROUPRECOGNITION" h="962555B5">Rozpoznávanie</text>
+		<text id="progress.recognizing" h="281E6862">Rozpoznávam...</text>
+		<text id="RUNDIALOGTITLE" h="4C092002">Spustiť OCR</text>
+		<text id="pages.Selected" h="CF38CD8D">Vybrané</text>
+		<text id="RangeCtl.Filter" h="767CD238">Podmnožina:</text>
+		<text id="RangeCtl.Summary" h="12271F69">Zhrnutie: %1 z %2 stránok</text>
+		<text id="notice.notavailable" h="CAC07593">Vybraný typ OCR nie je  v tejto verzií dostupný.</text>
+		<text id="notice.permissions" h="3BE9C6A8">Dokument je zabezpečený. Skontroľujte prístupové práva v menu Súbor -&gt; Vlastnosti dokumentu -&gt; Zabezpečenie</text>
+		<text id="MULTIPLECORES" h="C21D9F69">Použíť multithreading</text>
+		<text id="WHITELIST" h="68C2961B">Whitelist</text>
+		<text id="TITLEWHITELIST" h="B446B537">Whitelist a Blacklist</text>
+</Strings>
+</Localization>

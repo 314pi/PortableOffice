@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123215821">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Russian (Russia)" lName="Русский" code="ru-RU" R2L="false"/>
+	<Module name="GoogleDrivePlugin" namespace="gd" version="7.0.323.3"/>
+	<Strings>
+		<text id="DlgOpenFile" h="B98AB29D">Открыть файл с Google Drive</text>
+		<text id="DlgSaveFile" h="81F99046">Сохранить файл в Google Drive</text>
+		<text id="GDPlugin" h="32B7E3E0">Модуль Google Drive</text>
+		<text id="btn.connectToAnother" h="508BDBC5">Новый логин...</text>
+		<text id="cmd.cmdsCategory" h="AD23B285">Google Drive</text>
+		<text id="cmd.googledrive" h="1D28DF85">Google Drive</text>
+		<text id="cmd.open" h="F32ECED5">Google Drive...</text>
+		<text id="cmd.open.tip" h="933837A2">Открыть документ с Google Drive.</text>
+		<text id="cmd.save" h="F32ECED5">Google Drive...</text>
+		<text id="cmd.save.tip" h="948C3269">Сохранить активный документ в Google Drive.</text>
+		<text id="cpt.fileNotFound" h="A7F5FA7A">Файл не найден</text>
+		<text id="cpt.invalidFileName" h="79C1387C">Недействительное имя файла</text>
+		<text id="cpt.navigateError" h="3D300A1C">Ошибка навигации</text>
+		<text id="cpt.saveReplace" h="520CB069">Сохранить файл</text>
+		<text id="cpt.selectFile" h="C55D68B0">Выбор файла</text>
+		<text id="dlg.googleAuth" h="E5642F22">Идентификация Google Drive</text>
+		<text id="fileName" h="DEC92488">Имя файла:</text>
+		<text id="lb.CurrentFolder" h="44158804">Текущая папка:</text>
+		<text id="lb.Test" h="273F3E5B">Тест</text>
+		<text id="lb.googleAccName" h="C94645A3">Учетная запись Google:</text>
+		<text id="msg.fileNotFound" h="430E08B1">Файл "%1" не найден в текущей папке.</text>
+		<text id="msg.invalidFileName" h="7C0655B5">Имя файла "%1" не правильное.</text>
+		<text id="msg.navigateError" h="2FCAA72A">Ошибка при навигации в ресурсе Google Drive. Проверьте подсоединение к интернету и права доступа к запрашиваемому ресурсу Google Drive.</text>
+		<text id="msg.openFailed" h="AC94D960">Ошибка при открытии файла. Убедитесь в наличии файла, разрешения на чтение файла и не заблокирован ли файл другим пользователем.</text>
+		<text id="msg.saveFailed" h="4D413392">Ошибка при сохранении файла. Проверьте правильность записи имени файла и наличие разрешения на его сохранение.</text>
+		<text id="msg.saveReplace" h="5D56833E">Файл %1 уже существует. Заменить его?</text>
+		<text id="msg.selectFile" h="2530C20F">Выделите файл прежде чем нажать "Да"</text>
+		<text id="ls.column.created" h="FE6510B7">Дата создания</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Дата и время создания файла, папки или списка</text>
+		<text id="ls.column.extension" h="14FEB836">Расширение</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Расширение файла</text>
+		<text id="ls.column.modified" h="7E234D6D">Дата изменения</text>
+		<text id="ls.column.modified.hint" h="12933E76">Дата и время последнего изменения файла, папки или списка</text>
+		<text id="ls.column.size" h="17A58A52">Размер</text>
+		<text id="ls.column.size.hint" h="9C4BD847">Размер файла</text>
+		<text id="ls.column.title" h="D18643E3">Имя</text>
+		<text id="ls.column.title.hint" h="6A895576">Имя файла, имя папки или заглавие списка</text>
+		<text id="virtualfolder.mydrive" h="84C2D3A6">My Drive</text>
+		<text id="virtualfolder.sharedwithme" h="8B65307E">Совместно со мной</text>
+		<text id="cpt.unableToSaveToVirtualFolder" h="778EF99A">Невозможно сохранить файл в папку</text>
+		<text id="msg.unableToSaveToVirtualFolder" h="A6644426">Файл невозможно сохранить в выбранное место. Выберите папку 'My Drive', потом одну из подпапок или одну из подпапок в "Совместно со мной" и сохраните файл.</text>
+	</Strings>
+</Localization>

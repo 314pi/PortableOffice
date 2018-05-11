@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220831">2.00.00</Version>
+	<Author>Markus Konsa, support@PDF-XChange.se, +46(0)31-3121100</Author>
+	<Copyright>PDF-XChange Sverige, +46(0)31-312 11 00
+https://pdf-xchange.se, 
+Tracker Software Products(Canada+UK) reg. partner.</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Swedish (Sweden)" lName="svenska" code="sv-SE" R2L="false"/>
+	<Module name="BookmarksPlugin" namespace="bp" version="6.0.322.7"/>
+	<Strings>
+		<text id="DlgAddExcludedWords" h="BED549D0">Lägg till nytt undantaget ord</text>
+		<text id="DlgAddTextToBookmark" h="E5B26485">Lägg till text i bokmärkestitel</text>
+		<text id="DlgAutoGenerateBookmarks.Title" h="0E85373B">Generera bokmärke från sidtext</text>
+		<text id="DlgBookmarkAppearance" h="7544DDCE">Resultatutseende</text>
+		<text id="DlgBookmarkEveryNthPage" h="B6869582">Bokmärk var X:e sida</text>
+		<text id="DlgBookmarkLevelDescription" h="186C1D0A">Textmatchning</text>
+		<text id="DlgBookmarkPropSheet" h="862C67E7">Egenskaper för bokmärkesgenerering</text>
+		<text id="DlgBookmarkTitleFormatting" h="A87502C2">Titelformatering</text>
+		<text id="DlgBookmarksToNamedDests" h="8A0957E5">Konvertera till namngivna destinationer/plats - ändamål</text>
+		<text id="DlgBookmarksToTextFile" h="29F18B82">Exportera bokmärken till textfil</text>
+		<text id="DlgChangeBookmarkCase" h="4D74C7D9">Ändra skiftläge</text>
+		<text id="DlgEditStopWords" h="911413E7">Redigera stoppord</text>
+		<text id="DlgFindReplaceBookmarkText" h="733A7FC1">Sök och ersätt bokmärkestext</text>
+		<text id="DlgFontNames" h="3C8B1F88">Välj teckensnittsnamn</text>
+		<text id="DlgFromTOC" h="AC2ED85C">Bokmärkesförteckning</text>
+		<text id="DlgFromTOCIndentation" h="12688622">Ändra indrag</text>
+		<text id="DlgFromTextFile" h="B3799046">Generera bokmärken från textfil</text>
+		<text id="DlgNamedDestsToPageNumbers" h="9CAE5E39">Konvertera namngivna destinationer till vanliga/regelbunda</text>
+		<text id="DlgSheetBttfBookmarkProps" h="4B2F0AA2">Bokmärkesegenskaper</text>
+		<text id="DlgSheetBttfSelectBookmarks" h="30673BCD">Allmänt</text>
+		<text id="DlgSortBookmarks" h="8339BB6C">Sortera bokmärken</text>
+		<text id="DlgToTOC" h="2B3E9BF1">Skapa bokmärkesförteckning</text>
+		<text id="DlgValidateBookmarks" h="0CD39971">Validera bokmärken</text>
+		<text id="atb.btn.Macroses" h="81734E4F">Mac</text>
+		<text id="atb.chb.IncludeChildren" h="0AC4CB2B">Inkudera alla undernivåer</text>
+		<text id="atb.chb.ProcessAllLevels" h="26C3B2DF">Bearbeta alla bokmärkesnivåer</text>
+		<text id="atb.chb.RemoveSpaces" h="ABDEA5BC">Ta bort överflödiga blanksteg från ursprunglig bokmärkestitel</text>
+		<text id="atb.gb.AddText" h="E21C9B55">Lägg till text</text>
+		<text id="atb.gb.Levels" h="8A668489">Välj bokmärkesnivåer att bearbeta</text>
+		<text id="atb.gb.SelectSource" h="1E2E96A4">Välj bokmärkeskälla</text>
+		<text id="atb.lbl.BookmarkTitle" h="2DC1254E">"Bokmärkestitel"</text>
+		<text id="atb.lbl.Prefix" h="A51A4726">Lägg till prefix i bokmärkestitel:</text>
+		<text id="atb.lbl.SelectLevel" h="D1263889">Välj nivå att bearbeta:</text>
+		<text id="atb.lbl.Suffix" h="C27741D5">Lägg till suffix i bokmärkestitel:</text>
+		<text id="atb.lbl.UseBookmarksFrom" h="E770326C">Använd bokmärken:</text>
+		<text id="ba.chb.expand" h="BBA3BD8A">Visa expanderat (visa alla undernivåer)</text>
+		<text id="ba.l.expl" h="EE297184">Välj visuellt utseende för färdiga bokmärken:</text>
+		<text id="ba.l.textStyle" h="8D5CA9B5">Textstil:</text>
+		<text id="benp.Gb.Main" h="4B2F0AA2">Bokmärkesegenskaper</text>
+		<text id="benp.Label.TitleTemplate" h="5E999567">Titelmall för bokmärke:</text>
+		<text id="benp.Label1.SelectN" h="8626E4EA">Bokmärk varje</text>
+		<text id="benp.Label2.SelectN" h="6270721D">sida i valt sidintervall</text>
+		<text id="benp.infoBtn.invalidMacro" h="1561C0F2">Strängen innehåller odefinierat macronamn som kommer att ignoreras</text>
+		<text id="bft.l.actionSeparator" h="5C05CE1E">Avgränsare för åtgärdsparameter:</text>
+		<text id="bft.l.separator" h="A4269065">Fältavgränsare:</text>
+		<text id="bld.btn.selStyle" h="EE213BC5">Hämta stilen från markerad text</text>
+		<text id="bld.chb.fontNames" h="AB457B23">Teckensnitt:</text>
+		<text id="bld.chb.limitToPattern" h="7F0826AB">Begränsa bokmärkestitlar till endast mönstermatchning</text>
+		<text id="bld.chb.matchTextPattern" h="5A64E195">Matcha textmönster:</text>
+		<text id="bld.chb.multilineBookmarks" h="CB4817D1">Tillåt flera bokmärkestitlar</text>
+		<text id="bld.g.textContentRules" h="5B364747">Innehållsregler för text</text>
+		<text id="bld.l.description" h="2F770A5B">Kombinera följande textfunktioner för att automatiskt skapa bokmärken från dokumentet:</text>
+		<text id="bld.l.matchTextCase" h="43616BDA">Matcha skiftläge:</text>
+		<text id="bld.matchTextCase.allCapital" h="D4E8E731">Alla tecken är versaler</text>
+		<text id="bld.matchTextCase.firstCapital" h="CAA2E79D">Första tecknet är stor bokstav</text>
+		<text id="bld.matchTextCase.firstDigit" h="42E73545">Första tecknet är siffra</text>
+		<text id="bld.matchTextCase.noRestrictions" h="93089981">Inga begränsningar</text>
+		<text id="bnd.gb.Main" h="4DDA9780">Namngiven destinationstitel</text>
+		<text id="bnd.lbl.NDTitle" h="7F7F73EC">Destinationstitel kommer att skapas med hjälp av angivet mönster:</text>
+		<text id="btf.chb.insertAfter" h="DD7B743E">Lägg till denna text efter varje titel:</text>
+		<text id="btf.chb.insertBefore" h="CBDD1CF8">Infoga denna text före varje titel:</text>
+		<text id="btf.chb.removeDuplicateSpaces" h="2653A648">Ta bort duplicerade blanksteg</text>
+		<text id="btf.chb.replaceLineBreaks" h="0C51EEEB">Ersätt radbrytningar med mellanslag</text>
+		<text id="btf.chb.replaceTitle" h="097EF3C2">Sök och ersätt bokmärkestitlar med textmönster</text>
+		<text id="btf.g.advancedFormatting" h="9130441A">Avancerad formatering</text>
+		<text id="btf.g.textCase" h="97FCC959">Skiftläge</text>
+		<text id="btf.l.characters" h="189C88D2">(tecken)</text>
+		<text id="btf.l.expl" h="169A084A">Välj de textegenskaper som skall tillämpas på nya bokmärkestitlar:</text>
+		<text id="btf.l.leadingNumbers" h="074A1A51">Inledande siffror:</text>
+		<text id="btf.l.maxLength" h="A52EC501">Maximal titellängd:</text>
+		<text id="btf.l.replacePattern" h="B54B1F92">Ersätt med:</text>
+		<text id="btf.l.searchPattern" h="E87DDC08">Sök mönster:</text>
+		<text id="btf.l.use" h="46DEA47A">Använd:</text>
+		<text id="btf.leadingNumbers.noChange" h="3399B0A0">Ingen ändring</text>
+		<text id="btf.rb.doNotChange" h="4CBF2C1B">Ändra inte</text>
+		<text id="btf.rb.lowercase" h="82451817">gemener</text>
+		<text id="btf.rb.sentenceCase" h="B26B2798">Inledande versal i varje mening</text>
+		<text id="btf.rb.titleCase" h="2C8DBF1B">Inledande versal i varje ord</text>
+		<text id="btf.rb.uppercase" h="42F820C7">VERSALER</text>
+		<text id="btf.use.letters" h="6EE7E478">Bokstäver</text>
+		<text id="btf.use.numbers" h="E2FE5FA7">Siffror</text>
+		<text id="btf.use.romanLetters" h="290A50ED">Romerska siffror</text>
+		<text id="btn.add.custom" h="3080663C">Lägg till anpassat...</text>
+		<text id="btn.highlight" h="2485FBFF">Belys bokmärke</text>
+		<text id="btn.validate" h="1E91E484">Validera</text>
+		<text id="cbc.aew.label" h="7EC386C0">Lägg till nya undantagna ord. Ett ord per rad + "Retur":</text>
+		<text id="cbc.cb.fromBookmarks" h="CF38CD8D">Markerat</text>
+		<text id="cbc.cb.fromDocument" h="424CAFC5">Alla bokmärken</text>
+		<text id="cbc.chb.EnterCustomWordList" h="EB8ACE1B">Ange en lista med ord som inte skall bearbetas</text>
+		<text id="cbc.chb.IncludeChildrenBookmarks" h="051C6219">Inkludera alla underordnade bokmärken</text>
+		<text id="cbc.gb.SelectTextCase" h="F9747FC0">Välj skiftläge</text>
+		<text id="cbc.gb.TextCaseOptions" h="DAD7B4F4">Alternativ</text>
+		<text id="cbc.list.header" h="647D6FC4">Undantagna ord</text>
+		<text id="cbc.rbtn.LowerCase" h="82451817">gemener</text>
+		<text id="cbc.rbtn.SentenceCase" h="B26B2798">Inledande versal/mening</text>
+		<text id="cbc.rbtn.TitleCase" h="2C8DBF1B">Inledande versal/ord</text>
+		<text id="cbc.rbtn.UpperCase" h="42F820C7">VERSALER</text>
+		<text id="chb.ignoreDuplicates" h="B30FC50E">Undanta dubblettbokmärken i följd</text>
+		<text id="chb.stopWords" h="491ED7FC">Undanta text som innehåller stoppord</text>
+		<text id="chb.verifyLinks" h="7A46B598">Verifiera länkar till externa dokument och filer</text>
+		<text id="chb.warnGoTo" h="911FC68A">Varna vid ogiltig GoTo-åtgärd</text>
+		<text id="chb.warnGoToRE" h="C0827D11">Varna om ogiltiga GoToR- och GoToE-åtgärder</text>
+		<text id="chb.warnLaunchURI" h="94F27C09">Varna om ogiltiga start- och URI-åtgärder</text>
+		<text id="chb.warnNoActions" h="FBF997CF">Varna vid tom åtgärdslista eller ingen giltig undernivå</text>
+		<text id="chb.warnNoGoTo" h="66B02339">Varna vid frånvaro av GoTo-åtgärd i åtgärdslistan</text>
+		<text id="chb.warnOther" h="B30D6C64">Varna om andra ogiltiga åtgärder</text>
+		<text id="chb.warnTitle" h="F0B5EE52">Varna vid tom titel</text>
+		<text id="cmd.addAGBLevel" h="928E2BB5">Använd vald textstil vid bokmärkesgenerering...</text>
+		<text id="cmd.addTextToBookmarkTitle" h="C4C93738">Lägg till text till bokmärkestitel...</text>
+		<text id="cmd.addTextToBookmarkTitle.short" h="E21C9B55">Lägg till text</text>
+		<text id="cmd.addTextToBookmarkTitle.tip" h="B412507B">Lägger till prefix och suffix till bokmärket</text>
+		<text id="cmd.changeBookmarkCase" h="359544B0">Ändra skiftläge...</text>
+		<text id="cmd.changeBookmarkCase.short" h="BC4AE60A">Ändra skiftläge</text>
+		<text id="cmd.changeBookmarkCase.tip" h="48522DE3">Ändra skiftläge för bokmärkens titlar</text>
+		<text id="cmd.findReplaceBookmarkText" h="AF996007">Sök och ersätt bokmärkestext...</text>
+		<text id="cmd.findReplaceBookmarkText.short" h="9F35A871">Hitta och ersätt</text>
+		<text id="cmd.findReplaceBookmarkText.tip" h="7ED81F66">Hitta och ersätt textelement i bokmärkes titlar</text>
+		<text id="cmd.sort" h="B1FFF012">Sortera bokmärken...</text>
+		<text id="cmd.sort.short" h="579162B0">Sortera</text>
+		<text id="cmd.sort.tip" h="90B74C06">Sorterar bokmärkena enligt angivna kriterier</text>
+		<text id="cmd.validate" h="E61D60D2">Validera bokmärken...</text>
+		<text id="cmd.validate.short" h="1E91E484">Validera</text>
+		<text id="cmd.validate.tip" h="AF7C0DD0">Kontrollera bokmärken för giltighet enligt angivna kriterier</text>
+		<text id="cmd.toTOC" h="9B7AEEEA">Skapa bokmärkesförteckning...</text>
+		<text id="cmd.toTOC.short" h="2B3E9BF1">Skapa innehållsförteckning</text>
+		<text id="cmd.toTOC.tip" h="E92DA1A8">Skapar en innehållsförteckning baserat på bokmärkesstrukturen och sidorna som de pekar på.</text>
+		<text id="cmd.bookmarksToNamedDests" h="9A9E5CF2">Konvertera till namngivna destinationer...</text>
+		<text id="cmd.bookmarksToNamedDests.short" h="9226CE11">Konvertera till namngiven destination.</text>
+		<text id="cmd.bookmarksToNamedDests.tip" h="76CA39A1">Konvertera vanliga destinationer i bokmärkes handlingarlistor till de namngivna destinationerna. När sidorna flyttas eller raderas markerar bokmärkenna samma sidor som tidigare.</text>
+		<text id="cmd.bookmarksToTextFile" h="DBEBEEB8">Exportera bokmärken till textfil...</text>
+		<text id="cmd.bookmarksToTextFile.short" h="738D44A8">Exportera till textfil</text>
+		<text id="cmd.bookmarksToTextFile.tip" h="2F1DD236">Spara bokmärkes strukturen som en textfil.</text>
+		<text id="cmd.bookmarksToHtmlFile" h="EFF75744">Exportera bokmäken till HTML-fil...</text>
+		<text id="cmd.bookmarksToHtmlFile.short" h="76C20816">Exportera till HTML</text>
+		<text id="cmd.bookmarksToHtmlFile.tip" h="8968844D">Spara bokmärkesstrukturen som en HTML-fil</text>
+		<text id="cmd.namedDestsToPageNumbers" h="3A651CA9">Konvertera namngivna destinationer till vanliga destinationer...</text>
+		<text id="cmd.namedDestsToPageNumbers.short" h="74C22304">Namngiven destination till vanlig/regelbunden</text>
+		<text id="cmd.namedDestsToPageNumbers.tip" h="2ABF8034">Konverterar namngiven destination i bokmärkeshandlingslistan till vanliga destinationer. Då sidorna flyttas eller raderas kommer bokmärkena att peka på sidor där de motsvarar destinationssidans sidnummer.</text>
+		<text id="cmd.bookmarkEveryNthPage" h="940FCD39">Bokmärk var X:e sida...</text>
+		<text id="cmd.bookmarkEveryNthPage.short" h="71BCE832">Bokmärke Varje N: e sida</text>
+		<text id="cmd.bookmarkEveryNthPage.tip" h="B60E23D7">Skapa bokmärken i förhållande till dokument sidnummer</text>
+		<text id="cmd.generate" h="2147DF79">Generera bokmärken från sidtext...</text>
+		<text id="cmd.generate.short" h="8BE514A6">Från Sid Text</text>
+		<text id="cmd.generate.tip" h="2A03253C">Skapa bookmärken från nuvarande dokuments text genom att använda befintlig/tillgänglig font stil och parametrar</text>
+		<text id="cmd.fromTOC" h="D15400EB">Bokmärkesförteckning...</text>
+		<text id="cmd.fromTOC.short" h="3AB39C50">Från innehållsförteckning</text>
+		<text id="cmd.fromTOC.tip" h="D4170828">Skapa bokmärken från existerande innehållsförteckning. Innehållsförteckningen måste först bli vald genom att välja Text Verktyget för denna funktion.</text>
+		<text id="cmd.fromTextFile" h="55CA46BC">Generera bokmärken från textfil...</text>
+		<text id="cmd.fromTextFile.short" h="3619B3DB">Från Textfil</text>
+		<text id="cmd.fromTextFile.tip" h="11167525">Skapa bookmärken från textfil. NOTERA: Textfilens dataformat ska vara samma som "Export av Bookmärken till text fil" detalj regler</text>
+		<text id="cmd.name" h="E2032460">Bokmärken</text>
+		<text id="cmd.macro.firstLine" h="613F14A5">Sidans första textrad</text>
+		<text id="cmd.macro.hierIndex" h="7DCA5F4D">Hierakiskt index</text>
+		<text id="cmd.macro.hierTitle" h="0E7B4B6F">Hierarkisk bokmärkestitel</text>
+		<text id="cmd.macro.indexInParent" h="1B41AFB1">Index i överordnad</text>
+		<text id="cmd.macro.label" h="EEE40FF3">Sidetikett</text>
+		<text id="cmd.macro.launch" h="87D9EB8D">Fil att öppna</text>
+		<text id="cmd.macro.level" h="B863033F">Bokmärkesnivå</text>
+		<text id="cmd.macro.namedDest" h="C4E8D8F5">Namngiven destination</text>
+		<text id="cmd.macro.sequentialNum" h="CDF4EA5E">Löpnummer</text>
+		<text id="cmd.macro.title" h="3AB782A4">Bokmärkestitel</text>
+		<text id="cmd.macro.uri" h="6C21F7EF">Webblänk att öppna</text>
+		<text id="ebttf.actType.all" h="B8B21253">Bokmärken med alla typer av hyperlänksåtgärder</text>
+		<text id="ebttf.actType.goto" h="05B4C93C">Bokmärken med GoTo-åtgärder</text>
+		<text id="ebttf.actType.gotoR" h="41E1955E">Bokmärken med GoTo-fjärråtgärder</text>
+		<text id="ebttf.actType.js" h="07676EBA">Bokmärken med JavaScript-åtgärder</text>
+		<text id="ebttf.actType.launch" h="38537D36">Bokmärken med filöppningsåtgärder</text>
+		<text id="ebttf.actType.uri" h="F39B51AE">Bokmärken med "open web link" åtgärder</text>
+		<text id="ebttf.cb.separator.comma" h="827998F7">Komma</text>
+		<text id="ebttf.cb.separator.semi" h="988594A6">Semikolon</text>
+		<text id="ebttf.ch.doNotEscape" h="09B53F9F">Undanta inte tjänst-/servicesymboler som @ # { }  : etc.</text>
+		<text id="ebttf.ch.expClosedState" h="46E4EC7E">Exportera bokmärke i "stängt" tillstånd</text>
+		<text id="ebttf.ch.expDetailedGotoDescr" h="18B9C243">Exportera detaljerad destinationsbeskrivning</text>
+		<text id="ebttf.ch.exportActions" h="3444FE51">Exportera bokmärkesåtgärder</text>
+		<text id="ebttf.ch.exportGoto" h="37493654">Exportera sidan som bokmärket pekar mot</text>
+		<text id="ebttf.ch.exportGotoR" h="92C06BA6">Exportera beskrivning av 'fjärrdestinationsåtgärder'</text>
+		<text id="ebttf.ch.exportJS" h="9362EAE3">Exportera JavaScript åtgärdskod</text>
+		<text id="ebttf.ch.exportLaunch" h="1B39BF89">Exportera beskrivning av 'Öppna Fil Åtgärder'</text>
+		<text id="ebttf.ch.exportStyle" h="A6713F10">Exportera bokmärkes textstil och färgegenskaper</text>
+		<text id="ebttf.ch.exportWebLinks" h="3C61424C">Exportera webblänkar</text>
+		<text id="ebttf.ch.includeSubBookmarks" h="051C6219">Inkludera alla underordnade bokmärken</text>
+		<text id="ebttf.ch.openContFolder" h="80BDDAAC">Öppna målmappen</text>
+		<text id="ebttf.ch.overwriteExistingFiles" h="29981774">Skriv över befintliga filer</text>
+		<text id="ebttf.ch.resloveNamedDests" h="D1E8A9BC">Ersätt namngivna destinationer med sidnummer</text>
+		<text id="ebttf.gb.actionExportParams" h="DA853D34">Välj bokmärkesegenskaper att exportera</text>
+		<text id="ebttf.gb.savingResults" h="49571A59">Utdataparametrar</text>
+		<text id="ebttf.gb.selectBookmarks" h="E2AFC2C6">Välj bokmärken att exportera</text>
+		<text id="ebttf.infoBtn.doNotEscape" h="93A6DD6C">Att inte undanta tjänst-/servicesymboler, rekommenderas inte om du vill använda funktionen "Generera bokmärken från textfil" för utdatafiler.</text>
+		<text id="ebttf.infoBtn.invalidSeparator" h="44875D1F">Avgränsare kan inte vara en tom sträng, inte innehålla alfanumeriska tecken eller blanksteg och får inte vara ett av följande tecken... @ # : { } </text>
+		<text id="ebttf.lbl.folder" h="3F9ED2F9">Mapp:</text>
+		<text id="ebttf.lbl.separator" h="E9D351AC">Egenskapsavgränsare:</text>
+		<text id="ebttf.rb.exportActionTypes" h="533F8EA6">Exportera bokmärken som utför hyperlänksåtgärder:</text>
+		<text id="ebttf.rb.exportAll" h="8F2ED544">Exportera allt</text>
+		<text id="ebttf.rb.exportSelected" h="69FB5145">Exportera valda bokmärken</text>
+		<text id="ebttf.rb.useDefaultFilename" h="0E7FC989">Använd PDF-dokumentets filnamn för att spara resultat</text>
+		<text id="esw.chb.matchCase" h="2E5EFD7E">Matcha skiftläge</text>
+		<text id="esw.chb.matchWhole" h="17009870">Matcha hela ord</text>
+		<text id="esw.chb.useRegExp" h="7FC6EB4F">Använd RegularExpressions</text>
+		<text id="esw.l.explanation" h="2C312B17">Text med dessa stopp-ord undantages/används inte i bokmärken.</text>
+		<text id="fn.l.selectFontNames" h="0CCEF1FA">Välj teckensnitt:</text>
+		<text id="frbt.chb.MatchCase" h="12EB8088">Skiftlägeskänsligt</text>
+		<text id="frbt.chb.MatchWholeWord" h="FE8CC762">Matcha hela ord</text>
+		<text id="frbt.chb.UseRegex" h="7FC6EB4F">Använd RegularExpressions</text>
+		<text id="frbt.gb.FindReplace" h="BA012728">Alternativ för sök och ersätt</text>
+		<text id="frbt.lbl.FindWhat" h="D0A8A2C5">Sök vad:</text>
+		<text id="frbt.lbl.ReplaceWith" h="3BE65784">Ersätt med:</text>
+		<text id="ftoc.allIncluded" h="C994FC1B">Inkludera alla</text>
+		<text id="ftoc.b.indents" h="48800D32">Ändra sidförskjutning...             </text>
+		<text id="ftoc.chb.addBookmarks" h="CBBAE768">Lägg till bokmärken till sidor med hjälp av bokmärkesförteckningen</text>
+		<text id="ftoc.chb.addLinks" h="68456DBA">Lägg till länkar till poster i bokmärkesförteckningen</text>
+		<text id="ftoc.chb.createLevels" h="58CF083A">Använd TOC-streck för att skapa bokmärkeshierarki </text>
+		<text id="ftoc.chb.improveDest" h="417AD7B0">Försök förbättra bokmärkesdestinationer baserat på text</text>
+		<text id="ftoc.chb.trimNumbers" h="40ACC5F5">Ta bort prefixnummer från bokmärkestitlar</text>
+		<text id="ftoc.chb.trimSpaces" h="5A27A063">Ta bort på varandra följande blanksteg från bokmärkestitlar</text>
+		<text id="ftoc.chb.useExistingLinks" h="E214DBE7">Använd befintliga länkar som nya bokmärkesdestinationer</text>
+		<text id="ftoc.l.bottomIndent" h="C983AD6F">Undre indrag:</text>
+		<text id="ftoc.l.expl" h="1FAB779E">Lägg till bokmärken till sidor som ni markerat i bokmärkesförteckningen+ nya/bef. länkar</text>
+		<text id="ftoc.l.offsetExpl" h="9D6C25F6">Skillnad sidnummer i PDF resp. i skrivare</text>
+		<text id="ftoc.l.pageOffset" h="9E563407">Sidförskjutning</text>
+		<text id="ftoc.l.separator" h="45CF4893">Välj separatortyp:</text>
+		<text id="ftoc.l.topIndent" h="FA827580">Övre indrag:</text>
+		<text id="msg.bft.warning" h="726201E6">Välj olika tecken för fältavgränsare och åtgärdsseparator!</text>
+		<text id="msg.cbc.excludedwords.add.title" h="9ADE883B">Lägg till nytt undantaget ord</text>
+		<text id="msg.cbc.excludedwords.caption" h="6B29D4B4">Ange undantaget ord:</text>
+		<text id="msg.cbc.excludedwords.edit.title" h="82F8AAA6">Redigera markerat undantaget ord</text>
+		<text id="msg.dlg.bookmarksToTextFile.done" h="8E1397E9">Bokmärken exporterades till fil.</text>
+		<text id="msg.dlg.emptyFilename.warning" h="96A438DA">Filnamnet kan inte vara tomt.</text>
+		<text id="msg.dlg.invalidFilename.slashes" h="626318B0">Filnamnet får inte innehålla tecknen  eller /  i följd, inte heller sluta med något av dem.</text>
+		<text id="msg.dlg.invalidFilename.warning" h="46CD566C">Windows förbjuder filnamn innehålla följande tecken: * ? : | " &lt; &gt;</text>
+		<text id="msg.dlg.noActionsSelected.warning" h="933F1901">"Exportera bokmärkesåtgärder" har markerats utan att någon åtgärdstyp har specificerats. Välj en eller fler åtgärdstyper att exportera, eller avmarkera "Exportera bokmärkesåtgärder".</text>
+		<text id="msg.dlg.noSelectedBookmarks.warning" h="21F37C67">Du har inte valt något bokmärke i ett dokument. Välj ett eller flera bokmärken eller ändra parametern "Bokmärkeskälla" till "Alla bokmärken" för att utföra åtgärden.</text>
+		<text id="msg.dlg.pathDoesntExist.warning" h="0804B942">Mappen du har specificerat finns inte. Välj en giltig målmapp och försök igen.</text>
+		<text id="msg.font.addCustom.caption" h="75533687">Ange nytt PDF-teckensnitt:</text>
+		<text id="msg.font.addCustom.title" h="06AFFCAB">Lägg till nytt anpassat teckensnitt</text>
+		<text id="msg.frbt.result.bookmarksCount" h="EE00AC0B">Sökningen är slutförd. Antal ändrade bokmärken: %1</text>
+		<text id="msg.frbt.result.noBookmarksModified" h="84BE491B">Sökningen är slutförd. Inga bokmärken ändrades.</text>
+		<text id="msg.levelDesc.title" h="E92EACC5">Nivåspecifikationer</text>
+		<text id="msg.levelDesc.warning" h="86A85979">Det är inte möjligt att skapa ny bokmärkesnivå med angiven data. Välj åtminstone ett matchande kriteria i textmatchningsalternativen. Kontrollera också att valda element innehåller data.</text>
+		<text id="msg.oper.noChanges" h="5777DD79">Inga egentliga ändringar gjordes när åtgärden utfördes. Kontrollera din indata och försök igen.</text>
+		<text id="msg.oper.warning" h="ABDCBB65">Det uppstod något problem med den här åtgärden. Kontrollera resultatet.</text>
+		<text id="msg.regex.error" h="D799FCBE">RegEx-tolkningsfel</text>
+		<text id="msg.stopWords.add.title" h="F6B54725">Lägg till ny stoppfras</text>
+		<text id="msg.stopWords.caption" h="E2BC1B9E">Ange "Stopp-ord" eller "Stopp-fras":</text>
+		<text id="msg.stopWords.edit.title" h="AFE604DF">Redigera markerad stoppfras</text>
+		<text id="msg.validateBookmarks.delete.caption" h="ED4457F4">Vil du ta bort markerade bokmärken och undernivåer?</text>
+		<text id="msg.validateBookmarks.delete.title" h="8FF00765">Ta bort ogiltigt bokmärke</text>
+		<text id="msg.validateBookmarks.rename.caption" h="CE842D61">Ange nytt bokmärkesnamn:</text>
+		<text id="msg.validateBookmarks.rename.title" h="ED9AF7FA">Byt namn på bokmärke</text>
+		<text id="ndpn.ch.deleteDests" h="BC12FBF0">Ta bort konverterade namngivna destinationer från dokument</text>
+		<text id="op.GenerateBookmarks" h="05382BCA">Generera bokmärken</text>
+		<text id="op.ValidateBookmarks.msg.emptyActionsList" h="A0A0065C">Bokmärket har inga åtgärder knutna till sig.</text>
+		<text id="op.ValidateBookmarks.msg.emptyTitle" h="83F3E965">Bokmärkestiteln är tom.</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidDestName" h="81A40483">GoTo-åtgärden hänvisar till en ogiltig namngiven destination.</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidPageNumber" h="C8941D79">GoTo-åtgärden hänvisar till en sida som inte kan nås.</text>
+		<text id="op.ValidateBookmarks.msg.goto.noAction" h="368F0970">Det finns ingen GoTo-åtgärd i åtgärdslistan.</text>
+		<text id="op.ValidateBookmarks.msg.gotoE.invalidTargetPath" h="9D8A50F1">Målsökvägen är tom eller frånvarande i åtgärden GoToE.</text>
+		<text id="op.ValidateBookmarks.msg.gotoR.invalidFile" h="76CCA61D">GoTo-åtgärden hänvisar till en ogiltig fil.</text>
+		<text id="op.ValidateBookmarks.msg.gotoR.invalidPath" h="560614BE">Sökvägen till filen är ogiltig.</text>
+		<text id="op.ValidateBookmarks.msg.invalidAction" h="84877FDA">%1 åtgärd är ogiltig</text>
+		<text id="progress.BookmarkEveryNthPage.title" h="DA523087">Bokmärker sidor...</text>
+		<text id="progress.addTextToBookmarkTitle.text" h="BE27C5C9">Lägger till text till bokmärke: %1...</text>
+		<text id="progress.addTextToBookmarkTitle.title" h="EC7EB408">Lägger till text till bokmärken...</text>
+		<text id="progress.addingBookmark" h="45BBB17E">Lägger till bokmärken: %1 av %2...</text>
+		<text id="progress.bookmarksToHtmlFile.status" h="AF1901AD">Exporterar bokmärke %1 av %2...</text>
+		<text id="progress.bookmarksToHtmlFile.text" h="4DD531FF">Exporterar bokmärke: %1...</text>
+		<text id="progress.bookmarksToHtmlFile.title" h="E1D21FEE">Exporterar bokmärken till HTML-fil...</text>
+		<text id="progress.bookmarksToNamedDests.text" h="CE73819F">Konverterar bokmärke: %1...</text>
+		<text id="progress.bookmarksToNamedDests.title" h="8DB00717">Konverterar till namngivna destinationer...</text>
+		<text id="progress.bookmarksToTextFile.text" h="6E74EA26">Bearbetar bokmärke för export: %1</text>
+		<text id="progress.bookmarksToTextFile.title" h="D2C04472">Exporterar bokmärken till textfil...</text>
+		<text id="progress.calculatingBookmarks" h="4AC26E12">Räknar bokmärken...</text>
+		<text id="progress.changingBookmarkCase.text" h="107628CA">Ändrar skiftläge: %1...</text>
+		<text id="progress.changingBookmarkCase.title" h="E01AED17">Ändrar skiftläge...</text>
+		<text id="progress.findReplaceBookmarkText.text" h="ABC58F1D">Bearbetar bokmärke: %1</text>
+		<text id="progress.findReplaceBookmarkText.title" h="00FEBD2A">Ersätter bokmärkestext...</text>
+		<text id="progress.generateBookmarks" h="3D5E30ED">Genererar bokmärken från sidan %1...</text>
+		<text id="progress.generatingBookmarks" h="CFF0F2A9">Genererar bokmärken</text>
+		<text id="progress.generatingBookmarks.label" h="043CF7B1">Lägger till bokmärke: %1...</text>
+		<text id="progress.generatingLevels" h="07A22443">Genererar nivåer från bokmärken...</text>
+		<text id="progress.generatingTOC" h="A438CB9C">Genererar bokmärkesförteckning</text>
+		<text id="progress.generatingTOCFromBookmark" h="C9213435">Genererar innehåll från bokmärke: %1...</text>
+		<text id="progress.namedDestsToPageNumbers.deleteNds" h="5DFFFF06">Tar bort namngivna destinationer...</text>
+		<text id="progress.namedDestsToPageNumbers.title" h="4615CB0B">Konverterar namngivna destinationer till sidnummer...</text>
+		<text id="progress.parsingFile" h="B2405DA1">Läser bokmärkesstruktur från textfilen...</text>
+		<text id="progress.precalculatingPages" h="DB83BEF7">Skapar sidor för bokmärkesförteckning...</text>
+		<text id="progress.preparingSelected" h="52031EDE">Förbereder valda bokmärken...</text>
+		<text id="progress.sortingBookmarks" h="99E846CF">Sorterar bokmärke: %1...</text>
+		<text id="progress.sortingBookmarks.status" h="451C3890">Sorterar bokmärke %1 av %2...</text>
+		<text id="progress.sortingBookmarks.title" h="E134B46E">Sorterar bokmärken</text>
+		<text id="progress.statusText.ProcessingBookmarks" h="3836AD6B">Bearbetar bokmärke %1 av %2...</text>
+		<text id="progress.statusText.ProcessingBookmarksDone" h="67CB6C48">Bokmärkesbearbetning slutförd.</text>
+		<text id="progress.undoingChanges" h="BBD3EE96">Rullar tillbaka ändringar...</text>
+		<text id="regex.error.backref" h="3D1C1BE5">Uttrycket innehöll en ogiltig bakåtreferens.</text>
+		<text id="regex.error.badbrace" h="4363EA7D">Uttrycket innehöll ett ogiltigt intervall mellan klammerparenteser: '{' och '}'.</text>
+		<text id="regex.error.badrepeat" h="9091944F">Uttrycket innehöll en upprepningsspecificerare (en av *?+{) som inte föregicks av ett giltigt RegularExpression.</text>
+		<text id="regex.error.brace" h="3031B0A1">Uttrycket innehöll felmatchade klammerparanteser: '{' och '}'.</text>
+		<text id="regex.error.brack" h="A41AB311">Uttrycket innehöll felmatchade parenteser: '[' och ']'.</text>
+		<text id="regex.error.collate" h="D15FB49F">Uttrycket innehöll ett ogiltigt sammanställningselement.</text>
+		<text id="regex.error.complexity" h="76ADCA5C">Komplexiteten hos ett matchningsförsök mot en RegularExpression överskred en förutbestämd nivå.</text>
+		<text id="regex.error.ctype" h="76D6C176">Uttrycket innehöll ett ogiltigt teckenklassnamn.</text>
+		<text id="regex.error.default" h="509A660E">Ett fel uppstod när RegEx-indata bearbetades.</text>
+		<text id="regex.error.escape" h="4BAF1552">Uttrycket innehöll ett ogiltigt undantaget tecken, eller ett efterföljande undantag.</text>
+		<text id="regex.error.paren" h="11F2EE54">Uttrycket innehöll felmatchade paranteser: '(' och ')'.</text>
+		<text id="regex.error.range" h="CDB00023">Uttrycket innehöll ett ogiltigt teckenintervall (ex. [z-a])</text>
+		<text id="regex.error.space" h="2FFB9DD7">Det fanns inte tillräckligt med minnesutrymme för att hantera den här RegEx-strängen.</text>
+		<text id="regex.error.stack" h="2F47E3EC">Det fanns inte tillräckligt med minnesutrymme för att avgöra om RegEx-strängen kunde matcha den specificerade teckensekvensen.</text>
+		<text id="regex.error.syntax" h="4F399035">Det finns ett fel i RegEx syntax</text>
+		<text id="sb.ascending" h="59F2363F">Stigande</text>
+		<text id="sb.chb.ignoreCase" h="E0949C6C">Ignorera skiftläge</text>
+		<text id="sb.chb.sortAll" h="7BB3E98C">Sortera alla bokmärkesnivåer</text>
+		<text id="sb.chb.sortChildren" h="B1087C90">Sortera underordnade bokmärken</text>
+		<text id="sb.descending" h="74091246">Fallande</text>
+		<text id="sb.g.sortingMethod" h="93D0D863">Sorteringsmetod</text>
+		<text id="sb.l.selectLevel" h="62FA8E9C">Välj bokmärkesnivå för sortering:</text>
+		<text id="sb.l.sortType" h="85828DAE">Sorteringstyp:</text>
+		<text id="sb.rb.sortAlpha" h="F9CD110C">Sortera bokmärken alfabetiskt</text>
+		<text id="sb.rb.sortByPage" h="EB2AF7E4">Sortera bokmärken med hänvisning till sidnummer</text>
+		<text id="test" h="A538F326">Teststräng</text>
+		<text id="tree.fontColor" h="210B1C91">Textfärg:</text>
+		<text id="tree.fontName" h="ACA86074">Teckensnitt:</text>
+		<text id="tree.fontSize" h="B3CE43BA">Teckenstorlek:</text>
+		<text id="tree.fontTolerance" h="7781AAB6">Tolerans:</text>
+		<text id="tree.level" h="9B075A86">Nivå:</text>
+		<text id="tree.textPattern" h="24121AD7">Textmönster:</text>
+		<text id="tree.vb.bookmark" h="9926EC31">&lt;b&gt;%1. Bokmärk:&lt;/b&gt; "%2"</text>
+		<text id="ttoc.b.build" h="DE9A0F1C">Skapa</text>
+		<text id="ttoc.b.changeNumber" h="DD04BEA8">Ändra format...</text>
+		<text id="ttoc.b.changeTitle" h="3B951B9A">Ändra titelformat...</text>
+		<text id="ttoc.chb.asLastPage" h="D323F9DD">Som sista sida</text>
+		<text id="ttoc.chb.end" h="9F41B967">Använd alla bokmärkesnivåer</text>
+		<text id="ttoc.chb.skipInvalid" h="F864C487">Undanta ogiltiga bokmärken</text>
+		<text id="ttoc.chb.useDifferentNumberFormatting" h="A39D9F18">Använd anpassat nummerformat</text>
+		<text id="ttoc.chb.useDifferentSeparatorFormatting" h="7D6F82B2">Använd anpassat separatorformat</text>
+		<text id="ttoc.chb.useSizeFromDoc" h="79C19271">Bestäm sidstorlek utifrån dokumentet</text>
+		<text id="ttoc.g.pageNumbering" h="21AF4605">Sidnumrering</text>
+		<text id="ttoc.g.pageSettings" h="D82087B4">Sidinställningar</text>
+		<text id="ttoc.ib.numberFormat" h="D41C6CB8">&lt;b&gt;Nummerformat:&lt;/b&gt; &lt;i&gt;Teckensnittsfamilj:&lt;/i&gt; %1, &lt;i&gt;Teckenstorlek:&lt;/i&gt; %2 pt, &lt;i&gt;Teckenfärgr:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.ib.separatorFormat" h="14A80F28">&lt;b&gt;Separatorformat:&lt;/b&gt; &lt;i&gt;Teckensnittsfamilj:&lt;/i&gt; %1, &lt;i&gt;Teckenstorlek:&lt;/i&gt; %2 pt, &lt;i&gt;Teckenfärg:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.ib.titleFormat" h="4A9C0388">&lt;b&gt;Titelformat:&lt;/b&gt; &lt;i&gt;Teckensnittsfamilj:&lt;/i&gt; %1, &lt;i&gt;Teckenstorlek:&lt;/i&gt; %2 pt, &lt;i&gt;Teckenfärg:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.l.end" h="43FA653A">Sista bokmärkesnivå att inkludera i TOC:</text>
+		<text id="ttoc.l.insertAsPage" h="B68AF5B1">Infoga TOC före sidan:</text>
+		<text id="ttoc.l.outputPagesAs" h="96E6A50A">Skapa sidnummer som:</text>
+		<text id="ttoc.l.pageMargins" h="DA4D6B15">Sidmarginaler:</text>
+		<text id="ttoc.l.start" h="B03149CB">Första bokmärkesnivå att inkludera i TOC:</text>
+		<text id="ttoc.l.title" h="930D3835">Titel:</text>
+		<text id="ttoc.l.titleFormatting" h="21C775EE">Uppdatera titelformatering:</text>
+		<text id="ttoc.output.bates" h="ECE56FA9">Bates-nummer (om finnes)</text>
+		<text id="ttoc.output.labels" h="EAE579C1">Sidetiketter</text>
+		<text id="ttoc.output.numbers" h="38E0043C">Ursprungliga sidnummer</text>
+		<text id="ttoc.style.dots" h="C13D9439">Kapitel..........1</text>
+		<text id="ttoc.style.spaces" h="D9E4F5A0">Kapitel          1</text>
+		<text id="ttoc.style.underline" h="B52B746A">Kapitel______1</text>
+		<text id="ttoc.tableOfContents" h="080B4CC0">Bokmärkesförteckning</text>
+		<text id="undefinedFont" h="06D72DED">odefinierat teckensnitt (%1)</text>
+		<text id="vb.invalidALWarining" h="6B3E67E5">Ändringarna avslogs på grund av ogiltig åtgärdslista. Lämna minst en åtgärd!</text>
+		<text id="vb.l.invalidBookmarks" h="EE502FFE">Hittade %1 ogiltig(a|t) bokmärke(n)</text>
+		<text id="rtab" h="E2032460">Bokmärken</text>
+		<text id="rbar.create" h="EDCA1553">Skapa</text>
+		<text id="rbar.modify" h="EA358CAF">Ändra/modifiera</text>
+		<text id="rbar.convert" h="EFAC3874">Konvertera</text>
+	</Strings>
+</Localization>

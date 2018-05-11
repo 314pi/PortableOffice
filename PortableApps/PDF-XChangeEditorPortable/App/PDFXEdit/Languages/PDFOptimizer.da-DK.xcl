@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220807">2.00.00</Version>
+	<Author>Regmos</Author>
+	<Copyright>Regmos 2018</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Danish (Denmark)" lName="dansk" code="da-DK" R2L="false"/>
+	<Module name="PDFOptimizer" namespace="pdfopt" version="6.0.322.7"/>
+	<Strings>
+		<text id="AcrobatForms" h="45DE15E7">Acrobet formularer</text>
+		<text id="AllInPPI" h="73445ABD">Alle enheder er i pixel pr. tomme (ppi).</text>
+		<text id="BackRemov" h="F699750D">Fjern baggrund</text>
+		<text id="BookMarks" h="E2032460">Bogmærker</text>
+		<text id="Bytes" h="4EF6C00A">Byte</text>
+		<text id="CleanUp" h="85D0243F">Rens</text>
+		<text id="ColorGrayscale" h="63F8C2FC">Farve/gråskala:</text>
+		<text id="ColorSpaces" h="279CFB02">Farverum</text>
+		<text id="Comments3D" h="1A213B5F">Kommentarer og 3D indhold</text>
+		<text id="ContentStreams" h="EC5AA2E9">Indholdsstreams</text>
+		<text id="Count" h="48FC51FB">Antal</text>
+		<text id="CrossReferenceTable" h="B0A3CE52">Krydsreference</text>
+		<text id="Description" h="8990DB08">Beskrivelse</text>
+		<text id="DiscardObjects" h="9A75CFD1">Kassér emner</text>
+		<text id="DiscardUserData" h="1B55800A">Kassér brugerdata</text>
+		<text id="DocOverhead" h="8AF9C6B9">Dokumentspild</text>
+		<text id="ErrCount" h="494DF48F">Fundne fejl:</text>
+		<text id="ExGStates" h="CFF492D3">Udvidet grafiktilstand</text>
+		<text id="Fonts" h="B72149DB">Skrifttyper</text>
+		<text id="Images" h="77764F9D">Billeder</text>
+		<text id="LinkAnnotations" h="50D3AB53">Linkanmærkninger</text>
+		<text id="Mobile" h="A5903811">Mobil</text>
+		<text id="Mobile.Desc" h="AC3CDB44">Indstillinger for mobilenheder</text>
+		<text id="NamedDect" h="C4E8D8F5">Navngiven destination</text>
+		<text id="ObjectFor" h="24200BB3">PDF emner for...</text>
+		<text id="Optimize.Error1" h="C319CA59">Der opstod en kritisk optimeringsfejl:</text>
+		<text id="Optimize.Error2" h="E3B5A795">Resultatet kunne ikke gemmes.</text>
+		<text id="Optimize.IsXFA" h="86036928">Dette PDF dokument indeholder en Adobe XML formular (XFA).
+
+Filer der indeholder XFA kan ikke optimeres.</text>
+		<text id="OptimizeCleanUp" h="2BE9852C">Rens dokumentet</text>
+		<text id="OptimizeCropContent" h="55D9A57D">Find og fjern indhold uden for beskæringen</text>
+		<text id="OptimizeDiscardObj" h="87F2BCDD">Kassér emner fra dokumentet...</text>
+		<text id="OptimizeDiscardUD" h="0A072948">Kassér brugerdata fra dokumentet...</text>
+		<text id="OptimizeDuplicates" h="C12ECD41">Finder duplikater (billeder, X formularer, skrifttyper) og deres fjernelse...</text>
+		<text id="OptimizeFonts" h="A46D6002">Optimér skrifttyper...</text>
+		<text id="OptimizeImages" h="8D04A12D">Optimér billeder...</text>
+		<text id="OptimizeTransparency" h="F0A68140">Optimér transparens...</text>
+		<text id="PDFAuditInfo" h="3689108E">PDF testinfo</text>
+		<text id="PDFOptScaned" h="15D6F8BB">Optimér skannet PDF</text>
+		<text id="PDFOptimizer" h="E369C144">Optimér PDF</text>
+		<text id="PatternInfo" h="BF98E424">Mønsterinfo</text>
+		<text id="Percentage" h="AB9C5DE5">Procent</text>
+		<text id="PieceInfo" h="14FA9D8A">Stykkeinfo</text>
+		<text id="ProgOptimizing" h="307A05DD">Optimerer dokument, vent et øjeblik...</text>
+		<text id="ProgPreparing" h="88C0C05E">Forbereder optimering...</text>
+		<text id="ProgTitle" h="9480CEF5">Optimering...</text>
+		<text id="RetainExisting" h="6258BC37">Bevar eksisterende</text>
+		<text id="SavingDocument" h="56115414">Gemmer optimeret dokument...</text>
+		<text id="ShadingInfo" h="F222371A">Skyggeinfo</text>
+		<text id="Standard" h="C6DA1F99">Standard</text>
+		<text id="Standard.Desc" h="D517594C">Standardindstillinger for alle enheder</text>
+		<text id="StructInfo" h="75C658E9">Strukturinfo</text>
+		<text id="Thumbnails" h="47B1B2D9">Miniaturer</text>
+		<text id="Total" h="9CAA90C0">Total</text>
+		<text id="Transparency" h="9EAC5CA4">Transparens</text>
+		<text id="VersionWarning" h="4EF893BE">PDF versionen blev reduceret fra %1. %2 til %3. %4, på grund af optimeringsindstillingerne.
+Det kan skabe problemer med visse programmer. Kontrollér resultatet.</text>
+		<text id="XForms" h="336DF358">X emneformularer</text>
+		<text id="abc" h="BD101B14">Tekst fra</text>
+		<text id="adjustName" h="CD74E7C8">Tilpas filnavn når der gemmes som optimeret:</text>
+		<text id="alpha" h="632E9A25">Forudindstillinger</text>
+		<text id="alpha.resolution.0" h="D33F1C80">Lav opløsning</text>
+		<text id="alpha.resolution.1" h="64A38366">Medium opløsning</text>
+		<text id="alpha.resolution.2" h="0B020749">Høj opløsning</text>
+		<text id="alpha.set" h="A135F93B">Indstillinger:</text>
+		<text id="alpha.set.0" h="04DA8EE6">Transparensniveau: %1</text>
+		<text id="alpha.set.1" h="E18C52C1">Liniekunst og tekst: %1</text>
+		<text id="alpha.set.2" h="82CFFAB0">Graduering og flader: %1</text>
+		<text id="alpha.set.3" h="6FFD6051">Konvertér alt tekst til omkreds: %1</text>
+		<text id="alpha.set.4" h="F2FA75FC">Konvertér alle streger til omkreds: %1</text>
+		<text id="alpha.set.5" h="B3DB6D2B">Klip komplekse områder: %1</text>
+		<text id="alpha.set.6" h="33A6ABAC">Bevar overtryk: %1</text>
+		<text id="cleanUp" h="65707B26">Rensningsindstillinger</text>
+		<text id="cleanUp.DelDuplicateFont" h="19ADBE28">Kassér duplikat skrifttyper</text>
+		<text id="cleanUp.DelDuplicateImg" h="6B3E34D0">Kassér duplikat billeder</text>
+		<text id="cleanUp.DelDuplicateXForm" h="C81BC491">Kassér duplikat X formularer</text>
+		<text id="cleanUp.LZW" h="58145992">Brug 'Flate' i streams der bruger 'LZW' kodning.</text>
+		<text id="cleanUp.bookmark" h="0744B268">Kassér ugyldige bogmærker</text>
+		<text id="cleanUp.compress" h="631E86C0">Emnekomprimering:</text>
+		<text id="cleanUp.compress.0" h="590461FB">Komprimér filen</text>
+		<text id="cleanUp.compress.1" h="223C9F8A">Komprimér dokumentstruktur</text>
+		<text id="cleanUp.compress.2" h="02FEB23B">Fjern komprimering</text>
+		<text id="cleanUp.compress.3" h="00A7F105">Uændret komprimering</text>
+		<text id="cleanUp.content" h="AF96A559">Optimér sideindhold</text>
+		<text id="cleanUp.destinat" h="43CBC798">Kassér ugyldige navngivne destinationer</text>
+		<text id="cleanUp.link" h="D4DE7736">Kassér ugyldige links</text>
+		<text id="cleanUp.stream" h="2C797CB5">Brug 'Flate' til at kode streams der ikke er kodet</text>
+		<text id="cleanUp.web" h="278DAB99">Optimer PDF til internetvisning</text>
+		<text id="cmd.name" h="E03D5D96">Gem optimeret kopi...</text>
+		<text id="cmd.nameScan" h="9FD32538">Optimér skannede sider</text>
+		<text id="cmd.nameScanShort" h="EC746C37">Optimér skan...</text>
+		<text id="cmd.nameScanTip" h="075F0E8E">Ret og reducér størrelsen på skannet dokument.</text>
+		<text id="cmd.nameShort" h="E03D5D96">Gem optimeret kopi...</text>
+		<text id="cmd.nameTip" h="DBCE5DD2">Gemmer en kopi af det aktuelle dokument, med reduceret størrelse og kortere åbningstid.</text>
+		<text id="descreen" h="250001AD">Fjern farveoverlap</text>
+		<text id="deskew" h="D73E3DAE">Tilret</text>
+		<text id="diObject" h="686FD8CF">Kassér emneindstillinger</text>
+		<text id="diObject.action" h="05E16E16">Kassér alle formularkrav, import og nulstillingshandlinger</text>
+		<text id="diObject.bookmark" h="A40329EB">Kassér bogmærker</text>
+		<text id="diObject.curves" h="919F43B2">Konvertér bløde linier til kurver</text>
+		<text id="diObject.flatten" h="73C56406">Integrér formularfelter</text>
+		<text id="diObject.fragment" h="CD4A23BC">Find og flet billedfragmenter</text>
+		<text id="diObject.image" h="63729870">Kassér alle alternative billeder</text>
+		<text id="diObject.javascript" h="7FFE9012">Kassér javascripthandlinger</text>
+		<text id="diObject.print" h="BD6C83FA">Kassér indlejrede udskrivningsindstillinger</text>
+		<text id="diObject.search" h="7B117F1A">Kassér indlejrede søgeindeks</text>
+		<text id="diObject.tags" h="3C045100">Kassér dokument tags</text>
+		<text id="diObject.thumbnail" h="9599423F">Kassér indlejrede miniaturer</text>
+		<text id="diUserData" h="728DF433">Kassér brugerrelaterede oplysninger</text>
+		<text id="diUserData.attach" h="92D67E12">Kassér vedhæftninger</text>
+		<text id="diUserData.form" h="6C36F02B">Kassér alle kommentarer (inkl. links), formularer og multimedia</text>
+		<text id="diUserData.layer" h="FB8629C9">Kassér skjulte lag, og integrér synlige lag</text>
+		<text id="diUserData.links" h="12EEC435">Kassér alle links</text>
+		<text id="diUserData.metadata" h="1E9402E3">Kassér dokumentinfo og metadata</text>
+		<text id="diUserData.object" h="6C03028D">Kassér alle emnedata</text>
+		<text id="diUserData.privat" h="304A6889">Kassér private data fra andre programmer</text>
+		<text id="diUserData.refer" h="B0E9F442">Kassér eksterne krydsreferencer</text>
+		<text id="dlg.POTitle" h="E462CC15">PDF optimér</text>
+		<text id="dlg.delete" h="38F26847">Vil du slette indstillingen '%1'.</text>
+		<text id="dlg.save" h="9A3AA1B1">Opret PDF optimeringsindstillinger</text>
+		<text id="dlg.save.text" h="A599E751">Gem aktuelle indstillinger som:</text>
+		<text id="filename" h="B06ACB9D">Navneregler</text>
+		<text id="filters" h="8DA3B27E">Filtre</text>
+		<text id="fonts" h="1250B714">Fjern indlejrede skrifttyper</text>
+		<text id="fonts.active" h="5C8642DA">Behold  alle skrifttyper</text>
+		<text id="fonts.all" h="3FE17594">Fjern alle skrifttyper</text>
+		<text id="fonts.btn.retain" h="BAD13ABC">&lt;&lt; Behold</text>
+		<text id="fonts.btn.unembed" h="760953D2">Fjern &gt;&gt;</text>
+		<text id="fonts.comment" h="F38E9B57">Ovenfor vises de aktuelt indlejrede skrifttyper. Flyt de uønskede til højre rude.</text>
+		<text id="fonts.custom" h="2AAB35CE">Vælg skrifttyper der fjernes manuelt</text>
+		<text id="fonts.embedded" h="A77293DA">Indlejret skrift:</text>
+		<text id="fonts.mergesubsets" h="F0C43A59">Flet skrifttype delsæt</text>
+		<text id="fonts.recommend" h="F9ABDD3E">Fjern anbefalede skrifttyper</text>
+		<text id="fonts.subset" h="6EC24EDD">Brug kun skrifttype delsæt</text>
+		<text id="fonts.unembed" h="D1144C15">Fjernes:</text>
+		<text id="highQuality" h="44A62CCC">Høj kvalitet</text>
+		<text id="images.AverageDownsampling" h="9DF5988E">Gennemsnitlig reduktion til</text>
+		<text id="images.BicubicDownsamplingTo" h="2B989117">Bikubisk reduktion til</text>
+		<text id="images.NoDownsampling" h="747AEF4D">Ingen reduktion</text>
+		<text id="images.SubsamplingTo" h="F298A3BE">Reducerer til</text>
+		<text id="images.above" h="09C2601E">for billeder over:</text>
+		<text id="images.color" h="EFDBFA28">Billedfarver</text>
+		<text id="images.compress" h="990F2529">Komprimering:</text>
+		<text id="images.compress.CCITTGroup3" h="B7DD624B">CCITT gruppe 3</text>
+		<text id="images.compress.CCITTGroup4" h="F89CF48C">CCITT gruppe 4</text>
+		<text id="images.compress.JBIG2" h="DE3BC257">JBIG2</text>
+		<text id="images.compress.JPEG" h="58DE58E0">JPEG</text>
+		<text id="images.compress.JPEG2000" h="3A603972">JPEG2000</text>
+		<text id="images.compress.LZW" h="D62F11BD">LZW</text>
+		<text id="images.compress.MRC" h="F6693DA2">MRC</text>
+		<text id="images.compress.RunLength" h="82741A51">RLE</text>
+		<text id="images.compress.ZIP" h="0E4D9E8D">ZIP</text>
+		<text id="images.grey" h="F9551019">Gråskala</text>
+		<text id="images.ingexed" h="FE837B06">Indekserede billeder</text>
+		<text id="images.mono" h="19F5498E">Monokrom</text>
+		<text id="images.quality.High" h="21A95620">Høj</text>
+		<text id="images.quality.Lossless" h="40A582D7">Tabsfri</text>
+		<text id="images.quality.Lossy" h="78731864">Tab</text>
+		<text id="images.quality.Low" h="845E3D8C">Lav</text>
+		<text id="images.quality.Maximum" h="A8A97F0E">Maksimal</text>
+		<text id="images.quality.Medium" h="91153342">Medium</text>
+		<text id="images.quality.Minimum" h="8415F85F">Minimal</text>
+		<text id="images.reduct" h="96D00A5D">Optimér  kun billeder hvis størrelsen reduceres</text>
+		<text id="mono" h="65032FDA">Monokrom:</text>
+		<text id="msg.NoPermission" h="DF8FF5FA">Dokumentet er beskyttet, og du har ikke rettigheder til at optimere det.</text>
+		<text id="optPrefs" h="FDCAF687">Optimeringsindstillinger</text>
+		<text id="ppi" h="B39AC2C1">dpi</text>
+		<text id="prefix" h="95164599">Prefiks:</text>
+		<text id="quality" h="E3A77A93">Kvalitet:</text>
+		<text id="result" h="CE676C2B">Resultat:</text>
+		<text id="settings" h="B781AB7B">Indstillinger:</text>
+		<text id="settings.Custom" h="A918FF38">Tilpasset</text>
+		<text id="settings.Mobile" h="A5903811">Mobil</text>
+		<text id="settings.Standard" h="C6DA1F99">Standard</text>
+		<text id="smallSize" h="2A56EB5B">Lille fil</text>
+		<text id="spaceusage" h="2FA61B33">Pladsforbrug...</text>
+		<text id="stage.getfonts" h="9DF9EE20">Indsamler skrifttyper...</text>
+		<text id="stage.preparing" h="3F6313D6">Forbereder dokument...</text>
+		<text id="sufix" h="1627987B">Postfiks:</text>
+		<text id="textSharp" h="D60116F5">Tekstskarphed</text>
+		<text id="tileSize" h="A4FAD93F">Flisestr:</text>
+		<text id="ver" h="C549FED4">Gør  kompatibel med:</text>
+		<text id="ver.1" h="8B2AEC62">Version 1.3 (Acrobat 4.0 og senere)</text>
+		<text id="ver.2" h="A0EA502A">Version 1.4 (Acrobat 5.0 og senere)</text>
+		<text id="ver.3" h="26054EFC">Version 1.5 (Acrobat 6.0 og senere)</text>
+		<text id="ver.4" h="70929FB3">Version 1.6 (Acrobat 7.0 og senere)</text>
+		<text id="ver.5" h="FD059DF9">Version 1.7 (Acrobat 8.0 og senere)</text>
+		<text id="ver.current" h="17DA1613">Aktuel PDF version: %1.%2</text>
+	</Strings>
+</Localization>

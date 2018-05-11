@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20170426011503">2.00.00</Version>
+	<Author>pdf.xchange.translate@gmail.com</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Dutch (Netherlands)" lName="Nederlands" code="nl-NL" R2L="false"/>
+	<Module name="Dropbox" namespace="db" version="6.0.322.0"/>
+	<Strings>
+		<text id="btn.cancel" h="3D302A38">&amp;Annuleer</text>
+		<text id="btn.chooseUser" h="BEC16DA6">&amp;Kies gebruiker</text>
+		<text id="btn.ok" h="FEF0C771">&amp;OK</text>
+		<text id="btn.open" h="B1A510F0">&amp;Open</text>
+		<text id="btn.save" h="F363C410">&amp;Opslaan</text>
+		<text id="btn.saveReplace" h="11BF9724">Opslaan en &amp;Vervangen</text>
+		<text id="cmd.cmdsCategory" h="22B8ECE9">Dropbox</text>
+		<text id="cmd.open" h="028048E8">&amp;Dropbox...</text>
+		<text id="cmd.open.tip" h="94556787">Open een document vanuit Dropbox.</text>
+		<text id="cmd.save" h="028048E8">&amp;Dropbox...</text>
+		<text id="cmd.save.tip" h="A6A3EE84">Opslaan van actief document naar Dropbox.</text>
+		<text id="cmd.dropbox" h="6616FE70">&amp;Dropbox</text>
+		<text id="dlg.authenticate" h="E6E77652">Authenticeren</text>
+		<text id="dlg.openFile" h="435887CD">Openen bestand</text>
+		<text id="dlg.saveFile" h="520CB069">Bestand opslaan</text>
+		<text id="lb.itemsInFolder" h="8F56A98C">%d onderdelen</text>
+		<text id="lb.name" h="DEC92488">Bestandnaam</text>
+		<text id="ls.column.created" h="FE6510B7">Aanmaakdatum</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Datum en tijd van het aanmaken van bestand, map of lijst</text>
+		<text id="ls.column.extension" h="14FEB836">Extensie</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Bestandsextensie</text>
+		<text id="ls.column.modified" h="7E234D6D">Wijzigingsdatum</text>
+		<text id="ls.column.modified.hint" h="12933E76">Datum en tijd van het wijzigen van bestand, map of lijst</text>
+		<text id="ls.column.size" h="17A58A52">Groottte</text>
+		<text id="ls.column.size.hint" h="9C4BD847">Grootte van bestand</text>
+		<text id="ls.column.title" h="D18643E3">Naam</text>
+		<text id="ls.column.title.hint" h="FB317B14">Bestands- of mapnaam</text>
+		<text id="msg.connectError" h="BB92EFFA">De verbinding met Dropbox mislukt. Controleer uw internetverbinding en de toegangsrechten tot de Dropbox.</text>
+		<text id="msg.fileNotFound" h="CD319CFB">Bestand "%s" is niet gevonden in de huidige map.</text>
+		<text id="msg.invalidFileName" h="7153C280">"%s" is geen geldige bestandsnaam (symbolen &lt;&gt;"/?* zijn niet toegestaan).</text>
+		<text id="msg.navigateError" h="8DFB6834">De navigatie naar het item in de Dropbox is mislukt. Controleer uw internetverbinding, het adres en de machtigingen voor toegang tot het item.</text>
+		<text id="msg.openFailed" h="0BB63F1F">Het bestand kan niet worden geopend. Zorg ervoor dat het bestand bestaat en dat u toestemming hebt voor het lezen ervan.</text>
+		<text id="msg.saveFailed" h="48F763F5">Het bestand kan niet worden opgeslagen. Zorg ervoor dat de bestandsnaam geldig is en dat u schrijfbevoegdheid ervoor hebt.</text>
+		<text id="msg.saveReplace" h="D31D53A9">Bestand "%s" bestaat al, Wilt u deze vervangen?</text>
+		<text id="msg.wrongUser" h="BF2BFAE3">Kan de bron niet openen omdat het behoort tot de Dropbox van een andere gebruiker. Wilt u een andere gebruiker kiezen?</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20161130215844">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Slovenian" lName="slovenščina" code="sl-SI" R2L="false"/>
+	<Module name="OCRPlugin" namespace="ocr" version="6.0.319.0"/>
+	<Strings>
+		<text id="ComplexBackground" h="7D4E65E9">Odstranitev kompleksnega ozadja</text>
+		<text id="LANGUAGE" h="7B707020">&amp;Jezik:</text>
+		<text id="LanguageSelect" h="13F6EE1C">Izberi ...</text>
+		<text id="MULTIPLECORES" h="C21D9F69">Uporabi večnitnost</text>
+		<text id="OrientationDetection" h="40F7AA0E">Samodejno zaznavanje usmerjenosti</text>
+		<text id="PREFERENCES" h="4481257B">Izbire</text>
+		<text id="TITLEWHITELIST" h="B446B537">Seznam varnih pošiljateljev</text>
+		<text id="WHITELIST" h="68C2961B">Seznam dovoljenih</text>
+		<text id="accuracy.high" h="21A95620">Visok</text>
+		<text id="accuracy.low" h="845E3D8C">Nizek</text>
+		<text id="accuracy.medium" h="91153342">Srednji</text>
+		<text id="cb.cuenoany" h="57DD34C3">Nobeden ni nameščen</text>
+		<text id="cmd.name" h="6DAA8A17">OCR strani ...</text>
+		<text id="g.recognition" h="962555B5">Prepoznavanje</text>
+		<text id="l.accuracy" h="3B2028D8">&amp;Natančnost:</text>
+		<text id="l.language" h="7B707020">&amp;Jezik:</text>
+		<text id="lnk.more" h="2E2CCD84">&lt;a=1&gt;Več jezikov ...&lt;/a&gt;</text>
+		<text id="notice.emptyselection" h="2B9E6261">OCR ni uspel: Neveljaven dokument ali prazen izbor</text>
+		<text id="notice.finished" h="0CFE0EC4">OCR naloga dokončana</text>
+		<text id="notice.notavailable" h="CAC07593">Izbrana vrsta OCR ni na voljo v tej različici.</text>
+		<text id="notice.notfinished" h="F46B8362">OCR ni uspel začeti: Preveri jezik in izhodne možnosti nastavitev</text>
+		<text id="notice.permissions" h="3BE9C6A8">Ta dokument je zaščiten. Preveri dovoljenja pod Datoteka -&gt; Lastnosti dokumenta -&gt; Varnost.</text>
+		<text id="ocr.l.language" h="7B707020">&amp;Jezik:</text>
+		<text id="outputtype.editable" h="B24B2872">Ustvari nov PDF v katerem je mogoče iskanje</text>
+		<text id="outputtype.layer" h="DFA4EAA6">Ohrani originalno vsebino in dodaj besedilno plast</text>
+		<text id="outputtype.new" h="85C87BB3">Ustvari novo PDF v katerih je mogoče iskanje</text>
+		<text id="prefs.langdir" h="ED1B4BF6">OCR jeziki</text>
+		<text id="prefs.name" h="00DD8F43">OCR</text>
+		<text id="prefs.tips" h="D0975E29">OCR možnosti</text>
+		<text id="prefs.title" h="D0975E29">OCR možnosti</text>
+		<text id="progress.finalizing" h="BD3E3BA6">Dokončanje ...</text>
+		<text id="progress.pageinfo" h="4580EE29">Obdelava strani %d od %d ...</text>
+		<text id="progress.placing" h="C9F1FA8A">Umestitev vsebine ...</text>
+		<text id="progress.rasterizing" h="ACB9131E">Rasterizacija ...</text>
+		<text id="progress.recognizing" h="281E6862">Prepoznavanje ...</text>
+		<text id="progress.title" h="8E35B0D9">OCR strani, prosim počakajte ...</text>
+	</Strings>
+</Localization>

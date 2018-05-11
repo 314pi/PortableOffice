@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20170425233740">2.00.00</Version>
+	<Author>Tz</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Japanese (Japan)" lName="日本語" code="ja-JP" R2L="false"/>
+	<Module name="PDFConverter" namespace="pdfconv" version="6.0.322.0"/>
+	<Strings>
+		<text id="DT" h="68CCD7A1">小数点とコンマ</text>
+		<text id="Decimal" h="97B538F3">小数点</text>
+		<text id="Fonts" h="09BC9E47">フォント</text>
+		<text id="NoPermission" h="F6BEA48A">ドキュメントが保護されています。変換を実行するための十分な権限がありません。</text>
+		<text id="cmd.name.P" h="FE79EAE9">Microsoft Powerpointにエクスポート</text>
+		<text id="cmd.name.Sel.P" h="10B9EA70">Microsoft Powerpointファイルにエクスポート</text>
+		<text id="cmd.name.Sel.W" h="F60B7012">Microsoft Wordファイルにエクスポート</text>
+		<text id="cmd.name.Sel.X" h="53447190">Microsoft Excelファイルにエクスポート</text>
+		<text id="cmd.name.W" h="36A68CE1">Microsoft Word ドキュメントにエクスポート...</text>
+		<text id="cmd.name.X" h="5F515377">Microsoft Excel にエクスポート...</text>
+		<text id="cmd.nameShort.P" h="C4DB7FDB">Microsoft Powerpointで出力</text>
+		<text id="cmd.nameShort.W" h="23467A9D">MS-Word で出力...</text>
+		<text id="cmd.nameShort.X" h="4FDED68C">MS-Excel で出力...</text>
+		<text id="cmd.nameTip.P" h="5DF5F44C">アクティブドキュメントをMicrosoft Powerpointファイルにエクスポート</text>
+		<text id="cmd.nameTip.Sel.P" h="547499FA">現在の設定でMicrosoft Powerpointファイルにエクスポート</text>
+		<text id="cmd.nameTip.Sel.W" h="9526C3A8">現在の設定でMicrosoft Wordファイルにエクスポート</text>
+		<text id="cmd.nameTip.Sel.X" h="9DBFD9AB">現在の設定でMicrosoft Excelファイルにエクスポート</text>
+		<text id="cmd.nameTip.W" h="08C70E7C">現在のドキュメントを Microsoft Word ドキュメント形式でエクスポートします...</text>
+		<text id="cmd.nameTip.X" h="71C65F22">現在のドキュメントを Microsoft Excel 形式でエクスポートします...</text>
+		<text id="convertation" h="B1E1828B">PDF ドキュメントを変換しています</text>
+		<text id="convertation.DecimalError" h="AB9CA906">無効な小数点</text>
+		<text id="convertation.DecimalThousandsError" h="9002FE5E">小数点とコンマを区別する</text>
+		<text id="convertation.Error1" h="388D83B4">ドキュメント変換中に致命的なエラーが発生しました：</text>
+		<text id="convertation.Error2" h="A394ADBC">変換結果のファイルは保存されません</text>
+		<text id="convertation.ThousandsError" h="1660BD37">無効なコンマ</text>
+		<text id="dpi" h="B39AC2C1">dpi</text>
+		<text id="elseUseRegional" h="8F1D3748">あるいは地域設定を使用する</text>
+		<text id="excel.filter" h="D766664D">Microsoft Excel</text>
+		<text id="options" h="DAD7B4F4">オプション</text>
+		<text id="options.compress.0" h="378201C4">PNG</text>
+		<text id="options.compress.1" h="25090095">JPG</text>
+		<text id="options.dpilevel" h="4D4FE579">%1 dpi</text>
+		<text id="options.fontsembedmode.0" h="4FD6EAB9">PDFファイルに埋め込まれたフォントのみ埋め込む</text>
+		<text id="options.fontsembedmode.1" h="485361C4">埋め込まない</text>
+		<text id="options.quality.0" h="8415F85F">最小</text>
+		<text id="options.quality.1" h="845E3D8C">低</text>
+		<text id="options.quality.2" h="91153342">中間</text>
+		<text id="options.quality.3" h="21A95620">高</text>
+		<text id="options.quality.4" h="A8A97F0E">最大</text>
+		<text id="options.textmode.0" h="77B1E837">テキストを編集可能にする</text>
+		<text id="options.textmode.1" h="8419D7CE">曲線に変換</text>
+		<text id="options.textmode.2" h="60E91945">イメージに変換</text>
+		<text id="optionsCBAllowCurves" h="976099D8">問題のあるフォントを使用するテキストを曲線に変換</text>
+		<text id="optionsCBAllowSubstitution" h="169F5988">埋め込めないフォントの代替フォントを使用</text>
+		<text id="optionsCBEmbedFont" h="3E50224C">すべてのフォントを埋め込む</text>
+		<text id="optionsCBIncludeComments" h="B08E5CA8">コメントを含む</text>
+		<text id="optionsCBIncludeImages" h="969B2F6C">画像を含む</text>
+		<text id="optionsCBIncludeLinks" h="F5F4CED4">リンクを含む</text>
+		<text id="optionsCBPageToImage" h="0707FDB4">ページ内容すべてをイメージに変換</text>
+		<text id="optionsGBCommonOpt" h="4C043966">共通の設定</text>
+		<text id="optionsGBTextOpt" h="8545ED03">テキスト変換のオプション</text>
+		<text id="optionsIBTextRaster" h="699A1B72">上記のオプション選択に応じて、変換できないテキストはラスタライズされます。</text>
+		<text id="optionsLBCompres" h="990F2529">圧縮：</text>
+		<text id="optionsLBIssuesFont" h="BB2E863E">フォントに互換性もしくはポータビリティに問題があるとき：</text>
+		<text id="optionsLBMode" h="274455FC">モード：</text>
+		<text id="optionsLBQuality" h="E3A77A93">品質：</text>
+		<text id="optionsLBTextRaster" h="32A3B18F">テキストのラスター品質：</text>
+		<text id="optionsLBToImgParam" h="4ED54AB4">テキストからイメージへの変換設定</text>
+		<text id="optionsLBdpiComm" h="0FE84938">解像度：</text>
+		<text id="optionsLBdpiCompression" h="4CA3E32A">上記のオプションが有効になっているときには、ページ全体や（複雑なグラデーションなどの）変換できないコンテンツのラスタライズの品質を調整することができます：</text>
+		<text id="optionsLBlastHope" h="F73DC603">注意：テキストが曲線に変換できない場合、テキストは画像に変換されます。</text>
+		<text id="powerpoint.filter" h="9FB63544">Microsoft PowePoint Presentation</text>
+		<text id="regionalDT" h="929F7393">地域設定を使用する</text>
+		<text id="thousands" h="256655C5">コンマ</text>
+		<text id="userDefinedDT" h="CFDC144E">カスタム設定を使用する</text>
+		<text id="word.filter" h="6BB79C71">Microsoft Word</text>
+	</Strings>
+</Localization>

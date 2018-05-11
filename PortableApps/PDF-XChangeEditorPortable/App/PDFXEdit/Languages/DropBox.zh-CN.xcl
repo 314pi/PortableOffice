@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Version date="20160923234228">2.00.00</Version>
+	<Author>sunniar, Zach Yu</Author>
+	<Copyright></Copyright>
+	<Product id="product"/>
+	<Language eName="Chinese (PRC)" lName="中文(简体)" code="zh-CN" R2L="false"/>
+	<Module name="Dropbox" namespace="db" version="6.0.318.1"/>
+	<Strings>
+		<text id="cmd.dropbox" h="6616FE70">&amp;Dropbox</text>
+		<text id="cmd.save" h="028048E8">&amp;Dropbox...</text>
+		<text id="cmd.open" h="028048E8">&amp;Dropbox...</text>
+		<text id="cmd.cmdsCategory" h="22B8ECE9">Dropbox</text>
+		<text id="cmd.open.tip" h="94556787">从Dropbox打开文档</text>
+		<text id="cmd.save.tip" h="A6A3EE84">将当前文档保存到Dropbox.</text>
+		<text id="msg.invalidFileName" h="7153C280">&quot;%1&quot; 不是有效的文件名（不允许使用符号 &lt;&gt;&quot;/|?*).</text>
+		<text id="lb.itemsInFolder" h="8F56A98C">%d个项目</text>
+		<text id="btn.cancel" h="3D302A38">取消（&amp;C）</text>
+		<text id="btn.chooseUser" h="BEC16DA6">选择用户(&amp;C)</text>
+		<text id="btn.ok" h="FEF0C771">&amp;OK</text>
+		<text id="btn.open" h="B1A510F0">打开(&amp;O)</text>
+		<text id="btn.save" h="F363C410">保存(&amp;S)</text>
+		<text id="dlg.authenticate" h="E6E77652">授权</text>
+		<text id="msg.wrongUser" h="BF2BFAE3">无法打开资源，因为它是属于另一个用户的 Dropbox。你想要选择另一个用户吗？</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">创建文件、文件夹、列表的日期和时间</text>
+		<text id="ls.column.modified.hint" h="12933E76">最后修改文件、文件夹、列表的日期和时间</text>
+		<text id="ls.column.created" h="FE6510B7">创建日期</text>
+		<text id="ls.column.modified" h="7E234D6D">修改日期</text>
+		<text id="ls.column.extension" h="14FEB836">扩展</text>
+		<text id="msg.connectError" h="BB92EFFA">无法连接到 Dropbox。请检查您的网络连接并确保您有权访问请求的 Dropbox 资源。</text>
+		<text id="msg.navigateError" h="8DFB6834">无法导航到 Dropbox 资源。请检查您的互联网连接，访问请求的 Dropbox 资源的权限和资源地址的正确性。</text>
+		<text id="msg.openFailed" h="0BB63F1F">无法打开文件。请确保文件存在且您有权访问。</text>
+		<text id="msg.saveFailed" h="48F763F5">无法保存文件。请确保该文件名称有效并且您具有写权限。</text>
+		<text id="msg.fileNotFound" h="CD319CFB">当前文件夹中不存在文件 &quot;%1&quot;。</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">文件扩展名</text>
+		<text id="lb.name" h="DEC92488">文件名:</text>
+		<text id="ls.column.title.hint" h="FB317B14">文件或文件夹的名称</text>
+		<text id="ls.column.title" h="D18643E3">名称</text>
+		<text id="dlg.openFile" h="435887CD">打开文件</text>
+		<text id="btn.saveReplace" h="11BF9724">保存并替换(&amp;R)</text>
+		<text id="dlg.saveFile" h="520CB069">保存文件</text>
+		<text id="ls.column.size" h="17A58A52">大小</text>
+		<text id="ls.column.size.hint" h="9C4BD847">文件大小</text>
+		<text id="msg.saveReplace" h="D31D53A9">文件&quot;%1&quot;已存在。您要替换它吗？</text>
+</Strings>
+</Localization>

@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Version date="20150521211107">2.00.00</Version>
+	<Author>slavusec</Author>
+	<Copyright>slavo72@azet.sk</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Slovak" lName="slovenčina" code="sk-SK" R2L="false"/>
+	<Module name="BookmarksPlugin" namespace="bp" version="0.0.0.0"/>
+	<Strings>
+		<text id="cmd.addTextToBookmarkTitle" h="CFACD5C5">Pridať text k názvu záložky...</text>
+		<text id="cmd.bookmarkEveryNthPage" h="940FCD39">Generovať záložky na N-té stránke...</text>
+		<text id="cmd.macro.hierTitle" h="0E7B4B6F">Hierarchické názvy záložky</text>
+		<text id="cmd.macro.level" h="B863033F">Úroveň záložky</text>
+		<text id="cmd.fromTOC" h="95C894D9">Vygenerovať obsah...</text>
+		<text id="cmd.macro.title" h="3AB782A4">Názov záložky</text>
+		<text id="cmd.name" h="E2032460">Záložky</text>
+		<text id="cmd.toTOC" h="9B7AEEEA">Vytvoriť obsah...</text>
+		<text id="cmd.namedDestsToPageNumbers" h="57A99C8F">Skonvertuj pomenované ciele na stránky...</text>
+		<text id="cmd.bookmarksToNamedDests" h="4167DE76">Previesť na pomenované ciele...</text>
+		<text id="cmd.bookmarksToHtmlFile" h="7D179637">Exportovať záložkt do HTML súboru...</text>
+		<text id="cmd.bookmarksToTextFile" h="3A3396BC">Exportovať záložky do text. súboru...</text>
+		<text id="cmd.macro.launch" h="4ABD9355">Otvoriť súbor</text>
+		<text id="cmd.findReplaceBookmarkText" h="ABD91665">Najsť a nahradiť text záložky...</text>
+		<text id="cmd.generate" h="6A2BEC3F">Generovať záložky z textu na stránke...</text>
+		<text id="cmd.fromTextFile" h="1EA675FA">Generovať záložky z TXT súboru...</text>
+		<text id="cmd.macro.hierIndex" h="7DCA5F4D">Hierarchický index...</text>
+		<text id="cmd.changeBookmarkCase" h="359544B0">Zmena veľkosti písmien...</text>
+		<text id="cmd.macro.namedDest" h="C4E8D8F5">Pomenované ciele</text>
+		<text id="cmd.macro.firstLine" h="613F14A5">Prvý textový riadok stránky</text>
+		<text id="cmd.macro.label" h="EEE40FF3">Štítok stránky</text>
+		<text id="cmd.macro.sequentialNum" h="CDF4EA5E">Sekvenčné číslo</text>
+		<text id="cmd.sort" h="B1FFF012">Triediť záložky...</text>
+		<text id="cmd.addAGBLevel" h="928E2BB5">Použíť vybraný štýl textu pre generovanie záložiek...</text>
+		<text id="cmd.validate" h="E61D60D2">Skontrolovať záložky...</text>
+		<text id="cmd.macro.uri" h="A1458F37">Otvoriť URL odkaz</text>
+		<text id="atb.lbl.BookmarkTitle" h="2DC1254E">&quot;Názov záložky&quot;</text>
+		<text id="op.ValidateBookmarks.msg.invalidAction" h="84877FDA">Akcia %1 je neplatná.</text>
+		<text id="btf.l.characters" h="189C88D2">(znakov)</text>
+		<text id="tree.vb.bookmark" h="9926EC31">&lt;b&gt;%1.Záložka:&lt;/b&gt; &quot;%2&quot;</text>
+		<text id="bft.l.actionSeparator" h="60954CC9">Oddeľovač parametrov akcií:</text>
+		<text id="ftoc.chb.addBookmarks" h="CBBAE768">Pridať záložky na stránky využitím obsahu</text>
+		<text id="btn.add.custom" h="3080663C">Vlastné...</text>
+		<text id="ftoc.chb.addLinks" h="68456DBA">Pridať odkazy do záznamov obsahu</text>
+		<text id="msg.font.addCustom.title" h="06AFFCAB">Pridať nové uživateľské písmo</text>
+		<text id="msg.cbc.excludedwords.add.title" h="9ADE883B">Pridať nové vylučuené  slovo</text>
+		<text id="DlgAddExcludedWords" h="BED549D0">Pridanie nových vylúčených slov</text>
+		<text id="cbc.aew.label" h="C298E8A4">Pridajte vylučené slová zadaním jednoho slova na riadok (za každým &quot;Enter&quot;):</text>
+		<text id="msg.stopWords.add.title" h="F6B54725">Pridať novú zakázanú frázu</text>
+		<text id="atb.lbl.Prefix" h="A51A4726">Pridať predponu k názvu záložky:</text>
+		<text id="atb.lbl.Suffix" h="C27741D5">Pridať príponu k názvu záložky:</text>
+		<text id="atb.gb.AddText" h="E21C9B55">Pridať text</text>
+		<text id="DlgAddTextToBookmark" h="E5B26485">Pridanie textu do názvu záložky</text>
+		<text id="btf.chb.insertAfter" h="6E37D094">Pridať tento text za názvy záložiek:</text>
+		<text id="progress.generatingBookmarks.label" h="043CF7B1">Pridávam záložku: %1...</text>
+		<text id="progress.addingBookmark" h="45BBB17E">Pridávam záložky: %1 zo %2...</text>
+		<text id="progress.addTextToBookmarkTitle.text" h="BE27C5C9">Pridávam text k záložke: %1...</text>
+		<text id="progress.addTextToBookmarkTitle.title" h="EC7EB408">Pridávam text k záložkám...</text>
+		<text id="btf.g.advancedFormatting" h="9130441A">Pokročilé formátovanie</text>
+		<text id="cbc.cb.fromDocument" h="424CAFC5">Všetky záložky</text>
+		<text id="bld.matchTextCase.allCapital" h="D4E8E731">Všetký písma sú veľké</text>
+		<text id="bld.chb.multilineBookmarks" h="CB4817D1">Povoliť viacriadkové názvy záložiek</text>
+		<text id="regex.error.default" h="509A660E">Pri spracovaní došlo k chybe spracovania regex.</text>
+		<text id="ttoc.chb.asLastPage" h="D323F9DD">Ako poslednú stránku</text>
+		<text id="sb.ascending" h="59F2363F">Vzostupne</text>
+		<text id="ttoc.output.bates" h="ECE56FA9">Batesové čísla (pokiaľ sú)</text>
+		<text id="benp.Label1.SelectN" h="8626E4EA">Záložka na každej</text>
+		<text id="DlgBookmarkEveryNthPage" h="B6869582">Generovanie  záložek na N-té stránke</text>
+		<text id="DlgBookmarkPropSheet" h="862C67E7">Vlastnosti generovania záložiek</text>
+		<text id="op.ValidateBookmarks.msg.emptyActionsList" h="A0A0065C">K záložke nie sú priradené žiadne akcie.</text>
+		<text id="DlgSheetBttfBookmarkProps" h="4B2F0AA2">Vlastnosti záložky</text>
+		<text id="DlgFromTOC" h="AC2ED85C">Obsah (TOC)</text>
+		<text id="op.ValidateBookmarks.msg.emptyTitle" h="83F3E965">Názov záložky je prázdny.</text>
+		<text id="benp.Label.TitleTemplate" h="E2075553">Šablóna pre názov záložky</text>
+		<text id="progress.BookmarkEveryNthPage.title" h="DA523087">Generujem záložky...</text>
+		<text id="benp.Gb.Main" h="4AAD7A29">Vlastnosti generovania záložiek</text>
+		<text id="progress.statusText.ProcessingBookmarksDone" h="67CB6C48">Generovanie záložiek je kompletné.</text>
+		<text id="msg.dlg.bookmarksToTextFile.done" h="3E5176AD">Záložky boli úspešne exportované do súboru.</text>
+		<text id="ebttf.actType.all" h="B8B21253">Záložky so všetkými akciami hyperlinkových odkazov</text>
+		<text id="ebttf.actType.goto" h="79C634F2">Záložky s akciami Go-to stránky</text>
+		<text id="ebttf.actType.gotoR" h="CE75521E">Záložky s akciami Go-to vzdialené</text>
+		<text id="ebttf.actType.js" h="07676EBA">Záložky s akciami Javascriptu</text>
+		<text id="ebttf.actType.launch" h="75989F2A">Záložky s akciami Otvoriťv súbor</text>
+		<text id="ebttf.actType.uri" h="E9EA71C7">Záložky s akciami Otvoriť web odkaz</text>
+		<text id="ftoc.l.bottomIndent" h="E3AB8875">Odsadenie zdola:</text>
+		<text id="ttoc.b.build" h="DE9A0F1C">Vytvoriť</text>
+		<text id="DlgToTOC" h="2B3E9BF1">Vytvorenie obsahu</text>
+		<text id="ebttf.cb.separator.comma" h="827998F7">celá</text>
+		<text id="DlgNamedDestsToPageNumbers" h="F1188511">Prevod pomenovaných cieľov na stránky</text>
+		<text id="DlgBookmarksToNamedDests" h="AC658539">Prevod na pomenované ciele</text>
+		<text id="progress.bookmarksToNamedDests.text" h="CE73819F">Prevádzam záložku: %1...</text>
+		<text id="progress.namedDestsToPageNumbers.title" h="4615CB0B">Skonvertovať pomenované ciele na čísla stránky...</text>
+		<text id="progress.bookmarksToNamedDests.title" h="8DB00717">Prevádzam na pomenované ciele...</text>
+		<text id="progress.calculatingBookmarks" h="4AC26E12">Počítam záložky...</text>
+		<text id="progress.precalculatingPages" h="15183896">Vytváram stránky obsahu...</text>
+		<text id="msg.validateBookmarks.delete.title" h="8FF00765">Zmazať neplatnú záložku</text>
+		<text id="progress.namedDestsToPageNumbers.deleteNds" h="5DFFFF06">Zmazať pomenované cieľe...</text>
+		<text id="sb.descending" h="74091246">Zostupne</text>
+		<text id="ttoc.chb.useSizeFromDoc" h="40E05E3E">Prevziať veľkosť stránky z dokumentu</text>
+		<text id="btf.rb.doNotChange" h="4CBF2C1B">Nemeniť</text>
+		<text id="msg.validateBookmarks.delete.caption" h="5867AD02">Chcete zmazať vybrané záložky spolu s potomkami?</text>
+		<text id="msg.cbc.excludedwords.edit.title" h="82F8AAA6">Upraviť vybrané vylučené slovo.</text>
+		<text id="msg.stopWords.edit.title" h="AFE604DF">Upraviť zakázanú frázu</text>
+		<text id="DlgEditStopWords" h="911413E7">Zakázané slová</text>
+		<text id="cbc.chb.EnterCustomWordList" h="25E5E099">Zadajte vlastný zoznam slov, ktoré nebudú spracované</text>
+		<text id="msg.stopWords.caption" h="1DE69466">Zadajte nové zakázané slovo alebo vetu.</text>
+		<text id="msg.validateBookmarks.rename.caption" h="CE842D61">Zadajte názov novéj záložky:</text>
+		<text id="msg.cbc.excludedwords.caption" h="366E639B">Zadajte nové vylučené slovo:</text>
+		<text id="msg.font.addCustom.caption" h="75533687">Zadajte nový názov písma:</text>
+		<text id="cbc.list.header" h="2B206C14">Vylúčené slová</text>
+		<text id="ebttf.rb.exportAll" h="8F2ED544">Exportovať všetko</text>
+		<text id="ebttf.ch.expClosedState" h="7BFE7A9B">Export záložiek so stavom &quot;zavreté&quot;</text>
+		<text id="ebttf.ch.exportActions" h="3444FE51">Exportovať akcie záložiek</text>
+		<text id="ebttf.ch.exportStyle" h="A6713F10">Vlastnosti štýlu a farby textu exportovaných záložiek</text>
+		<text id="ebttf.rb.exportActionTypes" h="533F8EA6">Export záložiek vykonavajúce hypertextové akcie:</text>
+		<text id="DlgBookmarksToTextFile" h="01135DA3">Exportovať záložky do text. súboru</text>
+		<text id="ebttf.ch.expDetailedGotoDescr" h="18B9C243">Detajlny export popisu cieľa </text>
+		<text id="ebttf.ch.exportJS" h="9362EAE3">Export kódu akcií Javascriptu</text>
+		<text id="ebttf.ch.exportLaunch" h="EEB76894">Exportovať popis akcií Otvorených súborov</text>
+		<text id="ebttf.ch.exportGotoR" h="3BBD9494">Export popisu vzdialených Go-To akcií</text>
+		<text id="ebttf.rb.exportSelected" h="69FB5145">Exportovať označené záložky</text>
+		<text id="ebttf.ch.exportWebLinks" h="3C61424C">Exportovať webové odkazy</text>
+		<text id="progress.bookmarksToHtmlFile.text" h="4DD531FF">Exportovanie záložky: %1...</text>
+		<text id="progress.bookmarksToHtmlFile.status" h="AF1901AD">Exportovanie záložiek %1 z %2...</text>
+		<text id="progress.bookmarksToHtmlFile.title" h="6B32BA83">Exportovanie záložiek na HTML súbor...</text>
+		<text id="progress.bookmarksToTextFile.title" h="D2C04472">Exportovanie záložiek na text. súbor...</text>
+		<text id="bft.l.separator" h="BEDAC06E">Oddeľovač polí:</text>
+		<text id="msg.dlg.emptyFilename.warning" h="96A438DA">Názov súboru nesmie byť prázdny.</text>
+		<text id="DlgFindReplaceBookmarkText" h="2F631B7B">Hľadanie a nahradenie textu záložky</text>
+		<text id="frbt.gb.FindReplace" h="BA012728">Možnosti hľadania a nahradenia</text>
+		<text id="frbt.lbl.FindWhat" h="D0A8A2C5">Čo hľadať:</text>
+		<text id="ttoc.l.start" h="0816B0F1">Prvá úroveň záložiek pre vytvorenie obsahu:</text>
+		<text id="bld.matchTextCase.firstCapital" h="D05EB796">Prví znak veľkým písmenom</text>
+		<text id="bld.matchTextCase.firstDigit" h="55D84E38">Prví znak je číslo</text>
+		<text id="ebttf.lbl.folder" h="3F9ED2F9">Zložka:</text>
+		<text id="bld.chb.fontNames" h="AB457B23">Názov písma:</text>
+		<text id="tree.fontName" h="ACA86074">Názov písma:</text>
+		<text id="tree.fontSize" h="B3CE43BA">Veľkosť písma:</text>
+		<text id="vb.l.invalidBookmarks" h="EE502FFE">Nájdených %1 chybných záložiek</text>
+		<text id="DlgSheetBttfSelectBookmarks" h="30673BCD">Všeobecne</text>
+		<text id="op.GenerateBookmarks" h="05382BCA">Generovať záložky</text>
+		<text id="DlgFromTextFile" h="B3799046">Generovanie záložiek z TXT súboru</text>
+		<text id="progress.generatingBookmarks" h="CFF0F2A9">Generovanie záložiek</text>
+		<text id="progress.generateBookmarks" h="3D5E30ED">Generujem záložky zo stránky %1...</text>
+		<text id="DlgAutoGenerateBookmarks.Title" h="FADC74CA">Generovanie záložiek z textu na stránke</text>
+		<text id="progress.generatingTOCFromBookmark" h="C9213435">Vytváram obsah zo záložky: %1...</text>
+		<text id="progress.generatingLevels" h="07A22443">Vytváram úrovne zo záložiek...</text>
+		<text id="progress.generatingTOC" h="A438CB9C">Generovanie obsahu</text>
+		<text id="bld.btn.selStyle" h="EE213BC5">Získať štýl z vybraného textu</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidDestName" h="0D5129EF">Akcia &quot;Ísť na cieľ&quot; odkazuje na neplatný pomenovaný cieľ.</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidPageNumber" h="D14DFF5D">Akcia &quot;Ísť na cieľ&quot;  odkazuje na stránku, která je mimo medze.</text>
+		<text id="op.ValidateBookmarks.msg.gotoR.invalidFile" h="5B467E20">Akcia GoToR odkazuje na neplatný súbor.</text>
+		<text id="btn.highlight" h="2485FBFF">Zvýrazniť záložku</text>
+		<text id="DlgChangeBookmarkCase" h="4D74C7D9">Zmena veľkosti písmien v záložkách</text>
+		<text id="DlgFromTOCIndentation" h="67C19628">Zmena odsadenia</text>
+		<text id="ftoc.b.indents" h="C7E1B649">Zmeniť odsadenie...</text>
+		<text id="progress.changingBookmarkCase.title" h="E01AED17">Upravujem názov záložky...</text>
+		<text id="progress.changingBookmarkCase.text" h="107628CA">Upravujem názov záložky: %1...</text>
+		<text id="ttoc.style.spaces" h="D9E4F5A0">Kapitola          1</text>
+		<text id="ttoc.style.dots" h="C13D9439">Kapitola..........1</text>
+		<text id="ttoc.style.underline" h="B52B746A">Kapitola______1</text>
+		<text id="DlgFontNames" h="57199985">Výber písma</text>
+		<text id="ftoc.l.separator" h="45CF4893">Vyberte typ oddeľovača:</text>
+		<text id="chb.ignoreDuplicates" h="B30FC50E">Ignorovať po sebe idúce duplicitné záložky</text>
+		<text id="sb.chb.ignoreCase" h="E0949C6C">Ignorovať malé a veľké písmena v texte</text>
+		<text id="chb.stopWords" h="491ED7FC">Ignorovať text obsahujúci zakázané slová</text>
+		<text id="ftoc.allIncluded" h="C994FC1B">Zahrnúť všetko</text>
+		<text id="ebttf.ch.includeSubBookmarks" h="051C6219">Spolu so všetkymi podzáložkami</text>
+		<text id="cbc.chb.IncludeChildrenBookmarks" h="051C6219">Použíť na všetky podzáložky</text>
+		<text id="atb.chb.IncludeChildren" h="0AC4CB2B">Zahrnúť všetky podúrovne</text>
+		<text id="btf.chb.insertBefore" h="21265659">Pridať tento text pred názvy záložiek:</text>
+		<text id="ttoc.l.insertAsPage" h="B68AF5B1">Vložiť obsah pred stránku:</text>
+		<text id="msg.levelDesc.warning" h="C01F9021">Nie je možné vytvoriť novú úroveň záložiek s uvedenými údajmi. Prosíme vyberte aspoň jedno kritérium zhody v Možnostiach zhody textu. Skontrolujte tiež, či vybrané prvky obsahujú údaje.</text>
+		<text id="ttoc.l.end" h="0B21D394">Posledná úroveň záložiek pre vytvorenie obsahu:</text>
+		<text id="btf.l.leadingNumbers" h="1075612C">Začiatočné čísla:</text>
+		<text id="btf.use.letters" h="6EE7E478">Písmena</text>
+		<text id="msg.levelDesc.title" h="E92EACC5">Špecifikacia úrovne</text>
+		<text id="tree.level" h="9B075A86">Úroveň:</text>
+		<text id="bld.chb.limitToPattern" h="7F0826AB">Obmedziť názvy záložiek len na zhodu so vzorom</text>
+		<text id="cbc.rbtn.LowerCase" h="82451817">malé písmená</text>
+		<text id="btf.rb.lowercase" h="82451817">malé písmená</text>
+		<text id="atb.btn.Macroses" h="81734E4F">Mac</text>
+		<text id="frbt.chb.MatchCase" h="12EB8088">Rozlišovať veľkosť písmien</text>
+		<text id="esw.chb.matchCase" h="2E5EFD7E">Rozlišovať veľkosť písma</text>
+		<text id="bld.l.matchTextCase" h="43616BDA">Zhoda textu:</text>
+		<text id="bld.chb.matchTextPattern" h="5A64E195">Zhoda s textovým vzorom</text>
+		<text id="frbt.chb.MatchWholeWord" h="FE8CC762">Iba celé slová</text>
+		<text id="esw.chb.matchWhole" h="17009870">Iba celé slová</text>
+		<text id="btf.l.maxLength" h="E79F0D68">Max. dĺžka názvu:</text>
+		<text id="bnd.gb.Main" h="4DDA9780">Názov pomenovaného cieľa</text>
+		<text id="bnd.lbl.NDTitle" h="7F7F73EC">Názov pomenovaného cieľa bude vytvorený využitím zadanej masky:</text>
+		<text id="op.ValidateBookmarks.msg.goto.noAction" h="368F0970">V zozname akcií nie je žiadna akcia Ísť na cieľ.</text>
+		<text id="btf.leadingNumbers.noChange" h="3399B0A0">Bez zmeny</text>
+		<text id="msg.oper.noChanges" h="714E1C85">Pri uskutočnení operacie nedošlo k žiadnym skutočným zmenám. Prosím skontrolujte vstupné údaje a skúste to znovu.</text>
+		<text id="bld.matchTextCase.noRestrictions" h="93089981">Bez omedzenia</text>
+		<text id="btf.use.numbers" h="E2FE5FA7">Čísla</text>
+		<text id="ebttf.ch.openContFolder" h="80BDDAAC">Otvoriť zložky s obsahom</text>
+		<text id="cbc.gb.TextCaseOptions" h="DAD7B4F4">Možnosti</text>
+		<text id="ttoc.output.numbers" h="38E0043C">Pôvodné čísla stránok</text>
+		<text id="ttoc.l.outputPagesAs" h="96E6A50A">Výstupné čísla stránky ako:</text>
+		<text id="ebttf.gb.savingResults" h="49571A59">Výstupné parametre</text>
+		<text id="ebttf.ch.overwriteExistingFiles" h="2CE2BEA4">Prepísať existujúce súbory</text>
+		<text id="benp.Label2.SelectN" h="6270721D">stránke vo vybranom rozsahu</text>
+		<text id="ttoc.output.labels" h="EAE579C1">Štítky stránky</text>
+		<text id="ttoc.l.pageMargins" h="DA4D6B15">Okraje stránky:</text>
+		<text id="ttoc.g.pageNumbering" h="21AF4605">Číslovanie stránok</text>
+		<text id="ttoc.g.pageSettings" h="D82087B4">Nastavenie stránky</text>
+		<text id="msg.bft.warning" h="726201E6">Prosím zvoľte rôzne symbily pre pole oddeľovača a akciu separatora!</text>
+		<text id="progress.preparingSelected" h="52031EDE">Príprava označených záložiek...</text>
+		<text id="atb.chb.ProcessAllLevels" h="26C3B2DF">Spracovať všetky úrovne záložiek</text>
+		<text id="progress.statusText.ProcessingBookmarks" h="3836AD6B">Spracovávam záložku %1 z %2...</text>
+		<text id="progress.bookmarksToTextFile.text" h="6E74EA26">Spracovávam záložku %1 pre export</text>
+		<text id="progress.findReplaceBookmarkText.text" h="ABC58F1D">Spracovávam záložku: %1</text>
+		<text id="ebttf.infoBtn.invalidSeparator" h="4ED40392">Vlastnosti oddeľovača musia byť zadané, ale nesmú obsahovať alfanumericke symboly alebo medzery a nasledujúce znaky @ :   # { }
+
+</text>
+		<text id="ebttf.lbl.separator" h="E9D351AC">Vlastnosti oddeľovača</text>
+		<text id="progress.parsingFile" h="B2405DA1">Načítávam štruktúru záložiek z textového súboru...</text>
+		<text id="msg.regex.error" h="D799FCBE">Chyba v analýze regex</text>
+		<text id="ftoc.chb.trimSpaces" h="5A27A063">Odstrániť dve po sebe nasledujúce medzery z názvu záložky</text>
+		<text id="ndpn.ch.deleteDests" h="C9A42F86">Odstrániť prevedené pomenované cieľe z dokumentu</text>
+		<text id="btf.chb.removeDuplicateSpaces" h="2653A648">Odstrániť duplicitné medzery</text>
+		<text id="atb.chb.RemoveSpaces" h="8452D136">Odstrániť nadmerné medzery z názvu záložky</text>
+		<text id="ftoc.chb.trimNumbers" h="40ACC5F5">Odstrániť predčíslie z názvu záložky</text>
+		<text id="msg.validateBookmarks.rename.title" h="ED9AF7FA">Premenovať záložku</text>
+		<text id="btf.l.replacePattern" h="A27464EF">Nahradiť vzor:</text>
+		<text id="frbt.lbl.ReplaceWith" h="3BE65784">Čím nahradiť:</text>
+		<text id="progress.findReplaceBookmarkText.title" h="00FEBD2A">Nahradzujem text záložky...</text>
+		<text id="ebttf.ch.resloveNamedDests" h="D1E8A9BC">Zameň pomenované ciele za čísla stránok</text>
+		<text id="DlgBookmarkAppearance" h="7544DDCE">Výsledný vzhľad</text>
+		<text id="btf.use.romanLetters" h="3D9B9671">Latinka</text>
+		<text id="btf.chb.replaceTitle" h="7CEA38A1">Nájsť  a nahradiť názvy záložiek textovými vzormi</text>
+		<text id="btf.l.searchPattern" h="FF42A775">Hľadať vzor:</text>
+		<text id="bld.l.description" h="A779C9ED">Vyberte kombináciu následujúcich atributov textu pre automatické generovanie záložiek z dokumentu:</text>
+		<text id="ebttf.gb.actionExportParams" h="DA853D34">Označ vlastnosti záložiek na export</text>
+		<text id="sb.l.selectLevel" h="F0507AA3">Vybrať úroveň záložek na triedenie:</text>
+		<text id="atb.gb.Levels" h="8A668489">Výber množstva úrovní záložek pre spracovanie</text>
+		<text id="atb.gb.SelectSource" h="3B40DBF8">Výber zdroja záložiek</text>
+		<text id="ebttf.gb.selectBookmarks" h="E2AFC2C6">Označiť záložky na export</text>
+		<text id="fn.l.selectFontNames" h="0CCEF1FA">Vybrať názvy písma:</text>
+		<text id="atb.lbl.SelectLevel" h="D1263889">Vybrať úroveň pre spracovanie:</text>
+		<text id="cbc.gb.SelectTextCase" h="F9747FC0">Pravidlo pre veľkosť písmien</text>
+		<text id="btf.l.expl" h="1312BB94">Výber vlastností textu pre pomenovanie nových záložiek:</text>
+		<text id="ba.l.expl" h="EE297184">Nastavenie vzľadu výsledných záložiek:</text>
+		<text id="cbc.cb.fromBookmarks" h="CF38CD8D">Označené</text>
+		<text id="ebttf.cb.separator.semi" h="988594A6">Bodkočiarka</text>
+		<text id="cbc.rbtn.SentenceCase" h="B26B2798">Ako vo vete</text>
+		<text id="btf.rb.sentenceCase" h="B26B2798">Ako vo vetách</text>
+		<text id="ba.chb.expand" h="BBA3BD8A">Zobraziť rozbalené (pokiaľ existujú dalšie úrovne)</text>
+		<text id="ttoc.chb.skipInvalid" h="F864C487">Preskočiť neplatné záložky</text>
+		<text id="sb.chb.sortAll" h="7BB3E98C">Triediť záložky vo všetkých úrovniach</text>
+		<text id="DlgSortBookmarks" h="8339BB6C">Triedenie záložiek</text>
+		<text id="sb.rb.sortAlpha" h="F9CD110C">Triediť záložky podľa abecedy</text>
+		<text id="sb.rb.sortByPage" h="EB2AF7E4">Triediť záložky podľa čísla stránky</text>
+		<text id="sb.chb.sortChildren" h="B1087C90">Triediť potomkov záložiek</text>
+		<text id="progress.sortingBookmarks.status" h="451C3890">Triedim záložku %1 z %2...</text>
+		<text id="progress.sortingBookmarks" h="99E846CF">Triedim záložku: %1...</text>
+		<text id="progress.sortingBookmarks.title" h="E134B46E">Triedenie záložiek</text>
+		<text id="sb.g.sortingMethod" h="93D0D863">Metóda triedenia</text>
+		<text id="sb.l.sortType" h="85828DAE">Typ triedenia:</text>
+		<text id="ttoc.tableOfContents" h="080B4CC0">Obsah</text>
+		<text id="test" h="3337B3E7">Testovací reťazec</text>
+		<text id="btf.g.textCase" h="97FCC959">Malé a veľké písmená</text>
+		<text id="tree.fontColor" h="210B1C91">Farba textu:</text>
+		<text id="bld.g.textContentRules" h="5B364747">Pravidlá pre text</text>
+		<text id="DlgBookmarkLevelDescription" h="186C1D0A">Možnosti zhody textu</text>
+		<text id="tree.textPattern" h="24121AD7">Textový vzor:</text>
+		<text id="ba.l.textStyle" h="8D5CA9B5">Štýl písma:</text>
+		<text id="esw.l.explanation" h="52F66451">Text obsahujúci zakázané slová bude ignorovaný a nebude použití pre generovanie záložiek.</text>
+		<text id="regex.error.complexity" h="76ADCA5C">Zložitosť pokusu pri zrovnaní s obvyklým výrazom prekročila predom stanovenú úroveň.</text>
+		<text id="regex.error.badrepeat" h="9091944F">Výraz obsahoval specifikátor (jeden z *?+{) ktorý nepredcháza platný obvyklý výraz.</text>
+		<text id="regex.error.backref" h="3D1C1BE5">Výraz obsahoval neplatnú spätnú referenciu.</text>
+		<text id="regex.error.collate" h="D15FB49F">Výraz obsahoval neplatný názov riadenia prvkov.</text>
+		<text id="regex.error.ctype" h="76D6C176">Výraz obsahoval neplatný názov triedy znakov.</text>
+		<text id="regex.error.range" h="CDB00023">Výraz obsahoval neplatný rozsah znakov (např., [z-a])</text>
+		<text id="regex.error.badbrace" h="4363EA7D">Výraz obsahoval neplatné medzery medzi rovnatkami: '{' a '}'.</text>
+		<text id="regex.error.brace" h="3031B0A1">Výraz obsahoval neodpovedajúce rovnatka: '{' a '}'.</text>
+		<text id="regex.error.brack" h="A41AB311">Výraz obsahoval neodpovedajúce zátvorky: '[' a ']'.</text>
+		<text id="regex.error.paren" h="11F2EE54">Výraz obsahoval neodpovedajúce guľaté zátvorky: '(' a ')'.</text>
+		<text id="msg.dlg.pathDoesntExist.warning" h="5180D1A3">Označená záložka neexistuje.Prosím zadajte správnu záložku a skuste znova. </text>
+		<text id="regex.error.syntax" h="4F399035">Chyba v syntaxi Regex.</text>
+		<text id="regex.error.stack" h="2F47E3EC">Pre zaistenie adanéj postupnosti znakov nie je dostatok voľnej pamäti.</text>
+		<text id="regex.error.space" h="2FFB9DD7">Pre operaciu s obvyklým výrazom nebol dostatok pamäti.</text>
+		<text id="msg.oper.warning" h="ABDCBB65">Počas priebehu operacie došlo k niekoľkým problémom. Prosím, skontrolujte výsledky.</text>
+		<text id="ftoc.l.offsetExpl" h="FEBB1CA6">Toto je rozdiel medzi fyzickým počtom stránok v PDF súbore a číslami vytlačených stránok, ktoré môžu byť pozitivne alebo negatívne
+.</text>
+		<text id="ftoc.l.expl" h="ACF0EB09">Táto operácia umožní pridať záložky podľa záznamov TOC (Obsah). Táto operácia môže pridať odkazy do záznamov TOC alebo využiť existujúci odkaz ako ciele záložiek.</text>
+		<text id="cbc.rbtn.TitleCase" h="2C8DBF1B">Ako v  názve</text>
+		<text id="btf.rb.titleCase" h="2C8DBF1B">Podľa názvu</text>
+		<text id="DlgBookmarkTitleFormatting" h="A87502C2">Názvy záložiek</text>
+		<text id="ttoc.l.title" h="930D3835">Názov:</text>
+		<text id="tree.fontTolerance" h="7781AAB6">Tolerancia:</text>
+		<text id="ftoc.l.topIndent" h="D0AA509A">Odsadenie zhora:</text>
+		<text id="ftoc.chb.improveDest" h="E8BCE176">Pokúsiť sa vylepšiť ciele záložiek na základe textu</text>
+		<text id="cbc.rbtn.UpperCase" h="42F820C7">VEĽKÉ PÍSMENÁ</text>
+		<text id="btf.rb.uppercase" h="42F820C7">VELKÉ PÍSMENÁ</text>
+		<text id="ttoc.chb.end" h="9F41B967">Použíť všetky úrovne záložiek</text>
+		<text id="atb.lbl.UseBookmarksFrom" h="FD8C6267">Použiť záložky z:</text>
+		<text id="ftoc.chb.useExistingLinks" h="FBEC1D32">Použíť existujúce odkazy ako ciele nových záložiek</text>
+		<text id="ebttf.rb.useDefaultFilename" h="0E7FC989">Použi názov PDF dokumentu pre uloženie výsledkov</text>
+		<text id="frbt.chb.UseRegex" h="7FC6EB4F">Použíť obvyklé výrazy</text>
+		<text id="esw.chb.useRegExp" h="7FC6EB4F">Použíť bežné výrazy</text>
+		<text id="ftoc.chb.createLevels" h="5EE7FFD8">Použíť odsadenia obsahu k vytvoreniu hierarchie záložiek</text>
+		<text id="btf.l.use" h="46DEA47A">Použiť:</text>
+		<text id="btn.validate" h="1E91E484">Skontrolovať</text>
+		<text id="DlgValidateBookmarks" h="0CD39971">Kontróla záložiek</text>
+		<text id="chb.verifyLinks" h="7DAC0E42">Overiť odkazy na externé dokumenty a súbory</text>
+		<text id="chb.warnNoGoTo" h="66B02339">Varovať pokiaľ chýba akcia GoTo v zozname akcií</text>
+		<text id="chb.warnNoActions" h="FBF997CF">Varovať pokiaľ je neplatný zoznam akcií alebo potomka</text>
+		<text id="chb.warnTitle" h="F0B5EE52">Varovať pokiaľ je názov záložky prázdny</text>
+		<text id="chb.warnGoTo" h="911FC68A">Varovať pokiaľ sú neplatné akcie GoTo</text>
+		<text id="chb.warnGoToRE" h="C0827D11">Varovať pokiaľ sú akcie GoToR a GoToE neplatné</text>
+		<text id="chb.warnLaunchURI" h="94F27C09">Varovať pokiaľ sú akcie Spustenia a URI neplatné</text>
+		<text id="chb.warnOther" h="B30D6C64">Varovať v prípade ostatných neplatných akcií</text>
+		<text id="msg.dlg.invalidFilename.warning" h="49886CB8">Názov súboru vo windowse nesmie obsahovať tieto symbolu: * ? : | &quot; &lt; &gt;</text>
+		<text id="msg.dlg.noSelectedBookmarks.warning" h="C13DD913">V dokumente nie sú vybrány žiadné záložky. Prosím, vyberte jednu alebo viacej záložiek alebo zmeňte zdroj záložiek k vykonaniu tejto operácie.</text>
+</Strings>
+</Localization>

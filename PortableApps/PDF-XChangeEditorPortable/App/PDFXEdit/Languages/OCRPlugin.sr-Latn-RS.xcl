@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220806">2.00.00</Version>
+	<Author>Jovo Vilendečić</Author>
+	<Copyright>Jovo Vilendečić</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Serbian (Latin, Serbia)" lName="Srpski" code="sr-Latn-RS" R2L="false"/>
+	<Module name="OCRPlugin" namespace="ocr" version="6.0.322.7"/>
+	<Strings>
+		<text id="OrientationDetection" h="40F7AA0E">Automatska detekcija orijentacija</text>
+		<text id="accuracy.high" h="21A95620">Visoka</text>
+		<text id="accuracy.low" h="845E3D8C">Niska</text>
+		<text id="accuracy.medium" h="91153342">Srednja</text>
+		<text id="cb.cuenoany" h="899F9872">Nijedan nije instaliran</text>
+		<text id="cmd.name" h="6DAA8A17">OCR strana...</text>
+		<text id="l.accuracy" h="3B2028D8">&amp;Tačnost:</text>
+		<text id="l.language" h="7B707020">&amp;Jezik:</text>
+		<text id="lnk.more" h="2E2CCD84">&lt;a=1&gt;Više jezika...&lt;/a&gt;</text>
+		<text id="prefs.title" h="D0975E29">OCR opcije</text>
+	</Strings>
+</Localization>

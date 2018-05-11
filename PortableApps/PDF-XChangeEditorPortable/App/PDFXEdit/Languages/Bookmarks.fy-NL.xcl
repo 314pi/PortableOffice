@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123215804">2.00.00</Version>
+	<Author>Berend Ytsma</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Western Frisian (Netherlands)" lName="Frysk" code="fy-NL" R2L="false"/>
+	<Module name="BookmarksPlugin" namespace="bp" version="7.0.323.3"/>
+	<Strings>
+		<text id="DlgAddExcludedWords" h="BED549D0">Nije útsletten wurd(en) taheakje</text>
+		<text id="DlgAddTextToBookmark" h="E5B26485">Tekst oan blêdwizertitel taheakje</text>
+		<text id="DlgAutoGenerateBookmarks.Title" h="0E85373B">Blêdwizers wurde generearje fan side tekst</text>
+		<text id="DlgBookmarkAppearance" h="7544DDCE">Einresultaat ferskining</text>
+		<text id="DlgBookmarkEveryNthPage" h="B6869582">Blêdwizer meitsje fan safolste side </text>
+		<text id="DlgBookmarkLevelDescription" h="186C1D0A">Oerienkommende tekst opsjes</text>
+		<text id="DlgBookmarkPropSheet" h="862C67E7">Blêdwizer generaasje eigenskippen</text>
+		<text id="DlgBookmarkTitleFormatting" h="A87502C2">Titel opmaak</text>
+		<text id="DlgBookmarksToNamedDests" h="8A0957E5">Nei neamde bestimmings oersette</text>
+		<text id="DlgBookmarksToTextFile" h="29F18B82">Blêdwizer(s) eksportearje nei tekst triem</text>
+		<text id="DlgChangeBookmarkCase" h="4D74C7D9">Blêdwizer gefal feroarje</text>
+		<text id="DlgEditStopWords" h="911413E7">Stopwurden bewurkje</text>
+		<text id="DlgFindReplaceBookmarkText" h="733A7FC1">Sykjen en ferfang blêdwizer tekst</text>
+		<text id="DlgFontNames" h="3C8B1F88">Lettertype namme(n) kieze</text>
+		<text id="DlgFromTOC" h="AC2ED85C">Blêdwizer ynhâldsopjefte</text>
+		<text id="DlgFromTOCIndentation" h="12688622">Ofstân feroarje</text>
+		<text id="DlgFromTextFile" h="B3799046">Blêdwizers oanmeitsje fan tekst triem</text>
+		<text id="DlgNamedDestsToPageNumbers" h="9CAE5E39">Neamde bestimmings omsette nei algemiene bestimmings</text>
+		<text id="DlgSheetBttfBookmarkProps" h="4B2F0AA2">Blêdwizer eigenskippen</text>
+		<text id="DlgSheetBttfSelectBookmarks" h="30673BCD">Algemien</text>
+		<text id="DlgSortBookmarks" h="8339BB6C">Blêdwizers sortearje</text>
+		<text id="DlgToTOC" h="2B3E9BF1">Ynhâldsopjefte bouwe</text>
+		<text id="DlgValidateBookmarks" h="0CD39971">Blêdwizers jildich ferklearje</text>
+		<text id="atb.btn.Macroses" h="81734E4F">Mac</text>
+		<text id="atb.chb.IncludeChildren" h="0AC4CB2B">Alle sub-nivo's</text>
+		<text id="atb.chb.ProcessAllLevels" h="26C3B2DF">Alle blêdwizer nivo's ferwurkje</text>
+		<text id="atb.chb.RemoveSpaces" h="ABDEA5BC">Oerdadige spaasjes fan orizjinele blêdwizer titel fuortsmite</text>
+		<text id="atb.gb.AddText" h="E21C9B55">Tekst taheakje</text>
+		<text id="atb.gb.Levels" h="8A668489">Selektearje blêdwizers nivo foar ferwurkjen</text>
+		<text id="atb.gb.SelectSource" h="1E2E96A4">Blêdwizer boarne selektearje</text>
+		<text id="atb.lbl.BookmarkTitle" h="2DC1254E">"Blêdwizertitel"</text>
+		<text id="atb.lbl.Prefix" h="A51A4726">Foarheaksel oan blêdwizertitel taheakje</text>
+		<text id="atb.lbl.SelectLevel" h="D1263889">Selektearje nivo</text>
+		<text id="atb.lbl.Suffix" h="C27741D5">Heaksel oan blêdwizertitel taheakje</text>
+		<text id="atb.lbl.UseBookmarksFrom" h="E770326C">Blêdwizers brûke:</text>
+		<text id="ba.chb.expand" h="BBA3BD8A">Utwreide sjen litte (alle bern sjen litte)</text>
+		<text id="ba.l.expl" h="EE297184">Fisuele ferskining fan it einresultaat fan de blêdwizers:</text>
+		<text id="ba.l.textStyle" h="8D5CA9B5">Tekst styl:</text>
+		<text id="benp.Gb.Main" h="4B2F0AA2">Blêdwizer eigenskippen</text>
+		<text id="benp.Label.TitleTemplate" h="5E999567">Blêdwizer titel sjabloan:</text>
+		<text id="benp.Label1.SelectN" h="8626E4EA">Oanmeitsje eltse</text>
+		<text id="benp.Label2.SelectN" h="6270721D">side yn de selektearre side berik</text>
+		<text id="benp.infoBtn.invalidMacro" h="1561C0F2">Dizze string befettet in net definiearre macro namme dy negearre wurde sil</text>
+		<text id="bft.l.actionSeparator" h="5C05CE1E">Aksje parameter skieder:</text>
+		<text id="bft.l.separator" h="A4269065">Fjild skieder:</text>
+		<text id="bld.btn.selStyle" h="EE213BC5">Styl fan de selektearre tekst brûke</text>
+		<text id="bld.chb.fontNames" h="AB457B23">Lettertype(n):</text>
+		<text id="bld.chb.limitToPattern" h="7F0826AB">Blêdwizer titels beheine oan de lykjende patroanen allinne</text>
+		<text id="bld.chb.matchTextPattern" h="5A64E195">Tekst patroan lykje</text>
+		<text id="bld.chb.multilineBookmarks" h="CB4817D1">Blêdwizer titel oer meardere rigels tastean</text>
+		<text id="bld.g.textContentRules" h="5B364747">Tekst ynhâld regels</text>
+		<text id="bld.l.description" h="2F770A5B">Selektearje in kombinaasje fan de folgjende tekst attributen om automatysk blêdwizers te generearje fan tekst yn it dokumint:</text>
+		<text id="bld.l.matchTextCase" h="43616BDA">Tekst werjefte lykje</text>
+		<text id="bld.matchTextCase.allCapital" h="D4E8E731">Alle tekens binne haadletters</text>
+		<text id="bld.matchTextCase.firstCapital" h="CAA2E79D">Earste karakter is in Haadletter</text>
+		<text id="bld.matchTextCase.firstDigit" h="42E73545">Earste karakter is in Sifer</text>
+		<text id="bld.matchTextCase.noRestrictions" h="93089981">Gjin beheinings</text>
+		<text id="bnd.gb.Main" h="4DDA9780">Neamde bestimmings titel</text>
+		<text id="bnd.lbl.NDTitle" h="7F7F73EC">Neamde bestimmings titel sil oanmakke wurde brûkende in masker:</text>
+		<text id="btf.chb.insertAfter" h="DD7B743E">Tekst taheakje nei eltse titel</text>
+		<text id="btf.chb.insertBefore" h="CBDD1CF8">Tekst ynfoegje foar eltse titel</text>
+		<text id="btf.chb.removeDuplicateSpaces" h="2653A648">Dûbele spaasjes fuortsmite</text>
+		<text id="btf.chb.replaceLineBreaks" h="0C51EEEB">Rigeleinen ferfange troch spaasjes</text>
+		<text id="btf.chb.replaceTitle" h="097EF3C2">Blêdwizer titel sykje en ferfange mei tekst patroanen</text>
+		<text id="btf.g.advancedFormatting" h="9130441A">Avansearre opmaak</text>
+		<text id="btf.g.textCase" h="97FCC959">Tekst werjefte</text>
+		<text id="btf.l.characters" h="189C88D2">(karakters)</text>
+		<text id="btf.l.expl" h="169A084A">Tekst eigenskippen selektearje dy tapast wurde sille op de nije blêdwizer titels:</text>
+		<text id="btf.l.leadingNumbers" h="074A1A51">Wichtige nûmers:</text>
+		<text id="btf.l.maxLength" h="A52EC501">Maksimale titel lingte:</text>
+		<text id="btf.l.replacePattern" h="B54B1F92">Ferfang patroan:</text>
+		<text id="btf.l.searchPattern" h="E87DDC08">Sykjen patroan:</text>
+		<text id="btf.l.use" h="46DEA47A">Brûkme:</text>
+		<text id="btf.leadingNumbers.noChange" h="3399B0A0">Gjin feroaring</text>
+		<text id="btf.rb.doNotChange" h="4CBF2C1B">Net feroarje</text>
+		<text id="btf.rb.lowercase" h="82451817">gjin haadletters</text>
+		<text id="btf.rb.sentenceCase" h="B26B2798">Sin werjefte</text>
+		<text id="btf.rb.titleCase" h="2C8DBF1B">Titel werjefte</text>
+		<text id="btf.rb.uppercase" h="42F820C7">Haadletters</text>
+		<text id="btf.use.letters" h="6EE7E478">Karakters</text>
+		<text id="btf.use.numbers" h="E2FE5FA7">Nûmers</text>
+		<text id="btf.use.romanLetters" h="290A50ED">Romeinske tekens</text>
+		<text id="btn.add.custom" h="3080663C">Oanpast taheakje...</text>
+		<text id="btn.highlight" h="2485FBFF">Blêdwizer markearje</text>
+		<text id="btn.validate" h="1E91E484">Jildich ferklearje</text>
+		<text id="cbc.aew.label" h="7EC386C0">Nije útsletten wurd(en) taheakje troch ien wurd de rigel yn te fieren (druk "enter" nei elts wurd):</text>
+		<text id="cbc.cb.fromBookmarks" h="CF38CD8D">Selektearre</text>
+		<text id="cbc.cb.fromDocument" h="424CAFC5">Alle blêdwizers</text>
+		<text id="cbc.chb.EnterCustomWordList" h="EB8ACE1B">In list mei wurden ynfiere dy't net ferwurke wurde sil</text>
+		<text id="cbc.chb.IncludeChildrenBookmarks" h="051C6219">Alle sub-blêdwizers ynslute</text>
+		<text id="cbc.gb.SelectTextCase" h="F9747FC0">Tekst gefal kieze</text>
+		<text id="cbc.gb.TextCaseOptions" h="DAD7B4F4">Opsjes</text>
+		<text id="cbc.list.header" h="647D6FC4">Utsletten wurden</text>
+		<text id="cbc.rbtn.LowerCase" h="82451817">lytse letters</text>
+		<text id="cbc.rbtn.SentenceCase" h="B26B2798">Sin</text>
+		<text id="cbc.rbtn.TitleCase" h="2C8DBF1B">Titel</text>
+		<text id="cbc.rbtn.UpperCase" h="42F820C7">HAADLETTERS</text>
+		<text id="chb.ignoreDuplicates" h="B30FC50E">Opienfolgjende dûbele blêdwizers negearje</text>
+		<text id="chb.stopWords" h="491ED7FC">Tekst mei stopwurden negearje</text>
+		<text id="chb.verifyLinks" h="7A46B598">Keppelings nei eksterne triemmen kontrolearje</text>
+		<text id="chb.warnGoTo" h="911FC68A">Warskôgje oer ûnjildige GoTO aksjes</text>
+		<text id="chb.warnGoToRE" h="C0827D11">Warskôgje oer ûnjildige GoToR en GoToE aksjes</text>
+		<text id="chb.warnLaunchURI" h="94F27C09">Warskôgje oer ûnjildige útfier en URI aksjes</text>
+		<text id="chb.warnNoActions" h="FBF997CF">Warskôgje oer lege aksje list en gjin jildige subitems</text>
+		<text id="chb.warnNoGoTo" h="66B02339">Warskôgje oer net oanwêzige GoTo aksje yn de aksje list</text>
+		<text id="chb.warnOther" h="B30D6C64">Warskôgje oer oare ûnjildige aksjes</text>
+		<text id="chb.warnTitle" h="F0B5EE52">Warskôgje oer lege titel</text>
+		<text id="cmd.addAGBLevel" h="928E2BB5">Selektearre tekst styl yn blêdwizer generaasje brûke...</text>
+		<text id="cmd.addTextToBookmarkTitle" h="C4C93738">Tekst oan blêdwizertitels taheakje...</text>
+		<text id="cmd.addTextToBookmarkTitle.short" h="E21C9B55">Tekst taheakje</text>
+		<text id="cmd.addTextToBookmarkTitle.tip" h="B412507B">Sil foar- en efterheaksels taheakje oan de blêdwizer titels.</text>
+		<text id="cmd.changeBookmarkCase" h="359544B0">Blêdwizer haadletters feroarje...</text>
+		<text id="cmd.changeBookmarkCase.short" h="BC4AE60A">Haadletters feroarje</text>
+		<text id="cmd.changeBookmarkCase.tip" h="48522DE3">Haadletters fan de blêdwizer titels feroarje.</text>
+		<text id="cmd.findReplaceBookmarkText" h="AF996007">Sykje en ferfang blêdwizer tekst...</text>
+		<text id="cmd.findReplaceBookmarkText.short" h="9F35A871">Sykje en ferfange</text>
+		<text id="cmd.findReplaceBookmarkText.tip" h="7ED81F66">Fynt en ferfangt eleminten fan tekst yn de blêdwizer titels.</text>
+		<text id="cmd.sort" h="B1FFF012">Blêdwizers sortearje...</text>
+		<text id="cmd.sort.short" h="579162B0">Sortearje</text>
+		<text id="cmd.sort.tip" h="90B74C06">Sortearje de blêdwizers neffens de kritearia.</text>
+		<text id="cmd.validate" h="E61D60D2">Blêdwizers jildich ferklearje...</text>
+		<text id="cmd.validate.short" h="1E91E484">Kontrolearje</text>
+		<text id="cmd.validate.tip" h="AF7C0DD0">Kontrolearret blêdwizers foar jildigens neffens de kritearia.</text>
+		<text id="cmd.toTOC" h="9B7AEEEA">Ynhâldsopjefte bouwe...</text>
+		<text id="cmd.toTOC.short" h="2B3E9BF1">Ynhâldsopjefte bouwe</text>
+		<text id="cmd.toTOC.tip" h="E92DA1A8">Makket in ynhâldsopjefte basearre op de blêdwizer struktuer en siden wêrhinne se ferwize.</text>
+		<text id="cmd.bookmarksToNamedDests" h="9A9E5CF2">Oersette nei neamde bestimmings...</text>
+		<text id="cmd.bookmarksToNamedDests.short" h="9226CE11">Oersette nei neamde best.</text>
+		<text id="cmd.bookmarksToNamedDests.tip" h="76CA39A1">Set algemiene bestimmings yn de blêdwizer aksje list oer nei de neamde bestimmings. Dan as de siden ferpleatst of wiske wurde, sille de blêdwizers nei deselde siden ferwize as se earst dienen.</text>
+		<text id="cmd.bookmarksToTextFile" h="DBEBEEB8">Blêdwizers eksportearje nei tekst triem...</text>
+		<text id="cmd.bookmarksToTextFile.short" h="738D44A8">Eksportearje nei tekst triem</text>
+		<text id="cmd.bookmarksToTextFile.tip" h="2F1DD236">De blêdwizer struktuer as tekst triem bewarje.</text>
+		<text id="cmd.bookmarksToHtmlFile" h="EFF75744">Blêdwizers eksportearje nei HTML...</text>
+		<text id="cmd.bookmarksToHtmlFile.short" h="76C20816">Eksportearje nei HTML</text>
+		<text id="cmd.bookmarksToHtmlFile.tip" h="8968844D">De blêdwizer struktuer as HTML triem bewarje.</text>
+		<text id="cmd.namedDestsToPageNumbers" h="3A651CA9">Neamde bestimmings omsette nei algemiene bestimmings...</text>
+		<text id="cmd.namedDestsToPageNumbers.short" h="74C22304">Neamde best. nei algemien</text>
+		<text id="cmd.namedDestsToPageNumbers.tip" h="2ABF8034">Set neamde bestimmings yn de blêdwizer aksje list oer nei de algemiene bestimmings. Dan as de siden ferpleatst of wiske wurde, sille de blêdwizers nei deselde siden ferwize nei de oerienkommende bestimming side nûmers.</text>
+		<text id="cmd.bookmarkEveryNthPage" h="940FCD39">Meitsje blêdwizer fan elke safolste side...</text>
+		<text id="cmd.bookmarkEveryNthPage.short" h="71BCE832">Blêdwizers elke safolste side</text>
+		<text id="cmd.bookmarkEveryNthPage.tip" h="B60E23D7">Meitsje blêdwizers yn relaasje ta dokumint side nûmers.</text>
+		<text id="cmd.generate" h="2147DF79">Blêdwizers generearje fan side tekst...</text>
+		<text id="cmd.generate.short" h="8BE514A6">Fan side tekst</text>
+		<text id="cmd.generate.tip" h="2A03253C">Makket blêdwizer fan de aktuele dokumint tekst troch brûkme te meitsjen fan de lettertype styl en parameters.</text>
+		<text id="cmd.fromTOC" h="D15400EB">Blêdwizer fan ynhâldsopjefte oanmeitsje...</text>
+		<text id="cmd.fromTOC.short" h="3AB39C50">Fan ynhâldsopjefte</text>
+		<text id="cmd.fromTOC.tip" h="D4170828">Makket blêdwizer fan in besteande ynhâldsopjefte. De ynhâldsopjefte moat earst selektearre wurde mei de Tekst seleksje om dit útfiere te kinnen.</text>
+		<text id="cmd.fromTextFile" h="55CA46BC">Blêdwizers generearje fan tekst triem...</text>
+		<text id="cmd.fromTextFile.short" h="3619B3DB">Fan tekst triem</text>
+		<text id="cmd.fromTextFile.tip" h="11167525">Makket blêdwizers fan de tekst triem. Tink derom dat de tekst triem gegevens opmaak de regels fan de ekport blêdwizers nei tekst triem funksje folgje moat.</text>
+		<text id="cmd.name" h="7CDCE9BE">&amp;Blêdwizers</text>
+		<text id="cmd.macro.firstLine" h="613F14A5">Side earste tekstline</text>
+		<text id="cmd.macro.hierIndex" h="7DCA5F4D">Hierargyske yndeks</text>
+		<text id="cmd.macro.hierTitle" h="0E7B4B6F">Blêdwizer fan hierargyske titel</text>
+		<text id="cmd.macro.indexInParent" h="1B41AFB1">Yndeks yn haad</text>
+		<text id="cmd.macro.label" h="EEE40FF3">Side lebel</text>
+		<text id="cmd.macro.launch" h="87D9EB8D">Triem om te iepenjen</text>
+		<text id="cmd.macro.level" h="B863033F">Blêdwizer nivo</text>
+		<text id="cmd.macro.namedDest" h="C4E8D8F5">Neamde bestimming</text>
+		<text id="cmd.macro.sequentialNum" h="CDF4EA5E">Opfolgjende nûmer</text>
+		<text id="cmd.macro.title" h="3AB782A4">Blêdwizer titel</text>
+		<text id="cmd.macro.uri" h="6C21F7EF">Webkeppeling op te iepenjen</text>
+		<text id="ebttf.actType.all" h="B8B21253">Blêdwizers mei alle typen fan ferwizing aksjes</text>
+		<text id="ebttf.actType.goto" h="05B4C93C">Blêdwizers mei 'Gean nei side;  aksjes</text>
+		<text id="ebttf.actType.gotoR" h="41E1955E">Blêdwizers mei 'Gean nei op ôfstân' aksjes</text>
+		<text id="ebttf.actType.js" h="07676EBA">Blêdwizers mei JavaSkript aksjes</text>
+		<text id="ebttf.actType.launch" h="38537D36">Blêdwizers mei 'iepenje triem' aksjes</text>
+		<text id="ebttf.actType.uri" h="F39B51AE">Blêdwizers mei 'iepenje web keppeling' aksjes</text>
+		<text id="ebttf.cb.separator.comma" h="827998F7">Komma</text>
+		<text id="ebttf.cb.separator.semi" h="988594A6">Puntkomma</text>
+		<text id="ebttf.ch.doNotEscape" h="09B53F9F">De symboalen lykas @ # { }  : ensfh. der net útfilterje.</text>
+		<text id="ebttf.ch.expClosedState" h="46E4EC7E">Blêdwizer strucktuer mei 'sluten' tastân eksportearje</text>
+		<text id="ebttf.ch.expDetailedGotoDescr" h="18B9C243">Detailearre bestimmings omskriuwing eksportearje</text>
+		<text id="ebttf.ch.exportActions" h="3444FE51">Blêdwizer aksjes eksportearje</text>
+		<text id="ebttf.ch.exportGoto" h="37493654">De side wêr't de blêdwizer nei wiisd eksportearje nei</text>
+		<text id="ebttf.ch.exportGotoR" h="92C06BA6">Op 'ôfstân gean nei' aksje omskriuwing eksportearje</text>
+		<text id="ebttf.ch.exportJS" h="9362EAE3">JavaSkript aksje koade eksportearje</text>
+		<text id="ebttf.ch.exportLaunch" h="1B39BF89">'Iepen triem' aksje omskriuwing eksportearje</text>
+		<text id="ebttf.ch.exportStyle" h="A6713F10">Tekst styl en kleur eigenskippen fan blêdwizer eksportearje</text>
+		<text id="ebttf.ch.exportWebLinks" h="3C61424C">Web-keppelings eksportearje</text>
+		<text id="ebttf.ch.includeSubBookmarks" h="051C6219">Alle sub-blêdwizers ynslute</text>
+		<text id="ebttf.ch.openContFolder" h="80BDDAAC">Ynsletten map iepenje</text>
+		<text id="ebttf.ch.overwriteExistingFiles" h="29981774">Besteande triem(men) oerskriuwe</text>
+		<text id="ebttf.ch.resloveNamedDests" h="D1E8A9BC">Neamde bestimmings omsette nei sidenûmers</text>
+		<text id="ebttf.gb.actionExportParams" h="DA853D34">Selektearje blêdwizer eigenskippen om te eksportearje</text>
+		<text id="ebttf.gb.savingResults" h="49571A59">Utfier parameters</text>
+		<text id="ebttf.gb.selectBookmarks" h="E2AFC2C6">Blêdwizers selektearje om te eksportearjen</text>
+		<text id="ebttf.infoBtn.doNotEscape" h="93A6DD6C">It net útfilterje fan de tsjinst symboalen is net oanrikkemandearre as jo de útfier triem funksje "Blêdwizers fan tekst triem oanmeitsje" yn de takomst brûke wolle.</text>
+		<text id="ebttf.infoBtn.invalidSeparator" h="44875D1F">De skiedings eigenskippen mei net leech wêze, gjin alfanûmeryk of spaasje symboalen befetsje en ek net ien fan de folgjende tekens @ # : { } </text>
+		<text id="ebttf.lbl.folder" h="3F9ED2F9">Map:</text>
+		<text id="ebttf.lbl.separator" h="E9D351AC">Skiedings eigenskippen:</text>
+		<text id="ebttf.rb.exportActionTypes" h="533F8EA6">Blêdwizers dy keppeling aksje útfiere eksportearje</text>
+		<text id="ebttf.rb.exportAll" h="8F2ED544">Alles eksportearje</text>
+		<text id="ebttf.rb.exportSelected" h="69FB5145">Selektearje blêdwizers eksportearje</text>
+		<text id="ebttf.rb.useDefaultFilename" h="0E7FC989">PDF-dokumint triemnamme brûke om resultaten te bewarje</text>
+		<text id="esw.chb.matchCase" h="2E5EFD7E">Tekst werjefte lykje</text>
+		<text id="esw.chb.matchWhole" h="17009870">Hiele wurden oerienkomme</text>
+		<text id="esw.chb.useRegExp" h="7FC6EB4F">Reguliere útdrukking brûke</text>
+		<text id="esw.l.explanation" h="2C312B17">Tekst dy't dizze 'stopwurden' befettet sille negearre wurde en net brûkt wurde om blêdwizers oan te meitsjen.</text>
+		<text id="fn.l.selectFontNames" h="0CCEF1FA">Selektearje lettertype namme(n):</text>
+		<text id="frbt.chb.MatchCase" h="12EB8088">Oerienkommend</text>
+		<text id="frbt.chb.MatchWholeWord" h="FE8CC762">Oerienkommend hiele wurd</text>
+		<text id="frbt.chb.UseRegex" h="7FC6EB4F">Algemiene útdrukkings brûke</text>
+		<text id="frbt.gb.FindReplace" h="BA012728">Sykje en ferfang opsje</text>
+		<text id="frbt.lbl.FindWhat" h="D0A8A2C5">Sykje wat:</text>
+		<text id="frbt.lbl.ReplaceWith" h="3BE65784">Ferfang mei:</text>
+		<text id="ftoc.allIncluded" h="C994FC1B">Alles ynfoegje</text>
+		<text id="ftoc.b.indents" h="48800D32">Ofstânnen feroarje...</text>
+		<text id="ftoc.chb.addBookmarks" h="CBBAE768">Blêdwizers oan siden taheakje brûkende de ynhâldsopjefte</text>
+		<text id="ftoc.chb.addLinks" h="68456DBA">Keppelings oan de ynhâldsopjefte taheakje</text>
+		<text id="ftoc.chb.createLevels" h="58CF083A">Ynhâldsopjefte ynsprong brûke om blêdwizer struktuer oan te meitsjen</text>
+		<text id="ftoc.chb.improveDest" h="417AD7B0">Besykje de blêdwizers bestimmings basearre op tekst te ferbetterjen </text>
+		<text id="ftoc.chb.trimNumbers" h="40ACC5F5">Foarheaksel nûmers fan blêdwizer titels fuortsmite</text>
+		<text id="ftoc.chb.trimSpaces" h="5A27A063">Opfolgjende spaasjes fan blêdwizer titels fuortsmite</text>
+		<text id="ftoc.chb.useExistingLinks" h="E214DBE7">Besteande keppelings as nije blêdwizers bestimmings brûke</text>
+		<text id="ftoc.l.bottomIndent" h="C983AD6F">Under ôfstân:</text>
+		<text id="ftoc.l.expl" h="1FAB779E">Dizze aksje sil blêdwizers taheakje oan siden basearre op de selektearre ynhâldsopjefte. As opsje, kin dizze aksje keppelings taheakje oan de ynhâldsopjefte of besteande keppelings brûke as blêdwizer bestimming.</text>
+		<text id="ftoc.l.offsetExpl" h="9D6C25F6">Der is in ferskil tusken fysike nûmers yn it dokumint, en de printe nûmers hokker posityf of negatyf wêze kinne.</text>
+		<text id="ftoc.l.pageOffset" h="9E563407">Side ôfstân:</text>
+		<text id="ftoc.l.separator" h="45CF4893">Skiedings type kieze:</text>
+		<text id="ftoc.l.topIndent" h="FA827580">Boppe ôfstân:</text>
+		<text id="msg.bft.warning" h="726201E6">Meitsje de kar foar ferskillende symboalen foar fjild skiedingsteken en aksje skieder!</text>
+		<text id="msg.cbc.excludedwords.add.title" h="9ADE883B">Nij útsletten wurd taheakje</text>
+		<text id="msg.cbc.excludedwords.caption" h="6B29D4B4">Utsletten wurd ynfiere:</text>
+		<text id="msg.cbc.excludedwords.edit.title" h="82F8AAA6">Selektearre útsletten wurd bewurkje</text>
+		<text id="msg.dlg.bookmarksToTextFile.done" h="8E1397E9">Blêdwizers binne mei sukses nei eksportearre.</text>
+		<text id="msg.dlg.emptyFilename.warning" h="96A438DA">Triemnamme kin net leech wêze.</text>
+		<text id="msg.dlg.invalidFilename.slashes" h="626318B0">De triemnamme mei opienfolgjend net  of / symboalen befetsje, ek net einje mei yn fan harren.</text>
+		<text id="msg.dlg.invalidFilename.warning" h="46CD566C">Windows ferbied triemnammen hokkerien fan de folgjende symboalen befetsje: * ? : | " &lt; &gt;</text>
+		<text id="msg.dlg.noActionsSelected.warning" h="933F1901">"Blêdwizer aksjes eksportearje" karfakje is selektearre mei gjin aksje type oantsjutte. Selektearje ien of mear aksjes om te eksportearjen of set it karfakje wer út.</text>
+		<text id="msg.dlg.noSelectedBookmarks.warning" h="21F37C67">Gjin blêdwizers selektearre. Selektearje ien of meardere blêdwizers of feroarje  "Blêdwizer boarne"  parameter nei "Alle blêdwizers".</text>
+		<text id="msg.dlg.pathDoesntExist.warning" h="0804B942">De map dy't jo oantsjutte ha bestiet net. Selektearje in jildige bestimmingsmap en besykje op 'e nij.</text>
+		<text id="msg.font.addCustom.caption" h="75533687">Nije PDF lettertype namme ynfiere:</text>
+		<text id="msg.font.addCustom.title" h="06AFFCAB">Nije oanpaste lettertype taheakje</text>
+		<text id="msg.frbt.result.bookmarksCount" h="EE00AC0B">It sykjen is foltôge. Totale tal fan oanpaste blêdwizer(s): %1</text>
+		<text id="msg.frbt.result.noBookmarksModified" h="84BE491B">It sykjen is foltôge. Gjin blêdwizers binne oanpast.</text>
+		<text id="msg.levelDesc.title" h="E92EACC5">Nivo spesifikaasjes</text>
+		<text id="msg.levelDesc.warning" h="86A85979">It is net mooglik om mij dizze gegevens in nij blêdwizer nivo oan te meitsjen. Kies yn elts gefal ien fan de oerienkommende kriteria's yn de Oerienkommende tekst opsjes. Sjoch ek nei of de selektearre eleminten gegevens befetsje.</text>
+		<text id="msg.oper.noChanges" h="5777DD79">Der binne gjin feroarings dien. Sjoch jo ynfier gegevens nei en besykje nochris.</text>
+		<text id="msg.oper.warning" h="ABDCBB65">Der wie wat swierigens ûnder it útfieren fan de operaasje. Kontrolearje it resultaat.</text>
+		<text id="msg.regex.error" h="D799FCBE">Regex ferwurkings flater</text>
+		<text id="msg.stopWords.add.title" h="F6B54725">Nije stopsin taheakje</text>
+		<text id="msg.stopWords.caption" h="E2BC1B9E">Nij "stopwurd" of "stopsin" ynfiere:</text>
+		<text id="msg.stopWords.edit.title" h="AFE604DF">Selektearre stopsin bewurkje</text>
+		<text id="msg.validateBookmarks.delete.caption" h="ED4457F4">Wolle jo de selektearre blêdwizer(s) en subitems wiskje?</text>
+		<text id="msg.validateBookmarks.delete.title" h="8FF00765">Unjildige blêdwizer wiskje</text>
+		<text id="msg.validateBookmarks.rename.caption" h="CE842D61">Nije blêdwizer namme unfiere:</text>
+		<text id="msg.validateBookmarks.rename.title" h="ED9AF7FA">Blêdwizer omneame</text>
+		<text id="ndpn.ch.deleteDests" h="BC12FBF0">Omsetten neamde bestimmings fuortsmite fan dokumint</text>
+		<text id="op.GenerateBookmarks" h="05382BCA">Blêdwizers generearje</text>
+		<text id="op.ValidateBookmarks.msg.emptyActionsList" h="A0A0065C">Blêdwizer hat gjin aksje der oan tawiisd</text>
+		<text id="op.ValidateBookmarks.msg.emptyTitle" h="83F3E965">Blêdwizer titel is leech.</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidDestName" h="81A40483">GoTo aksje ferwiisd nei ûnjildige neamde bestimming.</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidPageNumber" h="C8941D79">GoTo aksje ferwiisd nei side dy't net te berikken is.</text>
+		<text id="op.ValidateBookmarks.msg.goto.noAction" h="368F0970">Gjin GoTo akjse yn de aksje list.</text>
+		<text id="op.ValidateBookmarks.msg.gotoE.invalidTargetPath" h="9D8A50F1">It bestimmings paad is leech of net oanwêzich yn de GoToE aksje.</text>
+		<text id="op.ValidateBookmarks.msg.gotoR.invalidFile" h="76CCA61D">GoToR aksje ferwiisd nei ûnjildige triem.</text>
+		<text id="op.ValidateBookmarks.msg.gotoR.invalidPath" h="560614BE">Paad ta de triem is net jildich.</text>
+		<text id="op.ValidateBookmarks.msg.invalidAction" h="84877FDA">%1 aksje is ûnjildich.</text>
+		<text id="progress.BookmarkEveryNthPage.title" h="DA523087">Blêdwizer fan siden meitsje...</text>
+		<text id="progress.addTextToBookmarkTitle.text" h="BE27C5C9">Taheakje fan tekst oan blêdwizer: %1...</text>
+		<text id="progress.addTextToBookmarkTitle.title" h="EC7EB408">Taheakje fan tekst oan blêdwizers...</text>
+		<text id="progress.addingBookmark" h="45BBB17E">Taheakje fan blêdwizers: %1 fan 'e %2...</text>
+		<text id="progress.bookmarksToHtmlFile.status" h="AF1901AD">Blêdwizers %1 fan 'e %2  wurde eksportearre</text>
+		<text id="progress.bookmarksToHtmlFile.text" h="4DD531FF">Blêdwizer %1 wurdt eksportearre</text>
+		<text id="progress.bookmarksToHtmlFile.title" h="E1D21FEE">Blêdwizers wurde eksportearre nei HTML...</text>
+		<text id="progress.bookmarksToNamedDests.text" h="CE73819F">Omsette fan blêdwizer: %1...</text>
+		<text id="progress.bookmarksToNamedDests.title" h="8DB00717">Omsette nei neamde bestimmings...</text>
+		<text id="progress.bookmarksToTextFile.text" h="6E74EA26">Ferwurkjen fan blêdwizers foar eksportearjen: %1</text>
+		<text id="progress.bookmarksToTextFile.title" h="D2C04472">Blêdwizers wurde eksportearre nei tekst triem...</text>
+		<text id="progress.calculatingBookmarks" h="4AC26E12">Blêdwizers wurde telt...</text>
+		<text id="progress.changingBookmarkCase.text" h="107628CA">Feroarje fan blêdwizer gefal: %1 ...</text>
+		<text id="progress.changingBookmarkCase.title" h="E01AED17">Feroarje fan blêdwizer gefal...</text>
+		<text id="progress.findReplaceBookmarkText.text" h="ABC58F1D">Ferwurkje fan blêdwizer: %1</text>
+		<text id="progress.findReplaceBookmarkText.title" h="00FEBD2A">Blêdwizer tekst ferfange...</text>
+		<text id="progress.generateBookmarks" h="3D5E30ED">Blêdwizers wurde generearre fan side %1...</text>
+		<text id="progress.generatingBookmarks" h="CFF0F2A9">Blêdwizers wurde generearre</text>
+		<text id="progress.generatingBookmarks.label" h="043CF7B1">Taheakje fan blêdwizer: %1...</text>
+		<text id="progress.generatingLevels" h="07A22443">Nivo's wurde generearre fan blêdwizers...</text>
+		<text id="progress.generatingTOC" h="A438CB9C">Ynhâldsopjefte wurde generearre</text>
+		<text id="progress.generatingTOCFromBookmark" h="C9213435">Ynhâld wurde generearre fan blêdwizer: %1...</text>
+		<text id="progress.namedDestsToPageNumbers.deleteNds" h="5DFFFF06">Neamde bestimmings wurde wiske...</text>
+		<text id="progress.namedDestsToPageNumbers.title" h="4615CB0B">Neamde bestimmings omsette nei side nûmers...</text>
+		<text id="progress.parsingFile" h="B2405DA1">De blêdwizer struktuer wurd lêzen út de tekst triem...</text>
+		<text id="progress.precalculatingPages" h="DB83BEF7">Side(n) wurde oanmakke foar de ynhâldsopjefte...</text>
+		<text id="progress.preparingSelected" h="52031EDE">Selektearre blêdwizers tariede...</text>
+		<text id="progress.sortingBookmarks" h="99E846CF">%1 blêdwizer sortearje</text>
+		<text id="progress.sortingBookmarks.status" h="451C3890">Blêdwizer %1 fan 'e %2 sortearje...</text>
+		<text id="progress.sortingBookmarks.title" h="E134B46E">Blêdwizers wurde sortearre</text>
+		<text id="progress.statusText.ProcessingBookmarks" h="3836AD6B">Ferwurkjen fan blêdwizer: %1 fan 'e %2...</text>
+		<text id="progress.statusText.ProcessingBookmarksDone" h="67CB6C48">Blêdwizers ferwurkje foltôge.</text>
+		<text id="progress.undoingChanges" h="BBD3EE96">Feroarings wurde ûngedien makke...</text>
+		<text id="regex.error.backref" h="3D1C1BE5">De útdrukking befette in ûnjildige tebek referinsje.</text>
+		<text id="regex.error.badbrace" h="4363EA7D">De útdrukking befette in ûnjildige berik tusken braces: '{' en '}'.</text>
+		<text id="regex.error.badrepeat" h="9091944F">De útdrukking befettet in werheljende oantsjutter (ien fan  *?+{) dy net foarôfgong mei in jildige algemiene útdrukking.</text>
+		<text id="regex.error.brace" h="3031B0A1">De útdrukking befette net oerienkommende braces: '{' en '}'.</text>
+		<text id="regex.error.brack" h="A41AB311">De útdrukking befette net oerienkommende brackets: '[' en ']'.</text>
+		<text id="regex.error.collate" h="D15FB49F">De útdrukking befette in ûnjildige sortear elemint namme.</text>
+		<text id="regex.error.complexity" h="76ADCA5C">In oerienkomst mei in algemiene útdrukking wie te kompleks foar it foar ynstelde nivo.</text>
+		<text id="regex.error.ctype" h="76D6C176">De útdrukking befette in ûnjildige teken namme.</text>
+		<text id="regex.error.default" h="509A660E">In flater barde ûnder it ferwurkjen fan ynfier regex.</text>
+		<text id="regex.error.escape" h="4BAF1552">De útdrukking befette in ûnjildige ûntsnapte teken, of ien der efteroan.</text>
+		<text id="regex.error.paren" h="11F2EE54">De útdrukking befette net oerienkommende parentheses '(' en ')'.</text>
+		<text id="regex.error.range" h="CDB00023">De útdrukking befette in ûnjildige teken berik (bgl:, [z-a])</text>
+		<text id="regex.error.space" h="2FFB9DD7">Der wie net genôch ûnthâld om mei dizze algemiene útdrukking om te gean.</text>
+		<text id="regex.error.stack" h="2F47E3EC">Der wie net genôch ûnthâld om nei te gean hokker algemiene útdrukking oerienkomme koe mei de oantsjutte opfolgjende teken.</text>
+		<text id="regex.error.syntax" h="4F399035">Der is in flater yn in Regex syntaks.</text>
+		<text id="sb.ascending" h="59F2363F">Oprinnend</text>
+		<text id="sb.chb.ignoreCase" h="E0949C6C">Tekst werjefte negearje</text>
+		<text id="sb.chb.sortAll" h="7BB3E98C">Sortearje alle nivo's</text>
+		<text id="sb.chb.sortChildren" h="B1087C90">Sortearke besibbe blêdwizers</text>
+		<text id="sb.descending" h="74091246">Ofrinnend</text>
+		<text id="sb.g.sortingMethod" h="93D0D863">Sortear metoade</text>
+		<text id="sb.l.selectLevel" h="62FA8E9C">Selektearje te sortearjen nivo's:</text>
+		<text id="sb.l.sortType" h="85828DAE">Sortear type:</text>
+		<text id="sb.rb.sortAlpha" h="F9CD110C">Sortearje alfabetysk</text>
+		<text id="sb.rb.sortByPage" h="EB2AF7E4">Sortearje troch te ferwizen nei de side nûmer</text>
+		<text id="test" h="A538F326">Test string</text>
+		<text id="tree.fontColor" h="210B1C91">Kleur:</text>
+		<text id="tree.fontName" h="ACA86074">Letertype namme:</text>
+		<text id="tree.fontSize" h="B3CE43BA">Grutte:</text>
+		<text id="tree.fontTolerance" h="7781AAB6">Tollerânsje:</text>
+		<text id="tree.level" h="9B075A86">Nivo:</text>
+		<text id="tree.textPattern" h="24121AD7">Tekst patroan:</text>
+		<text id="tree.vb.bookmark" h="9926EC31">&lt;b&gt;%1. Blêdwizer:&lt;/b&gt; "%2"</text>
+		<text id="ttoc.b.build" h="DE9A0F1C">Bouwe</text>
+		<text id="ttoc.b.changeNumber" h="DD04BEA8">Opmaak feroarje</text>
+		<text id="ttoc.b.changeTitle" h="3B951B9A">Titel opmaak feroarje...</text>
+		<text id="ttoc.chb.asLastPage" h="D323F9DD">As lêste side</text>
+		<text id="ttoc.chb.end" h="9F41B967">Alle nivo's brûke</text>
+		<text id="ttoc.chb.skipInvalid" h="F864C487">Unjildige blêdwizers oerslaan</text>
+		<text id="ttoc.chb.useDifferentNumberFormatting" h="A39D9F18">Oanpaste nûmering opmaak brûke</text>
+		<text id="ttoc.chb.useDifferentSeparatorFormatting" h="7D6F82B2">Oanpaste skieder opmaak brûke</text>
+		<text id="ttoc.chb.useSizeFromDoc" h="79C19271">Untdek de side grutte fan dokumint</text>
+		<text id="ttoc.g.pageNumbering" h="21AF4605">Side nûmering</text>
+		<text id="ttoc.g.pageSettings" h="D82087B4">Side ynstellings</text>
+		<text id="ttoc.ib.numberFormat" h="D41C6CB8">&lt;b&gt;Nûmer opmaak:&lt;/b&gt; &lt;i&gt;Lettertype famylje:&lt;/i&gt; %1, &lt;i&gt;Lettertype grutte:&lt;/i&gt; %2 pt, &lt;i&gt;Lettertype kleur:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.ib.separatorFormat" h="14A80F28">&lt;b&gt;Skieder opmaak:&lt;/b&gt; &lt;i&gt;Lettertype famylje:&lt;/i&gt; %1, &lt;i&gt;Lettertype grutte:&lt;/i&gt; %2 pt, &lt;i&gt;Lettertype kleur:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.ib.titleFormat" h="4A9C0388">&lt;b&gt;Titel opmaak:&lt;/b&gt; &lt;i&gt;Lettertype famylje:&lt;/i&gt; %1, &lt;i&gt;Lettertype grutte:&lt;/i&gt; %2 pt, &lt;i&gt;Lettertype kleur:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.l.end" h="43FA653A">Lêste blêdwizer nivo om yn te sluten yn YO:</text>
+		<text id="ttoc.l.insertAsPage" h="B68AF5B1">YO ynfoegje foar side:</text>
+		<text id="ttoc.l.outputPagesAs" h="96E6A50A">Side nûmers útfiere as:</text>
+		<text id="ttoc.l.pageMargins" h="DA4D6B15">Side marzjes:</text>
+		<text id="ttoc.l.start" h="B03149CB">Earste blêdwizer nivo om yn te sluten yn YO:</text>
+		<text id="ttoc.l.title" h="930D3835">Titel:</text>
+		<text id="ttoc.l.titleFormatting" h="21C775EE">Titel opmaak bywurkje:</text>
+		<text id="ttoc.output.bates" h="ECE56FA9">Bates nûmers (as oanwêzich)</text>
+		<text id="ttoc.output.labels" h="EAE579C1">Side lebels</text>
+		<text id="ttoc.output.numbers" h="38E0043C">Orizjinele side nûmers</text>
+		<text id="ttoc.style.dots" h="C13D9439">Haadstik..........1</text>
+		<text id="ttoc.style.spaces" h="D9E4F5A0">Haadstik          1</text>
+		<text id="ttoc.style.underline" h="B52B746A">Haadstik______1</text>
+		<text id="ttoc.tableOfContents" h="080B4CC0">Ynhâldsopjefte</text>
+		<text id="undefinedFont" h="06D72DED">Net definiearre lettertype (%1)</text>
+		<text id="vb.invalidALWarining" h="6B3E67E5">De feroarings binne ûntkrêfte troch in ûnjildige aksje list. Ferlit yn elk gefal ien aksje!</text>
+		<text id="vb.l.invalidBookmarks" h="EE502FFE">%1 ûnjildige blêdwizer(s) fûn</text>
+		<text id="rtab" h="7CDCE9BE">&amp;Blêdwizers</text>
+		<text id="rbar.create" h="EDCA1553">Oanmeitsje</text>
+		<text id="rbar.modify" h="EA358CAF">Feroarje</text>
+		<text id="rbar.convert" h="EFAC3874">Omsette</text>
+	</Strings>
+</Localization>

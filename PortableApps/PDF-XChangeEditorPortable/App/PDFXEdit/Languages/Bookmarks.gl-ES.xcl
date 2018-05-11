@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220831">2.00.00</Version>
+	<Author>Alfonso Seoage</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Galician (Galician)" lName="Galego" code="gl-ES" R2L="false"/>
+	<Module name="BookmarksPlugin" namespace="bp" version="6.0.322.7"/>
+	<Strings>
+		<text id="DlgAddExcludedWords" h="BED549D0">Engadir novas palabras excluídas</text>
+		<text id="DlgAddTextToBookmark" h="E5B26485">Engadir texto ao título dun marcador</text>
+		<text id="DlgAutoGenerateBookmarks.Title" h="0E85373B">Xeración de marcadores a partir do texto da páxina</text>
+		<text id="DlgBookmarkAppearance" h="7544DDCE">Aparencia resultante</text>
+		<text id="DlgBookmarkEveryNthPage" h="B6869582">Marcar unha páxina cada N</text>
+		<text id="DlgBookmarkLevelDescription" h="186C1D0A">Opcións de coincidencia de texto</text>
+		<text id="DlgBookmarkPropSheet" h="862C67E7">Propiedades de xeración de marcadores</text>
+		<text id="DlgBookmarkTitleFormatting" h="A87502C2">Formato para os títulos</text>
+		<text id="DlgBookmarksToNamedDests" h="8A0957E5">Conversión a destinos con nome</text>
+		<text id="DlgBookmarksToTextFile" h="29F18B82">Exportación de marcadores a un arquivo de texto</text>
+		<text id="DlgChangeBookmarkCase" h="4D74C7D9">Cambio de maiúsculas ou minúsculas nos marcadores</text>
+		<text id="DlgEditStopWords" h="911413E7">Edición de palabras parada</text>
+		<text id="DlgFindReplaceBookmarkText" h="733A7FC1">Procura e substitución de texto nos marcadores</text>
+		<text id="DlgFontNames" h="3C8B1F88">Selección de tipografía</text>
+		<text id="DlgFromTOC" h="AC2ED85C">Marcadores a partir do índice de contidos</text>
+		<text id="DlgFromTOCIndentation" h="12688622">Areas da páxina cuxo texto non debe usarse para crear os marcadores</text>
+		<text id="DlgFromTextFile" h="B3799046">Xeración de marcadores a partir dun arquivo de texto</text>
+		<text id="DlgNamedDestsToPageNumbers" h="9CAE5E39">Conversión dos destinos con nome en destinos normais</text>
+		<text id="DlgSheetBttfBookmarkProps" h="4B2F0AA2">Propiedades do marcador</text>
+		<text id="DlgSheetBttfSelectBookmarks" h="30673BCD">Xeral</text>
+		<text id="DlgSortBookmarks" h="8339BB6C">Ordenación de marcadores</text>
+		<text id="DlgToTOC" h="2B3E9BF1">Construción dun índice</text>
+		<text id="DlgValidateBookmarks" h="0CD39971">Validación dos marcadores</text>
+		<text id="atb.btn.Macroses" h="81734E4F">Mac</text>
+		<text id="atb.chb.IncludeChildren" h="0AC4CB2B">Incluír todos os subniveis</text>
+		<text id="atb.chb.ProcessAllLevels" h="26C3B2DF">Procesar todos os niveis</text>
+		<text id="atb.chb.RemoveSpaces" h="ABDEA5BC">Eliminar espazos excesivos do título orixinal do marcador</text>
+		<text id="atb.gb.AddText" h="E21C9B55">Engada texto</text>
+		<text id="atb.gb.Levels" h="8A668489">Seleccione qué nivel de marcadores debe procesarse</text>
+		<text id="atb.gb.SelectSource" h="1E2E96A4">Seleccione a orixe que conteña marcadores</text>
+		<text id="atb.lbl.BookmarkTitle" h="2DC1254E">Título do marcador</text>
+		<text id="atb.lbl.Prefix" h="A51A4726">Engadir un prefixo ao título:</text>
+		<text id="atb.lbl.SelectLevel" h="D1263889">Elixa un nivel para procesar:</text>
+		<text id="atb.lbl.Suffix" h="C27741D5">Engadir un sufijo ao título:</text>
+		<text id="atb.lbl.UseBookmarksFrom" h="E770326C">Usar marcadores:</text>
+		<text id="ba.chb.expand" h="BBA3BD8A">Mostrar expandido (con todos os niveis inferiores)</text>
+		<text id="ba.l.expl" h="EE297184">Elixa a aparencia visual que terán os marcadores:</text>
+		<text id="ba.l.textStyle" h="8D5CA9B5">Estilo de texto:</text>
+		<text id="benp.Gb.Main" h="4B2F0AA2">Propiedades do marcador</text>
+		<text id="benp.Label.TitleTemplate" h="5E999567">Plantilla para o título dos marcadores:</text>
+		<text id="benp.Label1.SelectN" h="8626E4EA">Marcar unha de cada</text>
+		<text id="benp.Label2.SelectN" h="6270721D">páxinas no intervalo elixido</text>
+		<text id="benp.infoBtn.invalidMacro" h="1561C0F2">O texto contén o nome dunha macro non definida, que se ignorará</text>
+		<text id="bft.l.actionSeparator" h="5C05CE1E">Parametros do separador de accións:</text>
+		<text id="bft.l.separator" h="A4269065">Delimitador:</text>
+		<text id="bld.btn.selStyle" h="EE213BC5">Obter o estilo do texto seleccionado</text>
+		<text id="bld.chb.fontNames" h="AB457B23">Tipografía(s):</text>
+		<text id="bld.chb.limitToPattern" h="7F0826AB">Limitar os títulos de marcador ao patrón de coincidencia</text>
+		<text id="bld.chb.matchTextPattern" h="5A64E195">Patrón de coincidencia de texto:</text>
+		<text id="bld.chb.multilineBookmarks" h="CB4817D1">Permitir títulos de marcador con varias liñas</text>
+		<text id="bld.g.textContentRules" h="5B364747">Reglas de contido do texto</text>
+		<text id="bld.l.description" h="2F770A5B">Elixa unha combinación dos seguintes atributos do texto para a xeración automática de marcadores a partir do documento:</text>
+		<text id="bld.l.matchTextCase" h="43616BDA">Maiúsculas/minúsculas</text>
+		<text id="bld.matchTextCase.allCapital" h="D4E8E731">Todos os caracteres en maiúsculas</text>
+		<text id="bld.matchTextCase.firstCapital" h="CAA2E79D">O primeiro carácter é unha maiúscula</text>
+		<text id="bld.matchTextCase.firstDigit" h="42E73545">O primeiro carácter é un número</text>
+		<text id="bld.matchTextCase.noRestrictions" h="93089981">Sen restricións</text>
+		<text id="bnd.gb.Main" h="4DDA9780">Título do destino designado</text>
+		<text id="bnd.lbl.NDTitle" h="7F7F73EC">Crearase un título do destino designado usando o patrón:</text>
+		<text id="btf.chb.insertAfter" h="DD7B743E">Engadir este texto tras cada título:</text>
+		<text id="btf.chb.insertBefore" h="CBDD1CF8">Inserir este texto antes de cada título:</text>
+		<text id="btf.chb.removeDuplicateSpaces" h="2653A648">Eliminar espazos duplicados</text>
+		<text id="btf.chb.replaceLineBreaks" h="0C51EEEB">Substituír saltos de liña con espazos</text>
+		<text id="btf.chb.replaceTitle" h="097EF3C2">Buscar e substituír no título dos marcadores usando patróns de texto</text>
+		<text id="btf.g.advancedFormatting" h="9130441A">Formato avanzado</text>
+		<text id="btf.g.textCase" h="97FCC959">Formato maiúsculas ou minúsculas</text>
+		<text id="btf.l.characters" h="189C88D2">(caracteres)</text>
+		<text id="btf.l.expl" h="169A084A">Indique que propiedades do texto deben aplicarse aos títulos de marcadores novos:</text>
+		<text id="btf.l.leadingNumbers" h="074A1A51">Números diante:</text>
+		<text id="btf.l.maxLength" h="A52EC501">Lonxi. máx. do título:</text>
+		<text id="btf.l.replacePattern" h="B54B1F92">Substituír patrón:</text>
+		<text id="btf.l.searchPattern" h="E87DDC08">Que buscar:</text>
+		<text id="btf.l.use" h="46DEA47A">Usar:</text>
+		<text id="btf.leadingNumbers.noChange" h="3399B0A0">(sen cambios)</text>
+		<text id="btf.rb.doNotChange" h="4CBF2C1B">(sen cambios)</text>
+		<text id="btf.rb.lowercase" h="82451817">todo minúsculas</text>
+		<text id="btf.rb.sentenceCase" h="B26B2798">Só a primeira inicial maiúscula</text>
+		<text id="btf.rb.titleCase" h="2C8DBF1B">Todas As Iniciais Maiúsculas</text>
+		<text id="btf.rb.uppercase" h="42F820C7">TODO MAIÚSCULAS</text>
+		<text id="btf.use.letters" h="6EE7E478">Letras</text>
+		<text id="btf.use.numbers" h="E2FE5FA7">Números</text>
+		<text id="btf.use.romanLetters" h="290A50ED">Números romanos</text>
+		<text id="btn.add.custom" h="3080663C">Engadir personalizado...</text>
+		<text id="btn.highlight" h="2485FBFF">Destacar o marcador</text>
+		<text id="btn.validate" h="1E91E484">Validar</text>
+		<text id="cbc.aew.label" h="7EC386C0">Engada palabra(s) excluída(s), unha por liña (pulse "Intro" tras cada palabra):</text>
+		<text id="cbc.cb.fromBookmarks" h="CF38CD8D">Seleccionados</text>
+		<text id="cbc.cb.fromDocument" h="424CAFC5">Todos os marcadores</text>
+		<text id="cbc.chb.EnterCustomWordList" h="EB8ACE1B">Proporcionar unha listaxe de palabras que non deben procesarse</text>
+		<text id="cbc.chb.IncludeChildrenBookmarks" h="051C6219">Incluír todos os submarcadores</text>
+		<text id="cbc.gb.SelectTextCase" h="F9747FC0">Elixa o formato</text>
+		<text id="cbc.gb.TextCaseOptions" h="DAD7B4F4">Opcións</text>
+		<text id="cbc.list.header" h="647D6FC4">Palabras excluidas</text>
+		<text id="cbc.rbtn.LowerCase" h="82451817">todo minúsculas</text>
+		<text id="cbc.rbtn.SentenceCase" h="B26B2798">Só primeira maiúscula</text>
+		<text id="cbc.rbtn.TitleCase" h="2C8DBF1B">Todas Iniciais Maiúsculas</text>
+		<text id="cbc.rbtn.UpperCase" h="42F820C7">TODO MAIÚSCULAS</text>
+		<text id="chb.ignoreDuplicates" h="B30FC50E">Ignorar marcadores duplicados consecutivos</text>
+		<text id="chb.stopWords" h="491ED7FC">Ignorar o texto que contén palabras prohibidas</text>
+		<text id="chb.verifyLinks" h="7A46B598">Comprobar as ligazóns a arquivos externos</text>
+		<text id="chb.warnGoTo" h="911FC68A">Avisar se hai accións "ir a" non válidas</text>
+		<text id="chb.warnGoToRE" h="C0827D11">Avisar se hai accións non válidas "ir a R" ou "ir a E"</text>
+		<text id="chb.warnLaunchURI" h="94F27C09">Avisar se hai accións non válidas "iniciar un programa" ou "abrir URL"</text>
+		<text id="chb.warnNoActions" h="FBF997CF">Avisar se hai unha listaxe de accións baleira ou se non hai descendentes</text>
+		<text id="chb.warnNoGoTo" h="66B02339">Avisar se falta a acción "ir a" na listaxe de accións</text>
+		<text id="chb.warnOther" h="B30D6C64">Avisar se hai accións non válidas doutro tipo</text>
+		<text id="chb.warnTitle" h="F0B5EE52">Avisar se hai un título baleiro</text>
+		<text id="cmd.addAGBLevel" h="928E2BB5">Usar o estilo de texto seleccionado ao xerar os marcadores...</text>
+		<text id="cmd.addTextToBookmarkTitle" h="C4C93738">Engadir texto ao título do marcador...</text>
+		<text id="cmd.addTextToBookmarkTitle.short" h="E21C9B55">Engadir texto</text>
+		<text id="cmd.addTextToBookmarkTitle.tip" h="B412507B">Agrega prefixos e sufixos os títulos dos marcadores.</text>
+		<text id="cmd.changeBookmarkCase" h="359544B0">Cambiar o uso de maiúsculas no marcador...</text>
+		<text id="cmd.changeBookmarkCase.short" h="BC4AE60A">Cambia a Maiúsculas</text>
+		<text id="cmd.changeBookmarkCase.tip" h="48522DE3">Cambia a maiúsculas os títulos dos marcadores.</text>
+		<text id="cmd.findReplaceBookmarkText" h="AF996007">Buscar e substituír texto nos marcadores...</text>
+		<text id="cmd.findReplaceBookmarkText.short" h="9F35A871">Buscar e Substituir</text>
+		<text id="cmd.findReplaceBookmarkText.tip" h="7ED81F66">Localizar e substituír elementos de texto nos títulos dos marcadores.</text>
+		<text id="cmd.sort" h="B1FFF012">Ordenar os marcadores...</text>
+		<text id="cmd.sort.short" h="579162B0">Ordenar</text>
+		<text id="cmd.sort.tip" h="90B74C06">Ordena os marcadores segundo os criterios dados.</text>
+		<text id="cmd.validate" h="E61D60D2">Validar os marcadores...</text>
+		<text id="cmd.validate.short" h="1E91E484">Validar</text>
+		<text id="cmd.validate.tip" h="AF7C0DD0">Verifica a validez dos marcadores segundo os criterios dados.</text>
+		<text id="cmd.toTOC" h="9B7AEEEA">Construír un índice...</text>
+		<text id="cmd.toTOC.short" h="2B3E9BF1">Crear táboa de contido</text>
+		<text id="cmd.toTOC.tip" h="E92DA1A8">Crea unha táboa de contido baseada na estrutura dos marcadores e as páxinas ás que apuntan.</text>
+		<text id="cmd.bookmarksToNamedDests" h="9A9E5CF2">Converter a destinos con nome...</text>
+		<text id="cmd.bookmarksToNamedDests.short" h="9226CE11">Converter a Destino con nome.</text>
+		<text id="cmd.bookmarksToNamedDests.tip" h="76CA39A1">Converte destinos regulares nas listaxe de accións de Marcadores nos Destinos con nome. Logo, cando as páxinas móvanse ou eliminen, os marcadores apuntarán ás mesmas páxinas que antes.</text>
+		<text id="cmd.bookmarksToTextFile" h="DBEBEEB8">Exportar os marcadores a un arquivo de texto...</text>
+		<text id="cmd.bookmarksToTextFile.short" h="738D44A8">Exportar a arquivo de texto</text>
+		<text id="cmd.bookmarksToTextFile.tip" h="2F1DD236">Garda a estrutura dos marcadores como un arquivo de texto.</text>
+		<text id="cmd.bookmarksToHtmlFile" h="EFF75744">Exportar os marcadores a un arquivo HTML...</text>
+		<text id="cmd.bookmarksToHtmlFile.short" h="76C20816">Exportar a HTML</text>
+		<text id="cmd.bookmarksToHtmlFile.tip" h="8968844D">Garda a estrutura dos marcadores como un arquivo HTML.</text>
+		<text id="cmd.namedDestsToPageNumbers" h="3A651CA9">Converter destinos con nome en destinos normais...</text>
+		<text id="cmd.namedDestsToPageNumbers.short" h="74C22304">Destino con nome a Regular</text>
+		<text id="cmd.namedDestsToPageNumbers.tip" h="2ABF8034">Converte destinos con nome nas listaxe de accións dos marcadores aos destinos regulares. Logo, cando as páxinas móvanse ou eliminen, os marcadores apuntarán a páxinas que correspondan aos números de páxina dos destinos.</text>
+		<text id="cmd.bookmarkEveryNthPage" h="940FCD39">Marcar unha páxina de cada N...</text>
+		<text id="cmd.bookmarkEveryNthPage.short" h="71BCE832">Marcar cada Número de páxina</text>
+		<text id="cmd.bookmarkEveryNthPage.tip" h="B60E23D7">Crear marcadores en relación cos números de páxina do documento.</text>
+		<text id="cmd.generate" h="2147DF79">Xerar marcadores a partir do texto da páxina</text>
+		<text id="cmd.generate.short" h="8BE514A6">Texto da páxina</text>
+		<text id="cmd.generate.tip" h="2A03253C">Crea marcadores a partir do texto do documento actual utilizando o estilo de fonte e os parámetros dados.</text>
+		<text id="cmd.fromTOC" h="D15400EB">Xerar marcadores a partir do índice....</text>
+		<text id="cmd.fromTOC.short" h="3AB39C50">Da táboa de contido</text>
+		<text id="cmd.fromTOC.tip" h="D4170828">Crea marcadores a partir dunha táboa de contidos existente. A táboa de contido debe seleccionarse primeiro coa ferramenta Seleccionar texto para que esta función funcione.</text>
+		<text id="cmd.fromTextFile" h="55CA46BC">Xerar marcadores a partir dun arquivo de texto...</text>
+		<text id="cmd.fromTextFile.short" h="3619B3DB">Do arquivo de texto</text>
+		<text id="cmd.fromTextFile.tip" h="11167525">Crea marcadores desde o arquivo de texto. Teña en conta que o formato de datos do arquivo de texto debe seguir as regras da función Exportar marcadores a arquivo de texto.</text>
+		<text id="cmd.name" h="E2032460">Marcadores</text>
+		<text id="cmd.macro.firstLine" h="613F14A5">Primeira liña de texto na páxina</text>
+		<text id="cmd.macro.hierIndex" h="7DCA5F4D">Índice xerárquico</text>
+		<text id="cmd.macro.hierTitle" h="0E7B4B6F">Título xerárquico do marcador</text>
+		<text id="cmd.macro.indexInParent" h="1B41AFB1">Índice no nivel superior</text>
+		<text id="cmd.macro.label" h="EEE40FF3">Etiqueta da páxina</text>
+		<text id="cmd.macro.launch" h="87D9EB8D">Arquivo que debe abrirse</text>
+		<text id="cmd.macro.level" h="B863033F">Nivel de marcador</text>
+		<text id="cmd.macro.namedDest" h="C4E8D8F5">Destino con nome</text>
+		<text id="cmd.macro.sequentialNum" h="CDF4EA5E">Número en secuencia</text>
+		<text id="cmd.macro.title" h="3AB782A4">Título do marcador</text>
+		<text id="cmd.macro.uri" h="6C21F7EF">Enlace web que debe abrirse</text>
+		<text id="ebttf.actType.all" h="B8B21253">Marcadores con acción de hipeligazón</text>
+		<text id="ebttf.actType.goto" h="05B4C93C">Marcadores con acción de "ir a páxina." </text>
+		<text id="ebttf.actType.gotoR" h="41E1955E">Marcadores con acción de "ir a" remoto</text>
+		<text id="ebttf.actType.js" h="07676EBA">Marcadores con acción Javascript</text>
+		<text id="ebttf.actType.launch" h="38537D36">Marcadores con acción "abrir arquivo"</text>
+		<text id="ebttf.actType.uri" h="F39B51AE">Marcadores con acción "abrir enlace web"</text>
+		<text id="ebttf.cb.separator.comma" h="827998F7">Coma</text>
+		<text id="ebttf.cb.separator.semi" h="988594A6">punto e coma</text>
+		<text id="ebttf.ch.doNotEscape" h="09B53F9F">Non escape símbolos de servizo como @#{} \ : etc.</text>
+		<text id="ebttf.ch.expClosedState" h="46E4EC7E">Exportación do estado do marcador "contraído" da árbore</text>
+		<text id="ebttf.ch.expDetailedGotoDescr" h="18B9C243">Exportar unha descrición detallada do destino</text>
+		<text id="ebttf.ch.exportActions" h="3444FE51">Exportar as accións dos marcadores</text>
+		<text id="ebttf.ch.exportGoto" h="37493654">Exportar a páxina á que apunta o marcador</text>
+		<text id="ebttf.ch.exportGotoR" h="92C06BA6">Exportar descrición de accións "ir a" remoto</text>
+		<text id="ebttf.ch.exportJS" h="9362EAE3">Exportar o código de accións Javascript</text>
+		<text id="ebttf.ch.exportLaunch" h="1B39BF89">Exportar a descrición de accións "abrir arquivo"</text>
+		<text id="ebttf.ch.exportStyle" h="A6713F10">Exportar as propiedades de cor e estilo de texto do marcador</text>
+		<text id="ebttf.ch.exportWebLinks" h="3C61424C">Exportar os ligazóns web</text>
+		<text id="ebttf.ch.includeSubBookmarks" h="051C6219">Incluír todos os submarcadores</text>
+		<text id="ebttf.ch.openContFolder" h="80BDDAAC">Abrir o cartafol colector</text>
+		<text id="ebttf.ch.overwriteExistingFiles" h="29981774">Sobrescribir arquivo(s) existente(s)</text>
+		<text id="ebttf.ch.resloveNamedDests" h="D1E8A9BC">Converter en números de páxina os destinos con nome</text>
+		<text id="ebttf.gb.actionExportParams" h="DA853D34">Seleccione Propiedades do marcador para exportar</text>
+		<text id="ebttf.gb.savingResults" h="49571A59">Parámetros de saída</text>
+		<text id="ebttf.gb.selectBookmarks" h="E2AFC2C6">Selección de marcadores que exportaranse</text>
+		<text id="ebttf.infoBtn.doNotEscape" h="93A6DD6C">Recoméndase aplicar escape aos símbolos de servizo si prevese usar no futuro "Xerar marcadores desde un arquivo de texto" co arquivo producido.</text>
+		<text id="ebttf.infoBtn.invalidSeparator" h="44875D1F">O delimitador de propiedades debe conter símbolos alfanuméricos ou espazos, e non debe ser un dos seguintes caracteres: @#:{}</text>
+		<text id="ebttf.lbl.folder" h="3F9ED2F9">Cartafol:</text>
+		<text id="ebttf.lbl.separator" h="E9D351AC">Delimitar propidades.:</text>
+		<text id="ebttf.rb.exportActionTypes" h="533F8EA6">Exportar os marcadores con accións de hipeligazón</text>
+		<text id="ebttf.rb.exportAll" h="8F2ED544">Exportar todos</text>
+		<text id="ebttf.rb.exportSelected" h="69FB5145">Exportar os marcadores seleccionados</text>
+		<text id="ebttf.rb.useDefaultFilename" h="0E7FC989">Usar nome de arquivo do documento PDF para gadar resultados</text>
+		<text id="esw.chb.matchCase" h="2E5EFD7E">Coincidencia maiúsculas</text>
+		<text id="esw.chb.matchWhole" h="17009870">Esixir coincidencia de palabras completa</text>
+		<text id="esw.chb.useRegExp" h="7FC6EB4F">Utilizar expresións regulares</text>
+		<text id="esw.l.explanation" h="2C312B17">O texto que conteña algunha destas palabras non se usará para xerar marcadores.</text>
+		<text id="fn.l.selectFontNames" h="0CCEF1FA">Elixa unha ou máis tipografías:</text>
+		<text id="frbt.chb.MatchCase" h="12EB8088">Esixir coincidencia de maiúsculas</text>
+		<text id="frbt.chb.MatchWholeWord" h="FE8CC762">Esixir coincidencia de palabra completa</text>
+		<text id="frbt.chb.UseRegex" h="7FC6EB4F">Utilizar expresións regulares</text>
+		<text id="frbt.gb.FindReplace" h="BA012728">Opcións para a procura e substitución</text>
+		<text id="frbt.lbl.FindWhat" h="D0A8A2C5">Que buscar:</text>
+		<text id="frbt.lbl.ReplaceWith" h="3BE65784">Substituír con:</text>
+		<text id="ftoc.allIncluded" h="C994FC1B">Incluir todo</text>
+		<text id="ftoc.b.indents" h="48800D32">Zonas a ignorar...</text>
+		<text id="ftoc.chb.addBookmarks" h="CBBAE768">Engadir marcadores ás páxinas usando a táboa de contido</text>
+		<text id="ftoc.chb.addLinks" h="68456DBA">Engadir ligazóns aos elementos do índice</text>
+		<text id="ftoc.chb.createLevels" h="58CF083A">Usar as indentacións do índice para crear unha xerarquía nos marcadores</text>
+		<text id="ftoc.chb.improveDest" h="417AD7B0">Mellorar os destinos dos marcadores baseándose no texto</text>
+		<text id="ftoc.chb.trimNumbers" h="40ACC5F5">Eliminar prefixos numéricos nos títulos dos marcadores</text>
+		<text id="ftoc.chb.trimSpaces" h="5A27A063">Eliminar espazos consecutivos nos títulos dos marcadores</text>
+		<text id="ftoc.chb.useExistingLinks" h="E214DBE7">Usar as ligazóns xa existentes como destino dos novos marcadores</text>
+		<text id="ftoc.l.bottomIndent" h="C983AD6F">Marxe inferior:</text>
+		<text id="ftoc.l.expl" h="1FAB779E">Esta operación engadirá marcadores ás páxinas baseándose nas entradas do índice que se seleccionen. Opcionalmente, poden engadirse ligazóns aos elementos do índice ou ben usar ligazóns xa existentes como destino dos marcadores.</text>
+		<text id="ftoc.l.offsetExpl" h="9D6C25F6">Diferenza entre os números de páxina física no documento PDF e os números de páxina impresos; pode ser negativa ou positiva.</text>
+		<text id="ftoc.l.pageOffset" h="9E563407">Desprazamento de páxina:</text>
+		<text id="ftoc.l.separator" h="45CF4893">Tipo de separador:</text>
+		<text id="ftoc.l.topIndent" h="FA827580">Marxe superior:</text>
+		<text id="msg.bft.warning" h="726201E6">Elixa símbolos distintos para o delimitador de campos e o separador de accións.</text>
+		<text id="msg.cbc.excludedwords.add.title" h="9ADE883B">Engadir unha nova palabra excluída</text>
+		<text id="msg.cbc.excludedwords.caption" h="6B29D4B4">Escriba unha palabra excluída:</text>
+		<text id="msg.cbc.excludedwords.edit.title" h="82F8AAA6">Editar esta palabra excluida</text>
+		<text id="msg.dlg.bookmarksToTextFile.done" h="8E1397E9">Exportáronse correctamente os marcadores.</text>
+		<text id="msg.dlg.emptyFilename.warning" h="96A438DA">O nome de arquivo non pode estar baleiro.</text>
+		<text id="msg.dlg.invalidFilename.slashes" h="626318B0">O nome do arquivo non debe conter símbolos consecutivos, nin terminar cun deles.</text>
+		<text id="msg.dlg.invalidFilename.warning" h="46CD566C">O nome do arquivo en Windows non pode conter os símbolos * ? : | " &lt; &gt; </text>
+		<text id="msg.dlg.noActionsSelected.warning" h="933F1901">Marcouse a opción "Exportar accións dos marcadores" sen haber indicado o tipo de acción. Debe elixir un ou varios tipos de acción para a súa exportación ou ben quitar a marca "Exportar accións dos marcadores".</text>
+		<text id="msg.dlg.noSelectedBookmarks.warning" h="21F37C67">Non seleccionou ningún marcador. Debe seleccionar un ou varios, ou ben cambiar o parámetro "Orixe dos marcadores" a Todos "os marcadores" para realizar a operación.</text>
+		<text id="msg.dlg.pathDoesntExist.warning" h="0804B942">Non existe o cartafol indicado. Seleccione un cartafol de destino válida.</text>
+		<text id="msg.font.addCustom.caption" h="75533687">Escriba o nome dunha tipografía PDF nova:</text>
+		<text id="msg.font.addCustom.title" h="06AFFCAB">Engadir unha tipografía personalizada</text>
+		<text id="msg.frbt.result.bookmarksCount" h="EE00AC0B">Completouse a procura. En total hase modificado %1 marcador(es).</text>
+		<text id="msg.frbt.result.noBookmarksModified" h="84BE491B">Completouse a procura. Non se modificou ningún marcador.</text>
+		<text id="msg.levelDesc.title" h="E92EACC5">Especificaciones de nivel</text>
+		<text id="msg.levelDesc.warning" h="86A85979">Non se pode crear un novo nivel de marcadores con eses datos. Elixa polo menos un dos criterios entre as opcións de coincidencia de texto. Así mesmo, comprobe que os elementos seleccionados conteñan algún dato.</text>
+		<text id="msg.oper.noChanges" h="5777DD79">Esta operación non produciu ningún cambio. Comprobe os datos de entrada e ténteo de novo.</text>
+		<text id="msg.oper.warning" h="ABDCBB65">Houbo problemas ao executar esta operación. Comprobe o resultado.</text>
+		<text id="msg.regex.error" h="D799FCBE">Erro ao procesar a expresión regular</text>
+		<text id="msg.stopWords.add.title" h="F6B54725">Engadir unha frase de parada</text>
+		<text id="msg.stopWords.caption" h="E2BC1B9E">Escriba unha nova palabra ou frase prohibidas:</text>
+		<text id="msg.stopWords.edit.title" h="AFE604DF">Editar esta frase de parada</text>
+		<text id="msg.validateBookmarks.delete.caption" h="ED4457F4">Quere borrar os marcadores seleccionados e os seus descendentes?</text>
+		<text id="msg.validateBookmarks.delete.title" h="8FF00765">Borrar o marcador non válido</text>
+		<text id="msg.validateBookmarks.rename.caption" h="CE842D61">Escriba un nome para o marcador:</text>
+		<text id="msg.validateBookmarks.rename.title" h="ED9AF7FA">Cambiar de nome un marcador</text>
+		<text id="ndpn.ch.deleteDests" h="BC12FBF0">Eliminar do documento os marcadores con nome xa convertidos</text>
+		<text id="op.GenerateBookmarks" h="05382BCA">Xerar marcadores</text>
+		<text id="op.ValidateBookmarks.msg.emptyActionsList" h="A0A0065C">O marcador non ten accións asociadas.</text>
+		<text id="op.ValidateBookmarks.msg.emptyTitle" h="83F3E965">O título do marcador está en branco.</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidDestName" h="81A40483">A acción "ir a refírese a un destino con nome non válido.</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidPageNumber" h="C8941D79">A acción "ir a refírese a unha páxina fora do intervalo.</text>
+		<text id="op.ValidateBookmarks.msg.goto.noAction" h="368F0970">Na listaxe de accións non hai ningunha do tipo "ir a".</text>
+		<text id="op.ValidateBookmarks.msg.gotoE.invalidTargetPath" h="9D8A50F1">A rota de destino para a acción "Ir a" falta ou está en branco.</text>
+		<text id="op.ValidateBookmarks.msg.gotoR.invalidFile" h="76CCA61D">A acción "ir a R" refírese a un arquivo non válido.</text>
+		<text id="op.ValidateBookmarks.msg.gotoR.invalidPath" h="560614BE">A rota cara ao arquivo non é correcta.</text>
+		<text id="op.ValidateBookmarks.msg.invalidAction" h="84877FDA">A acción %1 non é válida.</text>
+		<text id="progress.BookmarkEveryNthPage.title" h="DA523087">Están a marcarse as páxinas...</text>
+		<text id="progress.addTextToBookmarkTitle.text" h="BE27C5C9">Está a engadirse texto ao marcador: %1...</text>
+		<text id="progress.addTextToBookmarkTitle.title" h="EC7EB408">Está a engadirse texto aos marcadores...</text>
+		<text id="progress.addingBookmark" h="45BBB17E">Están a engadirse os marcadores: %1 de %2...</text>
+		<text id="progress.bookmarksToHtmlFile.status" h="AF1901AD">Exportando marcadores %1 de %2...</text>
+		<text id="progress.bookmarksToHtmlFile.text" h="4DD531FF">Exportando marcador: %1...</text>
+		<text id="progress.bookmarksToHtmlFile.title" h="E1D21FEE">Exportando marcadores a un arquivo HTML...</text>
+		<text id="progress.bookmarksToNamedDests.text" h="CE73819F">Está a converterse o marcador: %1...</text>
+		<text id="progress.bookmarksToNamedDests.title" h="8DB00717">Está a converterse a destinos con nome...</text>
+		<text id="progress.bookmarksToTextFile.text" h="6E74EA26">Está a procesarse para exportar o marcador: %1</text>
+		<text id="progress.bookmarksToTextFile.title" h="D2C04472">Exportando marcadores a un arquivo de texto...</text>
+		<text id="progress.calculatingBookmarks" h="4AC26E12">Están a contarse os marcadores...</text>
+		<text id="progress.changingBookmarkCase.text" h="107628CA">Estase cambiando o uso de maiúsclas: %1...</text>
+		<text id="progress.changingBookmarkCase.title" h="E01AED17">Estase cambiando o uso de maiúsculas...</text>
+		<text id="progress.findReplaceBookmarkText.text" h="ABC58F1D">Está a procesarse o marcador: %1</text>
+		<text id="progress.findReplaceBookmarkText.title" h="00FEBD2A">Substituíndo texto do marcador...</text>
+		<text id="progress.generateBookmarks" h="3D5E30ED">Están a xerarse os marcadores da páxina %1...</text>
+		<text id="progress.generatingBookmarks" h="CFF0F2A9">Están a xerarse os marcadores</text>
+		<text id="progress.generatingBookmarks.label" h="043CF7B1">Está a engadirse o marcador: %1...</text>
+		<text id="progress.generatingLevels" h="07A22443">Están a xerarse niveis a partir dos marcadores...</text>
+		<text id="progress.generatingTOC" h="A438CB9C">Está a xerarse o índice</text>
+		<text id="progress.generatingTOCFromBookmark" h="C9213435">Está a xerarse contido a partir do marcador: %1...</text>
+		<text id="progress.namedDestsToPageNumbers.deleteNds" h="5DFFFF06">Borrando os destinos con nome...</text>
+		<text id="progress.namedDestsToPageNumbers.title" h="4615CB0B">Convertendo os destinos con nome en números de páxina...</text>
+		<text id="progress.parsingFile" h="B2405DA1">Está a lerse a estrutura de marcadores desde o arquivo de texto...</text>
+		<text id="progress.precalculatingPages" h="DB83BEF7">Están a crearse páxinas para o índice...</text>
+		<text id="progress.preparingSelected" h="52031EDE">Preparando os marcadores seleccionados...</text>
+		<text id="progress.sortingBookmarks" h="99E846CF">Ordenando marcador: %1...</text>
+		<text id="progress.sortingBookmarks.status" h="451C3890">Ordenando marcador %1 de %2...</text>
+		<text id="progress.sortingBookmarks.title" h="E134B46E">Ordenando marcadores</text>
+		<text id="progress.statusText.ProcessingBookmarks" h="3836AD6B">Está a procesarse o marcador %1 de %2...</text>
+		<text id="progress.statusText.ProcessingBookmarksDone" h="67CB6C48">Terminouse de procesar os marcadores.</text>
+		<text id="progress.undoingChanges" h="BBD3EE96">Se están deshaciendo los cambios...</text>
+		<text id="regex.error.backref" h="3D1C1BE5">A expresión contén unha retrollamada non válida.</text>
+		<text id="regex.error.badbrace" h="4363EA7D">A expresión contén un intervalo non válido delimitado por chaves { }.</text>
+		<text id="regex.error.badrepeat" h="9091944F">A expresión contén un parámetro de repetición (un destes: *? { ) que non está precedido por unha expresión regular válida.</text>
+		<text id="regex.error.brace" h="3031B0A1">A expresión contén chaves { } mal emparelladas.</text>
+		<text id="regex.error.brack" h="A41AB311">A expresión contén corchetes [ ] mal emparellados.</text>
+		<text id="regex.error.collate" h="D15FB49F">A expresión contén un nome de elemento de composición non válido.</text>
+		<text id="regex.error.complexity" h="76ADCA5C">A procura de coincidencias usando unha expresión regular ha resultado demasiado complexa.</text>
+		<text id="regex.error.ctype" h="76D6C176">A expresión contén un nome de clase cun carácter non válido.</text>
+		<text id="regex.error.default" h="509A660E">Houbo un erro ao procesar a expresión regular de entrada.</text>
+		<text id="regex.error.escape" h="4BAF1552">A expresión contén un carácter con escape non válido, ou ben un carácter de escape terminal.</text>
+		<text id="regex.error.paren" h="11F2EE54">A expresión contén paréntese ( ) mal emparellados.</text>
+		<text id="regex.error.range" h="CDB00023">A expresión contén un intervalo de caracteres non permitido (por ex., [z-a])</text>
+		<text id="regex.error.space" h="2FFB9DD7">Non hai memoria suficiente para procesar esta expresión regular.</text>
+		<text id="regex.error.stack" h="2F47E3EC">Non hai memoria suficiente para determinar coinicidencias entre a expresión regular e a secuencia de caracteres indicada.</text>
+		<text id="regex.error.syntax" h="4F399035">Hai un erro de sintaxe na expresión regular.</text>
+		<text id="sb.ascending" h="59F2363F">Ascendente</text>
+		<text id="sb.chb.ignoreCase" h="E0949C6C">Ignorar diferenzas de maiúsculas</text>
+		<text id="sb.chb.sortAll" h="7BB3E98C">Ordenar todos os niveis de marcador</text>
+		<text id="sb.chb.sortChildren" h="B1087C90">Ordenar os marcadores fillos</text>
+		<text id="sb.descending" h="74091246">Descendente</text>
+		<text id="sb.g.sortingMethod" h="93D0D863">Método para ordenar os marcadores</text>
+		<text id="sb.l.selectLevel" h="62FA8E9C">Elixa que nivel debe ordenarse:</text>
+		<text id="sb.l.sortType" h="85828DAE">Tipo de orden:</text>
+		<text id="sb.rb.sortAlpha" h="F9CD110C">Alfabéticamente</text>
+		<text id="sb.rb.sortByPage" h="EB2AF7E4">Polo número da páxina que os cita</text>
+		<text id="test" h="A538F326">Texto de proba</text>
+		<text id="tree.fontColor" h="210B1C91">Cor do texto:</text>
+		<text id="tree.fontName" h="ACA86074">Tipografía:</text>
+		<text id="tree.fontSize" h="B3CE43BA">Tamño. letra:</text>
+		<text id="tree.fontTolerance" h="7781AAB6">Tolerancia:</text>
+		<text id="tree.level" h="9B075A86">Nivel:</text>
+		<text id="tree.textPattern" h="24121AD7">Patrón de texto:</text>
+		<text id="tree.vb.bookmark" h="9926EC31">&lt;b&gt;%1.  Marcador:&lt;/b&gt; "%2"</text>
+		<text id="ttoc.b.build" h="DE9A0F1C">Xerar</text>
+		<text id="ttoc.b.changeNumber" h="DD04BEA8">Cambiar formato...</text>
+		<text id="ttoc.b.changeTitle" h="3B951B9A">Cambiar formato do título...</text>
+		<text id="ttoc.chb.asLastPage" h="D323F9DD">Como última páxina</text>
+		<text id="ttoc.chb.end" h="9F41B967">Usar os marcadores de todos os niveis</text>
+		<text id="ttoc.chb.skipInvalid" h="F864C487">Excluír os marcadores non válidos</text>
+		<text id="ttoc.chb.useDifferentNumberFormatting" h="A39D9F18">Usar formato persoalizado de números</text>
+		<text id="ttoc.chb.useDifferentSeparatorFormatting" h="7D6F82B2">Formato con separador personalizado</text>
+		<text id="ttoc.chb.useSizeFromDoc" h="79C19271">Determinar o tamaño da páxina a partir do documento</text>
+		<text id="ttoc.g.pageNumbering" h="21AF4605">Numeración de páxinas</text>
+		<text id="ttoc.g.pageSettings" h="D82087B4">Opcións para a páxina</text>
+		<text id="ttoc.ib.numberFormat" h="D41C6CB8">&lt;b&gt;Formato do número:&lt;/b&gt; &lt;i&gt;Familia tipográfica:&lt;/i&gt; %1, &lt;i&gt;Tamaño da letra:&lt;/i&gt; %2 pt, &lt;i&gt;Cor do texto:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.ib.separatorFormat" h="14A80F28">&lt;b&gt;Formato do separador:&lt;/b&gt; &lt;i&gt;Familia tipográfica:&lt;/i&gt; %1, &lt;i&gt;Tamaño da letra:&lt;/i&gt; %2 pt, &lt;i&gt;Cor do texto:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.ib.titleFormat" h="4A9C0388">&lt;b&gt;Formato do título:&lt;/b&gt; &lt;i&gt;Familia tipográfica:&lt;/i&gt; %1, &lt;i&gt;Tamaño da letra:&lt;/i&gt; %2 pt, &lt;i&gt;Cor do texto:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.l.end" h="43FA653A">Último nivel que debe incluírse no índice:</text>
+		<text id="ttoc.l.insertAsPage" h="B68AF5B1">Indice antes da páxina:</text>
+		<text id="ttoc.l.outputPagesAs" h="96E6A50A">Producir números de páxina así:</text>
+		<text id="ttoc.l.pageMargins" h="DA4D6B15">Marxes da páxina:</text>
+		<text id="ttoc.l.start" h="B03149CB">Primeiro nivel que debe incluírse no índice:</text>
+		<text id="ttoc.l.title" h="930D3835">Título:</text>
+		<text id="ttoc.l.titleFormatting" h="21C775EE">Actualizar o formato do título:</text>
+		<text id="ttoc.output.bates" h="ECE56FA9">Numeración "Descendente" (se a hai)</text>
+		<text id="ttoc.output.labels" h="EAE579C1">Etiquetas da páxina</text>
+		<text id="ttoc.output.numbers" h="38E0043C">Números de páxina orixinais</text>
+		<text id="ttoc.style.dots" h="C13D9439">Capítulo..........1</text>
+		<text id="ttoc.style.spaces" h="D9E4F5A0">Capítulo          1</text>
+		<text id="ttoc.style.underline" h="B52B746A">Capítulo______1</text>
+		<text id="ttoc.tableOfContents" h="080B4CC0">Índice</text>
+		<text id="undefinedFont" h="06D72DED">Tipografía no definida (%1)</text>
+		<text id="vb.invalidALWarining" h="6B3E67E5">Rexeitáronse os cambios debido a unha listaxe de accións non válida. Debe deixar polo menos unha acción.</text>
+		<text id="vb.l.invalidBookmarks" h="EE502FFE">Hai %1 marcador(es) non válido(s)</text>
+		<text id="rtab" h="E2032460">Marcadores</text>
+		<text id="rbar.create" h="EDCA1553">Crear</text>
+		<text id="rbar.modify" h="EA358CAF">Modificar</text>
+		<text id="rbar.convert" h="EFAC3874">Converter</text>
+	</Strings>
+</Localization>

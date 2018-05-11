@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117213643">2.00.00</Version>
+	<Author>Jovo Vilendečić</Author>
+	<Copyright>Jovo Vilendečić</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Serbian (Latin, Serbia)" lName="Srpski" code="sr-Latn-RS" R2L="false"/>
+	<Module name="Dropbox" namespace="db" version="6.0.322.7"/>
+	<Strings>
+		<text id="btn.cancel" h="3D302A38">&amp;Prekini</text>
+		<text id="btn.chooseUser" h="4E5DDBFB">&amp;Izaberi korisnika</text>
+		<text id="btn.ok" h="FEF0C771">&amp;OK</text>
+		<text id="btn.open" h="B1A510F0">&amp;Otvori</text>
+		<text id="btn.save" h="F363C410">&amp;Sačuvaj</text>
+		<text id="btn.saveReplace" h="11BF9724">Sačuvaj i &amp;zameni</text>
+		<text id="cmd.cmdsCategory" h="22B8ECE9">Dropbox</text>
+		<text id="cmd.open" h="028048E8">&amp;Dropbox...</text>
+		<text id="cmd.open.tip" h="683AE278">Otvori dokument iz Dropbox-a.</text>
+		<text id="cmd.save" h="028048E8">&amp;Dropbox...</text>
+		<text id="cmd.save.tip" h="B5D0B78F">Sačuvaj dokument u Dropbox.</text>
+		<text id="cmd.dropbox" h="6616FE70">&amp;Dropbox</text>
+		<text id="dlg.authenticate" h="E6E77652">Autentifikuj</text>
+		<text id="dlg.openFile" h="435887CD">Otvori datoteku</text>
+		<text id="dlg.saveFile" h="520CB069">Otvori datoteku</text>
+		<text id="lb.itemsInFolder" h="8F56A98C">%d stavke</text>
+		<text id="lb.name" h="F7B9E475">Datoteka:</text>
+		<text id="ls.column.created" h="9E0B497D">Datum kreiranja</text>
+		<text id="ls.column.created.hint" h="291F5AEC">Datum i vremen kada je datoteka, fascikla ili lista kreirana</text>
+		<text id="ls.column.extension" h="14FEB836">Ekstenzija</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Ekstenzija datoteke</text>
+		<text id="ls.column.modified" h="691C3610">Datum modifikovanja</text>
+		<text id="ls.column.modified.hint" h="2C2CF8F2">Datum i vremen kada je datoteka, fascikla ili lista poslednji put modifikovana</text>
+		<text id="ls.column.size" h="17A58A52">Veličina</text>
+		<text id="ls.column.size.hint" h="E79CA174">Veličina datoteke</text>
+		<text id="ls.column.title" h="D18643E3">Naziv</text>
+		<text id="ls.column.title.hint" h="D883F263">Naziv datoteke ili fascikle</text>
+		<text id="msg.connectError" h="A594B0D5">Nije uspela konekcija na Dropbox. Molimo proverite svoju internet konekciju i prava pristupa potrebna za zahtevani Dropbox resurs.</text>
+		<text id="msg.fileNotFound" h="381368F8">Datoteka &lt;b&gt;%1&lt;/b&gt; nije nađena u trenutnoj fascikli.</text>
+		<text id="msg.invalidFileName" h="6BE657E3">&lt;b&gt;"%1"&lt;/b&gt; nije validan naziv datoteke jer simboli &lt; &gt; " / \ |?* nisu dozvoljeni.</text>
+		<text id="msg.navigateError" h="8BCFBD0F">Nije uspela navigacija na Dropbox resurs. Molimo proverite svoju internet konekciju, tačnost adrese resursa i prava za pristup zahtevanom Dropbox resursu.</text>
+		<text id="msg.openFailed" h="794811DE">Nije uspelo otvaranje datoteke. Proverite da li datoteka postoji i da li imate permisije za njeno čitanje.</text>
+		<text id="msg.saveFailed" h="36780EC6">Nije uspelo čuvanje datoteke. Proverite da li je naziv datoteke validan i da li imate permisije za njeno zapisivanje.</text>
+		<text id="msg.saveReplace" h="B1889DFB">Datoteka &lt;b&gt;%1"&lt;/b&gt; već postoji. Da li želite da je zamenite?</text>
+		<text id="msg.wrongUser" h="27773B86">Ne može se otvoriti resurs jer pripada Dropbox-u drugog korisnika. Da li želite izabrati drugog korisnika?</text>
+	</Strings>
+</Localization>

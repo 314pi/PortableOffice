@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20170425233742">2.00.00</Version>
+	<Author>Swirti</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="French (France)" lName="Français" code="fr-FR" R2L="false"/>
+	<Module name="GoogleDrivePlugin" namespace="gd" version="6.0.322.7"/>
+	<Strings>
+		<text id="DlgOpenFile" h="B98AB29D">Ouvrir un fichier du Google drive</text>
+		<text id="DlgSaveFile" h="81F99046">Enregistrer le fichier sur Google drive</text>
+		<text id="GDPlugin" h="32B7E3E0">Plugin Google drive</text>
+		<text id="btn.connectToAnother" h="508BDBC5">Nouvelle connexion...</text>
+		<text id="cmd.cmdsCategory" h="AD23B285">Google drive</text>
+		<text id="cmd.googledrive" h="1D28DF85">&amp;Google drive</text>
+		<text id="cmd.open" h="F32ECED5">&amp;Google drive...</text>
+		<text id="cmd.open.tip" h="933837A2">Ouvrir un document à partir de Google drive.</text>
+		<text id="cmd.save" h="F32ECED5">&amp;Google drive...</text>
+		<text id="cmd.save.tip" h="948C3269">Enregistrer un document actif sur Google drive.</text>
+		<text id="cpt.fileNotFound" h="A7F5FA7A">Fichier non trouvé</text>
+		<text id="cpt.invalidFileName" h="79C1387C">"Nom de fichier invalide</text>
+		<text id="cpt.navigateError" h="3D300A1C">Erreur de navigation</text>
+		<text id="cpt.saveReplace" h="520CB069">Enregistrer le fichier</text>
+		<text id="cpt.selectFile" h="C55D68B0">Sélection du fichier</text>
+		<text id="dlg.googleAuth" h="E5642F22">Authentification Google drive</text>
+		<text id="fileName" h="DEC92488">Nom de fichier :</text>
+		<text id="lb.CurrentFolder" h="44158804">Dossier courant :</text>
+		<text id="lb.Test" h="273F3E5B">Test Test Test !</text>
+		<text id="lb.googleAccName" h="C94645A3">Compte Google :</text>
+		<text id="msg.fileNotFound" h="430E08B1">Le fichier "%1" n'a pas été trouvé dans le dossier actuel.</text>
+		<text id="msg.invalidFileName" h="7C0655B5">"%1" n'est pas un nom de fichier valide.</text>
+		<text id="msg.navigateError" h="2FCAA72A">Impossible de naviguer vers la ressource Google drive. Vérifiez votre connexion Internet et les droits d'accès à la ressource Google drive.</text>
+		<text id="msg.openFailed" h="AC94D960">Échec de l'ouverture du fichier. Assurez-vous que le fichier existe, n'est pas attribué à un autre utilisateur et que vous avez les permissions de lecture pour cela.</text>
+		<text id="msg.saveFailed" h="4D413392">Échec de l'enregistrement du fichier. Assurez-vous que le nom du fichier est valide et que vous avez les permissions d'écriture.</text>
+		<text id="msg.saveReplace" h="5D56833E">Le fichier %1 existe déjà. Voulez-vous le remplacer ?</text>
+		<text id="msg.selectFile" h="2530C20F">Veuillez sélectionner un fichier avant de presser OK</text>
+		<text id="ls.column.created" h="FE6510B7">Date de création</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Date et heure de création du fichier, du dossier ou de la liste</text>
+		<text id="ls.column.extension" h="14FEB836">Extension</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Extension de fichier</text>
+		<text id="ls.column.modified" h="7E234D6D">Date de modification</text>
+		<text id="ls.column.modified.hint" h="12933E76">Date et heure de modification du fichier, du dossier ou de la liste</text>
+		<text id="ls.column.size" h="17A58A52">Taille</text>
+		<text id="ls.column.size.hint" h="9C4BD847">Taille du fichier</text>
+		<text id="ls.column.title" h="D18643E3">Nom</text>
+		<text id="ls.column.title.hint" h="6A895576">Nom de fichier, nom de dossier ou titre de liste</text>
+		<text id="virtualfolder.mydrive" h="84C2D3A6">Mon Drive</text>
+		<text id="virtualfolder.sharedwithme" h="8B65307E">Partagé avec moi</text>
+		<text id="cpt.unableToSaveToVirtualFolder" h="778EF99A">Impossible d'enregistrer le fichier dans le dossier</text>
+		<text id="msg.unableToSaveToVirtualFolder" h="A6644426">Le fichier ne peut pas être sauvegardé dans l'emplacement sélectionné. Choisissez le dossier 'Mon drive', un de ses sous-dossiers ou un des sous-dossiers 'Partagé avec moi' pour sauvegarder le fichier.</text>
+	</Strings>
+</Localization>

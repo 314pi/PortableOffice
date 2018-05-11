@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20170131185646">2.00.00</Version>
+	<Author>Marek Szczepański</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Polish" lName="polski" code="pl-PL" R2L="false"/>
+	<Module name="BookmarksPlugin" namespace="bp" version="6.0.320.0"/>
+	<Strings>
+		<text id="DlgAddExcludedWords" h="BED549D0">Dodaj Nowe Słowo do Wykluczenia</text>
+		<text id="DlgAddTextToBookmark" h="E5B26485">Dodaj Tekst do Tytułu Zakładki </text>
+		<text id="DlgAutoGenerateBookmarks.Title" h="FADC74CA">Generowanie Zakładki z Tekstu Strony</text>
+		<text id="DlgBookmarkAppearance" h="7544DDCE">Wynikowy Wygląd</text>
+		<text id="DlgBookmarkEveryNthPage" h="B6869582">Każda n-ta Strona Zakładki</text>
+		<text id="DlgBookmarkLevelDescription" h="186C1D0A">Opcje Dopasowywania Tekstu</text>
+		<text id="DlgBookmarkPropSheet" h="862C67E7">Wlaściwości generowania zakładek</text>
+		<text id="DlgBookmarkTitleFormatting" h="A87502C2">Formatowanie Tytułów Zakładek</text>
+		<text id="DlgBookmarksToNamedDests" h="AC658539">Konwersja do Wskazanych Miejsc Docelowych</text>
+		<text id="DlgBookmarksToTextFile" h="01135DA3">Eksportuj Zakładki do Pliku Tekstowego</text>
+		<text id="DlgChangeBookmarkCase" h="4D74C7D9">Zmień Czcionkę Zakładki</text>
+		<text id="DlgEditStopWords" h="911413E7">Edytuj Słowa nie Indeksowane</text>
+		<text id="DlgFindReplaceBookmarkText" h="2F631B7B">Znajdź i Zastąp Tekst Zakładek</text>
+		<text id="DlgFontNames" h="57199985">Wybierz Nazwę Czcionki</text>
+		<text id="DlgFromTOC" h="AC2ED85C">Tabela zawartości zakładek</text>
+		<text id="DlgFromTOCIndentation" h="12688622">Zmień  Offsets</text>
+		<text id="DlgFromTextFile" h="B3799046">Wygeneruj Zakładki z Pliku Tekstowego</text>
+		<text id="DlgNamedDestsToPageNumbers" h="65641810">Konwertuj Nazwane Do Regularnych Miejsc Docelowych</text>
+		<text id="DlgSheetBttfBookmarkProps" h="4B2F0AA2">Właściwości Zakładek</text>
+		<text id="DlgSheetBttfSelectBookmarks" h="30673BCD">Ogólne</text>
+		<text id="DlgSortBookmarks" h="8339BB6C">Sortuj Zakładki</text>
+		<text id="DlgToTOC" h="2B3E9BF1">Utwórz Tabelę Zawartości</text>
+		<text id="DlgValidateBookmarks" h="0CD39971">Weryfikuj Zakładki</text>
+		<text id="atb.btn.Macroses" h="81734E4F">Mac</text>
+		<text id="atb.chb.IncludeChildren" h="0AC4CB2B">Dołącz wszystkie podpoziomy</text>
+		<text id="atb.chb.ProcessAllLevels" h="26C3B2DF">Przetwarzaj wszystkie poziomy zakładek</text>
+		<text id="atb.chb.RemoveSpaces" h="8452D136">Usuń nadmierne odstępy od oryginalnego Tytułu Zakładki</text>
+		<text id="atb.gb.AddText" h="E21C9B55">Dodaj Tekst</text>
+		<text id="atb.gb.Levels" h="8A668489">Zaznacz poziomy zakładek do przetworzenia</text>
+		<text id="atb.gb.SelectSource" h="3B40DBF8">Wybierz Źródło Zakładek</text>
+		<text id="atb.lbl.BookmarkTitle" h="2DC1254E">" Tytuł Zakładki"</text>
+		<text id="atb.lbl.Prefix" h="A51A4726">Dodaj przedrostek do tytułu zakładki </text>
+		<text id="atb.lbl.SelectLevel" h="D1263889">Poziom do przetworzenia:</text>
+		<text id="atb.lbl.Suffix" h="C27741D5">Dodaj przyrostek do tytułu zakłdki </text>
+		<text id="atb.lbl.UseBookmarksFrom" h="FD8C6267">Użyte zakładki:</text>
+		<text id="ba.chb.expand" h="BBA3BD8A">Pokaż rozszerzony (pokaż wszystkie podrzędne)</text>
+		<text id="ba.l.expl" h="EE297184">Wybierz rezultat końcowy wyglądu wizualnego zakładek:</text>
+		<text id="ba.l.textStyle" h="8D5CA9B5">Styl Tekstu</text>
+		<text id="benp.Gb.Main" h="4AAD7A29">Wlaściwości Zakładek</text>
+		<text id="benp.Label.TitleTemplate" h="E2075553">Szablon tytułu zakładki:</text>
+		<text id="benp.Label1.SelectN" h="8626E4EA">Każda zakładka</text>
+		<text id="benp.Label2.SelectN" h="6270721D">strony z wybranym zakresie strony</text>
+		<text id="benp.infoBtn.invalidMacro" h="4D064E86">Ciąg zawiera niezdefiniowaną nazwę makro, która będzie ignorowane</text>
+		<text id="bft.l.actionSeparator" h="60954CC9">Separator paramertów akcji</text>
+		<text id="bft.l.separator" h="BEDAC06E">Separator pola:</text>
+		<text id="bld.btn.selStyle" h="EE213BC5">Pobierz styl z zaznaczonego tekstu</text>
+		<text id="bld.chb.fontNames" h="AB457B23">Nazwa Czcionki:</text>
+		<text id="bld.chb.limitToPattern" h="7F0826AB">Ogranicz tytuły zakładek by dopasować je do wzoru</text>
+		<text id="bld.chb.matchTextPattern" h="5A64E195">Dopasuj wzór tekstu:</text>
+		<text id="bld.chb.multilineBookmarks" h="CB4817D1">Pozwól na wieloliniowe tytuły zakładek</text>
+		<text id="bld.g.textContentRules" h="5B364747">Reguły zawartości tekstu:</text>
+		<text id="bld.l.description" h="A779C9ED">Zaznacz kombinację atrybutów tekstu by automatycznie gnerować zakładki z dokumentu:</text>
+		<text id="bld.l.matchTextCase" h="43616BDA">Dopasuj  Tekst:</text>
+		<text id="bld.matchTextCase.allCapital" h="D4E8E731">Wszystkie duże litery</text>
+		<text id="bld.matchTextCase.firstCapital" h="D05EB796">Pierwsza litera jest duża</text>
+		<text id="bld.matchTextCase.firstDigit" h="55D84E38">Pierwszy znak jest liczbą</text>
+		<text id="bld.matchTextCase.noRestrictions" h="93089981">Brak ograniczeń</text>
+		<text id="bnd.gb.Main" h="4DDA9780">Tytuły Końcowe Zakładek</text>
+		<text id="bnd.lbl.NDTitle" h="7F7F73EC">Nazwy końcowe zakładek bedą stworzone przy użyciu maski:</text>
+		<text id="btf.chb.insertAfter" h="6E37D094">Dodaj ten tekst po każdym tytule:</text>
+		<text id="btf.chb.insertBefore" h="21265659">Wstaw tekst przed kazdym tytułem:</text>
+		<text id="btf.chb.removeDuplicateSpaces" h="2653A648">Usuń podwójne spacje</text>
+		<text id="btf.chb.replaceTitle" h="7CEA38A1">Zaznacz i zastąp tytuły zakładek przez wzór tekstu</text>
+		<text id="btf.g.advancedFormatting" h="9130441A">Formtowanie zaawansowane</text>
+		<text id="btf.g.textCase" h="97FCC959">Tekst Czcionka</text>
+		<text id="btf.l.characters" h="189C88D2">(znaków)</text>
+		<text id="btf.l.expl" h="1312BB94">Zaznacz właściwości tekstu, które zostaną zastosowane dla nowych tytułów zakładek:</text>
+		<text id="btf.l.leadingNumbers" h="1075612C">Interlinia:</text>
+		<text id="btf.l.maxLength" h="E79F0D68">Maks. długość tytułu:</text>
+		<text id="btf.l.replacePattern" h="A27464EF">Zastępczy wzór:</text>
+		<text id="btf.l.searchPattern" h="FF42A775">Znaleziony wzór:</text>
+		<text id="btf.l.use" h="46DEA47A">Użyj:</text>
+		<text id="btf.leadingNumbers.noChange" h="3399B0A0">Nie zmieniaj</text>
+		<text id="btf.rb.doNotChange" h="4CBF2C1B">Nie zmieniaj</text>
+		<text id="btf.rb.lowercase" h="82451817">małe litery</text>
+		<text id="btf.rb.sentenceCase" h="B26B2798">Sentencja litery</text>
+		<text id="btf.rb.titleCase" h="2C8DBF1B">Tytuł</text>
+		<text id="btf.rb.uppercase" h="42F820C7">DUŻE LITERY</text>
+		<text id="btf.use.letters" h="6EE7E478">Litery</text>
+		<text id="btf.use.numbers" h="E2FE5FA7">Numery</text>
+		<text id="btf.use.romanLetters" h="3D9B9671">Alfabet łaciński</text>
+		<text id="btn.add.custom" h="3080663C">Dodaj własne...</text>
+		<text id="btn.highlight" h="2485FBFF">Podświetl Zakładki</text>
+		<text id="btn.validate" h="1E91E484">Weryfikuj</text>
+		<text id="cbc.aew.label" h="C298E8A4">Dodaj słowo do wykluczenia  (naciśnij "Enter" po każdym słowie):</text>
+		<text id="cbc.cb.fromBookmarks" h="CF38CD8D">Wybrane</text>
+		<text id="cbc.cb.fromDocument" h="424CAFC5">Wszystkie zakładki</text>
+		<text id="cbc.chb.EnterCustomWordList" h="25E5E099">Wprowadź własną listę słów które nie będą przetwarzane</text>
+		<text id="cbc.chb.IncludeChildrenBookmarks" h="051C6219">Dołącz wszystkie podzakładki</text>
+		<text id="cbc.gb.SelectTextCase" h="F9747FC0">Wybierz Tekst</text>
+		<text id="cbc.gb.TextCaseOptions" h="DAD7B4F4">Opcje</text>
+		<text id="cbc.list.header" h="2B206C14">Wykluczone słowa</text>
+		<text id="cbc.rbtn.LowerCase" h="82451817">małe litery</text>
+		<text id="cbc.rbtn.SentenceCase" h="B26B2798">Fraza</text>
+		<text id="cbc.rbtn.TitleCase" h="2C8DBF1B">Tytuł</text>
+		<text id="cbc.rbtn.UpperCase" h="42F820C7">DUŻE LITERY</text>
+		<text id="chb.ignoreDuplicates" h="B30FC50E">Ignoruj kolejne duplikaty zakładek</text>
+		<text id="chb.stopWords" h="491ED7FC">Ignoruj tekst zawierający słowa stop</text>
+		<text id="chb.verifyLinks" h="7DAC0E42">Weryfikuj linki do dokumentów zewnętrznych i plików</text>
+		<text id="chb.warnGoTo" h="911FC68A">Ostrzegaj o niewłaściwej akcji "idź do"</text>
+		<text id="chb.warnGoToRE" h="C0827D11">Ostrzegaj o niewłaściwych akcjach "idź do R" i "idź do E"</text>
+		<text id="chb.warnLaunchURI" h="94F27C09">Ostrzegaj o niewłaściwych akcjach uruchomienia i URL</text>
+		<text id="chb.warnNoActions" h="FBF997CF">Ostrzegaj o pustej liście akcji</text>
+		<text id="chb.warnNoGoTo" h="66B02339">Ostrzegaj o braku akcji "idź do" w liście akcji</text>
+		<text id="chb.warnOther" h="B30D6C64">Ostrzegaj o innych niewłaściwych akcjach</text>
+		<text id="chb.warnTitle" h="F0B5EE52">Ostrzegaj o pustym tytule zakładki</text>
+		<text id="cmd.addAGBLevel" h="928E2BB5">Użyj zaznaczonego stylu tekstu do utworzenia zakładek...</text>
+		<text id="cmd.addTextToBookmarkTitle" h="CFACD5C5">Ddodaj tekst do tytułu zakładki</text>
+		<text id="cmd.bookmarkEveryNthPage" h="940FCD39">Dodaj zakładkę do każdej n-tej strony...</text>
+		<text id="cmd.bookmarksToHtmlFile" h="7D179637">Eksport zakładek do pliku HTML ...</text>
+		<text id="cmd.bookmarksToNamedDests" h="4167DE76">Konwertuj do nazw docelowych</text>
+		<text id="cmd.bookmarksToTextFile" h="3A3396BC">Eksport zakładek do pliku tekstowego ...</text>
+		<text id="cmd.changeBookmarkCase" h="359544B0">Zmień Zakładki...</text>
+		<text id="cmd.findReplaceBookmarkText" h="ABD91665">Znajdź i zamień tekst zakładek...</text>
+		<text id="cmd.fromTOC" h="95C894D9">Tabela Zawartości Zakładek..</text>
+		<text id="cmd.fromTextFile" h="1EA675FA">Generuj zakładki z pliku tekstowego...</text>
+		<text id="cmd.generate" h="6A2BEC3F">Generuj zakładki z tekstu na stronie...</text>
+		<text id="cmd.macro.firstLine" h="613F14A5">Pierwsza linia tekstu strony</text>
+		<text id="cmd.macro.hierIndex" h="7DCA5F4D">Indeks Hierarchii</text>
+		<text id="cmd.macro.hierTitle" h="0E7B4B6F">Hierarchiczny tytuł zakładki</text>
+		<text id="cmd.macro.indexInParent" h="1B41AFB1">Indeks nadrzędny</text>
+		<text id="cmd.macro.label" h="EEE40FF3">Etykieta Strony</text>
+		<text id="cmd.macro.launch" h="4ABD9355">Otwórz Plik</text>
+		<text id="cmd.macro.level" h="B863033F">Poziom zakładki</text>
+		<text id="cmd.macro.namedDest" h="C4E8D8F5">Nazwa Docelowa</text>
+		<text id="cmd.macro.sequentialNum" h="CDF4EA5E">Kolejny Numer</text>
+		<text id="cmd.macro.title" h="3AB782A4">Tytuł Zakładki</text>
+		<text id="cmd.macro.uri" h="A1458F37">Link strony do otwarcia</text>
+		<text id="cmd.name" h="E2032460">Zakładki</text>
+		<text id="cmd.namedDestsToPageNumbers" h="6E90A383">Przekonwertuj nazwane miejsca docelowe do regularnych miejsc docelowych...</text>
+		<text id="cmd.sort" h="B1FFF012">Sortuj Zakładki...</text>
+		<text id="cmd.toTOC" h="9B7AEEEA">Twórz tabelę zawartości...</text>
+		<text id="cmd.validate" h="E61D60D2">Weryfikuj Zakładki...</text>
+		<text id="ebttf.actType.all" h="B8B21253">Zakładki ze wszystkimi typami działań hiperłącza</text>
+		<text id="ebttf.actType.goto" h="79C634F2">Zakładki z przejdź do strony działania</text>
+		<text id="ebttf.actType.gotoR" h="CE75521E">Zakładki z przejdź do zdalnego działania</text>
+		<text id="ebttf.actType.js" h="07676EBA">Zakładki z działaniami Javascript </text>
+		<text id="ebttf.actType.launch" h="75989F2A">Zakładki z otwartym plikiem działania</text>
+		<text id="ebttf.actType.uri" h="E9EA71C7">Zakładki z działaniami Otwórz Link Web</text>
+		<text id="ebttf.cb.separator.comma" h="827998F7">Przecinek</text>
+		<text id="ebttf.cb.separator.semi" h="988594A6">Średnik</text>
+		<text id="ebttf.ch.doNotEscape" h="09B53F9F">Nie unikaj symboli sewisowych, takich jak @ # { } : itp.</text>
+		<text id="ebttf.ch.expClosedState" h="7BFE7A9B">Eksportuj zakładki "zamknięte" </text>
+		<text id="ebttf.ch.expDetailedGotoDescr" h="18B9C243">Eksportuj szczegółowo opis miejsca docelowego</text>
+		<text id="ebttf.ch.exportActions" h="3444FE51">Eksportuj działania zakładek</text>
+		<text id="ebttf.ch.exportGoto" h="37493654">Eksportuj stronę, na której jest zakładka</text>
+		<text id="ebttf.ch.exportGotoR" h="3BBD9494">Eksportuj Remote Go-do opisu czynności</text>
+		<text id="ebttf.ch.exportJS" h="9362EAE3">Eksportuj kodu działań JavaScript</text>
+		<text id="ebttf.ch.exportLaunch" h="EEB76894">Eksportuj opis operacji otwartego pliku</text>
+		<text id="ebttf.ch.exportStyle" h="A6713F10">Eksportuj styl tekstu zakładki i kolor właściwości</text>
+		<text id="ebttf.ch.exportWebLinks" h="3C61424C">Eksportuj Linki Web</text>
+		<text id="ebttf.ch.includeSubBookmarks" h="051C6219">Dołącz wszystkie pod-zakładki</text>
+		<text id="ebttf.ch.openContFolder" h="80BDDAAC">Otwórz folder zawierający</text>
+		<text id="ebttf.ch.overwriteExistingFiles" h="2CE2BEA4">Nadpisz istniejący plik</text>
+		<text id="ebttf.ch.resloveNamedDests" h="D1E8A9BC">Rozłóż wymienione nazwania do numerów stron</text>
+		<text id="ebttf.gb.actionExportParams" h="DA853D34">Wybierz właściwości zakładek do eksportu</text>
+		<text id="ebttf.gb.savingResults" h="49571A59">Parametry Wyjściowe</text>
+		<text id="ebttf.gb.selectBookmarks" h="E2AFC2C6">Wybierz zakładki do eksportu</text>
+		<text id="ebttf.infoBtn.doNotEscape" h="1FF19A6F">Nieprzestrzeganie symboli serwisowych nie jest zalecane, jeśli użyjesz pliku wyjściowego z "Generuj Zakładki z Pliku Tekstowego" funkcji w przyszłości.</text>
+		<text id="ebttf.infoBtn.invalidSeparator" h="4ED40392">Właściwości separatora nie musi być pustym ciągiem, nie zawierają alfanumerycznych lub wolnych symboli i nie może być jeden z następujących znaków @ # : { } </text>
+		<text id="ebttf.lbl.folder" h="3F9ED2F9">Folder:</text>
+		<text id="ebttf.lbl.separator" h="E9D351AC">Separator:</text>
+		<text id="ebttf.rb.exportActionTypes" h="533F8EA6">Eksportuj zakładki wykonujące operacje hiperlink:</text>
+		<text id="ebttf.rb.exportAll" h="8F2ED544">Eksportuj wszystko</text>
+		<text id="ebttf.rb.exportSelected" h="69FB5145">Eksportuj wybrane zakładki</text>
+		<text id="ebttf.rb.useDefaultFilename" h="0E7FC989">Użyj PDF-nazwa pliku dokumentu do zapisania wyniku</text>
+		<text id="esw.chb.matchCase" h="2E5EFD7E">Dopasuj litery tekstu</text>
+		<text id="esw.chb.matchWhole" h="17009870">Dopasuj wszystkie słowa</text>
+		<text id="esw.chb.useRegExp" h="7FC6EB4F">Użyj wyrażeń regularnych</text>
+		<text id="esw.l.explanation" h="52F66451">Tekst zawierający słowa które będą zignorowane i nie będą użyte do tworzenia zakladki.</text>
+		<text id="fn.l.selectFontNames" h="0CCEF1FA">Wybierz nazwę czcionki:</text>
+		<text id="frbt.chb.MatchCase" h="12EB8088">Dopasuj wielkość liter</text>
+		<text id="frbt.chb.MatchWholeWord" h="FE8CC762">Dopasuj wszystkie słowa</text>
+		<text id="frbt.chb.UseRegex" h="7FC6EB4F">Użyj wyrażeń regularnych</text>
+		<text id="frbt.gb.FindReplace" h="BA012728">Opcje znajdowania i zastępowania zakładek</text>
+		<text id="frbt.lbl.FindWhat" h="D0A8A2C5">Znajdź:</text>
+		<text id="frbt.lbl.ReplaceWith" h="3BE65784">Zastąp:</text>
+		<text id="ftoc.allIncluded" h="C994FC1B">Dołącz Wszystko</text>
+		<text id="ftoc.b.indents" h="48800D32">Zmień  Offsets...</text>
+		<text id="ftoc.chb.addBookmarks" h="CBBAE768">Dodaj zakładki do stron używając tablicy zawartości</text>
+		<text id="ftoc.chb.addLinks" h="68456DBA">Dodaj linki do spisu treści</text>
+		<text id="ftoc.chb.createLevels" h="5EE7FFD8">Użyj identyfikacji TOC by stworzyć hierarchię zkładek</text>
+		<text id="ftoc.chb.improveDest" h="E8BCE176">Spróbuj ulepszyć zakładki końcowe oparte na tekście</text>
+		<text id="ftoc.chb.trimNumbers" h="40ACC5F5">Usuń predrostki numeryczne z tytułów zakładek</text>
+		<text id="ftoc.chb.trimSpaces" h="5A27A063">Usuń podwojne spacje z tytułów zakładek</text>
+		<text id="ftoc.chb.useExistingLinks" h="FBEC1D32">Użyj istniejących linków dla nowych zakładek końcowych</text>
+		<text id="ftoc.l.bottomIndent" h="C983AD6F">Dolny Offset:</text>
+		<text id="ftoc.l.expl" h="ACF0EB09">Działanie doda zakładki do stron opartych na wybranych wpisach spisu treści. Opcjonalnie operacja ta może dodać linki do wpisów w tablicy zawartości lub użyć istniejących linków jako końcowych zakładek. </text>
+		<text id="ftoc.l.offsetExpl" h="FEBB1CA6">Różnica pomiędzy fizyczną liczbą stron w dokumencie PDF i drukowanymi stronami, która może być dodana lub odjęta.</text>
+		<text id="ftoc.l.separator" h="45CF4893">Wybierz typ separatora:</text>
+		<text id="ftoc.l.topIndent" h="FA827580">Góra Offset:</text>
+		<text id="msg.frbt.result.bookmarksCount" h="EE00AC0B">Wyszukiwanie jest zakończone. Łączna liczba zmodyfikowanych zakładek: %1</text>
+		<text id="msg.frbt.result.noBookmarksModified" h="84BE491B">Wyszukiwanie jest zakończone. Zakładki nie zostały zmodyfikowane.</text>
+		<text id="msg.bft.warning" h="726201E6">Proszę wybrać różne symbole separatora pola i separatora działania!</text>
+		<text id="msg.cbc.excludedwords.add.title" h="9ADE883B">Dodaj nowe słowo do wykluczenia</text>
+		<text id="msg.cbc.excludedwords.caption" h="366E639B">Wprowadz nowe słowo do wykluczenia:</text>
+		<text id="msg.cbc.excludedwords.edit.title" h="82F8AAA6">Edytuj zaznaczone słowa do wykluczenia</text>
+		<text id="msg.dlg.bookmarksToTextFile.done" h="3E5176AD">Zakładki zostały pomyślnie wyeksportowane do pliku.</text>
+		<text id="msg.dlg.emptyFilename.warning" h="96A438DA">Nazwa pliku nie może być pusta.</text>
+		<text id="msg.dlg.invalidFilename.slashes" h="626318B0">Nazwa pliku nie może zawierać kolejnych  lub / symboli, ani nie kończyć się żadnym z nich.</text>
+		<text id="msg.dlg.invalidFilename.warning" h="49886CB8">Nazwa pliku okna nie może zawierać żadnego z następujących symboli: * ? : | " &lt; &gt; </text>
+		<text id="msg.dlg.noActionsSelected.warning" h="C58DD393">"Eksport działania zakładek" pole wyboru zostało wybrane bez określonego rodzaju działania. Wybierz jedną lub więcej typu akcji do eksportu lub odznacz pole wyboru "Eksport działania zakładek" .</text>
+		<text id="msg.dlg.noSelectedBookmarks.warning" h="C13DD913">W dokumencie nie wybrano żadnych zakładek. Zaznacz jedną lub więcej zakładek lub zmień parametr źródła zakładek dla dokumentu by wykonać poerację,</text>
+		<text id="msg.dlg.pathDoesntExist.warning" h="5180D1A3">Podany folder nie istnieje. Proszę wybrać właściwy folder docelowy i spróbować ponownie.</text>
+		<text id="msg.font.addCustom.caption" h="75533687">Wprowadź nową nazwę czcionki PDF:</text>
+		<text id="msg.font.addCustom.title" h="06AFFCAB">Dodaj nową czcionkę niestandardową</text>
+		<text id="msg.levelDesc.title" h="E92EACC5">Specyfikacja poziomu</text>
+		<text id="msg.levelDesc.warning" h="C01F9021">Brak możliwości utworzenia nowego poziomu zakładek z podanych danych. Wybierz przynajmniej jedno pasujące kryterium w opcjach dopasowywania tekstu. Sprawdź również  czy zaznaczone elementy zawierają dane.</text>
+		<text id="msg.oper.noChanges" h="714E1C85">Nie w.prowadzono żadnych  zmian podczas wykonywania operacji. Sprawdź dane wejściowe i spróbuj ponownie</text>
+		<text id="msg.oper.warning" h="ABDCBB65">Wystąpiły problemy podczas wykonywania operacji. Sprawdż otrzymane rezultaty.</text>
+		<text id="msg.regex.error" h="D799FCBE">Błąd składni wyrażenia regularnego</text>
+		<text id="msg.stopWords.add.title" h="F6B54725">Dodaj nową frazę stop</text>
+		<text id="msg.stopWords.caption" h="1DE69466">Wprowadź nowe "slowo stop" lub "zdanie stop":</text>
+		<text id="msg.stopWords.edit.title" h="AFE604DF">Edytuj zaznaczoną frazę stop</text>
+		<text id="msg.validateBookmarks.delete.caption" h="5867AD02">Czy chcesz usunąc zaznaczone zakładki razem z podrzędnymi zakladkami?</text>
+		<text id="msg.validateBookmarks.delete.title" h="8FF00765">Usuwanie niepoprawnych zakładek</text>
+		<text id="msg.validateBookmarks.rename.caption" h="CE842D61">Wprowadź nową nazwę zakładki:</text>
+		<text id="msg.validateBookmarks.rename.title" h="ED9AF7FA">Zmień nazwę zakładki</text>
+		<text id="ndpn.ch.deleteDests" h="C9A42F86">Usuń konwertowane o nazwie miejsca docelowe z dokumentu</text>
+		<text id="op.GenerateBookmarks" h="05382BCA">Generuj Zakładki</text>
+		<text id="op.ValidateBookmarks.msg.emptyActionsList" h="A0A0065C">Brk akcji powiązanych z zakładkami.</text>
+		<text id="op.ValidateBookmarks.msg.emptyTitle" h="83F3E965">Tytuł zakładki jest pusty.</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidDestName" h="0D5129EF">IdźDo działanie odnosi się do niewłaściwej nazwy docelowej.</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidPageNumber" h="D14DFF5D">IdżDo działanie odnosi się do strony, która jest poza zakresem.</text>
+		<text id="op.ValidateBookmarks.msg.goto.noAction" h="368F0970">Brak akcji "idź do" w obecnej liście akcji.</text>
+		<text id="op.ValidateBookmarks.msg.gotoR.invalidFile" h="5B467E20">IdżDoR działanie odnosi się do nieprawidłowego pliku.</text>
+		<text id="op.ValidateBookmarks.msg.gotoR.invalidPath" h="35C669CA">Ścieżka do zewnętrznego dokumentu lub pliku jest nieprawidłowa.</text>
+		<text id="op.ValidateBookmarks.msg.gotoE.invalidTargetPath" h="C1220FB6">Ścieżka docelowa jest pusta lub nie występuje w działaniu Idź Do.</text>
+		<text id="op.ValidateBookmarks.msg.invalidAction" h="84877FDA">%1 akcja jest niewłaściwa</text>
+		<text id="progress.BookmarkEveryNthPage.title" h="DA523087">Tworzenie zakładek na stronie...</text>
+		<text id="progress.addTextToBookmarkTitle.text" h="BE27C5C9">Dodawanie tekstu do zakładki: %1...</text>
+		<text id="progress.addTextToBookmarkTitle.title" h="EC7EB408">Dodawanie tekstu do zakładki...</text>
+		<text id="progress.addingBookmark" h="45BBB17E">Dodawanie zakładki: %1 z %2...</text>
+		<text id="progress.bookmarksToHtmlFile.status" h="AF1901AD">Eksportowanie zakładek %1 of %2...</text>
+		<text id="progress.bookmarksToHtmlFile.text" h="4DD531FF">Eksportowanie zakładki: %1...</text>
+		<text id="progress.bookmarksToHtmlFile.title" h="6B32BA83">Eksportowanie zakładek do pliku HTML ...</text>
+		<text id="progress.bookmarksToNamedDests.text" h="CE73819F">Konwertowanie zakładek: %1...</text>
+		<text id="progress.bookmarksToNamedDests.title" h="8DB00717">Konwertowanie do nazw docelowych...</text>
+		<text id="progress.bookmarksToTextFile.text" h="6E74EA26">Przetwarzanie zakładki do eksportu: %1</text>
+		<text id="progress.bookmarksToTextFile.title" h="D2C04472">Eksportowanie zakładek do pliku tekstowego ...</text>
+		<text id="progress.calculatingBookmarks" h="4AC26E12">Liczenie zakładek...</text>
+		<text id="progress.changingBookmarkCase.text" h="107628CA">Zmiana wystąpienia zakładki: %1...</text>
+		<text id="progress.changingBookmarkCase.title" h="E01AED17">Zmiana wystąpienia zakładki...</text>
+		<text id="progress.findReplaceBookmarkText.text" h="ABC58F1D">Przetwarzanie zakładki: %1</text>
+		<text id="progress.findReplaceBookmarkText.title" h="00FEBD2A">Zastąp tekst zakładki...</text>
+		<text id="progress.generateBookmarks" h="3D5E30ED">Generowanie zakładek ze strony %1...</text>
+		<text id="progress.generatingBookmarks" h="CFF0F2A9">Generowanie Zakładek</text>
+		<text id="progress.generatingBookmarks.label" h="043CF7B1">Dodawanie zakładki: %1...</text>
+		<text id="progress.generatingLevels" h="07A22443">Generowanie poziomu z zakładki...</text>
+		<text id="progress.generatingTOC" h="A438CB9C">Generowanie Spisu Treści</text>
+		<text id="progress.generatingTOCFromBookmark" h="C9213435">Generowanie zawartości z zakładki: %1...</text>
+		<text id="progress.namedDestsToPageNumbers.deleteNds" h="5DFFFF06">Usuwanie nazwanych miejsc docelowych ...</text>
+		<text id="progress.namedDestsToPageNumbers.title" h="4615CB0B">Konwersja nazwanych miejsc do numerów stron...</text>
+		<text id="progress.parsingFile" h="B2405DA1">Odczytywanie struktury zakładek z pliku tekstowego...</text>
+		<text id="progress.precalculatingPages" h="15183896">Tworzenie stron dla tablicy zawartości...</text>
+		<text id="progress.preparingSelected" h="52031EDE">Przygotowywanie wybranych zakładek ...</text>
+		<text id="progress.sortingBookmarks" h="99E846CF">Sortowanie zakładki: %1...</text>
+		<text id="progress.sortingBookmarks.status" h="451C3890">Sortowanie zakładki %1 z %2...</text>
+		<text id="progress.sortingBookmarks.title" h="E134B46E">Sortowanie zakładek</text>
+		<text id="progress.statusText.ProcessingBookmarks" h="3836AD6B">Przetwarzanie zakładki %1 z %2...</text>
+		<text id="progress.statusText.ProcessingBookmarksDone" h="67CB6C48">Zakończono przetwarzanie zakładek.</text>
+		<text id="progress.undoingChanges" h="BBD3EE96">Cofanie zmian...</text>
+		<text id="regex.error.backref" h="3D1C1BE5">Wyrażenie zawiera niewłaściwe odwołanie do źródła.</text>
+		<text id="regex.error.badbrace" h="4363EA7D">Wyrażenie zawiera niewłaściwy zakres pomiędzy nawiasami: {' i '}.</text>
+		<text id="regex.error.badrepeat" h="9091944F">Wyrażenie zawiera powtarzające się specyficzne znaki (jeden z *?+{) która nie są wspierane przez prawidłowe wyrażenia regularne.</text>
+		<text id="regex.error.brace" h="3031B0A1">Wyrażenie zawiera brakujący nawias: {' i '}.</text>
+		<text id="regex.error.brack" h="A41AB311">Wyrażenie zawiera brakujący nawias: [' i '].</text>
+		<text id="regex.error.collate" h="D15FB49F">Wyrażenie zawiera niewłaściwe porównanie nazw elementów.</text>
+		<text id="regex.error.complexity" h="76ADCA5C">Złożoność próby dopasowania przeciwnego wyrażenia regularnego przekracza ustawiony poziom.</text>
+		<text id="regex.error.ctype" h="76D6C176">Wyrażenie zawiera niewłaściwy znakw klasie nazwy.</text>
+		<text id="regex.error.default" h="509A660E">Wystąpił błąd podczas przetwarzania wyrażenia regularnego.</text>
+		<text id="regex.error.escape" h="4BAF1552">Wyrażenie zawiera niewłaściwy znak wyjścia lub śledzenia wyjścia.</text>
+		<text id="regex.error.paren" h="11F2EE54">Wyrażenie zawiera brakujący nawias: (' i ').</text>
+		<text id="regex.error.range" h="CDB00023">Wyrażenie zawiera niewłaściwy zakres znaków (e.g., [z-a])</text>
+		<text id="regex.error.space" h="2FFB9DD7">Niewystarczająca ilość pamięci by poradzić sobie z tym wyrażeniem regularnym.</text>
+		<text id="regex.error.stack" h="2F47E3EC">Niewystarczająca ilość pamięci do zakończenia sprawdzania czy wyrażenie regularne pasuje do specyficznej sekwencji znaków.</text>
+		<text id="regex.error.syntax" h="4F399035">Błąd w składni wyrażenia regularnego.</text>
+		<text id="sb.ascending" h="59F2363F">Rosnąco</text>
+		<text id="sb.chb.ignoreCase" h="E0949C6C">Ignoruj litery w tekście</text>
+		<text id="sb.chb.sortAll" h="7BB3E98C">Sortuj wszystkie poziomy zakładek</text>
+		<text id="sb.chb.sortChildren" h="B1087C90">Sortuj zakładki podrzędne</text>
+		<text id="sb.descending" h="74091246">Malejąco</text>
+		<text id="sb.g.sortingMethod" h="93D0D863">Metoda Sortowania</text>
+		<text id="sb.l.selectLevel" h="F0507AA3">Zaznacz poziomy zakładek do sortowania:</text>
+		<text id="sb.l.sortType" h="85828DAE">Typ sortowania:</text>
+		<text id="sb.rb.sortAlpha" h="F9CD110C">Sortuj zakładki alfabetycznie</text>
+		<text id="sb.rb.sortByPage" h="EB2AF7E4">Sortuj zakładki po referencyjnym numerze strony</text>
+		<text id="test" h="3337B3E7">Testuj ciąg</text>
+		<text id="tree.fontColor" h="210B1C91">Kolor tekstu:</text>
+		<text id="tree.fontName" h="ACA86074">Nazwa Czcionki:</text>
+		<text id="tree.fontSize" h="B3CE43BA">Rozmiar:</text>
+		<text id="tree.fontTolerance" h="7781AAB6">Tolerancja:</text>
+		<text id="tree.level" h="9B075A86">Poziom:</text>
+		<text id="tree.textPattern" h="24121AD7">Wzór tekstu:</text>
+		<text id="tree.vb.bookmark" h="9926EC31">&lt;b&gt;%1. Zakładka:&lt;/b&gt; "%2"</text>
+		<text id="ttoc.b.build" h="DE9A0F1C">Utwórz</text>
+		<text id="ttoc.b.changeNumber" h="DD04BEA8">Zmień format ...</text>
+		<text id="ttoc.b.changeTitle" h="3B951B9A">Zmień format tytułu ...</text>
+		<text id="ttoc.chb.asLastPage" h="D323F9DD">Jako ostatnia strona</text>
+		<text id="ttoc.chb.end" h="9F41B967">Użyj wszystkich poziomów zakładek</text>
+		<text id="ttoc.chb.skipInvalid" h="F864C487">Pomiń nieprawidłowe zakładki</text>
+		<text id="ttoc.chb.useDifferentNumberFormatting" h="A39D9F18">Niestandardowe formatowanie liczb</text>
+		<text id="ttoc.chb.useDifferentSeparatorFormatting" h="7D6F82B2">Niestandardowe format separatora</text>
+		<text id="ttoc.chb.useSizeFromDoc" h="40E05E3E">Ustal rozmiar strony na podstawie dokumentu</text>
+		<text id="ttoc.g.pageNumbering" h="21AF4605">Numerowanie Stron</text>
+		<text id="ttoc.g.pageSettings" h="D82087B4">Ustawienia Strony</text>
+		<text id="ttoc.ib.numberFormat" h="D41C6CB8">&lt;b&gt;Format liczb:&lt;/b&gt; &lt;i&gt;Rodzina czcionka:&lt;/i&gt; %1, &lt;i&gt;Rozmiar czcionki:&lt;/i&gt; %2 pt, &lt;i&gt;Kolor czcionki:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.ib.separatorFormat" h="14A80F28">&lt;b&gt;Separator Format:&lt;/b&gt; &lt;i&gt;Font Family:&lt;/i&gt; %1, &lt;i&gt;Font Size:&lt;/i&gt; %2 pt, &lt;i&gt;Font Color:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.ib.titleFormat" h="4A9C0388">&lt;b&gt;Title Format:&lt;/b&gt; &lt;i&gt;Font Family:&lt;/i&gt; %1, &lt;i&gt;Font Size:&lt;/i&gt; %2 pt, &lt;i&gt;Font Color:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.l.end" h="0B21D394">Ostatni poziom do zawarcia w TOC:</text>
+		<text id="ttoc.l.insertAsPage" h="B68AF5B1">Wstaw TOC przed stroną:</text>
+		<text id="ttoc.l.outputPagesAs" h="96E6A50A">Wyjściowe numery stron twórz jako:</text>
+		<text id="ttoc.l.pageMargins" h="DA4D6B15">Marginesy Strony:</text>
+		<text id="ttoc.l.start" h="0816B0F1">Pierwszy poziom do zawarcia w TOC:</text>
+		<text id="ttoc.l.title" h="930D3835">Tytuł:</text>
+		<text id="ttoc.l.titleFormatting" h="21C775EE">Aktualizacja tytułu formatowania:</text>
+		<text id="ttoc.output.bates" h="ECE56FA9">Numery stron (jeśli obecne)</text>
+		<text id="ttoc.output.labels" h="EAE579C1">Etykiety stron</text>
+		<text id="ttoc.output.numbers" h="38E0043C">Oryginalne numery stron</text>
+		<text id="ttoc.style.dots" h="C13D9439">Rozdział............1</text>
+		<text id="ttoc.style.spaces" h="D9E4F5A0">Rozdział                1</text>
+		<text id="ttoc.style.underline" h="B52B746A">Rozdział________1</text>
+		<text id="ttoc.tableOfContents" h="080B4CC0">Tablica zawartości</text>
+		<text id="vb.l.invalidBookmarks" h="EE502FFE">Znaleziono %1 niewłaściwych zakładek</text>
+		<text id="vb.invalidALWarining" h="D8448444">Zmiany zostały zignorowane, ze względu na nieprawidłowe działania listy. Prosimy o pozostawienie co najmniej jednego działania!</text>
+	</Strings>
+</Localization>

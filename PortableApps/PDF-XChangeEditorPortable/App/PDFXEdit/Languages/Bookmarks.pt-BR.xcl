@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123215804">2.00.00</Version>
+	<Author>Hélio de Souza</Author>
+	<Copyright>Hélio de Souza ©
+heliodesouza@mail.com</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Portuguese (Brazil)" lName="Português" code="pt-BR" R2L="false"/>
+	<Module name="BookmarksPlugin" namespace="bp" version="7.0.323.3"/>
+	<Strings>
+		<text id="DlgAddExcludedWords" h="BED549D0">Adicionar Nova Palavra Excluída</text>
+		<text id="DlgAddTextToBookmark" h="E5B26485">Adicionar Texto ao Título do Marcador</text>
+		<text id="DlgAutoGenerateBookmarks.Title" h="0E85373B">Criar Marcadores a partir do Texto na Página</text>
+		<text id="DlgBookmarkAppearance" h="7544DDCE">Aparência Final</text>
+		<text id="DlgBookmarkEveryNthPage" h="B6869582">Marcar a cada 'x' Páginas</text>
+		<text id="DlgBookmarkLevelDescription" h="186C1D0A">Opções de Comparação de Texto</text>
+		<text id="DlgBookmarkPropSheet" h="862C67E7">Propriedades da Criação de Marcadores</text>
+		<text id="DlgBookmarkTitleFormatting" h="A87502C2">Formatação do Título</text>
+		<text id="DlgBookmarksToNamedDests" h="8A0957E5">Converter em Destino Nomeado </text>
+		<text id="DlgBookmarksToTextFile" h="29F18B82">Exportar Marcadores para Arquivo de Texto</text>
+		<text id="DlgChangeBookmarkCase" h="4D74C7D9">Alterar o formato do Marcador</text>
+		<text id="DlgEditStopWords" h="911413E7">Editar Palavras Comuns</text>
+		<text id="DlgFindReplaceBookmarkText" h="733A7FC1">Pesquisar e Substituir Texto do Marcador</text>
+		<text id="DlgFontNames" h="3C8B1F88">Selecionar Tipo de Fonte </text>
+		<text id="DlgFromTOC" h="AC2ED85C">Tabela de Conteúdos do Marcador</text>
+		<text id="DlgFromTOCIndentation" h="12688622">Alterar Recuo</text>
+		<text id="DlgFromTextFile" h="B3799046">Criar Marcador a partir do Texto</text>
+		<text id="DlgNamedDestsToPageNumbers" h="9CAE5E39">Converter em Destinos Regulares </text>
+		<text id="DlgSheetBttfBookmarkProps" h="4B2F0AA2">Propriedades do Marcador</text>
+		<text id="DlgSheetBttfSelectBookmarks" h="30673BCD">Geral</text>
+		<text id="DlgSortBookmarks" h="8339BB6C">Organizar Marcadores</text>
+		<text id="DlgToTOC" h="2B3E9BF1">Construir Tabela de Conteúdos</text>
+		<text id="DlgValidateBookmarks" h="0CD39971">Validar Marcadores</text>
+		<text id="atb.btn.Macroses" h="81734E4F">Mac</text>
+		<text id="atb.chb.IncludeChildren" h="0AC4CB2B">Incluir todos os sub-níveis</text>
+		<text id="atb.chb.ProcessAllLevels" h="26C3B2DF">Processar todos os níveis de Marcadores</text>
+		<text id="atb.chb.RemoveSpaces" h="ABDEA5BC">Remover espaços em excesso do Título do Marcador</text>
+		<text id="atb.gb.AddText" h="E21C9B55">Adicionar Texto</text>
+		<text id="atb.gb.Levels" h="8A668489">Selecionar os Níveis de Marcadores para Processar</text>
+		<text id="atb.gb.SelectSource" h="1E2E96A4">Selecionar Origem dos Marcadores</text>
+		<text id="atb.lbl.BookmarkTitle" h="2DC1254E">"Título"</text>
+		<text id="atb.lbl.Prefix" h="A51A4726">Adicionar Prefixo ao Título:</text>
+		<text id="atb.lbl.SelectLevel" h="D1263889">Selecione o nível a processar:</text>
+		<text id="atb.lbl.Suffix" h="C27741D5">Adicionar Sufixo ao Título:</text>
+		<text id="atb.lbl.UseBookmarksFrom" h="E770326C">Utilizar Marcadores:</text>
+		<text id="ba.chb.expand" h="BBA3BD8A">Mostrar expandido (mostrar todas as sub-categorias)</text>
+		<text id="ba.l.expl" h="EE297184">Selecionar a aparência visual dos Marcadores criados:</text>
+		<text id="ba.l.textStyle" h="8D5CA9B5">Estilo de Texto:</text>
+		<text id="benp.Gb.Main" h="4B2F0AA2">Propriedades de Marcação </text>
+		<text id="benp.Label.TitleTemplate" h="5E999567">Modelo de Título de Marcador: </text>
+		<text id="benp.Label1.SelectN" h="8626E4EA">Marcar a cada</text>
+		<text id="benp.Label2.SelectN" h="6270721D">página no intervalo de páginas</text>
+		<text id="benp.infoBtn.invalidMacro" h="1561C0F2">O comando contém um macro indefinido. Será ignorado.</text>
+		<text id="bft.l.actionSeparator" h="5C05CE1E">Parâmetros de ação do separador:</text>
+		<text id="bft.l.separator" h="A4269065">Delimitador de campo:</text>
+		<text id="bld.btn.selStyle" h="EE213BC5">Obter Estilo a partir do Texto</text>
+		<text id="bld.chb.fontNames" h="AB457B23">Tipo de Fonte:</text>
+		<text id="bld.chb.limitToPattern" h="7F0826AB">Limitar Título dos Marcadores para coincidir com o padrão</text>
+		<text id="bld.chb.matchTextPattern" h="5A64E195">Coincidir com o Padrão de Texto:</text>
+		<text id="bld.chb.multilineBookmarks" h="CB4817D1">Permitir título de Marcadores multilinha</text>
+		<text id="bld.g.textContentRules" h="5B364747">Definições de Conteúdo do Texto</text>
+		<text id="bld.l.description" h="2F770A5B">Selecione um conjunto de atributos do texto para criar Marcadores automáticos:</text>
+		<text id="bld.l.matchTextCase" h="43616BDA">Tipo de Texto:</text>
+		<text id="bld.matchTextCase.allCapital" h="D4E8E731">Todos os Caracteres são Maiúsculas</text>
+		<text id="bld.matchTextCase.firstCapital" h="CAA2E79D">Primeiro Caractere é Maiúscula</text>
+		<text id="bld.matchTextCase.firstDigit" h="42E73545">Primeiro Caractere é Dígito</text>
+		<text id="bld.matchTextCase.noRestrictions" h="93089981">Sem Restrições</text>
+		<text id="bnd.gb.Main" h="4DDA9780">Título de Destino Nomeado</text>
+		<text id="bnd.lbl.NDTitle" h="7F7F73EC">O Título de Destino será criado utilizando a máscara inserida:</text>
+		<text id="btf.chb.insertAfter" h="DD7B743E">Inserir este texto depois de cada título:</text>
+		<text id="btf.chb.insertBefore" h="CBDD1CF8">Inserir este texto antes de cada título:</text>
+		<text id="btf.chb.removeDuplicateSpaces" h="2653A648">Remover espaços duplicados</text>
+		<text id="btf.chb.replaceLineBreaks" h="0C51EEEB">Substituir as quebras de linha com espaços</text>
+		<text id="btf.chb.replaceTitle" h="097EF3C2">Procurar e substituir títulos dos Marcadores com padrões de texto</text>
+		<text id="btf.g.advancedFormatting" h="9130441A">Formatação Avançada</text>
+		<text id="btf.g.textCase" h="97FCC959">Tipo de Texto</text>
+		<text id="btf.l.characters" h="189C88D2">(caracteres)</text>
+		<text id="btf.l.expl" h="169A084A">Selecione as propriedades de texto que serão aplicadas aos novos títulos dos Marcadores:</text>
+		<text id="btf.l.leadingNumbers" h="074A1A51">Números Principais:</text>
+		<text id="btf.l.maxLength" h="A52EC501">Tamanho máximo:</text>
+		<text id="btf.l.replacePattern" h="B54B1F92">Substituir por:</text>
+		<text id="btf.l.searchPattern" h="E87DDC08">Pesquisar por:</text>
+		<text id="btf.l.use" h="46DEA47A">Utilizar:</text>
+		<text id="btf.leadingNumbers.noChange" h="3399B0A0">Nenhuma Alteração</text>
+		<text id="btf.rb.doNotChange" h="4CBF2C1B">Não Alterar</text>
+		<text id="btf.rb.lowercase" h="82451817">Minúsculas</text>
+		<text id="btf.rb.sentenceCase" h="B26B2798">Tipo Frase</text>
+		<text id="btf.rb.titleCase" h="2C8DBF1B">Tipo Título</text>
+		<text id="btf.rb.uppercase" h="42F820C7">Maiúsculas</text>
+		<text id="btf.use.letters" h="6EE7E478">Letras</text>
+		<text id="btf.use.numbers" h="E2FE5FA7">Números</text>
+		<text id="btf.use.romanLetters" h="290A50ED">Numeração Romana</text>
+		<text id="btn.add.custom" h="3080663C">Adicionar Personalizado...</text>
+		<text id="btn.highlight" h="2485FBFF">Destacar Marcador</text>
+		<text id="btn.validate" h="1E91E484">Validar</text>
+		<text id="cbc.aew.label" h="7EC386C0">Adicionar novas palavras excluídas digitando uma palavra
+por linha (pressione "Enter" após cada palavra):</text>
+		<text id="cbc.cb.fromBookmarks" h="CF38CD8D">Selecionados</text>
+		<text id="cbc.cb.fromDocument" h="424CAFC5">Todos os Marcadores</text>
+		<text id="cbc.chb.EnterCustomWordList" h="EB8ACE1B">Insira uma lista de palavras que não serão processadas</text>
+		<text id="cbc.chb.IncludeChildrenBookmarks" h="051C6219">Incluir todos os sub-Marcadores</text>
+		<text id="cbc.gb.SelectTextCase" h="F9747FC0">Selecionar Formato de Texto</text>
+		<text id="cbc.gb.TextCaseOptions" h="DAD7B4F4">Opções</text>
+		<text id="cbc.list.header" h="647D6FC4">Palavras excluídas</text>
+		<text id="cbc.rbtn.LowerCase" h="82451817">Minúscula</text>
+		<text id="cbc.rbtn.SentenceCase" h="B26B2798">Formato da Frase</text>
+		<text id="cbc.rbtn.TitleCase" h="2C8DBF1B">Formato de Título</text>
+		<text id="cbc.rbtn.UpperCase" h="42F820C7">Maiúscula</text>
+		<text id="chb.ignoreDuplicates" h="B30FC50E">Ignorar Marcadores consecutivos duplicados.</text>
+		<text id="chb.stopWords" h="491ED7FC">Ignorar texto que contém palavras comuns.</text>
+		<text id="chb.verifyLinks" h="7A46B598">Verificar links para documentos e arquivos externos</text>
+		<text id="chb.warnGoTo" h="911FC68A">Alertar para ações 'Ir Para' inválidas</text>
+		<text id="chb.warnGoToRE" h="C0827D11">Alertar sobre ações 'Ir Para' e 'Ir Para e' inválidas</text>
+		<text id="chb.warnLaunchURI" h="94F27C09">Alertar sobre de ações 'Abrir' e 'URL' inválidas</text>
+		<text id="chb.warnNoActions" h="FBF997CF">Alertar para lista de ações vazia ou regra inválida</text>
+		<text id="chb.warnNoGoTo" h="66B02339">Alertar sobre da ausência da ação 'Ir Para' na lista de ações</text>
+		<text id="chb.warnOther" h="B30D6C64">Alertar sobre outras ações inválidas</text>
+		<text id="chb.warnTitle" h="F0B5EE52">Alertar sobre títulos vazios</text>
+		<text id="cmd.addAGBLevel" h="928E2BB5">Usar o Estilo de Texto selecionado ao criar um Marcador...</text>
+		<text id="cmd.addTextToBookmarkTitle" h="C4C93738">Adicionar Texto ao Título do Marcador...</text>
+		<text id="cmd.addTextToBookmarkTitle.short" h="E21C9B55">Adicionar Texto</text>
+		<text id="cmd.addTextToBookmarkTitle.tip" h="B412507B">Adiciona prefixos e sufixos aos títulos dos marcadores.</text>
+		<text id="cmd.changeBookmarkCase" h="359544B0">Alterar Tipo de Marcador...</text>
+		<text id="cmd.changeBookmarkCase.short" h="BC4AE60A">Alterar Tipo</text>
+		<text id="cmd.changeBookmarkCase.tip" h="48522DE3">Alterar maiúsculas e minúsculas do Título dos Marcadores.</text>
+		<text id="cmd.findReplaceBookmarkText" h="AF996007">Procurar e Substituir Texto do Marcador...</text>
+		<text id="cmd.findReplaceBookmarkText.short" h="9F35A871">Procurar e Substituir</text>
+		<text id="cmd.findReplaceBookmarkText.tip" h="7ED81F66">Localiza e substitui elementos de texto no Títulos dos Marcadores.</text>
+		<text id="cmd.sort" h="B1FFF012">Organizar Marcadores...</text>
+		<text id="cmd.sort.short" h="579162B0">Classificar</text>
+		<text id="cmd.sort.tip" h="90B74C06">Classifica os Marcadores pelos critérios fornecidos.</text>
+		<text id="cmd.validate" h="E61D60D2">Validar Marcadores...</text>
+		<text id="cmd.validate.short" h="1E91E484">Validar</text>
+		<text id="cmd.validate.tip" h="AF7C0DD0">Verifica e valida os marcadores pelos critérios fornecidos.</text>
+		<text id="cmd.toTOC" h="9B7AEEEA">Criar Tabela de Conteúdos...</text>
+		<text id="cmd.toTOC.short" h="2B3E9BF1">Tabela de Conteúdos</text>
+		<text id="cmd.toTOC.tip" h="E92DA1A8">Cria uma tabela de conteúdos com base na estrutura dos Marcadores e nas páginas às quais eles apontam.</text>
+		<text id="cmd.bookmarksToNamedDests" h="9A9E5CF2">Converter em Destino Nomeado...</text>
+		<text id="cmd.bookmarksToNamedDests.short" h="9226CE11">Destino Nomeado</text>
+		<text id="cmd.bookmarksToNamedDests.tip" h="76CA39A1">Converte Destinos Regulares em Destinos Nomeados. Ao mover ou excluir páginas, os Marcadores apontarão para as mesmas páginas anteriores.</text>
+		<text id="cmd.bookmarksToTextFile" h="DBEBEEB8">Exportar Marcadores para Arquivo de Texto...</text>
+		<text id="cmd.bookmarksToTextFile.short" h="738D44A8">Para TXT</text>
+		<text id="cmd.bookmarksToTextFile.tip" h="2F1DD236">Salva a estrutura dos Marcadores como um arquivo de texto.</text>
+		<text id="cmd.bookmarksToHtmlFile" h="EFF75744">Exportar Marcadores para Arquivo HTML...</text>
+		<text id="cmd.bookmarksToHtmlFile.short" h="76C20816">Para HTML</text>
+		<text id="cmd.bookmarksToHtmlFile.tip" h="8968844D">Salva a estrutura dos Marcadores como um arquivo HTML.</text>
+		<text id="cmd.namedDestsToPageNumbers" h="3A651CA9">Converter em Destino Regular...</text>
+		<text id="cmd.namedDestsToPageNumbers.short" h="74C22304">Destino Regular</text>
+		<text id="cmd.namedDestsToPageNumbers.tip" h="2ABF8034">Converte Destinos Nomeados em Destinos Regulares. Ao mover ou excluir páginas, os Marcadores apontam para páginas que correspondem ao número da página de destino.</text>
+		<text id="cmd.bookmarkEveryNthPage" h="940FCD39">Criar Marcador a cada 'x' Páginas...</text>
+		<text id="cmd.bookmarkEveryNthPage.short" h="71BCE832">A cada 'X' páginas</text>
+		<text id="cmd.bookmarkEveryNthPage.tip" h="B60E23D7">Criar marcadores com base no número da página do documento.</text>
+		<text id="cmd.generate" h="2147DF79">Criar Marcador a partir do Texto da Página...</text>
+		<text id="cmd.generate.short" h="8BE514A6">Do Texto da Página</text>
+		<text id="cmd.generate.tip" h="2A03253C">Cria Marcadores a partir do texto do documento atual usando o estilo de fonte e os parâmetros fornecidos.</text>
+		<text id="cmd.fromTOC" h="D15400EB">Tabela de Conteúdos do Marcador...</text>
+		<text id="cmd.fromTOC.short" h="3AB39C50">Da Tabela de Conteúdos</text>
+		<text id="cmd.fromTOC.tip" h="D4170828">Cria Marcadores de uma tabela de conteúdos existente. A tabela de conteúdos deve ser selecionada usando a Ferramenta Selecionar Texto para que esse recurso funcione.</text>
+		<text id="cmd.fromTextFile" h="55CA46BC">Criar Marcador a partir do Arquivo de Texto...</text>
+		<text id="cmd.fromTextFile.short" h="3619B3DB">Do Arquivo de Texto</text>
+		<text id="cmd.fromTextFile.tip" h="11167525">Cria Marcadores a partir de Arquivos de Texto. O formato de dados do arquivo de texto seguirá as regras do item Exportar Marcadores para Arquivo de Texto.</text>
+		<text id="cmd.name" h="7CDCE9BE">&amp;Marcadores</text>
+		<text id="cmd.macro.firstLine" h="613F14A5">Primeira Linha de Texto da Página</text>
+		<text id="cmd.macro.hierIndex" h="7DCA5F4D">Índice Hierárquico</text>
+		<text id="cmd.macro.hierTitle" h="0E7B4B6F">Título Hierárquico de Marcador </text>
+		<text id="cmd.macro.indexInParent" h="1B41AFB1">Indexar ao Principal</text>
+		<text id="cmd.macro.label" h="EEE40FF3">Etiqueta da Página</text>
+		<text id="cmd.macro.launch" h="87D9EB8D">Arquivo para Abrir</text>
+		<text id="cmd.macro.level" h="B863033F">Nível do Marcador</text>
+		<text id="cmd.macro.namedDest" h="C4E8D8F5">Destino Nomeado</text>
+		<text id="cmd.macro.sequentialNum" h="CDF4EA5E">Número Sequencial</text>
+		<text id="cmd.macro.title" h="3AB782A4">Título do Marcador</text>
+		<text id="cmd.macro.uri" h="6C21F7EF">Link WEB para Abrir</text>
+		<text id="ebttf.actType.all" h="B8B21253">Marcadores com tipos de ação de Hiperlink</text>
+		<text id="ebttf.actType.goto" h="05B4C93C">Marcadores com ações Ir Para Página </text>
+		<text id="ebttf.actType.gotoR" h="41E1955E">Marcadores com ações Ir Para Remoto </text>
+		<text id="ebttf.actType.js" h="07676EBA">Marcadores com ações Javascript</text>
+		<text id="ebttf.actType.launch" h="38537D36">Marcadores com ações Abrir Arquivo </text>
+		<text id="ebttf.actType.uri" h="F39B51AE">Marcadores com ações Abrir Link WEB </text>
+		<text id="ebttf.cb.separator.comma" h="827998F7">Vírgula</text>
+		<text id="ebttf.cb.separator.semi" h="988594A6">Ponto e vírgula</text>
+		<text id="ebttf.ch.doNotEscape" h="09B53F9F">Não evitar símbolos de escape de serviço como @ # { }  :</text>
+		<text id="ebttf.ch.expClosedState" h="46E4EC7E">Exportar estado "fechado" do Marcador</text>
+		<text id="ebttf.ch.expDetailedGotoDescr" h="18B9C243">Exportar descrições detalhadas sobre Destinos</text>
+		<text id="ebttf.ch.exportActions" h="3444FE51">Exportar ações dos Marcadores</text>
+		<text id="ebttf.ch.exportGoto" h="37493654">Exportar página salva pelo Marcador</text>
+		<text id="ebttf.ch.exportGotoR" h="92C06BA6">Exportar descrição de ações Ir Para Remoto</text>
+		<text id="ebttf.ch.exportJS" h="9362EAE3">Exportar código de ações Javascript</text>
+		<text id="ebttf.ch.exportLaunch" h="1B39BF89">Exportar descrição de ações Abrir Arquivo</text>
+		<text id="ebttf.ch.exportStyle" h="A6713F10">Exportar estilo de texto e propriedades de cor do Marcador</text>
+		<text id="ebttf.ch.exportWebLinks" h="3C61424C">Exportar Links da Web</text>
+		<text id="ebttf.ch.includeSubBookmarks" h="051C6219">Incluir todos os sub-Marcadores</text>
+		<text id="ebttf.ch.openContFolder" h="80BDDAAC">Abrir pasta de destino</text>
+		<text id="ebttf.ch.overwriteExistingFiles" h="29981774">Substituir arquivos existentes</text>
+		<text id="ebttf.ch.resloveNamedDests" h="D1E8A9BC">Corrigir Destinos Nomeados para números de páginas</text>
+		<text id="ebttf.gb.actionExportParams" h="DA853D34">Selecione as propriedades dos Marcadores para exportar</text>
+		<text id="ebttf.gb.savingResults" h="49571A59">Parâmetros de Saída</text>
+		<text id="ebttf.gb.selectBookmarks" h="E2AFC2C6">Selecionar Marcadores para Exportar</text>
+		<text id="ebttf.infoBtn.doNotEscape" h="93A6DD6C">Evitar símbolos de escape de serviço não é recomendado se você usar o arquivo de saída com a funcionalidade "Criar Marcadores a partir de Arquivo de Texto" futuramente.</text>
+		<text id="ebttf.infoBtn.invalidSeparator" h="44875D1F">O delimitador de propriedades não pode conter um comando vazio, não pode conter espaços ou símbolos alfanuméricos e não pode ser um dos seguintes caracteres: @ # : {}  </text>
+		<text id="ebttf.lbl.folder" h="3F9ED2F9">Pasta:</text>
+		<text id="ebttf.lbl.separator" h="E9D351AC">Delimitador:</text>
+		<text id="ebttf.rb.exportActionTypes" h="533F8EA6">Exportar Marcadores que realizem conexões:</text>
+		<text id="ebttf.rb.exportAll" h="8F2ED544">Exportar todos</text>
+		<text id="ebttf.rb.exportSelected" h="69FB5145">Exportar Marcadores selecionados</text>
+		<text id="ebttf.rb.useDefaultFilename" h="0E7FC989">Utilizar nome do documento PDF para salvar os resultados</text>
+		<text id="esw.chb.matchCase" h="2E5EFD7E">Coincidir Tipo de Texto</text>
+		<text id="esw.chb.matchWhole" h="17009870">Coincidir na Totalidade da Palavra</text>
+		<text id="esw.chb.useRegExp" h="7FC6EB4F">Utilizar Expressões Comuns</text>
+		<text id="esw.l.explanation" h="2C312B17">O texto que contém estas palavras será ignorado e não será
+utilizado para criar Marcadores.</text>
+		<text id="fn.l.selectFontNames" h="0CCEF1FA">Selecione o Tipo de Fonte:</text>
+		<text id="frbt.chb.MatchCase" h="12EB8088">Coincidir com Tipo de Texto</text>
+		<text id="frbt.chb.MatchWholeWord" h="FE8CC762">Coincidir com a Palavra Completa</text>
+		<text id="frbt.chb.UseRegex" h="7FC6EB4F">Utilizar Expressões Regulares</text>
+		<text id="frbt.gb.FindReplace" h="BA012728">Opções da Pesquisa e Substituição</text>
+		<text id="frbt.lbl.FindWhat" h="D0A8A2C5">Pesquisar por:</text>
+		<text id="frbt.lbl.ReplaceWith" h="3BE65784">Substituir por:</text>
+		<text id="ftoc.allIncluded" h="C994FC1B">Incluir Tudo</text>
+		<text id="ftoc.b.indents" h="48800D32">Alterar recuo...</text>
+		<text id="ftoc.chb.addBookmarks" h="CBBAE768">Adicionar Marcadores às páginas utilizando a tabela de conteúdos</text>
+		<text id="ftoc.chb.addLinks" h="68456DBA">Adicionar links às entradas da tabela de conteúdos</text>
+		<text id="ftoc.chb.createLevels" h="58CF083A">Utilizar incidentes TOC para criar uma hierarquia nos Marcadores</text>
+		<text id="ftoc.chb.improveDest" h="417AD7B0">Tentar melhorar o Destino dos Marcadores com base no texto</text>
+		<text id="ftoc.chb.trimNumbers" h="40ACC5F5">Remover o prefixo numérico do Título dos Marcadores</text>
+		<text id="ftoc.chb.trimSpaces" h="5A27A063">Remover espaços consecutivos nos Títulos dos Marcadores</text>
+		<text id="ftoc.chb.useExistingLinks" h="E214DBE7">Utilizar links existentes como Destino dos novos Marcadores</text>
+		<text id="ftoc.l.bottomIndent" h="C983AD6F">Recuo Inferior:</text>
+		<text id="ftoc.l.expl" h="1FAB779E">Esta operação irá adicionar Marcadores às páginas com base na seleção da tabela de
+conteúdos. Esta operação também pode adicionar links à tabela de conteúdos ou 
+utilizar links já existentes como destino para os Marcadores.</text>
+		<text id="ftoc.l.offsetExpl" h="9D6C25F6">Esta é a diferença entre a numeração
+física da página e a numeração impressa.
+Pode ser positiva ou negativa.</text>
+		<text id="ftoc.l.pageOffset" h="9E563407">Recuo da Página:</text>
+		<text id="ftoc.l.separator" h="45CF4893">Tipo de separador:</text>
+		<text id="ftoc.l.topIndent" h="FA827580">Recuo Superior:</text>
+		<text id="msg.bft.warning" h="726201E6">Selecione símbolos diferentes para utilizar como delimitador de campo e separador de ação!</text>
+		<text id="msg.cbc.excludedwords.add.title" h="9ADE883B">Adicionar Nova Palavra Excluída</text>
+		<text id="msg.cbc.excludedwords.caption" h="6B29D4B4">Digite uma nova palavra a excluir:</text>
+		<text id="msg.cbc.excludedwords.edit.title" h="82F8AAA6">Editar Palavra Excluída Selecionada</text>
+		<text id="msg.dlg.bookmarksToTextFile.done" h="8E1397E9">Os Marcadores foram exportados com sucesso para o arquivo. </text>
+		<text id="msg.dlg.emptyFilename.warning" h="96A438DA">O nome do arquivo não pode estar vazio.</text>
+		<text id="msg.dlg.invalidFilename.slashes" h="626318B0">O nome de arquivo não deve conter sucessivamente os símbolos ou /, nem terminar com nenhum deles.</text>
+		<text id="msg.dlg.invalidFilename.warning" h="46CD566C">O nome do arquivo não pode conter nenhum dos seguintes símbolos: * ? : | " &lt; &gt;</text>
+		<text id="msg.dlg.noActionsSelected.warning" h="933F1901">A caixa de seleção "Exportar Ações de Marcadores" está marcada sem nenhuma ação especificada. Selecione um ou mais tipos de ações para exportar ou desmarque a caixa.</text>
+		<text id="msg.dlg.noSelectedBookmarks.warning" h="21F37C67">Nenhum Marcador está selecionado. Por favor, selecione um ou mais Marcadores ou altere o parâmetro "Origem dos Marcadores" para "Todos os Marcadores" para realizar a operação.</text>
+		<text id="msg.dlg.pathDoesntExist.warning" h="0804B942">A pasta especificada não existe. Por favor, selecione uma pasta de destino válida e tente novamente.</text>
+		<text id="msg.font.addCustom.caption" h="75533687">Digite o novo nome da Fonte PDF:</text>
+		<text id="msg.font.addCustom.title" h="06AFFCAB">Adicionar Tipo de Fonte Personalizada</text>
+		<text id="msg.frbt.result.bookmarksCount" h="EE00AC0B">A busca está completa. Número total de Marcadores modificados: %1</text>
+		<text id="msg.frbt.result.noBookmarksModified" h="84BE491B">A busca está completa. Nenhum Marcador foi alterado.</text>
+		<text id="msg.levelDesc.title" h="E92EACC5">Especificação do Nível</text>
+		<text id="msg.levelDesc.warning" h="86A85979">Não é possível criar um novo nível de Marcador com os dados fornecidos. Selecione um dos critérios disponiveis em Opções de Texto a Coincidir. Verifique se os elementos selecionados contém dados inseridos.</text>
+		<text id="msg.oper.noChanges" h="5777DD79">Não foram efetuadas alterações durante a execução da operação. Por favor, verifique os dados inseridos e tente novamente.</text>
+		<text id="msg.oper.warning" h="ABDCBB65">Ocorreram alguns erros durante a execução da operação. Por favor, verifique os resultados.</text>
+		<text id="msg.regex.error" h="D799FCBE">Erro de análise da expressão comum</text>
+		<text id="msg.stopWords.add.title" h="F6B54725">Adicionar Nova Frase Comum</text>
+		<text id="msg.stopWords.caption" h="E2BC1B9E">Digite a nova "Palavra Comum" ou "Frase Comum":</text>
+		<text id="msg.stopWords.edit.title" h="AFE604DF">Editar Palavra Comum Selecionada</text>
+		<text id="msg.validateBookmarks.delete.caption" h="ED4457F4">Deseja eliminar o Marcador selecionado?</text>
+		<text id="msg.validateBookmarks.delete.title" h="8FF00765">Eliminar Marcador Inválido</text>
+		<text id="msg.validateBookmarks.rename.caption" h="CE842D61">Digite novo nome para o Marcador:</text>
+		<text id="msg.validateBookmarks.rename.title" h="ED9AF7FA">Renomear Marcador</text>
+		<text id="ndpn.ch.deleteDests" h="BC12FBF0">Remover os Destinos Nomeados convertidos do documento</text>
+		<text id="op.GenerateBookmarks" h="05382BCA">Criar Marcadores</text>
+		<text id="op.ValidateBookmarks.msg.emptyActionsList" h="A0A0065C">O Marcador não tem nenhuma ação associada.</text>
+		<text id="op.ValidateBookmarks.msg.emptyTitle" h="83F3E965">O título do Marcador está vazio.</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidDestName" h="81A40483">Ação 'Ir Para' refere-se a um Destino Inválido.</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidPageNumber" h="C8941D79">Ação 'Ir Para' refere-se a uma página inexistente.</text>
+		<text id="op.ValidateBookmarks.msg.goto.noAction" h="368F0970">Nenhuma ação 'Ir Para' está disponível na lista de ações.</text>
+		<text id="op.ValidateBookmarks.msg.gotoE.invalidTargetPath" h="9D8A50F1">O caminho de destino está vazio ou ausente na ação Ir Para.</text>
+		<text id="op.ValidateBookmarks.msg.gotoR.invalidFile" h="76CCA61D">Ação 'Ir Para' refere-se a um arquivo inválido.</text>
+		<text id="op.ValidateBookmarks.msg.gotoR.invalidPath" h="560614BE">O caminho para o documento externo é inválido.</text>
+		<text id="op.ValidateBookmarks.msg.invalidAction" h="84877FDA">%1 é uma ação inválida.</text>
+		<text id="progress.BookmarkEveryNthPage.title" h="DA523087">Marcando páginas...</text>
+		<text id="progress.addTextToBookmarkTitle.text" h="BE27C5C9">Adicionando texto ao Marcador: %1...</text>
+		<text id="progress.addTextToBookmarkTitle.title" h="EC7EB408">Adicionando texto aos Marcadores...</text>
+		<text id="progress.addingBookmark" h="45BBB17E">Adicionando Marcadores: %1 de %2...</text>
+		<text id="progress.bookmarksToHtmlFile.status" h="AF1901AD">Exportando Marcadores: %1 de %2...</text>
+		<text id="progress.bookmarksToHtmlFile.text" h="4DD531FF">Exportando Marcador: %1...</text>
+		<text id="progress.bookmarksToHtmlFile.title" h="E1D21FEE">Exportando Marcadores para arquivo HTML...</text>
+		<text id="progress.bookmarksToNamedDests.text" h="CE73819F">Convertendo Marcador: %1...</text>
+		<text id="progress.bookmarksToNamedDests.title" h="8DB00717">Convertendo em Destinos Nomeados...</text>
+		<text id="progress.bookmarksToTextFile.text" h="6E74EA26">Processando Marcador para exportação: %1</text>
+		<text id="progress.bookmarksToTextFile.title" h="D2C04472">Exportando Marcadores para arquivo de texto...</text>
+		<text id="progress.calculatingBookmarks" h="4AC26E12">Contabilizando os Marcadores...</text>
+		<text id="progress.changingBookmarkCase.text" h="107628CA">Modificando pasta de Marcadores: %1...</text>
+		<text id="progress.changingBookmarkCase.title" h="E01AED17">Modificando Pasta de Marcadores...</text>
+		<text id="progress.findReplaceBookmarkText.text" h="ABC58F1D">Processando Marcador: %1</text>
+		<text id="progress.findReplaceBookmarkText.title" h="00FEBD2A">Substituindo texto do Marcador...</text>
+		<text id="progress.generateBookmarks" h="3D5E30ED">Criando Marcadores a partir da página %1...</text>
+		<text id="progress.generatingBookmarks" h="CFF0F2A9">Criando Marcadores</text>
+		<text id="progress.generatingBookmarks.label" h="043CF7B1">Adicionando Marcador: %1...</text>
+		<text id="progress.generatingLevels" h="07A22443">Criando níveis a partir de Marcadores...</text>
+		<text id="progress.generatingTOC" h="A438CB9C">Criando Tabela de Conteúdos</text>
+		<text id="progress.generatingTOCFromBookmark" h="C9213435">Criando conteúdo a partir do Marcador: %1...</text>
+		<text id="progress.namedDestsToPageNumbers.deleteNds" h="5DFFFF06">Eliminando Destinos Nomeados...</text>
+		<text id="progress.namedDestsToPageNumbers.title" h="4615CB0B">Convertendo Destinos Nomeados em Números de Página...</text>
+		<text id="progress.parsingFile" h="B2405DA1">Lendo estrutura do Marcador a partir do texto do arquivo...</text>
+		<text id="progress.precalculatingPages" h="DB83BEF7">Criando páginas para a Tabela de Conteúdos...</text>
+		<text id="progress.preparingSelected" h="52031EDE">Preparando Marcadores selecionados...</text>
+		<text id="progress.sortingBookmarks" h="99E846CF">Organizando Marcador: %1...</text>
+		<text id="progress.sortingBookmarks.status" h="451C3890">Organizando Marcador %1 de %2...</text>
+		<text id="progress.sortingBookmarks.title" h="E134B46E">Organizar Marcadores</text>
+		<text id="progress.statusText.ProcessingBookmarks" h="3836AD6B">Processando Marcador %1 de %2...</text>
+		<text id="progress.statusText.ProcessingBookmarksDone" h="67CB6C48">Processamento de Marcadores concluído.</text>
+		<text id="progress.undoingChanges" h="BBD3EE96">Desfazendo alterações...</text>
+		<text id="regex.error.backref" h="3D1C1BE5">A expressão possuía uma referência anterior inválida.</text>
+		<text id="regex.error.badbrace" h="4363EA7D">A expressão inserida contém uma escala inválida entre as chaves: '{' e '}'.</text>
+		<text id="regex.error.badrepeat" h="9091944F">A expressão possuía um especificador repetido (um dos *?+{) não era precedido de uma expressão regular válida.</text>
+		<text id="regex.error.brace" h="3031B0A1">A expressão contém chaves diferentes: '{' e '}'.</text>
+		<text id="regex.error.brack" h="A41AB311">A expressão inserida não corresponde com a dentro dos colchetes: '[' e ']'.</text>
+		<text id="regex.error.collate" h="D15FB49F">A expressão contém um nome de elemento de conjugação inválido.</text>
+		<text id="regex.error.complexity" h="76ADCA5C">A complexidade de tentar obter uma coincidência com uma expressão comum excedeu o nível predefinido.</text>
+		<text id="regex.error.ctype" h="76D6C176">A expressão inserida contém uma classe de nomes de caractéres inválida.</text>
+		<text id="regex.error.default" h="509A660E">Ocorreu um erro ao processar uma expressão regular.</text>
+		<text id="regex.error.escape" h="4BAF1552">A expressão contém um caractere de saída inválido ou uma saída à direita.</text>
+		<text id="regex.error.paren" h="11F2EE54">A expressão inserida não corresponde com a dentro de parênteses: '( 'e ')'.</text>
+		<text id="regex.error.range" h="CDB00023">A expressão contém um intervalo de caractéres inválido (ex: [z-a])</text>
+		<text id="regex.error.space" h="2FFB9DD7">Ocorreu um erro devido a memória insuficiente para utilizar esta expressão comum.</text>
+		<text id="regex.error.stack" h="2F47E3EC">Ocorreu um erro devido a memória insuficiente que impediu de determinar se a expressão comum corresponderia à sequência de caractéres especificada.</text>
+		<text id="regex.error.syntax" h="4F399035">Existe um erro na sintaxe da expressão comum.</text>
+		<text id="sb.ascending" h="59F2363F">Ascendente</text>
+		<text id="sb.chb.ignoreCase" h="E0949C6C">Ignorar caixa de texto</text>
+		<text id="sb.chb.sortAll" h="7BB3E98C">Organizar todos os níveis de Marcadores</text>
+		<text id="sb.chb.sortChildren" h="B1087C90">Organizar Marcadores órfãos</text>
+		<text id="sb.descending" h="74091246">Descendente</text>
+		<text id="sb.g.sortingMethod" h="93D0D863">Método de Organização</text>
+		<text id="sb.l.selectLevel" h="62FA8E9C">Nível dos Marcadores:</text>
+		<text id="sb.l.sortType" h="85828DAE">Tipo de organização:</text>
+		<text id="sb.rb.sortAlpha" h="F9CD110C">Ordem Alfabética</text>
+		<text id="sb.rb.sortByPage" h="EB2AF7E4">Referência da Página</text>
+		<text id="test" h="A538F326">Testar String</text>
+		<text id="tree.fontColor" h="210B1C91">Cor do Texto:</text>
+		<text id="tree.fontName" h="ACA86074">Nome da Fonte:</text>
+		<text id="tree.fontSize" h="B3CE43BA">Tam. da Fonte:</text>
+		<text id="tree.fontTolerance" h="7781AAB6">Tolerância:</text>
+		<text id="tree.level" h="9B075A86">Nível:</text>
+		<text id="tree.textPattern" h="24121AD7">Padrão de Texto:</text>
+		<text id="tree.vb.bookmark" h="9926EC31">&lt;b&gt;%1. Marcador:&lt;/b&gt; "%2"</text>
+		<text id="ttoc.b.build" h="DE9A0F1C">Executar</text>
+		<text id="ttoc.b.changeNumber" h="DD04BEA8">Alterar Formato...</text>
+		<text id="ttoc.b.changeTitle" h="3B951B9A">Alterar Formato do Título...</text>
+		<text id="ttoc.chb.asLastPage" h="D323F9DD">Como última página</text>
+		<text id="ttoc.chb.end" h="9F41B967">Utilizar todos os níveis de Marcadores</text>
+		<text id="ttoc.chb.skipInvalid" h="F864C487">Ignorar Marcadores inválidos</text>
+		<text id="ttoc.chb.useDifferentNumberFormatting" h="A39D9F18">Formatação numérica personalizada</text>
+		<text id="ttoc.chb.useDifferentSeparatorFormatting" h="7D6F82B2">Separador de formatação
+personalizado</text>
+		<text id="ttoc.chb.useSizeFromDoc" h="79C19271">Determinar o tamanho da página do documento</text>
+		<text id="ttoc.g.pageNumbering" h="21AF4605">Numeração de Página</text>
+		<text id="ttoc.g.pageSettings" h="D82087B4">Definições de Página</text>
+		<text id="ttoc.ib.numberFormat" h="D41C6CB8">&lt;b&gt;Formato da Numeração:&lt;/b&gt; &lt;i&gt;Família de Fontes:&lt;/i&gt; %1, 
+&lt;i&gt;Tamanho da Fonte:&lt;/i&gt; %2 pt, &lt;i&gt;Cor da Fonte:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.ib.separatorFormat" h="14A80F28">&lt;b&gt;Formato do Separador:&lt;/b&gt; &lt;i&gt;Família de Fontes:&lt;/i&gt; %1, 
+&lt;i&gt;Tamanho da Fonte:&lt;/i&gt; %2 pt, &lt;i&gt;Cor da Fonte:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.ib.titleFormat" h="4A9C0388">&lt;b&gt;Formato do Título:&lt;/b&gt; &lt;i&gt;Família de Fontes:&lt;/i&gt; %1, 
+&lt;i&gt;Tamanho da Fonte:&lt;/i&gt; %2 pt, &lt;i&gt;Cor da Fonte:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.l.end" h="43FA653A">Último nível de Marcador a incluir no TOC:</text>
+		<text id="ttoc.l.insertAsPage" h="B68AF5B1">TOC antes da página:</text>
+		<text id="ttoc.l.outputPagesAs" h="96E6A50A">Números da página de saída como:</text>
+		<text id="ttoc.l.pageMargins" h="DA4D6B15">Margens:</text>
+		<text id="ttoc.l.start" h="B03149CB">Primeiro nível de Marcador incluído no TOC:</text>
+		<text id="ttoc.l.title" h="930D3835">Título:</text>
+		<text id="ttoc.l.titleFormatting" h="21C775EE">Atualizar formatação do título:</text>
+		<text id="ttoc.output.bates" h="ECE56FA9">Números Bates (se houver)</text>
+		<text id="ttoc.output.labels" h="EAE579C1">Etiquetas de Página</text>
+		<text id="ttoc.output.numbers" h="38E0043C">Original da Página</text>
+		<text id="ttoc.style.dots" h="C13D9439">Capítulo..........1</text>
+		<text id="ttoc.style.spaces" h="D9E4F5A0">Capítulo          1</text>
+		<text id="ttoc.style.underline" h="B52B746A">Capítulo______1</text>
+		<text id="ttoc.tableOfContents" h="080B4CC0">Tabela de Conteúdos</text>
+		<text id="undefinedFont" h="06D72DED">Fonte indefinida (%1)</text>
+		<text id="vb.invalidALWarining" h="6B3E67E5">As alterações foram negadas devido a lista de ações inválida. Por favor, marque apenas uma ação.</text>
+		<text id="vb.l.invalidBookmarks" h="EE502FFE">Encontrado %1 Marcador inválido</text>
+		<text id="rtab" h="7CDCE9BE">&amp;Marcadores</text>
+		<text id="rbar.create" h="EDCA1553">Criar</text>
+		<text id="rbar.modify" h="EA358CAF">Alterar</text>
+		<text id="rbar.convert" h="EFAC3874">Converter</text>
+	</Strings>
+</Localization>

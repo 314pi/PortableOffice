@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220831">2.00.00</Version>
+	<Author>Osman Öz</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Turkish (Turkey)" lName="Türkçe" code="tr-TR" R2L="false"/>
+	<Module name="BookmarksPlugin" namespace="bp" version="6.0.322.7"/>
+	<Strings>
+		<text id="DlgAddExcludedWords" h="BED549D0">Hariç Tutulan Yeni Sözcük(ler) Ekleme</text>
+		<text id="DlgAddTextToBookmark" h="E5B26485">Yer İşareti Başlığına Metin Ekleme</text>
+		<text id="DlgAutoGenerateBookmarks.Title" h="0E85373B">Metin Sayfasından Yer İşareti Oluştur</text>
+		<text id="DlgBookmarkAppearance" h="7544DDCE">Oluşan Görünüm</text>
+		<text id="DlgBookmarkEveryNthPage" h="B6869582">Her N 'inci Sayfanın Yer İşareti</text>
+		<text id="DlgBookmarkLevelDescription" h="186C1D0A">Metin Eşleştirme Seçenekleri</text>
+		<text id="DlgBookmarkPropSheet" h="862C67E7">Yer İşareti Oluşturma Özellikleri</text>
+		<text id="DlgBookmarkTitleFormatting" h="A87502C2">Başlık Biçimlendirme</text>
+		<text id="DlgBookmarksToNamedDests" h="8A0957E5">Adlandırılmış Hedeflere Dönüşüm</text>
+		<text id="DlgBookmarksToTextFile" h="29F18B82">Yer İşaretlerinin Metin Dosyasına Aktarılsın</text>
+		<text id="DlgChangeBookmarkCase" h="4D74C7D9">Yer İşareti Durum Değişikliği</text>
+		<text id="DlgEditStopWords" h="911413E7">Sözcük Durdurma Düzeni</text>
+		<text id="DlgFindReplaceBookmarkText" h="733A7FC1">Yer İşareti Metnini Bul ve Değiştir</text>
+		<text id="DlgFontNames" h="3C8B1F88">Yazı Tipi Ad(lar)ı Seçimi</text>
+		<text id="DlgFromTOC" h="AC2ED85C">İçerik Tablosu Yer İşareti</text>
+		<text id="DlgFromTOCIndentation" h="12688622">Baskı Değişikliği</text>
+		<text id="DlgFromTextFile" h="B3799046">Metin Dosyasından Yer İşareti Oluştur</text>
+		<text id="DlgNamedDestsToPageNumbers" h="9CAE5E39">Adlandırılmış Hedeflerin Düzenli Hedeflere Dönüşümü</text>
+		<text id="DlgSheetBttfBookmarkProps" h="4B2F0AA2">Yer İşareti Özellikleri</text>
+		<text id="DlgSheetBttfSelectBookmarks" h="30673BCD">Genel</text>
+		<text id="DlgSortBookmarks" h="8339BB6C">Yer İşaretleri Sıralaması</text>
+		<text id="DlgToTOC" h="2B3E9BF1">İçerik Tablosu Yapısı</text>
+		<text id="DlgValidateBookmarks" h="0CD39971">Yer İşaretleri Onayı</text>
+		<text id="atb.btn.Macroses" h="81734E4F">Mac</text>
+		<text id="atb.chb.IncludeChildren" h="0AC4CB2B">Tüm alt seviyeler dahil edilsin</text>
+		<text id="atb.chb.ProcessAllLevels" h="26C3B2DF">Tüm yer işareti seviye işlemleri</text>
+		<text id="atb.chb.RemoveSpaces" h="ABDEA5BC">Orijinal yer işareti başlığından fazla boşluklar kaldırılsın</text>
+		<text id="atb.gb.AddText" h="E21C9B55">Metin Ekleme</text>
+		<text id="atb.gb.Levels" h="8A668489">İşlem İçin, Yer İşareti Seviyesi Seçimi</text>
+		<text id="atb.gb.SelectSource" h="1E2E96A4">Yer İşareti Kaynak Seçimi</text>
+		<text id="atb.lbl.BookmarkTitle" h="2DC1254E">"Yer İşareti Başlığı"</text>
+		<text id="atb.lbl.Prefix" h="A51A4726">Yer İşareti Başlığına Önek Ekleme:</text>
+		<text id="atb.lbl.SelectLevel" h="D1263889">İşlem için seviye seçimi:</text>
+		<text id="atb.lbl.Suffix" h="C27741D5">Yer İşareti Başlığına Sonek Ekleme:</text>
+		<text id="atb.lbl.UseBookmarksFrom" h="E770326C">Yer İşareti Kullanımı:</text>
+		<text id="ba.chb.expand" h="BBA3BD8A">Genişletilmiş gösterim (ürünlerin tümünü göster)</text>
+		<text id="ba.l.expl" h="EE297184">Yer işaretleri sonuç görünümünü seçiniz:</text>
+		<text id="ba.l.textStyle" h="8D5CA9B5">Metin Stili:</text>
+		<text id="benp.Gb.Main" h="4B2F0AA2">Yer İşareti Özellikleri</text>
+		<text id="benp.Label.TitleTemplate" h="5E999567">Yer İşareti Başlık Şablonu:</text>
+		<text id="benp.Label1.SelectN" h="8626E4EA">Her yer işareti</text>
+		<text id="benp.Label2.SelectN" h="6270721D">seçilen sayfa aralığındaki sayfa</text>
+		<text id="benp.infoBtn.invalidMacro" h="1561C0F2">Dize yoksayılacak tanımsız bir makro adı içeriyor</text>
+		<text id="bft.l.actionSeparator" h="5C05CE1E">İşlem Ayracı Parametreleri:</text>
+		<text id="bft.l.separator" h="A4269065">Alan Sınırlayıcı:</text>
+		<text id="bld.btn.selStyle" h="EE213BC5">Seçilen Metinden Stil Al</text>
+		<text id="bld.chb.fontNames" h="AB457B23">Yazı Tipi Adı:</text>
+		<text id="bld.chb.limitToPattern" h="7F0826AB">Yer işareti başlıkları sadece eşleşen yapıyla sınırlansın</text>
+		<text id="bld.chb.matchTextPattern" h="5A64E195">Metin Eşleştirme Yapısı:</text>
+		<text id="bld.chb.multilineBookmarks" h="CB4817D1">Çok satırlı yer işareti başlığına izin ver</text>
+		<text id="bld.g.textContentRules" h="5B364747">Metin İçerik Kuralları</text>
+		<text id="bld.l.description" h="2F770A5B">Belgedeki metinlerden otomatik olarak yer işaretleri oluşturmak için aşağıdaki metin özelliklerinin birleşimini seçiniz</text>
+		<text id="bld.l.matchTextCase" h="43616BDA">Metin Eşleştirme:</text>
+		<text id="bld.matchTextCase.allCapital" h="D4E8E731">Tüm Karakterler Büyük Harf</text>
+		<text id="bld.matchTextCase.firstCapital" h="CAA2E79D">İlk Karakter Büyük</text>
+		<text id="bld.matchTextCase.firstDigit" h="42E73545">İlk Karakter Rakam</text>
+		<text id="bld.matchTextCase.noRestrictions" h="93089981">Kısıtlama Yok</text>
+		<text id="bnd.gb.Main" h="4DDA9780">Adlandırılan Hedef Başlığı</text>
+		<text id="bnd.lbl.NDTitle" h="7F7F73EC">Adlandırılan Hedef Başlığı, girilen bir yapı kullanılarak oluşturulacak:</text>
+		<text id="btf.chb.insertAfter" h="DD7B743E">Her başlıktan sonra metin eklensin:</text>
+		<text id="btf.chb.insertBefore" h="CBDD1CF8">Her başlıktan önce bu metin eklensin:</text>
+		<text id="btf.chb.removeDuplicateSpaces" h="2653A648">Yinelenen boşluklar kaldırılsın</text>
+		<text id="btf.chb.replaceLineBreaks" h="0C51EEEB">Satır sonlarını boşluklarla değiştir</text>
+		<text id="btf.chb.replaceTitle" h="097EF3C2">Yer işareti başlığını metin yapısına göre arama ve değiştirme</text>
+		<text id="btf.g.advancedFormatting" h="9130441A">Gelişmiş Biçimlendirme</text>
+		<text id="btf.g.textCase" h="97FCC959">Metin Durumu</text>
+		<text id="btf.l.characters" h="189C88D2">(karakterler)</text>
+		<text id="btf.l.expl" h="169A084A">Yeni yer işareti başlıklarına uygulanacak metin özelliklerini seçiniz:</text>
+		<text id="btf.l.leadingNumbers" h="074A1A51">Öndeki Numaralar:</text>
+		<text id="btf.l.maxLength" h="A52EC501">Azami Başlık Uzunluğu:</text>
+		<text id="btf.l.replacePattern" h="B54B1F92">Yapı Değişikliği:</text>
+		<text id="btf.l.searchPattern" h="E87DDC08">Arama Yapısı:</text>
+		<text id="btf.l.use" h="46DEA47A">Kullanım:</text>
+		<text id="btf.leadingNumbers.noChange" h="3399B0A0">Değişiklik Yok</text>
+		<text id="btf.rb.doNotChange" h="4CBF2C1B">Değişiklik Yok</text>
+		<text id="btf.rb.lowercase" h="82451817">küçük harf</text>
+		<text id="btf.rb.sentenceCase" h="B26B2798">Cümle durumu</text>
+		<text id="btf.rb.titleCase" h="2C8DBF1B">Başlık Durumu</text>
+		<text id="btf.rb.uppercase" h="42F820C7">BÜYÜK HARF</text>
+		<text id="btf.use.letters" h="6EE7E478">Harfler</text>
+		<text id="btf.use.numbers" h="E2FE5FA7">Numaralar</text>
+		<text id="btf.use.romanLetters" h="290A50ED">Romen Rakamları</text>
+		<text id="btn.add.custom" h="3080663C">Özellik Ekleme...</text>
+		<text id="btn.highlight" h="2485FBFF">Yer İşaretini Vurgula</text>
+		<text id="btn.validate" h="1E91E484">Onay</text>
+		<text id="cbc.aew.label" h="7EC386C0">Hariç tutulan yeni sözcükleri her satıra bir kelime yazarak ekleyin veya her kelimeden sonra "Enter" tuşuna basın</text>
+		<text id="cbc.cb.fromBookmarks" h="CF38CD8D">Seçilen</text>
+		<text id="cbc.cb.fromDocument" h="424CAFC5">Tüm yer işaretleri</text>
+		<text id="cbc.chb.EnterCustomWordList" h="EB8ACE1B">İşlenmeyecek sözcüklerin bir listesini giriniz</text>
+		<text id="cbc.chb.IncludeChildrenBookmarks" h="051C6219">Tüm alt yer işaretleri dahil edilsin</text>
+		<text id="cbc.gb.SelectTextCase" h="F9747FC0">Metin Durum Seçimi</text>
+		<text id="cbc.gb.TextCaseOptions" h="DAD7B4F4">Seçenekler</text>
+		<text id="cbc.list.header" h="647D6FC4">Hariç Tutulan Sözcükler</text>
+		<text id="cbc.rbtn.LowerCase" h="82451817">küçük harf</text>
+		<text id="cbc.rbtn.SentenceCase" h="B26B2798">Cümle durumu</text>
+		<text id="cbc.rbtn.TitleCase" h="2C8DBF1B">Başlık Durumu</text>
+		<text id="cbc.rbtn.UpperCase" h="42F820C7">BÜYÜK HARF</text>
+		<text id="chb.ignoreDuplicates" h="B30FC50E">Yinelenen ardışık yer işaretlerini yoksay</text>
+		<text id="chb.stopWords" h="491ED7FC">Dur sözcüğü içeren metni yoksay</text>
+		<text id="chb.verifyLinks" h="7A46B598">Harici dosyalara olan bağlantıların doğrulanması</text>
+		<text id="chb.warnGoTo" h="911FC68A">Geçersiz GoTo işlemleri için uyarı yapılsın</text>
+		<text id="chb.warnGoToRE" h="C0827D11">Geçersiz GoToR ve GoToE işlemleri için uyarı yapılsın</text>
+		<text id="chb.warnLaunchURI" h="94F27C09">Geçersiz Çalıştırma ve URI işlemleri için uyarı yapılsın</text>
+		<text id="chb.warnNoActions" h="FBF997CF">Boş işlem listesi veya geçerli ürün olmadığı için uyarı yapılsın</text>
+		<text id="chb.warnNoGoTo" h="66B02339">İşlem listesinde etkin olmayan GoTo işlemi için uyarı yapılsın</text>
+		<text id="chb.warnOther" h="B30D6C64">Diğer geçersiz işlemler için uyarı yapılsın</text>
+		<text id="chb.warnTitle" h="F0B5EE52">Boş başlık için uyarı yapılsın</text>
+		<text id="cmd.addAGBLevel" h="928E2BB5">Yer İşareti Oluşturmada Seçili Metin Stili Kullanımı...</text>
+		<text id="cmd.addTextToBookmarkTitle" h="C4C93738">Yer İşareti Başlığına Metin Ekleme</text>
+		<text id="cmd.addTextToBookmarkTitle.short" h="E21C9B55">Yazı Ekle</text>
+		<text id="cmd.addTextToBookmarkTitle.tip" h="B412507B">Yer imlerinin başlıklarına önek ve sonek ekler.</text>
+		<text id="cmd.changeBookmarkCase" h="359544B0">Yer İşareti Durum Değişikliği...</text>
+		<text id="cmd.changeBookmarkCase.short" h="BC4AE60A">Durumu Değiştir</text>
+		<text id="cmd.changeBookmarkCase.tip" h="48522DE3">Yer imlerinin başlıklarını değiştirir.</text>
+		<text id="cmd.findReplaceBookmarkText" h="AF996007">Yer İşareti Metnini Bul ve Değiştir...</text>
+		<text id="cmd.findReplaceBookmarkText.short" h="9F35A871">Bul ve Değiştir</text>
+		<text id="cmd.findReplaceBookmarkText.tip" h="7ED81F66">Yer imlerinin başlıklarındaki metin öğelerini bulur ve değiştirir.</text>
+		<text id="cmd.sort" h="B1FFF012">Yer İşaretleri Sıralaması...</text>
+		<text id="cmd.sort.short" h="579162B0">Çeşit</text>
+		<text id="cmd.sort.tip" h="90B74C06">Yer imlerini verilen kriterlere göre sıralar.</text>
+		<text id="cmd.validate" h="E61D60D2">Yer İşaretleri Onayı...</text>
+		<text id="cmd.validate.short" h="1E91E484">Doğrulamak</text>
+		<text id="cmd.validate.tip" h="AF7C0DD0">Verilen kriterlere göre yer işaretlerini yerinden kontrol eder.</text>
+		<text id="cmd.toTOC" h="9B7AEEEA">İçerik Tablosu Yapısı...</text>
+		<text id="cmd.toTOC.short" h="2B3E9BF1">İçindekiler'i Oluştur</text>
+		<text id="cmd.toTOC.tip" h="E92DA1A8">Yer imlerinin yapısına ve işaret ettikleri sayfalara dayalı İçindekiler Tablosu oluşturur.</text>
+		<text id="cmd.bookmarksToNamedDests" h="9A9E5CF2">Adlandırılmış Hedeflere Dönüştürme</text>
+		<text id="cmd.bookmarksToNamedDests.short" h="9226CE11">Adlandırılmış Hedefe Dönüştür.</text>
+		<text id="cmd.bookmarksToNamedDests.tip" h="76CA39A1">Yer işaretleri eylem listelerindeki normal varış yerlerini Ad Hedefleri'ne dönüştürür. Sonra sayfalar taşınırken veya silindiğinde, yer imleri, aynı sayfaları daha önce gösteriyor olacak.</text>
+		<text id="cmd.bookmarksToTextFile" h="DBEBEEB8">Yer İşaretlerini Metin Dosyasına Aktar</text>
+		<text id="cmd.bookmarksToTextFile.short" h="738D44A8">Metin Dosyasına Aktar</text>
+		<text id="cmd.bookmarksToTextFile.tip" h="2F1DD236">Yer imlerinin yapısını bir metin dosyası olarak kaydeder.</text>
+		<text id="cmd.bookmarksToHtmlFile" h="EFF75744">Yer İşaretlerini HTML Dosyasına Aktar</text>
+		<text id="cmd.bookmarksToHtmlFile.short" h="76C20816">HTML olarak dışa aktar</text>
+		<text id="cmd.bookmarksToHtmlFile.tip" h="8968844D">Yer imlerinin yapısını bir HTML dosyası olarak kaydeder.</text>
+		<text id="cmd.namedDestsToPageNumbers" h="3A651CA9">Adlandırılmış Hedefleri Düzenli Hedeflere Dönüştürme...</text>
+		<text id="cmd.namedDestsToPageNumbers.short" h="74C22304">Hedefi Düzenli Olarak Adlandırdı</text>
+		<text id="cmd.namedDestsToPageNumbers.tip" h="2ABF8034">Yer İşaretleri eylem listelerindeki Adlandırılmış Hedefleri normal hedeflere dönüştürür. Sonra sayfalar taşınırken veya silindiğinde, yer imleri hedeflerin sayfa numaralarını karşılayan sayfaları gösterecektir.</text>
+		<text id="cmd.bookmarkEveryNthPage" h="940FCD39">Her N 'inci Sayfaya Yer İşareti...</text>
+		<text id="cmd.bookmarkEveryNthPage.short" h="71BCE832">Her Sayfayı Yer İmlerine Ekleyin</text>
+		<text id="cmd.bookmarkEveryNthPage.tip" h="B60E23D7">Doküman sayfası numaraları ile ilişkili yer imleri oluşturun.</text>
+		<text id="cmd.generate" h="2147DF79">Sayfa Metninden Yer İşaretleri Oluştur</text>
+		<text id="cmd.generate.short" h="8BE514A6">Sayfa Metninden</text>
+		<text id="cmd.generate.tip" h="2A03253C">Verilen yazı tipi stillerini ve parametrelerini kullanarak geçerli belgenin metninden yer imleri oluşturur.</text>
+		<text id="cmd.fromTOC" h="D15400EB">İçerikler Tablosundan Yer İşareti Oluştur...</text>
+		<text id="cmd.fromTOC.short" h="3AB39C50">İçindekiler tablosundan</text>
+		<text id="cmd.fromTOC.tip" h="D4170828">Mevcut olan içindekiler tablosundan yer işaretleri oluşturur. İçindekiler tablosu, önce bu özelliğin çalışması için Metin Seçme Aracı'nı kullanarak seçilmelidir.</text>
+		<text id="cmd.fromTextFile" h="55CA46BC">Metin Dosyasından Yer İşaretleri Oluştur</text>
+		<text id="cmd.fromTextFile.short" h="3619B3DB">Metin Dosyasından</text>
+		<text id="cmd.fromTextFile.tip" h="11167525">Metin dosyasından yer işaretleri oluşturur. Metin dosyasının veri biçiminin, Metin Dosyasına Yer İşaretlerini Dışa Aktar özelliğinin kurallarına uyması gerektiğini unutmayın.</text>
+		<text id="cmd.name" h="E2032460">Yer İşareti</text>
+		<text id="cmd.macro.firstLine" h="613F14A5">Sayfa İlk Metin Satırı</text>
+		<text id="cmd.macro.hierIndex" h="7DCA5F4D">Hiyerarşik Dizin</text>
+		<text id="cmd.macro.hierTitle" h="0E7B4B6F">Hiyerarşik Başlık Yer İşareti</text>
+		<text id="cmd.macro.indexInParent" h="1B41AFB1">Kaynak İndeksi</text>
+		<text id="cmd.macro.label" h="EEE40FF3">Sayfa Etiketi</text>
+		<text id="cmd.macro.launch" h="87D9EB8D">Açılacak Dosya</text>
+		<text id="cmd.macro.level" h="B863033F">Yer İşareti Seviyesi</text>
+		<text id="cmd.macro.namedDest" h="C4E8D8F5">Adlandırılmış Hedef</text>
+		<text id="cmd.macro.sequentialNum" h="CDF4EA5E">Ardışık Numara</text>
+		<text id="cmd.macro.title" h="3AB782A4">Yer İşareti Başlığı</text>
+		<text id="cmd.macro.uri" h="6C21F7EF">Açılacak Web Bağlantısı</text>
+		<text id="ebttf.actType.all" h="B8B21253">Tüm köprü bağlantılı olan işlem türündeki yer işaretleri</text>
+		<text id="ebttf.actType.goto" h="05B4C93C">'Sayfaya Git' işlemi olan yer işaretleri</text>
+		<text id="ebttf.actType.gotoR" h="41E1955E">'Uzaktan Yönetimli Git' işlemi olan yer işaretleri</text>
+		<text id="ebttf.actType.js" h="07676EBA">Javascript işlemi olan yer işaretleri</text>
+		<text id="ebttf.actType.launch" h="38537D36">'Dosya Açma' işlemi olan yer işaretleri</text>
+		<text id="ebttf.actType.uri" h="F39B51AE">'Web Bağlantısı Açma' işlemi olan yer işaretleri</text>
+		<text id="ebttf.cb.separator.comma" h="827998F7">Virgül</text>
+		<text id="ebttf.cb.separator.semi" h="988594A6">Noktalı virgül</text>
+		<text id="ebttf.ch.doNotEscape" h="09B53F9F">@ # : { } gibi işlem simgelerinden kaçınılmasın.</text>
+		<text id="ebttf.ch.expClosedState" h="46E4EC7E">Yer işareti Ağaçları "sınırlı" olarak dışa aktarılsın</text>
+		<text id="ebttf.ch.expDetailedGotoDescr" h="18B9C243">Ayrıntılı hedef açıklaması dışa aktarılsın</text>
+		<text id="ebttf.ch.exportActions" h="3444FE51">Yer işareti işlemlerinin dışa aktarımı</text>
+		<text id="ebttf.ch.exportGoto" h="37493654">Sayfa yer işareti noktası dışa aktarılsın</text>
+		<text id="ebttf.ch.exportGotoR" h="92C06BA6">'Uzaktan Yönetimli Git' işlem açıklaması dışa aktarılsın</text>
+		<text id="ebttf.ch.exportJS" h="9362EAE3">Javascript işlem kodları dışa aktarılsın</text>
+		<text id="ebttf.ch.exportLaunch" h="1B39BF89">'Dosya Açma' işlem açıklaması dışa aktarılsın</text>
+		<text id="ebttf.ch.exportStyle" h="A6713F10">Yer işaretinin metin şekli ve renk özellikleri dışa aktarılsın</text>
+		<text id="ebttf.ch.exportWebLinks" h="3C61424C">Web Linkleri Dışa Aktarılsın</text>
+		<text id="ebttf.ch.includeSubBookmarks" h="051C6219">Tüm alt yer işaretleri dahil edilsin</text>
+		<text id="ebttf.ch.openContFolder" h="80BDDAAC">Dosya içeren klasör açılsın</text>
+		<text id="ebttf.ch.overwriteExistingFiles" h="29981774">Mevcut dosya(lar) üzerine yazılsın</text>
+		<text id="ebttf.ch.resloveNamedDests" h="D1E8A9BC">Adlandırılmış hedefler sayfa numaraları için çözülsün</text>
+		<text id="ebttf.gb.actionExportParams" h="DA853D34">Yer İşareti Özellikleri Dışa Aktarım Seçenekleri</text>
+		<text id="ebttf.gb.savingResults" h="49571A59">Çıktı Parametreleri</text>
+		<text id="ebttf.gb.selectBookmarks" h="E2AFC2C6">Dışa Aktarılacak Yer İşaretleri Seçimi</text>
+		<text id="ebttf.infoBtn.doNotEscape" h="93A6DD6C">Elde edilen dosyayı "Metin Dosyasından Yer İşareti Oluştur" özelliği ile ileride kullanmayı düşünüyorsanız, hizmet sembollerini kullanmanız önerilmez.</text>
+		<text id="ebttf.infoBtn.invalidSeparator" h="44875D1F">Sınırlayıcı özellikler; boş bir dize olmamalı, alfasayısal semboller veya boşluklar içermemeli ve @ # : { }   karakterlerinden biri olmamalıdır.</text>
+		<text id="ebttf.lbl.folder" h="3F9ED2F9">Klasör:</text>
+		<text id="ebttf.lbl.separator" h="E9D351AC">Sınırlayıcı özellikleri:</text>
+		<text id="ebttf.rb.exportActionTypes" h="533F8EA6">Gerçekleşen köprü işlemleri yer işaretleri dışa aktarılsın:</text>
+		<text id="ebttf.rb.exportAll" h="8F2ED544">Tümü dışa aktarılsın</text>
+		<text id="ebttf.rb.exportSelected" h="69FB5145">Seçilen yer işaretleri dışa aktarılsın</text>
+		<text id="ebttf.rb.useDefaultFilename" h="0E7FC989">Sonuçları kaydetmek için PDF belgesi dosya adı kullanılsın</text>
+		<text id="esw.chb.matchCase" h="2E5EFD7E">Metin eşleştirme</text>
+		<text id="esw.chb.matchWhole" h="17009870">Tüm sözcükleri bul</text>
+		<text id="esw.chb.useRegExp" h="7FC6EB4F">Normal ifadeleri kullan</text>
+		<text id="esw.l.explanation" h="2C312B17">'Durdurma sözcükleri' içeren metin yok sayılır ve yer işaretleri oluşturmak için kullanılmaz.</text>
+		<text id="fn.l.selectFontNames" h="0CCEF1FA">Yazı Tipi Seçimi:</text>
+		<text id="frbt.chb.MatchCase" h="12EB8088">Büyük küçük harf eşleştir</text>
+		<text id="frbt.chb.MatchWholeWord" h="FE8CC762">Tüm sözcükleri bul</text>
+		<text id="frbt.chb.UseRegex" h="7FC6EB4F">Normal ifadeleri kullan</text>
+		<text id="frbt.gb.FindReplace" h="BA012728">Seçenekleri Bul ve Değiştir</text>
+		<text id="frbt.lbl.FindWhat" h="D0A8A2C5">Aranan:</text>
+		<text id="frbt.lbl.ReplaceWith" h="3BE65784">Yeni değer:</text>
+		<text id="ftoc.allIncluded" h="C994FC1B">Tümünü Dahil Et</text>
+		<text id="ftoc.b.indents" h="48800D32">Baskı değişikliği...</text>
+		<text id="ftoc.chb.addBookmarks" h="CBBAE768">İçerik Tablosu kullanılarak sayfalara yer işaretleri eklensin</text>
+		<text id="ftoc.chb.addLinks" h="68456DBA">İçerik tablosuna bağlantı girişleri eklensin</text>
+		<text id="ftoc.chb.createLevels" h="58CF083A">Yer işareti düzeni oluşturmak için İçindekiler Tablosu girintileri kullanılsın</text>
+		<text id="ftoc.chb.improveDest" h="417AD7B0">Yer işaretleri hedeflerini metin üzerinde geliştirilsin</text>
+		<text id="ftoc.chb.trimNumbers" h="40ACC5F5">Yer işareti başlıklarından önek sayıları kaldırılsın</text>
+		<text id="ftoc.chb.trimSpaces" h="5A27A063">Yer işareti başlıklarından ardışık boşluklar kaldırılsın</text>
+		<text id="ftoc.chb.useExistingLinks" h="E214DBE7">Mevcut bağlantılar yeni yer işareti hedefleri olarak kullanılsın</text>
+		<text id="ftoc.l.bottomIndent" h="C983AD6F">Baskının Altı:</text>
+		<text id="ftoc.l.expl" h="1FAB779E">Bu işlem, seçilen içerik tablosu girişlerine uygun olarak sayfalara yer işareti ekleyecektir. Ayrıca, içerik girişleri tablosuna bağlantılar ekleyebilir veya mevcut bağlantıları yer işareti hedefleri olarak kullanabilirsiniz.</text>
+		<text id="ftoc.l.offsetExpl" h="9D6C25F6">Bu, belgedeki fiziksel sayfa numaraları ve basılı sayfa sayısındaki arasındaki artı veya eksi bir farklılıktır.</text>
+		<text id="ftoc.l.pageOffset" h="9E563407">Sayfa düzbaskısı</text>
+		<text id="ftoc.l.separator" h="45CF4893">Ayraç türünü belirleyiniz:</text>
+		<text id="ftoc.l.topIndent" h="FA827580">Baskının Üstü:</text>
+		<text id="msg.bft.warning" h="726201E6">Lütfen alan sınırlayıcı ve işlem ayracı için farklı simgeler belirleyiniz!</text>
+		<text id="msg.cbc.excludedwords.add.title" h="9ADE883B">Yeni Hariç Tutulan Sözcük Ekleme</text>
+		<text id="msg.cbc.excludedwords.caption" h="6B29D4B4">Hariç Tutulan Sözcük Giriniz:</text>
+		<text id="msg.cbc.excludedwords.edit.title" h="82F8AAA6">Seçilen Hariçteki Sözcük Düzeni</text>
+		<text id="msg.dlg.bookmarksToTextFile.done" h="8E1397E9">Yer işaretleri başarıyla dışa aktarıldı.</text>
+		<text id="msg.dlg.emptyFilename.warning" h="96A438DA">Dosya adı boş olamaz.</text>
+		<text id="msg.dlg.invalidFilename.slashes" h="626318B0">Dosya adı;  veya / sembollerini ardışık olarak içermemeli veya herhangi biriyle bitmemelidir.</text>
+		<text id="msg.dlg.invalidFilename.warning" h="46CD566C">Windows, dosya adlarının şu * ? : | " &lt; &gt; sembollerden herhengi birini içermesine izin vermiyor.</text>
+		<text id="msg.dlg.noActionsSelected.warning" h="933F1901">Hiçbir işlem türü belirtilmeden "Yer İşareti İşlemlerinin Dışa Aktarımı" onay kutusu seçildi. Lütfen, dışa aktarım için bir veya daha fazla işlem türü seçiniz veya "Yer İşareti İşlemlerinin Dışa Aktarımı" onay kutusu işaretini kaldırınız.</text>
+		<text id="msg.dlg.noSelectedBookmarks.warning" h="21F37C67">Herhangi bir yer işareti seçilmedi. Lütfen, bir veya daha fazla yer işareti seçiniz veya "Yer İşaretleri Kaynağı" parametresini "Tüm yer işaretleri" olarak değiştiriniz.</text>
+		<text id="msg.dlg.pathDoesntExist.warning" h="0804B942">Belirttiğiniz klasör mevcut değildir. Lütfen geçerli hedef klasörü seçiniz ve tekrar deneyiniz.</text>
+		<text id="msg.font.addCustom.caption" h="75533687">Yeni PDF yazı tipi adı giriniz:</text>
+		<text id="msg.font.addCustom.title" h="06AFFCAB">Yeni Özel Yazı Tipi Ekleme</text>
+		<text id="msg.frbt.result.bookmarksCount" h="EE00AC0B">Arama tamamlandı. Değişiklik yapılan yer işaretinin toplam sayısı: %1</text>
+		<text id="msg.frbt.result.noBookmarksModified" h="84BE491B">Arama tamamlandı. Hiçbir yer işareti değişikliği yapılmadı.</text>
+		<text id="msg.levelDesc.title" h="E92EACC5">Seviye Özellikleri</text>
+		<text id="msg.levelDesc.warning" h="86A85979">Mevcut değerlerle yeni yer işareti seviyesi oluşturumak mümkün değildir. Lütfen, Metin Eşleştirme Seçenekleri'ndeki eşleşen ölçütlerden en az birini seçiniz. Ayrıca, seçilen öğelerin veri içerip içermediğini lütfen kontrol ediniz.</text>
+		<text id="msg.oper.noChanges" h="5777DD79">Hiçbir değişiklik yapılmadı. Lütfen veri girişlerinizi kontrol ediniz ve tekrar deneyiniz.</text>
+		<text id="msg.oper.warning" h="ABDCBB65">İşlemin yürütülmesi esnasında bazı sorunlar yaşandı. Lütfen sonucu kontrol ediniz.</text>
+		<text id="msg.regex.error" h="D799FCBE">Regex ayrıştırma hatası</text>
+		<text id="msg.stopWords.add.title" h="F6B54725">Yeni Durdurma Sözcüğü Ekleme</text>
+		<text id="msg.stopWords.caption" h="E2BC1B9E">Yeni 'durdurma sözcüğü' veya 'durdurma cümlesi' giriniz:</text>
+		<text id="msg.stopWords.edit.title" h="AFE604DF">Seçilen Cümle Durdurma Düzeni</text>
+		<text id="msg.validateBookmarks.delete.caption" h="ED4457F4">Seçilen yer işaret(ler)ini ve ürünleri silmek istiyor musunuz?</text>
+		<text id="msg.validateBookmarks.delete.title" h="8FF00765">Geçersiz Yer İşaretlerini Sil</text>
+		<text id="msg.validateBookmarks.rename.caption" h="CE842D61">Yeni yer işareti adı giriniz:</text>
+		<text id="msg.validateBookmarks.rename.title" h="ED9AF7FA">Yer İşareti Ad Değişikliği</text>
+		<text id="ndpn.ch.deleteDests" h="BC12FBF0">Dönüştürülen adlandırılmış hedefleri belgeden kaldırılsın</text>
+		<text id="op.GenerateBookmarks" h="05382BCA">Yer İşaretleri Oluşturma</text>
+		<text id="op.ValidateBookmarks.msg.emptyActionsList" h="A0A0065C">Yer işaretine atanmış bir işlem yok.</text>
+		<text id="op.ValidateBookmarks.msg.emptyTitle" h="83F3E965">Yer İşareti başlığı boş.</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidDestName" h="81A40483">GoTo işlemi geçersiz Adlandırılmış bir Hedefi gösterir.</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidPageNumber" h="C8941D79">GoTo işlemi sınırların dışına çıkan bir sayfayı gösterir.</text>
+		<text id="op.ValidateBookmarks.msg.goto.noAction" h="368F0970">İşlem listesinde hiçbir GoTo işlemi mevcut değil.</text>
+		<text id="op.ValidateBookmarks.msg.gotoE.invalidTargetPath" h="9D8A50F1">Hedef yol boş veya GoToE işleminde mevcut değil.</text>
+		<text id="op.ValidateBookmarks.msg.gotoR.invalidFile" h="76CCA61D">GoToR işlemi geçersiz bir dosyayı gösterir.</text>
+		<text id="op.ValidateBookmarks.msg.gotoR.invalidPath" h="560614BE">Dosyaya giden yol geçersizdir.</text>
+		<text id="op.ValidateBookmarks.msg.invalidAction" h="84877FDA">%1 işlemi geçersizdir.</text>
+		<text id="progress.BookmarkEveryNthPage.title" h="DA523087">Sayfalara yer işareti ekleniyor...</text>
+		<text id="progress.addTextToBookmarkTitle.text" h="BE27C5C9">Yer işaretine metin ekleniyor: %1...</text>
+		<text id="progress.addTextToBookmarkTitle.title" h="EC7EB408">Yer işaretlerine metin ekleniyor...</text>
+		<text id="progress.addingBookmark" h="45BBB17E">Yer işaretleri ekleniyor: %1 of %2...</text>
+		<text id="progress.bookmarksToHtmlFile.status" h="AF1901AD">Yer işareti dışarı aktarılıyor %1 / %2...</text>
+		<text id="progress.bookmarksToHtmlFile.text" h="4DD531FF">Yer işareti dışarı aktarılıyor: %1...</text>
+		<text id="progress.bookmarksToHtmlFile.title" h="E1D21FEE">Yer işaretleri HTML'ye aktarılıyor...</text>
+		<text id="progress.bookmarksToNamedDests.text" h="CE73819F">Yer İşareti Dönüştürülüyor: %1...</text>
+		<text id="progress.bookmarksToNamedDests.title" h="8DB00717">Adlandırılmış hedeflere dönüştürülüyor...</text>
+		<text id="progress.bookmarksToTextFile.text" h="6E74EA26">Dışa aktarım için yer işareti işlemi: %1</text>
+		<text id="progress.bookmarksToTextFile.title" h="D2C04472">Yer işareti metin dosyasına aktarılıyor...</text>
+		<text id="progress.calculatingBookmarks" h="4AC26E12">Yer işaretleri sayılıyor...</text>
+		<text id="progress.changingBookmarkCase.text" h="107628CA">Yer işareti durum değişikliği: %1...</text>
+		<text id="progress.changingBookmarkCase.title" h="E01AED17">Yer İşareti Durum Değişikliği...</text>
+		<text id="progress.findReplaceBookmarkText.text" h="ABC58F1D">Yer işareti işlemi: %1</text>
+		<text id="progress.findReplaceBookmarkText.title" h="00FEBD2A">Yer İşareti metin değişikliği...</text>
+		<text id="progress.generateBookmarks" h="3D5E30ED">%1. sayfadan yer işaretleri oluşturuluyor...</text>
+		<text id="progress.generatingBookmarks" h="CFF0F2A9">Yer İşaretleri Oluşturma</text>
+		<text id="progress.generatingBookmarks.label" h="043CF7B1">Yer işareti ekleniyor: %1...</text>
+		<text id="progress.generatingLevels" h="07A22443">Yer işaretinden seviye oluşturuluyor...</text>
+		<text id="progress.generatingTOC" h="A438CB9C">İçindekiler Tablosu Oluşturulması</text>
+		<text id="progress.generatingTOCFromBookmark" h="C9213435">%1 yer işaretinden içerik oluşturuluyor...</text>
+		<text id="progress.namedDestsToPageNumbers.deleteNds" h="5DFFFF06">Adlandırılmış hedefler siliniyor...</text>
+		<text id="progress.namedDestsToPageNumbers.title" h="4615CB0B">Adlandırılmış hedefler sayfa numaralarına dönüştürülüyor...</text>
+		<text id="progress.parsingFile" h="B2405DA1">Metin dosyasından yer işareti yapısı okunuyor...</text>
+		<text id="progress.precalculatingPages" h="DB83BEF7">İçindekiler Tablosu için sayfa(lar) oluşturuluyor...</text>
+		<text id="progress.preparingSelected" h="52031EDE">Seçilen yer işaretleri hazırlanıyor...</text>
+		<text id="progress.sortingBookmarks" h="99E846CF">Yer işaretleri sıralanıyor: %1...</text>
+		<text id="progress.sortingBookmarks.status" h="451C3890">Yer işareti sıralanıyor %1 / %2...</text>
+		<text id="progress.sortingBookmarks.title" h="E134B46E">Yer İşaretleri Sıralaması</text>
+		<text id="progress.statusText.ProcessingBookmarks" h="3836AD6B">Yer işareti işlemi yapılıyor %1 / %2...</text>
+		<text id="progress.statusText.ProcessingBookmarksDone" h="67CB6C48">Yer işaretleri işlemi tamamlandı.</text>
+		<text id="progress.undoingChanges" h="BBD3EE96">Değişiklikler geri alınıyor...</text>
+		<text id="regex.error.backref" h="3D1C1BE5">İfade, geçersiz bir geri başvuru içeriyordu.</text>
+		<text id="regex.error.badbrace" h="4363EA7D">İfade, burunlu parantez arasında geçersiz bir aralık içeriyordu: '{' ve '}'.</text>
+		<text id="regex.error.badrepeat" h="9091944F">İfade, geçerli bir normal ifade olarak önünde (bunlardan *?+{  birisi gibi) bir tekrar belirteci içermiyordu.</text>
+		<text id="regex.error.brace" h="3031B0A1">İfade, uyumsuz burunlu parantezler içeriyordu: '{' ve '}'.</text>
+		<text id="regex.error.brack" h="A41AB311">İfade, uyumsuz köşeli parantezler içeriyordu: '[' ve ']'.</text>
+		<text id="regex.error.collate" h="D15FB49F">İfade, geçersiz bir harmanlama öğesi adı içeriyordu.</text>
+		<text id="regex.error.complexity" h="76ADCA5C">Bir eşleştirme karmaşıklığı karşısında düzenli bir ifade önceden belirlenmiş bir seviyeyi aşmıştır.</text>
+		<text id="regex.error.ctype" h="76D6C176">İfade, geçersiz bir karakter sınıfı adı içeriyordu.</text>
+		<text id="regex.error.default" h="509A660E">Regex girdisi işlenirken bir hata oluştu.</text>
+		<text id="regex.error.escape" h="4BAF1552">İfade, geçersiz bir kaçış karakteri veya izleyici bir kaçış karakteri içeriyordu.</text>
+		<text id="regex.error.paren" h="11F2EE54">İfade, uyumsuz parantezler içeriyordu: '(' ve ')'.</text>
+		<text id="regex.error.range" h="CDB00023">İfade, geçersiz bir karakter aralığı içeriyordu (örn., [z-a])</text>
+		<text id="regex.error.space" h="2FFB9DD7">Düzenli ifadeyi işleyebilmek için yeterli bellek bulunmamaktadır.</text>
+		<text id="regex.error.stack" h="2F47E3EC">Düzenli ifadenin, belirtilen karakter dizisiyle eşleşip eşleşmediğini belirleyebilmek için yeterli bellek bulunmamaktadır.</text>
+		<text id="regex.error.syntax" h="4F399035">Regex sözdiziminde bir hata var.</text>
+		<text id="sb.ascending" h="59F2363F">Artan sıra</text>
+		<text id="sb.chb.ignoreCase" h="E0949C6C">Metindeki BÜYÜK/küçük harfler dikkate alınmasın</text>
+		<text id="sb.chb.sortAll" h="7BB3E98C">Tüm yer işaretleri seviye sıralaması</text>
+		<text id="sb.chb.sortChildren" h="B1087C90">Yer işaretleri ürün sıralaması</text>
+		<text id="sb.descending" h="74091246">Azalan sıra</text>
+		<text id="sb.g.sortingMethod" h="93D0D863">Sıralama Yöntemi</text>
+		<text id="sb.l.selectLevel" h="62FA8E9C">Yer işaretleri seviye sırası:</text>
+		<text id="sb.l.sortType" h="85828DAE">Sıralama türü:</text>
+		<text id="sb.rb.sortAlpha" h="F9CD110C">Yer işaretleri alfabetik olarak sıralansın</text>
+		<text id="sb.rb.sortByPage" h="EB2AF7E4">Yer işaretleri sayfa numarasına göre sıralansın</text>
+		<text id="test" h="A538F326">Test Dizesi</text>
+		<text id="tree.fontColor" h="210B1C91">Metin Rengi:</text>
+		<text id="tree.fontName" h="ACA86074">Yazı Tipi Adı:</text>
+		<text id="tree.fontSize" h="B3CE43BA">Yazı Tipi Boyutu:</text>
+		<text id="tree.fontTolerance" h="7781AAB6">Hata payı:</text>
+		<text id="tree.level" h="9B075A86">Seviye:</text>
+		<text id="tree.textPattern" h="24121AD7">Metin Şekli:</text>
+		<text id="tree.vb.bookmark" h="9926EC31">&lt;b&gt;%1. Yer İşareti:&lt;/b&gt; "%2"</text>
+		<text id="ttoc.b.build" h="DE9A0F1C">Yapı</text>
+		<text id="ttoc.b.changeNumber" h="DD04BEA8">Biçim Değişikliği...</text>
+		<text id="ttoc.b.changeTitle" h="3B951B9A">Başlık Biçimi Değişikliği...</text>
+		<text id="ttoc.chb.asLastPage" h="D323F9DD">Son sayfa olarak</text>
+		<text id="ttoc.chb.end" h="9F41B967">Tüm yer işareti seviyesi kullanılsın</text>
+		<text id="ttoc.chb.skipInvalid" h="F864C487">Geçersiz yer işaretleri atlansın</text>
+		<text id="ttoc.chb.useDifferentNumberFormatting" h="A39D9F18">Özel sayı biçimlendirmesi kullan</text>
+		<text id="ttoc.chb.useDifferentSeparatorFormatting" h="7D6F82B2">Özel ayraç biçimlendirmesi kullan</text>
+		<text id="ttoc.chb.useSizeFromDoc" h="79C19271">Belgeden sayfa boyutu belirleme</text>
+		<text id="ttoc.g.pageNumbering" h="21AF4605">Sayfa Numaralandırması</text>
+		<text id="ttoc.g.pageSettings" h="D82087B4">Sayfa Ayarları</text>
+		<text id="ttoc.ib.numberFormat" h="D41C6CB8">&lt;b&gt;Sayı Biçimi:&lt;/b&gt; &lt;i&gt;Yazı Tipi Grubu:&lt;/i&gt; %1, &lt;i&gt;Yazı Tipi Boyutu:&lt;/i&gt; %2 pt, &lt;i&gt;Yazı Tipi Rengi:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.ib.separatorFormat" h="14A80F28">&lt;b&gt;Ayraç Biçimi:&lt;/b&gt; &lt;i&gt;Yazı Tipi Grubu:&lt;/i&gt; %1, &lt;i&gt;Yazı Tipi Boyutu:&lt;/i&gt; %2 pt, &lt;i&gt;Yazı Tipi Rengi:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.ib.titleFormat" h="4A9C0388">&lt;b&gt;Başlık Biçimi:&lt;/b&gt; &lt;i&gt;Yazı Tipi Grubu:&lt;/i&gt; %1, &lt;i&gt;Yazı Tipi Boyutu:&lt;/i&gt; %2 pt, &lt;i&gt;Yazı Tipi Rengi:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.l.end" h="43FA653A">TOC'a dahil etmek için son yer işareti seviyesi:</text>
+		<text id="ttoc.l.insertAsPage" h="B68AF5B1">Sayfadan önce TOC ekle:</text>
+		<text id="ttoc.l.outputPagesAs" h="96E6A50A">Çıktı sayfa numarası şekli:</text>
+		<text id="ttoc.l.pageMargins" h="DA4D6B15">Sayfa Kenar Boşluğu:</text>
+		<text id="ttoc.l.start" h="B03149CB">TOC'a dahil etmek için ilk yer işareti seviyesi:</text>
+		<text id="ttoc.l.title" h="930D3835">Başlık:</text>
+		<text id="ttoc.l.titleFormatting" h="21C775EE">Başlık biçimlendirme güncellemesi:</text>
+		<text id="ttoc.output.bates" h="ECE56FA9">Bates Numaraları (mümkünse)</text>
+		<text id="ttoc.output.labels" h="EAE579C1">Sayfa Etiketleri</text>
+		<text id="ttoc.output.numbers" h="38E0043C">Orijinal Sayfa Numaraları</text>
+		<text id="ttoc.style.dots" h="C13D9439">Bölüm..........1</text>
+		<text id="ttoc.style.spaces" h="D9E4F5A0">Bölüm          1</text>
+		<text id="ttoc.style.underline" h="B52B746A">Bölüm______1</text>
+		<text id="ttoc.tableOfContents" h="080B4CC0">İçindekiler Tablosu</text>
+		<text id="undefinedFont" h="06D72DED">Tanımsız yazı tipi (%1)</text>
+		<text id="vb.invalidALWarining" h="6B3E67E5">Geçersiz işlemler listesi nedeniyle değişiklikler iptal edildi. Lütfen en az bir eylem ayırınız!</text>
+		<text id="vb.l.invalidBookmarks" h="EE502FFE">Geçersiz %1 yer işareti bulundu</text>
+		<text id="rtab" h="E2032460">Yer imleri</text>
+		<text id="rbar.create" h="EDCA1553">Oluşturmak</text>
+		<text id="rbar.modify" h="EA358CAF">Değiştirme</text>
+		<text id="rbar.convert" h="EFAC3874">Dönüştürmek</text>
+	</Strings>
+</Localization>

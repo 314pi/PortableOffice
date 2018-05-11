@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117213645">2.00.00</Version>
+	<Author>Jovo Vilendečić</Author>
+	<Copyright>Jovo Vilendečić</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Serbian (Latin, Serbia)" lName="Srpski" code="sr-Latn-RS" R2L="false"/>
+	<Module name="SharePoint" namespace="sp" version="6.0.322.7"/>
+	<Strings>
+		<text id="btn.checkIn" h="09996473">&amp;Prijavi se</text>
+		<text id="btn.discardCheckOut" h="40AC5603">&amp;Odbaci oznaku pregledano</text>
+		<text id="btn.checkInAndKeepCkeckedOut" h="34DA624B">&amp;Proveri i zadrži odčekiranim</text>
+		<text id="btn.keepCkeckedOut" h="AEA0D6B1">&amp;Zadrži oznaku pregledano</text>
+		<text id="btn.navigate" h="B03F439E">&amp;Navigiraj</text>
+		<text id="btn.open" h="B1A510F0">&amp;Otvori</text>
+		<text id="btn.openWithCheckOut" h="2F774735">Otvori sa &amp;proveri</text>
+		<text id="btn.save" h="F363C410">&amp;Sačuvaj</text>
+		<text id="btn.saveAndCheckOut" h="E44D9A0A">&amp;Sačuvaj i označi pregledanim</text>
+		<text id="btn.saveReplace" h="11BF9724">Sačuvaj i &amp;zameni</text>
+		<text id="btn.signOut" h="645CEBE2">&amp;Odjavi se</text>
+		<text id="cb.url.tip" h="CD81E674">Unesi adresu...</text>
+		<text id="cmd.checkIn" h="AEF235ED">&amp;Prijaviti se</text>
+		<text id="cmd.checkIn.tip" h="C9DCA405">Prijaviti se na dokument na SharePoint-u</text>
+		<text id="cmd.checkOut" h="E6A87AFE">&amp;Odjaviti se</text>
+		<text id="cmd.checkOut.tip" h="E1B64D30">Pregledaj dokument na SharePoint-u</text>
+		<text id="cmd.cmdsCategory" h="56A5F9B3">SharePoint</text>
+		<text id="cmd.discardCheckOut" h="40AC5603">&amp;Odbaci pregledano</text>
+		<text id="cmd.discardCheckOut.tip" h="ED54ACC3">Odbaci pregledani dokument na SharePoint-u.</text>
+		<text id="cmd.open" h="68595810">Share&amp;Point...</text>
+		<text id="cmd.open.tip" h="007B7200">Sačuvaj dokument na SharePoint-u.</text>
+		<text id="cmd.prepareFileInfo" h="56811CA0">Pripremi informacije datoteke</text>
+		<text id="cmd.prepareFileInfo.tip" h="E609EA07">Pripremi informacije datoteke na SharePoint-u.</text>
+		<text id="cmd.save" h="68595810">Share&amp;Point...</text>
+		<text id="cmd.save.tip" h="C48C1C25">Sačuvaj aktivan dokument na SharePoint.</text>
+		<text id="cmd.share_point" h="B7423C0E">Share&amp;Point</text>
+		<text id="dlg.liveLogin" h="BFADC685">Prijavljivanje uživo</text>
+		<text id="dlg.openFile" h="435887CD">Otvori datoteku</text>
+		<text id="dlg.saveFile" h="520CB069">Sačuvaj datoteku</text>
+		<text id="lb.checkInComment" h="694DD18A">Komentar (opciono):</text>
+		<text id="lb.name" h="F7B9E475">Datoteka:</text>
+		<text id="ls.column.created" h="FE6510B7">Datum kreiranja</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Datum i vremen kada je datoteka, fascikla ili lista kreirana</text>
+		<text id="ls.column.extension" h="14FEB836">Ekstenzija</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Ekstenzija datoteke</text>
+		<text id="ls.column.modified" h="691C3610">Datum modifikovanja</text>
+		<text id="ls.column.modified.hint" h="12933E76">Datum i vremen kada je datoteka, fascikla ili lista modifikovana</text>
+		<text id="ls.column.size" h="17A58A52">Veličina</text>
+		<text id="ls.column.size.hint" h="E79CA174">Veličina datoteke</text>
+		<text id="ls.column.title" h="D18643E3">Naziv</text>
+		<text id="ls.column.title.hint" h="81F4F728">Naziv datoteke, fascikle  ili liste</text>
+		<text id="msg.askForCheckInOnClose" h="8F50A2BC">Da li želite da prijavite datoteku &lt;b&gt;%1&lt;/b&gt; pre zatvaranja, da biste napravili promene dostupne i drugim korisnicima?</text>
+		<text id="msg.askForCheckOutOnOpen" h="20742355">Možete otvoriti datoteku &lt;b&gt;%1&lt;/b&gt;sa proverom i postaviti datoteku kao "samo za čitanje" za druge korisnike tako da je možete sigurno menjati i sačuvati promene na SharePoint, ili možete dozvoliti drugim korisnicima da promene datoteku ali možete imati konflikte ako pokušate da sačuvate datoteku sa Vaše strane.</text>
+		<text id="msg.askForCheckOutOnSave" h="0D7127AB">Datoteka &lt;b&gt;%1&lt;/b&gt; nije pregledana. Trebate pregledati datoteku i nastaviti sa operacijom čuvanja.</text>
+		<text id="msg.askForDiscardCheckOutOnClose" h="CF92CA4B">Datoteka &lt;b&gt;%1&lt;/b&gt; je pregledana od strane Vas. Da li želite da odbacite oznaku pregleda i dozvolite drugim korisnicima da uređuju datoteku?</text>
+		<text id="msg.checkInFailed" h="3E327B8B">Datoteka &lt;b&gt;%1&lt;/b&gt; ne može biti proverena. Molimo proverite da li datoteka postoji i da li je čikirana na Vas. </text>
+		<text id="msg.checkInDialogMessage" h="8A8CB676">Proveri datoteku &lt;b&gt;%1&lt;/b&gt;.</text>
+		<text id="msg.checkedOutToOtherOnOpen" h="0931ED51">Ne možete otvoriti datoteku &lt;b&gt;%1&lt;/b&gt; sa isčekiranjem jer je isčekirana na korisnika "%2".</text>
+		<text id="msg.checkedOutToOtherOnSave" h="2974FCD2">Datoteka &lt;b&gt;%1&lt;/b&gt; ne može biti isčekirana na korisnika "%2". Ne možete sačuvati ovu datoteku na SharePoint dok nije čekirana na Vas, ali možete sačuvati promene na drugu lokaciju.</text>
+		<text id="msg.checkOutFailed" h="AE188A1B">Datoteka &lt;b&gt;%1&lt;/b&gt; ne može biti isčekirana. Molimo proverite da li datoteka postoji na serveru i da nije isčekirana na drugog korisnika.</text>
+		<text id="msg.connectError" h="18DFEDBE">Nije se moglo konektovati na SharePoint. Proverite Vašu internet konekciju, tačnost adrese servera i prava za pristup traženim resursima SharePoint-a. </text>
+		<text id="msg.discardCheckOutFailed" h="427CEAFC">Nije se mogao odbaciti status datoteke &lt;b&gt;%1&lt;/b&gt;. Molimo da proverite da datoteka postoji i da je čekirana na Vas.</text>
+		<text id="msg.errorOnCheckOutNoEditPermissions" h="72CACDDF">Ne možete isčekirati datoteku &lt;b&gt;%1&lt;/b&gt; jer nemate permisije za uređivanje ove datoteke.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedCheckOut" h="0075F732">Ne možete otvoriti datoteku &lt;b&gt;%1&lt;/b&gt; sa isčekiranjem jer nemate permisije za uređivanje ove datoteke.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedWriteAccess" h="FD9B1AB1">Ne možete otvoriti datoteku &lt;b&gt;%1&lt;/b&gt; jer nemate permisije za uređivanje ove datoteke.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedWriteAccess" h="3453F306">ne možete sačuvati datoteku &lt;b&gt;%1&lt;/b&gt; na SharePoint-u jer nemate permisije za uređivanje datoteke.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedCheckOut" h="833598E7">Datoteka &lt;b&gt;%1&lt;/b&gt; mora biti proverena pre nego što je sačuvana, ali nemate permisije za uređivanje ove datoteke.</text>
+		<text id="msg.fileNotFound" h="381368F8">Datoteka &lt;b&gt;%1&lt;/b&gt; nije nađena u trenutnoj fascikli.</text>
+		<text id="msg.invalidFileName" h="5F43EF67">&lt;b&gt;%1&lt;/b&gt; nije validan naziv datoteke.</text>
+		<text id="msg.navigateError" h="CF23B4B6">Nije se moglo navigirati na SharePoint resurs. Proverite Vašu internet konekciju, tačnost adrese servera i prava za pristup traženim resursima SharePoint-a.</text>
+		<text id="msg.openFailed" h="34DE1259">Nije se mogla otvoriti datoteka. Proverite da li datoteka postoji, da nije pregledana od strane drugih korisnika i da li imate prava čitanja za nju.</text>
+		<text id="msg.outdatedFileOnWrite" h="1D71732B">Datoteka &lt;b&gt;%1&lt;/b&gt; ne može biti sačuvana na SharePoint jer postoji konflikt u imenima. Dokument koji ste skinuli sadrži promene urađene &lt;b&gt;%2&lt;/b&gt;, ali server sadrži novije promene, urađene &lt;b&gt;%3&lt;/b&gt;. Sačivajte svoje promene u novu datoteku, a zatim otvorite poslednji dokument sa proverom sa SharePoint-a, spojite promene i sačuvajte ih na server. </text>
+		<text id="msg.saveFailed" h="967D2A64">Nije se mogala sačuvati datoteka. Proverite da li je naziv datoteke validan, da nije pregledana od strane drugih korisnika i da li imate prava pisanja za nju.</text>
+		<text id="msg.saveReplace" h="B1889DFB">Datoteka &lt;b&gt;%1&lt;/b&gt; već postoji. Da li želite da je zamenite?</text>
+		<text id="msg.signOutError" h="0E6A5F45">Trenutni korisnik se nije se mogao odjaviti sa SharePoint servera. Možda možete biti pristupiti SharePoint-u bez zahteva za autentifikaciju.</text>
+		<text id="msg.warnOnOpenWithNoEditPermissions" h="E1A7E642">Otvarate datoteku &lt;b&gt;%1&lt;/b&gt; ali nemate permisije za uređivanje ove datoteke. Nećete moći sačuvati izmene na Sharepoint dok ne budete imali potrebne permisije.</text>
+		<text id="msg.warnOnOpenWithOthersCheckOut" h="46080172">Datoteka &lt;b&gt;%1&lt;/b&gt; je isčekirana na korisnika "%2". Ne možete sačuvati ovu datoteku na SharePoint dok se ne ukinu isčekirana stanja. Ako "%2" isčekira datoteku sa promenama imaćete konflikte u promenama.</text>
+		<text id="opt.keepCkeckedOut" h="15301A94">&amp;Zadrži datoteku čekiranom nakon čuvanja</text>
+		<text id="rbar.sharepoint" h="56A5F9B3">SharePoint</text>
+	</Strings>
+</Localization>

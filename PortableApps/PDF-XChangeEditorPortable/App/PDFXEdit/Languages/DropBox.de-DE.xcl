@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123223803">2.00.00</Version>
+	<Author>Michael Dodl</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="German (Germany)" lName="Deutsch" code="de-DE" R2L="false"/>
+	<Module name="Dropbox" namespace="db" version="7.0.323.3"/>
+	<Strings>
+		<text id="btn.cancel" h="3D302A38">&amp;Abbrechen</text>
+		<text id="btn.chooseUser" h="4E5DDBFB">&amp;Benutzer auswählen</text>
+		<text id="btn.ok" h="FEF0C771">&amp;OK</text>
+		<text id="btn.open" h="B1A510F0">Ö&amp;ffnen</text>
+		<text id="btn.save" h="F363C410">&amp;Speichern</text>
+		<text id="btn.saveReplace" h="11BF9724">Speichern und e&amp;rsetzen</text>
+		<text id="cmd.cmdsCategory" h="22B8ECE9">Dropbox</text>
+		<text id="cmd.open" h="028048E8">&amp;Dropbox...</text>
+		<text id="cmd.open.tip" h="683AE278">Ein Dokument aus der Dropbox öffnen.</text>
+		<text id="cmd.save" h="028048E8">&amp;Dropbox...</text>
+		<text id="cmd.save.tip" h="B5D0B78F">Aktives Dokument in die Dropbox speichern.</text>
+		<text id="cmd.dropbox" h="6616FE70">&amp;Dropbox</text>
+		<text id="dlg.authenticate" h="E6E77652">Anmelden</text>
+		<text id="dlg.openFile" h="435887CD">Datei öffnen</text>
+		<text id="dlg.saveFile" h="520CB069">Datei speichern</text>
+		<text id="lb.itemsInFolder" h="8F56A98C">%d Elemente</text>
+		<text id="lb.name" h="F7B9E475">Dateiname:</text>
+		<text id="ls.column.created" h="9E0B497D">Erstellungsdatum</text>
+		<text id="ls.column.created.hint" h="291F5AEC">Datum und Uhrzeit zu der die Datei, der Ordner oder die Liste erstellt wurde.</text>
+		<text id="ls.column.extension" h="14FEB836">Erweiterung</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Dateierweiterung</text>
+		<text id="ls.column.modified" h="691C3610">Änderungsdatum</text>
+		<text id="ls.column.modified.hint" h="2C2CF8F2">Datum und Uhrzeit zu der die Datei, der Ordner oder die Liste zuletzt geändert wurde.</text>
+		<text id="ls.column.size" h="17A58A52">Größe</text>
+		<text id="ls.column.size.hint" h="E79CA174">Dateigröße</text>
+		<text id="ls.column.title" h="D18643E3">Name</text>
+		<text id="ls.column.title.hint" h="D883F263">Datei-/Ordnername</text>
+		<text id="msg.connectError" h="A594B0D5">Die Verbindung zur Dropbox ist fehlgeschlagen. Bitte prüfen Sie Ihre Internetverbindung und die Berechtigungen zum Zugriff auf die Daten.</text>
+		<text id="msg.fileNotFound" h="381368F8">Die Datei &lt;b&gt;%1&lt;/b&gt; wurde im aktuellen Ordner nicht gefunden.</text>
+		<text id="msg.invalidFileName" h="6BE657E3">&lt;b&gt;%1&lt;/b&gt; ist kein gültiger Dateiname: Die Symbole &lt; &gt; " /  | ? * sind nicht erlaubt.</text>
+		<text id="msg.navigateError" h="8BCFBD0F">Bitte prüfen Sie Ihre Internetverbindung, die Adresse und die Berechtigungen zum Zugriff auf das Element in der Dropbox.</text>
+		<text id="msg.openFailed" h="794811DE">Die Datei konnte nicht geöffnet werden. Stellen Sie sicher, dass die Datei existiert und Sie Leserechte haben.</text>
+		<text id="msg.saveFailed" h="36780EC6">Die Datei konnte nicht gespeichert werden. Stellen Sie sicher, dass der Dateiname gültig ist und Sie Schreibrechte haben.</text>
+		<text id="msg.saveReplace" h="B1889DFB">Die Datei &lt;b&gt;%1&lt;/b&gt; existiert bereits. Wollen Sie die Datei ersetzen?</text>
+		<text id="msg.wrongUser" h="27773B86">Die Datei kann nicht geöffnet werden, weil sie in der Dropbox eines anderen Benutzers liegt. Wollen Sie einen anderen Benutzer auswählen?</text>
+		<text id="str.fileSystemName" h="22B8ECE9">Dropbox</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20170425233727">2.00.00</Version>
+	<Author>pdf.xchange.translate@gmail.com</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Dutch (Netherlands)" lName="Nederlands" code="nl-NL" R2L="false"/>
+	<Module name="OCRPlugin" namespace="ocr" version="6.0.322.0"/>
+	<Strings>
+		<text id="OrientationDetection" h="40F7AA0E">Automatische orientatie detectie</text>
+		<text id="accuracy.high" h="21A95620">Hoog</text>
+		<text id="accuracy.low" h="845E3D8C">Laag</text>
+		<text id="accuracy.medium" h="91153342">Gemiddeld</text>
+		<text id="cb.cuenoany" h="899F9872">Geen geïnstalleerd</text>
+		<text id="cmd.name" h="6DAA8A17">OCR Pagina's...</text>
+		<text id="l.accuracy" h="3B2028D8">&amp;Nauwkeurigheid:</text>
+		<text id="l.language" h="7B707020">&amp;Taal:</text>
+		<text id="lnk.more" h="2E2CCD84">&lt;a=1&gt;Meer talen...&lt;/a&gt;</text>
+		<text id="prefs.title" h="D0975E29">OCR opties</text>
+	</Strings>
+</Localization>

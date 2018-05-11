@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Version date="20140218001810">2.00.00</Version>
+	<Author>toxis@daum.net</Author>
+	<Copyright>오역 및 개선점을 메일로 알려주세요.
+취합하여 반영하겠습니다.</Copyright>
+	<Product id="PDFXEditor" />
+	<Language eName="Korean" lName="한국어" code="ko-KR" R2L="false"/>
+	<Module name="OCRPlugin" namespace="ocr" version="5.5.312" />
+	<Strings>
+		<text id="cmd.name" h="6DAA8A17">페이지 OCR...</text>
+		<text id="ACCURACY" h="3B2028D8">정확도(&amp;A):</text>
+		<text id="RangeCtl.All" h="BC5A21F7">모두(&amp;A)</text>
+		<text id="MORELANGUAGES" h="B5A4C290">더 많은 언어(&amp;M)...</text>
+		<text id="QUALITY" h="B09D7E26">품질(&amp;Q):</text>
+		<text id="RUN" h="263F2B55">실행(&amp;R)</text>
+		<text id="RangeCtl.Array" h="3B3F1A04">선택된 페이지(&amp;S)</text>
+		<text id="RangeCtl.PageRangesTotalPages" h="AD7CC48B">(전체 %1 페이지)</text>
+		<text id="DPI100" h="32F53FC3">100 DPI</text>
+		<text id="DPI200" h="4E941A18">200 DPI</text>
+		<text id="DPI300" h="D39BFB6E">300 DPI</text>
+		<text id="OUTPUTOVERLAY" h="B50A7A21">현재 PDF에 탐색가능 레이어 추가</text>
+		<text id="pages.All" h="83434A26">모두</text>
+		<text id="PageRangesFilter.All" h="83434A26">모두</text>
+		<text id="AUTODESKEW" h="626A3AF3">자동 왜곡보정(&amp;D)</text>
+		<text id="OrientationDetection" h="40F7AA0E">자동 방향 감지</text>
+		<text id="BLACKLIST" h="23BACD95">블랙리스트</text>
+		<text id="CANCEL" h="08961956">취소</text>
+		<text id="ComplexBackground" h="7D4E65E9">복잡한 배경 제거</text>
+		<text id="outputtype.editable" h="B24B2872">새 편집가능 PDF 만들기</text>
+		<text id="outputtype.new" h="85C87BB3">새 검색가능 PDF 만들기</text>
+		<text id="RangeCtl.Current" h="F154A390">현재 페이지(&amp;R)</text>
+		<text id="pages.Current" h="AA94BA52">현재</text>
+		<text id="PageRangesFilter.Even" h="B47F9CB2">짝수</text>
+		<text id="OUTPUTEXPORT" h="AEBA8DAE">편집가능 문서 내보내기</text>
+		<text id="progress.finalizing" h="BD3E3BA6">끝내기...</text>
+		<text id="PageRangeHelp" h="2193298D">예: 1, 3, 5-12</text>
+		<text id="accuracy.high" h="21A95620">높음</text>
+		<text id="accuracy.low" h="845E3D8C">낮음</text>
+		<text id="accuracy.medium" h="91153342">중간</text>
+		<text id="OUTPUTEDITABLE" h="BD2E798E">새 편집가능 PDF</text>
+		<text id="OUTPUTSEARCHABLE" h="AC331458">새 검색가능 PDF</text>
+		<text id="prefs.name" h="00DD8F43">OCR</text>
+		<text id="notice.notfinished" h="F46B8362">OCR 초기화 실패: 언어와 출력 설정을 확인하세요.</text>
+		<text id="notice.emptyselection" h="2B9E6261">OCR 실패: 무효한 문서 또는 빈 선택</text>
+		<text id="notice.finished" h="0CFE0EC4">OCR 작업 완료</text>
+		<text id="prefs.title" h="D0975E29">OCR 옵션</text>
+		<text id="prefs.tips" h="D0975E29">OCR 옵션</text>
+		<text id="progress.title" h="8E35B0D9">페이지 OCR, 기다려 주세요...</text>
+		<text id="PROGRESSTITLE" h="EAC73B34">OCR 진행</text>
+		<text id="LABELPROGRESS" h="EAC73B34">OCR 진행</text>
+		<text id="prefs.langdir" h="ED1B4BF6">OCR언어</text>
+		<text id="PageRangesFilter.Odd" h="B42489B1">홀수</text>
+		<text id="OK" h="2F05215A">확인</text>
+		<text id="GROUPOUTPUT" h="99E2E755">출력</text>
+		<text id="OUTPUTTYPE" h="BCF60940">출력 종류(&amp;T):</text>
+		<text id="RangeCtl.Exact" h="F77481D2">페이지(&amp;G):</text>
+		<text id="pages.Range" h="94D70EC1">페이지 범위</text>
+		<text id="RangeCtl.GroupBox" h="30C24AC3">페이지 범위</text>
+		<text id="PAGELABEL" h="23952CFD">페이지:</text>
+		<text id="progress.placing" h="C9F1FA8A">내용 넣기...</text>
+		<text id="PREFERENCES" h="4481257B">설정</text>
+		<text id="outputtype.layer" h="DFA4EAA6">원래 내용 유지하고 텍스트 레이어 추가</text>
+		<text id="LANGUAGE" h="9BF1BFB7">기본 언어(&amp;L):</text>
+		<text id="progress.pageinfo" h="4580EE29">페이지 처리: %d / %d...</text>
+		<text id="PAGES" h="E85B0001">범위:</text>
+		<text id="progress.rasterizing" h="ACB9131E">래스터화...</text>
+		<text id="GROUPRECOGNITION" h="962555B5">인식</text>
+		<text id="progress.recognizing" h="281E6862">인식중...</text>
+		<text id="RUNDIALOGTITLE" h="4C092002">OCR 실행</text>
+		<text id="pages.Selected" h="CF38CD8D">선택됨</text>
+		<text id="RangeCtl.Filter" h="767CD238">부분:</text>
+		<text id="RangeCtl.Summary" h="12271F69">요약: %1 / %2 페이지</text>
+		<text id="notice.notavailable" h="CAC07593">선택된 OCR 종류는 이 버전에서 사용할 수 없습니다.</text>
+		<text id="notice.permissions" h="3BE9C6A8">이 문서는 보호되어 있습니다. 파일-&gt;문서 속성-&gt;보안 에서 권한을 확인하세요.</text>
+		<text id="MULTIPLECORES" h="C21D9F69">멀티쓰레딩 사용</text>
+		<text id="WHITELIST" h="68C2961B">화이트리스트</text>
+		<text id="TITLEWHITELIST" h="B446B537">화이트리스트와 블랙리스트</text>
+</Strings>
+</Localization>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123215811">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Ukrainian (Ukraine)" lName="українська" code="uk-UA" R2L="false"/>
+	<Module name="OCRPlugin" namespace="ocr" version="7.0.323.3"/>
+	<Strings>
+		<text id="OrientationDetection" h="40F7AA0E">Автоматичне визначення орієнтації</text>
+		<text id="accuracy.high" h="21A95620">Висока</text>
+		<text id="accuracy.low" h="845E3D8C">Середня</text>
+		<text id="accuracy.medium" h="91153342">Низька</text>
+		<text id="cb.cuenoany" h="899F9872">Жодна не встановлена</text>
+		<text id="cmd.name" h="6DAA8A17">OCR сторінок...</text>
+		<text id="l.accuracy" h="3B2028D8">Мова:</text>
+		<text id="l.language" h="7B707020">Мова:</text>
+		<text id="lnk.more" h="2E2CCD84">&lt;a=1&gt;Інші мови...&lt;/a&gt;</text>
+		<text id="prefs.title" h="D0975E29">Опції OCR</text>
+	</Strings>
+</Localization>

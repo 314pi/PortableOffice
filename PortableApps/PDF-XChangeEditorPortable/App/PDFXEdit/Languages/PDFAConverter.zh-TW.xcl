@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123223622">2.00.00</Version>
+	<Author>Andy Chen</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Chinese (Traditional, Taiwan)" lName="中文(繁體)" code="zh-TW" R2L="true"/>
+	<Module name="PDFAConverter" namespace="pdfa" version="7.0.323.3"/>
+	<Strings>
+		<text id="auto.pdfa.level" h="778FAC3D">自動 PDF/A 一致性層級</text>
+		<text id="conv.name" h="7A00CE23">PDF/A (*.pdf)</text>
+		<text id="dlg.opt.autopdfa.info" h="4FBB3824">由 PDF 編輯器來選取最適合此文件的一致性層級</text>
+		<text id="dlg.opt.cb.correction" h="1EF3C21C">應用糾錯</text>
+		<text id="dlg.opt.embedfonts.lbl" h="61AFDA73">內嵌字體使用字元</text>
+		<text id="dlg.opt.g1.title" h="DAD7B4F4">選項</text>
+		<text id="dlg.opt.g2.title" h="8FB1A988">彩色組態</text>
+		<text id="dlg.opt.g3.title" h="8AD54EB1">糾錯</text>
+		<text id="dlg.opt.label.auto" h="FF103EFE">自動 PDF/A 一致性層級</text>
+		<text id="dlg.opt.label1" h="EB2313FD">選取一致性層級(&amp;F)：</text>
+		<text id="dlg.opt.label2" h="752CF760">選取彩色組態</text>
+		<text id="dlg.opt.title" h="86709E15">轉換為 PDF/A</text>
+		<text id="dlg.pdfxConvert" h="1D70370D">轉換為 PDF/X</text>
+		<text id="dlg.rep.errors" h="EC9E93B4">錯誤 (%1)</text>
+		<text id="dlg.rep.fixes" h="594F7931">糾正 (%1)</text>
+		<text id="dlg.rep.title" h="1DC94CC7">轉換報告</text>
+		<text id="dlg.rep.warnings" h="6F8DAB37">警示 (%1)</text>
+		<text id="lbl.chooseStd" h="4CB6AFEB">選擇標準:</text>
+		<text id="rasterize.error.chk" h="1CB52AC5">柵格化未嵌入的字體</text>
+		<text id="msg.err.alternate_presenatations" h="19A17FF2">文件包括替代圖像</text>
+		<text id="msg.err.embed_file_missing_key" h="B12243CC">內嵌檔案：鍵值 %1 缺失</text>
+		<text id="msg.err.embed_file_no_AF" h="0D075E68">內嵌檔案沒有 AF 項</text>
+		<text id="msg.err.embed_file_no_AFRelationship" h="0F2FF281">內嵌檔案沒有 AF關係 項</text>
+		<text id="msg.err.embed_file_no_MIME_type" h="B23BB7AE">內嵌檔案沒有 MIME 類型項</text>
+		<text id="msg.err.embed_file_no_ModDate" h="32393EC5">內嵌檔案的參數字典中沒有修改日期項</text>
+		<text id="msg.err.embed_file_not_PDF" h="ACB6C0B4">內嵌了非 PDF 類型的檔案</text>
+		<text id="msg.err.embed_file_not_PDFA_compliance" h="69851F66">內嵌了不符合 PDF/A 標準的 PDF 檔案</text>
+		<text id="msg.err.font" h="E728DE31">字體 %1 無效：%2</text>
+		<text id="msg.err.invalidfontobject" h="D0411546">字體物件無效</text>
+		<text id="msg.err.halftone_has_name" h="044A925B">延伸圖形狀態：半色調包括半色調名稱</text>
+		<text id="msg.err.image_bpc_more" h="63802D36">圖像的每份量比特數超過 %1</text>
+		<text id="msg.err.impl_limit_obj_size_more" h="3A9756F7">%1 對象的大小超過 %2</text>
+		<text id="msg.err.impl_limit_pagebox_less" h="39206E0E">實現的限制：%1 的大小不到 3 個單位</text>
+		<text id="msg.err.impl_limit_pagebox_more" h="7793CF00">實現的限制：%1 的大小超過 14400 個單位</text>
+		<text id="msg.err.impl_limit_val_out_range" h="0778EBD3">%1 的值超出範圍</text>
+		<text id="msg.err.incomp_docinfo_metadata" h="4CE13608">1% 在文件與 XMP 元資料之間不符合</text>
+		<text id="msg.err.incomp_ge_cs_with_outintent" h="A7DB0264">彩色為 %2， 而輸出目的為 %1</text>
+		<text id="msg.err.incomp_image_cs_with_outintent" h="FA83CF54">圖像為 %2， 而輸出目的為 %1</text>
+		<text id="msg.err.incomp_shading_cs_with_outintent" h="6CEF543E">著色為 %2， 而輸出目的為 %1</text>
+		<text id="msg.err.invalid.xform" h="735966B8">文件包括無效的 XForm</text>
+		<text id="msg.err.invalid_image" h="A275C999">圖像無效</text>
+		<text id="msg.err.keys_not_UR3_DocMDP" h="33EEDCA6">文件許可中使用了 UR3 與 DocMDP 以外的鍵值。</text>
+		<text id="msg.err.mbox.missing" h="529404DB">'Mediabox' 缺少</text>
+		<text id="msg.err.metadata_missing" h="52FA2A56">元資料為空</text>
+		<text id="msg.err.obj_validator_name_not_UTF8" h="FB949014">名稱不是有效的 UTF-8 字串</text>
+		<text id="msg.err.pageseparated" h="04FDB927">頁是分開的板材</text>
+		<text id="msg.err.preliminary.modify" h="413E0B86">對文件的修改是被禁止的</text>
+		<text id="msg.err.preliminary.secured" h="1CA464FB">文件被保護</text>
+		<text id="msg.err.preliminary.xfa" h="1B4F1FD1">此文件包括 XFA 表單。無法儲存為 PDF/A 標準。</text>
+		<text id="msg.err.root.invalid.key" h="AB4A8812">根物件包含不正確金鑰</text>
+		<text id="msg.err.xfa" h="7CB7EB6A">無法轉換: 該文檔包含 XFA 形式</text>
+		<text id="msg.err.pressteps" h="1CBEE75B">頁面包含 PresStep</text>
+		<text id="msg.err.st_root_elem_type_not_standard" h="F26BDE8C">結構化 PDF：元素未使用標準類型</text>
+		<text id="msg.err.st_root_missing" h="7F7D9806">缺少結構樹根節點</text>
+		<text id="msg.err.substitute_filter" h="50898016">%2 被置換為 %1</text>
+		<text id="msg.err.subtype_xform_missing" h="00C060BB">XForm 缺少子類型</text>
+		<text id="msg.err.tagging_structure" h="025A02E3">標籤結構</text>
+		<text id="msg.err.used_egs_key" h="8964F17F">延伸圖形狀態：使用了 %1%2%3</text>
+		<text id="msg.err.used_embedded_files" h="5D7BA79C">文件使用了內嵌檔案</text>
+		<text id="msg.err.used_ext_stream" h="7B302079">文件使用了外部流</text>
+		<text id="msg.err.used_fiter" h="C350A2BE">文件使用了 %1 過濾器</text>
+		<text id="msg.err.used_fiter_invalid" h="2604E73C">文件使用了不明的壓縮類型</text>
+		<text id="msg.err.used_jpeg2000" h="52FB4580">文件使用了 JPEG2000 壓縮</text>
+		<text id="msg.err.used_key" h="48336238">文件使用了 %1 鍵值</text>
+		<text id="msg.err.used_obj_transparency" h="A7E6E8BD">對像使用了透明度：%1</text>
+		<text id="msg.err.used_scale_factor" h="341357C0">文件使用了縮放係數</text>
+		<text id="msg.err.layer_is_not_ocgs" h="192BDC6C">圖層不在文檔的圖層清單中</text>
+		<text id="msg.err.realnumber.high" h="66E0E3DB">實際值太高</text>
+		<text id="msg.err.realnumber.low" h="2A96B6D3">實際值太低</text>
+		<text id="msg.err.outlinetitle.missing" h="DDDF0A13">缺少大綱標題</text>
+		<text id="msg.err.dictsize" h="A051CB86">字典大小大於 4095</text>
+		<text id="msg.err.filespecification" h="E67D7D14">文檔包含檔案規範</text>
+		<text id="msg.warn.image.reencoded" h="E4131E9E">圖像資料已被編碼</text>
+		<text id="msg.fix.added_mark_info" h="6603ECE2">在文件目錄中加入了 MarkInfo</text>
+		<text id="msg.fix.annot" h="A3ED2923">轉換註釋為 PDF/A 標準</text>
+		<text id="msg.fix.annotPDFX" h="5675C2EF">轉換注釋為 PDF/X</text>
+		<text id="msg.fix.append.data" h="C09E2EE2">修正了圖像中的非充分資料</text>
+		<text id="msg.fix.blendingCS" h="C69A9AF9">修正了混合彩色空間</text>
+		<text id="msg.fix.convert_ge_to" h="0F8BC341">轉換圖形元素的彩色空間為 %1</text>
+		<text id="msg.fix.convert_image_to" h="4C6135BC">轉換圖像的彩色空間為 %1</text>
+		<text id="msg.fix.convert_shading_to" h="62CBFA3C">轉換著色的彩色空間為 %1</text>
+		<text id="msg.fix.create_metadata" h="D90DAD7D">建立了元資料</text>
+		<text id="msg.fix.create_res_dict" h="FCE6D2B1">在頁面中加入了資源字典</text>
+		<text id="msg.fix.create_st_root" h="41944498">建立了結構樹根節點</text>
+		<text id="msg.fix.discard_action_annotation" h="F7198D05">移除了註釋中的不相容動作</text>
+		<text id="msg.fix.discard_action_catalog" h="C3900926">移除了目錄中的不相容動作</text>
+		<text id="msg.fix.discard_action_document" h="C016B27B">移除了文件中的不相容動作</text>
+		<text id="msg.fix.discard_action_outlines" h="FBBE3E9F">移除了概述中的不相容動作</text>
+		<text id="msg.fix.embed_ext_stream" h="048B6358">內嵌了外部流</text>
+		<text id="msg.fix.embed_file_fixed" h="31D72A99">將內嵌的 PDF 文件轉換為了 PDF/A 標準</text>
+		<text id="msg.fix.embed_file_set_AF" h="D2B4D107">內嵌檔案：在 AF 項中建立對應鍵值</text>
+		<text id="msg.fix.embed_file_set_MIME" h="3EF87FF1">內嵌檔案：設定了 MIME 類型</text>
+		<text id="msg.fix.embed_file_set_ModDate" h="BA267B98">內嵌檔案：在參數字典中設定了修改日期</text>
+		<text id="msg.fix.embed_file_set_key_to" h="BC68FC0B">內嵌檔案：把鍵值 %1 設為 %2</text>
+		<text id="msg.fix.fixed.pageboxes" h="99E435FA">固定頁面框佈局</text>
+		<text id="msg.fix.flatten_opt_contents" h="6B973C9C">合併了可選內容</text>
+		<text id="msg.fix.flatten_transparency" h="1A34D6C7">合併了透明度</text>
+		<text id="msg.fix.font" h="D72B5D39">修正了字體 %1：%2</text>
+		<text id="msg.fix.font_rasterized" h="F886ED6D">光柵化了字體 %1 的文字對像</text>
+		<text id="msg.fix.insert_correct_parent_outline_item_key" h="0EAAA35B">在概述中插入了正確的父鍵值</text>
+		<text id="msg.fix.insert_parent_outline_item_key" h="345CBC49">在概述中插入了父鍵值</text>
+		<text id="msg.fix.io.set" h="F9298C4C">輸出意向設置為 %1</text>
+		<text id="msg.fix.pages.root" h="A1647A90">修正了頁面根節點</text>
+		<text id="msg.fix.rasterize.invalid.form" h="D899922D">光柵化了無效表單</text>
+		<text id="msg.fix.recompress_image_to_target_BPC" h="FF073DE9">將圖像重新壓縮為每份量 %1 比特</text>
+		<text id="msg.fix.recompress_jpeg2000" h="99C21C1F">重新壓縮 JPEG2000 圖像</text>
+		<text id="msg.fix.remove.alternate_presentations" h="504508D7">移除了文件中的替代圖像</text>
+		<text id="msg.fix.remove.embedded.files" h="26C6032E">從文檔中刪除嵌入的檔</text>
+		<text id="msg.fix.remove_JS" h="60C345B8">移除了 JavaScript</text>
+		<text id="msg.fix.remove_TR" h="E292DCE2">移除了傳輸曲線</text>
+		<text id="msg.fix.remove_annot" h="6BD2280C">移除了被禁止的註釋</text>
+		<text id="msg.fix.remove_annot_invalid" h="F94382C8">移除了註釋清單中的無效對像</text>
+		<text id="msg.fix.remove_egs_key" h="C443AC00">延伸圖形狀態：移除了鍵值 %1</text>
+		<text id="msg.fix.remove_element_with_zero_cm" h="F8645451">移除了變換矩陣為零的元素</text>
+		<text id="msg.fix.remove_embedded_files" h="8F0B4037">根據 PDF/A 要求，移除了文件中的所有內嵌檔案</text>
+		<text id="msg.fix.remove_ext_stream" h="AFDE8AD8">移除了外部流</text>
+		<text id="msg.fix.remove_interpolate" h="F32EB202">移除了圖像中的插值鍵值</text>
+		<text id="msg.fix.remove_key" h="4413CC72">移除了 %1</text>
+		<text id="msg.fix.remove_scale_factor" h="143311F1">移除了縮放係數</text>
+		<text id="msg.fix.remove_transparency" h="7E5AEEAE">移除了透明度</text>
+		<text id="msg.fix.remove.invalid.ge" h="1ADE8289">刪除了不正確圖形元素</text>
+		<text id="msg.fix.set_PDFA_version_conformance" h="AB0F972F">設定了 PDF/A 的版本和一致性</text>
+		<text id="msg.fix.set_PDFX_version" h="7AA4188B">設置 PDF/X 版本為 %1</text>
+		<text id="msg.fix.set_egs_key_to" h="63221188">延伸圖形狀態：將鍵值 %1 設為 %2</text>
+		<text id="msg.fix.set_image_intent_to_rc_metric" h="CF86B7A2">將圖像目的設定為相對色度</text>
+		<text id="msg.fix.set_op_mode_to_0" h="5F8AB92B">對基於 ICC 的 4 份量色彩空間，設定套印為 0</text>
+		<text id="msg.fix.set_page_size_to_pdfa" h="196F4E85">將 %1 的大小設定為 PDF/A 的實現極值</text>
+		<text id="msg.fix.settitle.unk" h="63847E95">將文檔標題設置為 %1</text>
+		<text id="msg.fix.synch_docinfo_metadata" h="725D19C7">在文件和 XMP 元資料之間同步 %1 項</text>
+		<text id="msg.fix.trapped" h="A5390027">被捕獲的標誌設置為 %1</text>
+		<text id="msg.fix.added_layer_to_ocgs" h="384350C4">將圖層添加到文檔的圖層清單中</text>
+		<text id="msg.param.PSForm" h="33125BC8">Postscript 表單</text>
+		<text id="msg.param.created_CIDSet" h="68DA0CCF">創建根據 CIDSet 條目</text>
+		<text id="msg.param.created_CIDToGID" h="36E9144C">創建 CIDToGIDMap 在 TrueType 中輸入(CID) 字型</text>
+		<text id="msg.param.created_charset" h="476FD8FB">創建的字元集項</text>
+		<text id="msg.param.cs_based_on" h="FFE0AF7F">基於</text>
+		<text id="msg.param.cs_with_alternate" h="B031D3C5">包括替代</text>
+		<text id="msg.param.font_CIDToGID_name_not_Identity" h="0DB4EA77">CID 到 GID 映射 是名稱而不是標識符</text>
+		<text id="msg.param.font_convert_opentype" h="CAE0DA1F">轉換了 OpenType 字體</text>
+		<text id="msg.param.font_create_CIDSet" h="A849D837">根據 PDF/A 標準建立 CID 集項</text>
+		<text id="msg.param.font_create_CIDToGID" h="141C53C9">根據 PDF/A 標準，為 TrueType(CID) 字體建立 CID 到 GID 映射</text>
+		<text id="msg.param.font_create_charset" h="9936EE1E">根據 PDF/A 標準建立字元集項</text>
+		<text id="msg.param.font_embed" h="9A6990DE">內嵌字體檔案</text>
+		<text id="msg.param.font_fix_lenghts" h="30C5F865">修正了字體檔案對像流中的長度1、長度2和長度3 項</text>
+		<text id="msg.param.font_fix_width" h="034ED3BC">修正字形寬度訊息</text>
+		<text id="msg.param.font_incomp_CIDSet" h="9548B2AE">CID 字體子集中 CID 集不全</text>
+		<text id="msg.param.font_incomp_charset" h="DFFF9082">字體子集中字元集不全</text>
+		<text id="msg.param.font_incomp_width" h="AAD233DC">渲染字形的寬度訊息不統一</text>
+		<text id="msg.param.font_incons_ordering" h="EDC4D27C">CID 系統訊息中的排序項和 CMap 中的對應項不相容</text>
+		<text id="msg.param.font_incons_registry" h="F21A60E4">CID 系統訊息中的登錄項和 CMap 中的對應項不相容</text>
+		<text id="msg.param.font_incons_supplement" h="8475905C">CID 系統訊息中的補充項和 CMap 中的對應項不相容</text>
+		<text id="msg.param.font_insert_CIDSet" h="3A450980">插入CID 集項</text>
+		<text id="msg.param.font_insert_charset" h="8F852948">插入字元集項</text>
+		<text id="msg.param.font_invalid_Unicode" h="5CDDB7B2">字體包括含有錯誤值的 ToUnicode 映射</text>
+		<text id="msg.param.font_invalid_fontname" h="71C51772">字體名不是有效的 UTF-8 字串</text>
+		<text id="msg.param.font_invalid_lenghts" h="CCBC3ABE">字體檔案對像流中，字體的長度1、長度2和（或）長度3 項無效</text>
+		<text id="msg.param.font_license_error" h="4B95C372">字體內嵌被字體的許可標示禁止</text>
+		<text id="msg.param.font_missing_CIDSet" h="D6A633DA">缺少 CID 集</text>
+		<text id="msg.param.font_missing_CIDToGID" h="F18AFC8B">TrueType(CID) 字體中缺少 CID 到 GID 映射</text>
+		<text id="msg.param.font_missing_charset" h="99C00B0D">缺少字元集</text>
+		<text id="msg.param.font_missing_glyph" h="C8DB86BB">內嵌字體中缺少字形</text>
+		<text id="msg.param.font_not_map_Unicode" h="6C4EAF86">無法將文字映射為 Unicode</text>
+		<text id="msg.param.font_refer_notdef" h="8A352025">字元引用了 .notdef 字形</text>
+		<text id="msg.param.font_remove_diff_from_tt" h="CD98800F">從 TrueType 字體中移除了差異</text>
+		<text id="msg.param.font_tt_nonsymb_has_diff" h="352685E0">非符號 TrueType 字體擁有差異</text>
+		<text id="msg.param.font_tt_nonsymb_has_diff_names_not_from_AGL" h="29AB9D70">TrueType 字體擁有字形不在 Adobe 字形清單中的差異</text>
+		<text id="msg.param.font_tt_nonsymb_has_diff_not_enc31" h="4EF1854A">非符號 TrueType 字體擁有差異但是不包括 Microsoft Unicode(3.1) 編碼</text>
+		<text id="msg.param.font_tt_nonsymb_wrong_enc" h="A3CC05FE">對非符號 TrueType 字體的編碼錯誤</text>
+		<text id="msg.param.font_tt_symb_enc_prohibit" h="567F543A">對符號 TrueType 字體編碼項不可用</text>
+		<text id="msg.param.font_tt_symb_enc_removed" h="B6D46693">移除了符號 TrueType 字體中的編碼項</text>
+		<text id="msg.param.font_tt_symb_more_one_enc" h="5C1A2311">符號 TrueType 字體中的編碼超過一個</text>
+		<text id="msg.param.font_tt_symb_more_one_enc_not_enc30" h="3E42D77A">符號 TrueType 字體中的編碼超過一個並且沒有 Microsoft Symbol(3.0) 編碼</text>
+		<text id="msg.param.font_unembed" h="D58DB454">字體沒有內嵌</text>
+		<text id="msg.param.font_unembed_CMap" h="9A7C00A5">沒有內嵌自定義 CMap</text>
+		<text id="msg.param.font_unknown_enc" h="41169097">描述字體的編碼對像不詳</text>
+		<text id="msg.param.font_used_opentype" h="1DDFBB22">使用了 OpenType 字體</text>
+		<text id="msg.param.font_was_converted" h="F6A778E4">將 %1 字體轉換成了 %2 字體</text>
+		<text id="msg.param.transparent_bm" h="6113A951">混合模式不是標準或相容</text>
+		<text id="msg.param.transparent_cafill" h="0422F119">填充透明度小於 1.0</text>
+		<text id="msg.param.transparent_castroke" h="4AE94E2B">線條透明度小於 1.0</text>
+		<text id="msg.param.transparent_smask" h="FB9037E9">軟遮罩非簡單</text>
+		<text id="msg.param.transparent_smask_image" h="0B94C935">圖像包括值不是（無）的軟遮罩</text>
+		<text id="msg.param.transparent_trgroup" h="60E2ACCB">使用了透明度群組</text>
+		<text id="msg.warn.annot.is.RGB" h="BBEA0231">註釋使用了 RGB 彩色，但是輸出目的不是 RGB。PDF/A 版本提升到 2</text>
+		<text id="msg.warn.doc_has_embeddedfiles" h="E84C59BF">文件包括內嵌檔案。PDF/A 版本提升到 2</text>
+		<text id="msg.warn.doc_has_layers" h="83853EB9">文件包括層。PDF/A 版本提升到 2</text>
+		<text id="msg.warn.doc_has_notpdf" h="A4A335D0">文件內嵌了非 PDF 類型的檔案。PDF/A 版本提升到 3</text>
+		<text id="msg.warn.doc_has_transparent" h="7DA0DFA8">文件包括透明對象。PDF/A 版本提升到 2</text>
+		<text id="msg.warn.doc_not_marked" h="C9BEF804">文件未標示。一致性等級下降到 B</text>
+		<text id="msg.warn.font_not_map_Unicode" h="E326DC30">文字無法映射為 Unicode。一致性等級下降到 B</text>
+		<text id="msg.warn.st_root_elem_type_not_standard" h="D150764F">結構性 PDF：元素未使用標準類型。一致性等級下降到 B</text>
+		<text id="msg.warn.dictsize" h="9B24E799">字典大小大於 4095.  PDF/A 的參考部分增加到 2</text>
+		<text id="msg.warn.realvaluerange" h="410D6B7D">實際值超過範圍. PDF/A 的參考部分增加到 2</text>
+		<text id="opt.report" h="2D42B915">報告選項</text>
+		<text id="opt.showreport" h="672E47E9">顯示報告：</text>
+		<text id="removeannots.chk" h="6BD67279">刪除批註 (形式, 連結, 等.)</text>
+		<text id="report.noshow" h="2B0D94AA">不顯示</text>
+		<text id="report.show.always" h="E8FA61CB">總是顯示</text>
+		<text id="report.show.errwarn" h="2DCF92BE">顯示錯誤和警示</text>
+		<text id="status.proc.cnvPage" h="92A4E6A3">轉換頁面 %1...</text>
+		<text id="status.proc.tools.cnvPage" h="60077237">%2: 轉換頁面 %1...</text>
+		<text id="status.proc.converting" h="9CE2B7EC">正在轉換文件為 PDF/A</text>
+		<text id="status.proc.convertingPage" h="C25CC6CC">轉換頁面 %1 至 PDF/A</text>
+		<text id="status.proc.convertingX" h="CD65583F">轉換文檔...</text>
+		<text id="status.proc.saving" h="3D2A3BDC">儲存文件</text>
+		<text id="status.proc.gatherfont" h="C8B76D87">收集字體資訊...</text>
+		<text id="status.res.fail" h="79501FE7">轉換失敗</text>
+		<text id="status.res.success" h="C25438FB">轉換成功</text>
+	</Strings>
+</Localization>

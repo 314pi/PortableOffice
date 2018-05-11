@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117213644">2.00.00</Version>
+	<Author>Hélio de Souza</Author>
+	<Copyright>Hélio de Souza ©
+heliodesouza@mail.com</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Portuguese (Brazil)" lName="Português" code="pt-BR" R2L="false"/>
+	<Module name="MarkdownPlugin" namespace="md" version="6.0.322.7"/>
+	<Strings>
+		<text id="btn.md.submenu" h="89D1502A">Do Arquivo Markdown... </text>
+		<text id="cmd.tip" h="117085B4">Novo documento a partir de arquivos Markdown</text>
+		<text id="converter.desc" h="41356938">Converter Arquivos Markdown</text>
+		<text id="converter.filterName" h="AE86B691">Arquivos Markdown</text>
+		<text id="converter.name" h="AE86B691">Arquivos Markdown</text>
+		<text id="converting.progress.text" h="4DD2C8CD">Convertendo Arquivo:</text>
+		<text id="grb.style" h="1FF454A3">Estilo de Texto</text>
+		<text id="msg.error" h="51BFF51D">Erro</text>
+		<text id="msg.file.empty" h="8F9B5982">O arquivo está vazio.</text>
+		<text id="opt.all.files" h="C68ACE05">Todos Arquivos</text>
+		<text id="opt.btn.clear.style" h="8932B6EE">Reverter o estilo CSS para o padrão</text>
+		<text id="opt.create.style" h="EDCA1553">Criar</text>
+		<text id="opt.file" h="45B5DF3A">Arquivo</text>
+		<text id="opt.margins.fixed" h="6103695E">As margens são muito grandes. Eles serão automaticamente corrigidas.</text>
+		<text id="opt.none" h="F9398D7D">Nenhum</text>
+		<text id="opt.style" h="5CEA121A">Estilo:</text>
+		<text id="opt.test.title" h="44732FAA">Тeste</text>
+		<text id="opt.title" h="45D26671">Markdown para PDF - Opções</text>
+		<text id="opt.unavailable" h="5669C949">está indisponível</text>
+		<text id="prefs.name" h="07E67B98">Markdown para PDF</text>
+		<text id="prefs.title" h="45D26671">Markdown para PDF - Opções</text>
+		<text id="prop.list.extension" h="14FEB836">Extensão</text>
+		<text id="prop.list.location" h="BB241F45">Locais</text>
+		<text id="prop.list.modified" h="30325672">Modificado</text>
+		<text id="prop.list.size" h="17A58A52">Tamanho</text>
+		<text id="prop.list.title" h="796DFAD3">Título</text>
+		<text id="prop.source" h="AE86B691">Arquivos Markdown</text>
+		<text id="prop.source.file" h="F3110572">Selecionar Arquivos Markdown</text>
+		<text id="prop.source.file.unavailable" h="AE2771B8">Arquivo de Estilo não disponível</text>
+		<text id="prop.source.folder" h="8477FBD3">Selecionar pasta com Markdown</text>
+		<text id="prop.source.subfolder" h="F053B635">Verificar Subpastas</text>
+		<text id="prop.source.txt" h="0B465380">Arquivos de Texto</text>
+		<text id="prop.window.name" h="6E4F5CCE">Converter Markdown para PDF</text>
+		<text id="style.edit.default" h="600F2F18">Usar estilo padrão</text>
+		<text id="style.files.title" h="26E23587">Arquivos CSS</text>
+		<text id="style.folder.name" h="2F5ECDDE">Estilos Markdown</text>
+		<text id="style.save.title" h="2E270E87">Salvar Estilo</text>
+		<text id="style.select.file" h="37C34A80">Selecionar Estilo de Arquivo</text>
+	</Strings>
+</Localization>

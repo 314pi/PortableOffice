@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220806">2.00.00</Version>
+	<Author>Violi S.; Pari D.</Author>
+	<Copyright>©Violi S. - http://plus.google.com/+SantoVioli
+Distribuito con Licenza Creative Commons
+Attribuzione - Condividi allo stesso modo 3.0 Italia
+http://creativecommons.org/licenses/by-sa/3.0/it/
+
+Basata su traduzione precedente di "Sergio"</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Italian (Italy)" lName="Italiano" code="it-IT" R2L="false"/>
+	<Module name="OCRPlugin" namespace="ocr" version="6.0.322.7"/>
+	<Strings>
+		<text id="OrientationDetection" h="40F7AA0E">Rilevamento automatico orientamento</text>
+		<text id="accuracy.high" h="21A95620">Alta</text>
+		<text id="accuracy.low" h="845E3D8C">Bassa</text>
+		<text id="accuracy.medium" h="91153342">Media</text>
+		<text id="cb.cuenoany" h="899F9872">Nessuna lingua installata</text>
+		<text id="cmd.name" h="6DAA8A17">Esegui OCR delle pagine...</text>
+		<text id="l.accuracy" h="3B2028D8">Accuratezza:</text>
+		<text id="l.language" h="7B707020">Lingua:</text>
+		<text id="lnk.more" h="2E2CCD84">&lt;a=1&gt;Altre lingue...&lt;/a&gt;</text>
+		<text id="prefs.title" h="D0975E29">Opzioni OCR</text>
+	</Strings>
+</Localization>

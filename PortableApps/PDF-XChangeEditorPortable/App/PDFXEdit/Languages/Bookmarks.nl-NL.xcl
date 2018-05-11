@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220831">2.00.00</Version>
+	<Author>pdf.xchange.translate@gmail.com</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Dutch (Netherlands)" lName="Nederlands" code="nl-NL" R2L="false"/>
+	<Module name="BookmarksPlugin" namespace="bp" version="6.0.322.7"/>
+	<Strings>
+		<text id="DlgAddExcludedWords" h="BED549D0">Toevoegen van nieuwe uitgesloten woord(en)</text>
+		<text id="DlgAddTextToBookmark" h="E5B26485">Tekst toevoegen in bladwijzer titel:</text>
+		<text id="DlgAutoGenerateBookmarks.Title" h="FADC74CA">Bladwijzers genereren van paginatekst</text>
+		<text id="DlgBookmarkAppearance" h="7544DDCE">Resulterende verschijning</text>
+		<text id="DlgBookmarkEveryNthPage" h="B6869582">Bladwijzer iedere N-th pagina</text>
+		<text id="DlgBookmarkLevelDescription" h="186C1D0A">Instellingen voor tekstherkenning</text>
+		<text id="DlgBookmarkPropSheet" h="862C67E7">Eigenschappen voor genereren bladwijzer</text>
+		<text id="DlgBookmarkTitleFormatting" h="A87502C2">Titel opmaak</text>
+		<text id="DlgBookmarksToNamedDests" h="8A0957E5">Omzetten naar benoemde bestemmingen</text>
+		<text id="DlgBookmarksToTextFile" h="01135DA3">Bladwijzers exporteren naar tekstbestand</text>
+		<text id="DlgChangeBookmarkCase" h="4D74C7D9">Hoofdletters/kleine letters wijzigen</text>
+		<text id="DlgEditStopWords" h="911413E7">Stopwoorden bewerken</text>
+		<text id="DlgFindReplaceBookmarkText" h="2F631B7B">Zoeken en vervangen van bladwijzertekst</text>
+		<text id="DlgFontNames" h="57199985">Kies naam van lettertype's</text>
+		<text id="DlgFromTOC" h="AC2ED85C">Bladwijzer inhoudsopgave</text>
+		<text id="DlgFromTOCIndentation" h="12688622">Verander inspringen</text>
+		<text id="DlgFromTextFile" h="B3799046">Genereren bladwijzers van tekstbestand</text>
+		<text id="DlgNamedDestsToPageNumbers" h="9CAE5E39">Omzetten benoemde bestemmingen naar reguliere bestemmingen</text>
+		<text id="DlgSheetBttfBookmarkProps" h="4B2F0AA2">Bladwijzer eigenschappen</text>
+		<text id="DlgSheetBttfSelectBookmarks" h="30673BCD">Algemeen</text>
+		<text id="DlgSortBookmarks" h="8339BB6C">Bladwijzers sorteren</text>
+		<text id="DlgToTOC" h="2B3E9BF1">Inhoudsopgave maken</text>
+		<text id="DlgValidateBookmarks" h="0CD39971">Valideren bladwijzers</text>
+		<text id="atb.btn.Macroses" h="81734E4F">Mac</text>
+		<text id="atb.chb.IncludeChildren" h="0AC4CB2B">Omvat alle sub-niveaus</text>
+		<text id="atb.chb.ProcessAllLevels" h="26C3B2DF">Verwerk alle bladwijzerniveaus</text>
+		<text id="atb.chb.RemoveSpaces" h="8452D136">Verwijderen buitensporige spaties van originele bladwijzer titel</text>
+		<text id="atb.gb.AddText" h="E21C9B55">Tekst toevoegen</text>
+		<text id="atb.gb.Levels" h="8A668489">Selecteer niveau bladwijzers om te verwerken</text>
+		<text id="atb.gb.SelectSource" h="3B40DBF8">Selecteer bron bladwijzers</text>
+		<text id="atb.lbl.BookmarkTitle" h="2DC1254E">"Bladwijzer titel"</text>
+		<text id="atb.lbl.Prefix" h="A51A4726">Voorvoegsel toevoegen in bladwijzer titel:</text>
+		<text id="atb.lbl.SelectLevel" h="D1263889">Niveau om te verwerken:</text>
+		<text id="atb.lbl.Suffix" h="C27741D5">Achtervoegsel toevoegen in titel:</text>
+		<text id="atb.lbl.UseBookmarksFrom" h="FD8C6267">Gebruik bladwijzes:</text>
+		<text id="ba.chb.expand" h="BBA3BD8A">Uitgebreid weergeven (weergave van alle onderliggende)</text>
+		<text id="ba.l.expl" h="EE297184">Selecteer uiterlijke verschijning van de resulterende bladwijzers:</text>
+		<text id="ba.l.textStyle" h="8D5CA9B5">Tekststijl:</text>
+		<text id="benp.Gb.Main" h="4B2F0AA2">Eigenschappen bladwijzers</text>
+		<text id="benp.Label.TitleTemplate" h="5E999567">Titel sjabloon voor bladwijzer:</text>
+		<text id="benp.Label1.SelectN" h="8626E4EA">Bladwijzer iedere</text>
+		<text id="benp.Label2.SelectN" h="6270721D">pagina in geselecteerde bereik</text>
+		<text id="benp.infoBtn.invalidMacro" h="4D064E86">De string bevat ongedefinieerde macro naam die wordt genegeerd</text>
+		<text id="bft.l.actionSeparator" h="60954CC9">Actie param. scheidingsteken:</text>
+		<text id="bft.l.separator" h="BEDAC06E">Veldscheidingsteken:</text>
+		<text id="bld.btn.selStyle" h="EE213BC5">Gebruik stijl van de geselecteerde tekst</text>
+		<text id="bld.chb.fontNames" h="AB457B23">Lettertype(s):</text>
+		<text id="bld.chb.limitToPattern" h="7F0826AB">Beperk bladwijzer titels alleen aan bijpassende patroon</text>
+		<text id="bld.chb.matchTextPattern" h="5A64E195">Tekst patroon:</text>
+		<text id="bld.chb.multilineBookmarks" h="CB4817D1">Toestaan titels van bladwijzer op meerdere regels</text>
+		<text id="bld.g.textContentRules" h="5B364747">Regels voor inhoud van de tekst</text>
+		<text id="bld.l.description" h="A779C9ED">Selecteer een combinatie van de volgende tekstkenmerken om automatisch bladwijzers te maken voor het document:</text>
+		<text id="bld.l.matchTextCase" h="43616BDA">Hoofd-/kleine letters:</text>
+		<text id="bld.matchTextCase.allCapital" h="D4E8E731">Alle tekens zijn hoofdletters</text>
+		<text id="bld.matchTextCase.firstCapital" h="D05EB796">Eerste karakter is een hoofdletter</text>
+		<text id="bld.matchTextCase.firstDigit" h="55D84E38">Eerste karakter is een cijfer</text>
+		<text id="bld.matchTextCase.noRestrictions" h="93089981">Geen beperkingen</text>
+		<text id="bnd.gb.Main" h="4DDA9780">Titel benoemde bestemming</text>
+		<text id="bnd.lbl.NDTitle" h="7F7F73EC">Titel ben. bestemming wordt gemaakt d.m.v. ingevoerd masker:</text>
+		<text id="btf.chb.insertAfter" h="6E37D094">Voeg deze tekst erachter toe:</text>
+		<text id="btf.chb.insertBefore" h="21265659">Plaats deze tekst ervoor:</text>
+		<text id="btf.chb.removeDuplicateSpaces" h="2653A648">Verwijder dubbele spaties</text>
+		<text id="btf.chb.replaceTitle" h="7CEA38A1">Zoek en vervang bladwijzer titels door tekstpatronen</text>
+		<text id="btf.g.advancedFormatting" h="9130441A">Geavanceerde opmaak</text>
+		<text id="btf.g.textCase" h="97FCC959">Hoofdletters/kleine letters</text>
+		<text id="btf.l.characters" h="189C88D2">(tekens)</text>
+		<text id="btf.l.expl" h="1312BB94">Selecteer eigenschappen van tekst die toegepast worden op de niewe bladwijzer titels:</text>
+		<text id="btf.l.leadingNumbers" h="1075612C">Maatgevende nummers:</text>
+		<text id="btf.l.maxLength" h="E79F0D68">Maximum lengte:</text>
+		<text id="btf.l.replacePattern" h="A27464EF">Vervangpatroon:</text>
+		<text id="btf.l.searchPattern" h="FF42A775">Zoekpatroon:</text>
+		<text id="btf.l.use" h="46DEA47A">Gebruik:</text>
+		<text id="btf.leadingNumbers.noChange" h="3399B0A0">Geen wijziging</text>
+		<text id="btf.rb.doNotChange" h="4CBF2C1B">Niet wijzigen</text>
+		<text id="btf.rb.lowercase" h="82451817">kleine letters</text>
+		<text id="btf.rb.sentenceCase" h="B26B2798">Eerste woord groot</text>
+		<text id="btf.rb.titleCase" h="2C8DBF1B">Ieder woord groot</text>
+		<text id="btf.rb.uppercase" h="42F820C7">HOOFDLETTERS</text>
+		<text id="btf.use.letters" h="6EE7E478">Letters</text>
+		<text id="btf.use.numbers" h="E2FE5FA7">Nummers</text>
+		<text id="btf.use.romanLetters" h="3D9B9671">Romeinse letters</text>
+		<text id="btn.add.custom" h="3080663C">Toevoegen aangepast...</text>
+		<text id="btn.highlight" h="2485FBFF">Markeer bladwijzer</text>
+		<text id="btn.validate" h="1E91E484">Valideren</text>
+		<text id="cbc.aew.label" h="C298E8A4">Toevoegen van nieuwe uitgesloten woorden d.m.v. typen van één woord per regel (druk op "Enter" na elk woord):</text>
+		<text id="cbc.cb.fromBookmarks" h="CF38CD8D">Geselecteerde</text>
+		<text id="cbc.cb.fromDocument" h="424CAFC5">Alle bladwijzers</text>
+		<text id="cbc.chb.EnterCustomWordList" h="25E5E099">Typ een aangepaste lijst met woorden die niet worden verwerkt</text>
+		<text id="cbc.chb.IncludeChildrenBookmarks" h="051C6219">Toepassen op alle sub-bladwijzers</text>
+		<text id="cbc.gb.SelectTextCase" h="F9747FC0">Selecteer hoofdletters/kleine letters</text>
+		<text id="cbc.gb.TextCaseOptions" h="DAD7B4F4">Opties</text>
+		<text id="cbc.list.header" h="2B206C14">Uitgesloten woorden</text>
+		<text id="cbc.rbtn.LowerCase" h="82451817">kleine letters</text>
+		<text id="cbc.rbtn.SentenceCase" h="B26B2798">Eerste woord groot</text>
+		<text id="cbc.rbtn.TitleCase" h="2C8DBF1B">Ieder woord groot</text>
+		<text id="cbc.rbtn.UpperCase" h="42F820C7">HOOFDLETTERS</text>
+		<text id="chb.ignoreDuplicates" h="B30FC50E">Negeer opeenvolgende dubbele bladwijzers</text>
+		<text id="chb.stopWords" h="491ED7FC">Negeer tekst die stopwoorden bevat</text>
+		<text id="chb.verifyLinks" h="7DAC0E42">Controleer verwijzingen naar externe documenten en bestanden</text>
+		<text id="chb.warnGoTo" h="911FC68A">Waarschuwen voor ongeldige GoTo acties</text>
+		<text id="chb.warnGoToRE" h="C0827D11">Waarschuwen voor ongeldige GoToR en GoToE acties</text>
+		<text id="chb.warnLaunchURI" h="94F27C09">Waarschuwen voor ongeldige opstart en URL-acties</text>
+		<text id="chb.warnNoActions" h="FBF997CF">Waarschuwen voor lege actielijst of geen geldige onderliggende</text>
+		<text id="chb.warnNoGoTo" h="66B02339">Waarschuwen voor afwezigheid van GoTo acties in de actielijst</text>
+		<text id="chb.warnOther" h="B30D6C64">Waarschuwen voor andere ongeldige acties</text>
+		<text id="chb.warnTitle" h="F0B5EE52">Waarschuwen voor lege titel</text>
+		<text id="cmd.addAGBLevel" h="928E2BB5">Gebruik geselecteerde tekststijl bij genereren bladwijzer...</text>
+		<text id="cmd.addTextToBookmarkTitle" h="C4C93738">Toevoegen tekst aan titel bladwijzer...</text>
+		<text id="cmd.addTextToBookmarkTitle.short" h="E21C9B55">Toevoegen tekst</text>
+		<text id="cmd.addTextToBookmarkTitle.tip" h="B412507B">Toevoegen voorvoergsel en achtervoegsel aan titels bladwijzer...</text>
+		<text id="cmd.changeBookmarkCase" h="359544B0">Hoofdletters/kleine letters wijzigen...</text>
+		<text id="cmd.changeBookmarkCase.short" h="BC4AE60A">Hoofdletters/kleine letters</text>
+		<text id="cmd.changeBookmarkCase.tip" h="48522DE3">Wijzig hoofdletters/kleine letters in titels van bladwijzers.</text>
+		<text id="cmd.findReplaceBookmarkText" h="AF996007">Zoek en vervang bladwijzer tekst...</text>
+		<text id="cmd.findReplaceBookmarkText.short" h="9F35A871">Zoek en vervang</text>
+		<text id="cmd.sort" h="B1FFF012">Bladwijzers sorteren...</text>
+		<text id="cmd.sort.short" h="579162B0">Sorteer</text>
+		<text id="cmd.validate" h="E61D60D2">Bladwijzers bevestigen...</text>
+		<text id="cmd.validate.short" h="1E91E484">Bevestigen</text>
+		<text id="cmd.toTOC" h="9B7AEEEA">Inhoudsopgave maken...</text>
+		<text id="cmd.toTOC.short" h="2B3E9BF1">Inhoudsopgave maken</text>
+		<text id="cmd.bookmarksToNamedDests" h="4167DE76">Converteren naar benoemde bestemmingen...</text>
+		<text id="cmd.bookmarksToNamedDests.short" h="9226CE11">Omzetten naar benoemde best.</text>
+		<text id="cmd.bookmarksToTextFile" h="DBEBEEB8">Exporteer bladwijzers naar tekstbestand....</text>
+		<text id="cmd.bookmarksToTextFile.short" h="738D44A8">Exporteel naar tekstbestand</text>
+		<text id="cmd.bookmarksToHtmlFile" h="EFF75744">Exporteer bladwijzers naar HTML bestand...</text>
+		<text id="cmd.bookmarksToHtmlFile.short" h="76C20816">Exporteel naar HTML</text>
+		<text id="cmd.namedDestsToPageNumbers" h="6E90A383">Converteer benoemde bestemmingen naar reguliere bestemmingen...</text>
+		<text id="cmd.namedDestsToPageNumbers.short" h="74C22304">Benoemde best. -&gt; reguliere best.</text>
+		<text id="cmd.bookmarkEveryNthPage" h="940FCD39">Bladwijzer iedere Nth pagina...</text>
+		<text id="cmd.bookmarkEveryNthPage.short" h="71BCE832">Bladwijzer iedere Nth pagina</text>
+		<text id="cmd.bookmarkEveryNthPage.tip" h="B60E23D7">Maak bladwijzers in relatie tot pagina nummers van document.</text>
+		<text id="cmd.generate" h="6A2BEC3F">Bladwijzers genereren vanuit paginatekst...</text>
+		<text id="cmd.generate.short" h="8BE514A6">Van paginatekst</text>
+		<text id="cmd.fromTOC" h="95C894D9">Bladwijzer inhoudsopgave...</text>
+		<text id="cmd.fromTOC.short" h="3AB39C50">Van inhoudsopgave</text>
+		<text id="cmd.fromTextFile" h="55CA46BC">Genereren bladwijzers van tekstbestand...</text>
+		<text id="cmd.fromTextFile.short" h="3619B3DB">Van tekstbestand</text>
+		<text id="cmd.name" h="E2032460">Bladwijzers</text>
+		<text id="cmd.macro.firstLine" h="613F14A5">Eerste regel van de pagina</text>
+		<text id="cmd.macro.hierIndex" h="7DCA5F4D">Hiërarchische index</text>
+		<text id="cmd.macro.hierTitle" h="0E7B4B6F">Hiërarchische bladwijzer titel</text>
+		<text id="cmd.macro.indexInParent" h="1B41AFB1">Index van het item</text>
+		<text id="cmd.macro.label" h="EEE40FF3">Paginatitel</text>
+		<text id="cmd.macro.launch" h="4ABD9355">Te openen bestand</text>
+		<text id="cmd.macro.level" h="B863033F">Bladwijzerniveau</text>
+		<text id="cmd.macro.namedDest" h="C4E8D8F5">Benoemde bestemming</text>
+		<text id="cmd.macro.sequentialNum" h="CDF4EA5E">Volgnummer</text>
+		<text id="cmd.macro.title" h="3AB782A4">Titel bladwijzer</text>
+		<text id="cmd.macro.uri" h="A1458F37">Website openen</text>
+		<text id="ebttf.actType.all" h="B8B21253">Bladwijzers met alle types van hyperlink acties</text>
+		<text id="ebttf.actType.goto" h="79C634F2">Bladwijzers met Go-to acties</text>
+		<text id="ebttf.actType.gotoR" h="CE75521E">Bladwijzers met Go-to Remote acties</text>
+		<text id="ebttf.actType.js" h="07676EBA">Bladwijzers met Javascript acties</text>
+		<text id="ebttf.actType.launch" h="75989F2A">Bladwijzers met bestand-open acties</text>
+		<text id="ebttf.actType.uri" h="E9EA71C7">Bladwijzers met openen Web-link acties</text>
+		<text id="ebttf.cb.separator.comma" h="827998F7">Komma</text>
+		<text id="ebttf.cb.separator.semi" h="988594A6">Puntkomma</text>
+		<text id="ebttf.ch.doNotEscape" h="09B53F9F">Breek symbolen zoals @ # { } \ : enz. niet af.</text>
+		<text id="ebttf.ch.expClosedState" h="7BFE7A9B">Exporteer bladwijzer "gesloten" toestand </text>
+		<text id="ebttf.ch.expDetailedGotoDescr" h="18B9C243">Exporteer beschrijving gedetailleerde bestemming</text>
+		<text id="ebttf.ch.exportActions" h="3444FE51">Exporteer bladwijzer acties</text>
+		<text id="ebttf.ch.exportGoto" h="37493654">Exporteer pagina met bladwijzer punten</text>
+		<text id="ebttf.ch.exportGotoR" h="3BBD9494">Exporteer beschrijving Remote Go-acties</text>
+		<text id="ebttf.ch.exportJS" h="9362EAE3">Exporteer code Javascript acties</text>
+		<text id="ebttf.ch.exportLaunch" h="EEB76894">Export beschrijving acties geopende bestanden</text>
+		<text id="ebttf.ch.exportStyle" h="A6713F10">Exporteer bladwijzertekst stijl en kleur eigenschappen</text>
+		<text id="ebttf.ch.exportWebLinks" h="3C61424C">Exporteer internet verwijzingen</text>
+		<text id="ebttf.ch.includeSubBookmarks" h="051C6219">Inclusief alle sub-bladwijzers</text>
+		<text id="ebttf.ch.openContFolder" h="80BDDAAC">Openen betreffende folder</text>
+		<text id="ebttf.ch.overwriteExistingFiles" h="2CE2BEA4">Overschrijven van bestaande bestanden</text>
+		<text id="ebttf.ch.resloveNamedDests" h="D1E8A9BC">Omzetten benoemde bestemmingen naar paginanummers</text>
+		<text id="ebttf.gb.actionExportParams" h="DA853D34">Selecteer bladwijzer eigenschappen om te exporteren</text>
+		<text id="ebttf.gb.savingResults" h="49571A59">Uitvoer parameters</text>
+		<text id="ebttf.gb.selectBookmarks" h="E2AFC2C6">Selecteer bladwijzers om te exporteren</text>
+		<text id="ebttf.infoBtn.doNotEscape" h="1FF19A6F">Niet afbreek-symbolen wordt niet aanbevolen als u in de toekomst een uitvoer bestand wilt gebruiken met de functie "Genereren bladwijzers van tekstbestand".</text>
+		<text id="ebttf.infoBtn.invalidSeparator" h="4ED40392">Eigenschappen van scheidingsteken mag geen lege string zijn, mag niet alfanumeriek zijn of spaties bevatten en mag niet een van de volgende tekens bevatten: @ #: {} \</text>
+		<text id="ebttf.lbl.folder" h="3F9ED2F9">Map:</text>
+		<text id="ebttf.lbl.separator" h="E9D351AC">Scheidingsteken:</text>
+		<text id="ebttf.rb.exportActionTypes" h="533F8EA6">Exporteer bladwijzers die hyperlink acties uitvoeren:</text>
+		<text id="ebttf.rb.exportAll" h="8F2ED544">Alles exporteren</text>
+		<text id="ebttf.rb.exportSelected" h="69FB5145">Exporteer geselecteerde bladwijzers</text>
+		<text id="ebttf.rb.useDefaultFilename" h="0E7FC989">Gebruik PDF-document bestandsnaam om resultaten op te slaan</text>
+		<text id="esw.chb.matchCase" h="2E5EFD7E">Opmerking hoog/laag</text>
+		<text id="esw.chb.matchWhole" h="17009870">Alleen gehele woorden</text>
+		<text id="esw.chb.useRegExp" h="7FC6EB4F">Gebruik reguliere expressies</text>
+		<text id="esw.l.explanation" h="52F66451">Tekst die deze stopwoorden bevat wordt genegeerd en niet gebruiks bij het maken van bladwijzers.</text>
+		<text id="fn.l.selectFontNames" h="0CCEF1FA">Selecteer lettertype(s):</text>
+		<text id="frbt.chb.MatchCase" h="12EB8088">Grote- en kleine letters</text>
+		<text id="frbt.chb.MatchWholeWord" h="FE8CC762">Alleen geheel woord</text>
+		<text id="frbt.chb.UseRegex" h="7FC6EB4F">Gebruik reguliere expressies</text>
+		<text id="frbt.gb.FindReplace" h="BA012728">Opties voor zoeken en vervangen</text>
+		<text id="frbt.lbl.FindWhat" h="D0A8A2C5">Zoeken:</text>
+		<text id="frbt.lbl.ReplaceWith" h="3BE65784">Vervangen door:</text>
+		<text id="ftoc.allIncluded" h="C994FC1B">Inclusief alle</text>
+		<text id="ftoc.b.indents" h="48800D32">Verander inspringen...</text>
+		<text id="ftoc.chb.addBookmarks" h="CBBAE768">Voeg bladwijzers toe aan pagina's met behulp van de inhoudsopgave</text>
+		<text id="ftoc.chb.addLinks" h="68456DBA">Links toevoegen aan de inhoudsopgave entries</text>
+		<text id="ftoc.chb.createLevels" h="5EE7FFD8">Gebruiken inhoudsopgave-streepjes om bladwijzerhiërarchie te creëren</text>
+		<text id="ftoc.chb.improveDest" h="E8BCE176">Proberen om bladwijzers bestemmingen te verbeteren op basis van de tekst</text>
+		<text id="ftoc.chb.trimNumbers" h="40ACC5F5">Verwijder voorvoegsel nummers uit bladwijzer titels</text>
+		<text id="ftoc.chb.trimSpaces" h="5A27A063">Verwijder opeenvolgende spaties uit bladwijzer titels</text>
+		<text id="ftoc.chb.useExistingLinks" h="FBEC1D32">Gebruik bestaande links als nieuwe bookmark bestemmingen</text>
+		<text id="ftoc.l.bottomIndent" h="C983AD6F">Verschuiving onder:</text>
+		<text id="ftoc.l.expl" h="ACF0EB09">Deze operatie creëert bladwijzers op basis van geselecteerde items in een inhoudsopgave. Optioneel kunt u koppelingen in de inhoudsopgave of bestaande links worden gebruikt als het doel van de bladwijzer.</text>
+		<text id="ftoc.l.offsetExpl" h="FEBB1CA6">Dit is een verschil tussen fysieke paginanummers in het PDF-document en afgedrukte paginanummers die positief of negatief kan zijn.</text>
+		<text id="ftoc.l.separator" h="45CF4893">Kies type scheidingsteken:</text>
+		<text id="ftoc.l.topIndent" h="FA827580">Verschuiving boven:</text>
+		<text id="msg.bft.warning" h="726201E6">Kies verschillende symbolen voor veldscheidingsteken en actie scheidingsteken!</text>
+		<text id="msg.cbc.excludedwords.add.title" h="9ADE883B">Toevoegen van nieuw uitgesloten woord</text>
+		<text id="msg.cbc.excludedwords.caption" h="366E639B">Geef nieuwe uitsluiting:</text>
+		<text id="msg.cbc.excludedwords.edit.title" h="82F8AAA6">Bewerk geselecteerde uitsluiting</text>
+		<text id="msg.dlg.bookmarksToTextFile.done" h="3E5176AD">Bladwijzers zijn succesvol geëxporteerd naar bestand.</text>
+		<text id="msg.dlg.emptyFilename.warning" h="96A438DA">Bestandsnaam kan niet leeg zijn.</text>
+		<text id="msg.dlg.invalidFilename.slashes" h="626318B0">De bestandsnaam moet niet opeenvolgende  of / symbolen bevatten, noch eindigen met een van beide.</text>
+		<text id="msg.dlg.invalidFilename.warning" h="49886CB8">Windows bestandsnaam mag geen van de volgende symbolen bevatten: * ? : | " &lt; &gt;</text>
+		<text id="msg.dlg.noActionsSelected.warning" h="C58DD393">Selectievakje "Exporteer bladwijzer acties" is geselecteerd zonder dat het type actie gespecificeerd, selecteert één of meer actietype om te exporteren of deselecteer selectievakje "Exporteer bladwijzer acties".</text>
+		<text id="msg.dlg.noSelectedBookmarks.warning" h="C13DD913">U hebt geen bladwijzers in een document geselecteerd. Selecteer één of meer bladwijzers of wijzig de parameter “Bron bladwijzers" naar "Alle bladwijzers" om de actie uit te voeren.</text>
+		<text id="msg.dlg.pathDoesntExist.warning" h="5180D1A3">De map die u hebt opgegeven bestaat niet, geef a.u.b. een geldige map op en probeer het opnieuw.</text>
+		<text id="msg.font.addCustom.caption" h="75533687">Geef nieuw PDF lettertype:</text>
+		<text id="msg.font.addCustom.title" h="06AFFCAB">Voeg nieuwe aangepaste lettertype toe</text>
+		<text id="msg.frbt.result.bookmarksCount" h="EE00AC0B">Het zoeken is afgerond. Totaal aantal aangepaste bladwijzer(s): %1</text>
+		<text id="msg.frbt.result.noBookmarksModified" h="84BE491B">Het zoeken is afgerond. Er zijn geen bladwijzers aangepast.</text>
+		<text id="msg.levelDesc.title" h="E92EACC5">Niveauspecificaties</text>
+		<text id="msg.levelDesc.warning" h="C01F9021">Het is niet mogelijk om met de gegeven data een nieuwe bladwijzer niveau te creëren. Kies ten minste één van de overeenkomende criteria in de tekstherkenning opties. Controleer ook of de geselecteerde elementen bevatten gegevens.</text>
+		<text id="msg.oper.noChanges" h="714E1C85">Er werden geen echte veranderingen gedaan tijdens het uitvoeren van de operatie. Controleer uw invoer gegevens en probeer het opnieuw.</text>
+		<text id="msg.oper.warning" h="ABDCBB65">Er waren wat problemen tijdens de uitvoering van de operatie. Controleer het resultaat.</text>
+		<text id="msg.regex.error" h="D799FCBE">Fout bij verwerken tekstbestand</text>
+		<text id="msg.stopWords.add.title" h="F6B54725">Toevoegen nieuwe stop zinsnede</text>
+		<text id="msg.stopWords.caption" h="1DE69466">Geen nieuw "stopwoord" of "stop volzin":</text>
+		<text id="msg.stopWords.edit.title" h="AFE604DF">Bewerk geselecteerd stop zinsnede</text>
+		<text id="msg.validateBookmarks.delete.caption" h="5867AD02">Wilt u de geselecteerde bladwijzer(s) met onderliggende verwijderen?</text>
+		<text id="msg.validateBookmarks.delete.title" h="8FF00765">Verwijderen ongeldige bladwijzer</text>
+		<text id="msg.validateBookmarks.rename.caption" h="CE842D61">Geef nieuwe naam bladwijzer:</text>
+		<text id="msg.validateBookmarks.rename.title" h="ED9AF7FA">Hernoem bladwijzer</text>
+		<text id="ndpn.ch.deleteDests" h="BC12FBF0">Verwijderen benoemde bestemmingen uit het document</text>
+		<text id="op.GenerateBookmarks" h="05382BCA">Bladwijzers genereren</text>
+		<text id="op.ValidateBookmarks.msg.emptyActionsList" h="A0A0065C">Bladwijzer heeft geen actie toegewezen.</text>
+		<text id="op.ValidateBookmarks.msg.emptyTitle" h="83F3E965">Bladwijzer titel is leeg.</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidDestName" h="0D5129EF">GoTo actie verwijst naar een ongeldige benoemde bestemming.</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidPageNumber" h="D14DFF5D">GoTo actie verwijst naar een pagina in verboden gebied.</text>
+		<text id="op.ValidateBookmarks.msg.goto.noAction" h="368F0970">Er is geen GoTo actie aanwezig in de actielijst</text>
+		<text id="op.ValidateBookmarks.msg.gotoR.invalidFile" h="5B467E20">GoTo actie verwijst naar een ongeldig bestand.</text>
+		<text id="op.ValidateBookmarks.msg.invalidAction" h="84877FDA">actie %1 is ongeldig.</text>
+		<text id="progress.BookmarkEveryNthPage.title" h="DA523087">Bladwijzers van pagina's...</text>
+		<text id="progress.addTextToBookmarkTitle.text" h="BE27C5C9">Toevoegen tekst aan bladwijzers: %1...</text>
+		<text id="progress.addTextToBookmarkTitle.title" h="EC7EB408">Toevoegen tekst aan bladwijzers...</text>
+		<text id="progress.addingBookmark" h="45BBB17E">Toevoegen bladwijzers: %1 van %2...</text>
+		<text id="progress.bookmarksToHtmlFile.status" h="AF1901AD">Exporteren bladwijzers %1 van %2...</text>
+		<text id="progress.bookmarksToHtmlFile.text" h="4DD531FF">Exporteren bladwijzers: %1...</text>
+		<text id="progress.bookmarksToHtmlFile.title" h="6B32BA83">Exporteren bladwijzers naar HTML bestand...</text>
+		<text id="progress.bookmarksToNamedDests.text" h="CE73819F">Omzetten bladwijzer: %1...</text>
+		<text id="progress.bookmarksToNamedDests.title" h="8DB00717">Omzetten naar benoemde bestemmingen...</text>
+		<text id="progress.bookmarksToTextFile.text" h="6E74EA26">Verwerken exporteren bladwijzer: %1</text>
+		<text id="progress.bookmarksToTextFile.title" h="D2C04472">Exporteren bladwijzers naar tekstbestand...</text>
+		<text id="progress.calculatingBookmarks" h="4AC26E12">Berekenen bladwijzers...</text>
+		<text id="progress.changingBookmarkCase.text" h="107628CA">Wijzigen hoofdletters/kleine letters: %1...</text>
+		<text id="progress.changingBookmarkCase.title" h="E01AED17">Hoofdletters/kleine letters wijzigen...</text>
+		<text id="progress.findReplaceBookmarkText.text" h="ABC58F1D">Verwerken bladwijzer: %1</text>
+		<text id="progress.findReplaceBookmarkText.title" h="00FEBD2A">Vervangen tekst bladwijzer...</text>
+		<text id="progress.generateBookmarks" h="3D5E30ED">Bladwijzers genereren van bladzijde %1...</text>
+		<text id="progress.generatingBookmarks" h="CFF0F2A9">Bezig met genereren bladwijzers</text>
+		<text id="progress.generatingBookmarks.label" h="043CF7B1">Toevoegen bladwijzer: %1...</text>
+		<text id="progress.generatingLevels" h="07A22443">Niveaus genereren van bladwijzers...</text>
+		<text id="progress.generatingTOC" h="A438CB9C">Genereren inhoudsopgave</text>
+		<text id="progress.generatingTOCFromBookmark" h="C9213435">Inhoudsopgave genereren van bladwijzer: %1...</text>
+		<text id="progress.namedDestsToPageNumbers.deleteNds" h="5DFFFF06">Bezig met verwijderen benoemde bestemmingen....</text>
+		<text id="progress.namedDestsToPageNumbers.title" h="4615CB0B">Omzetten benoemde bestemmingen naar pagina nummers....</text>
+		<text id="progress.parsingFile" h="B2405DA1">Bezig met lezen structuur bladwijzer van tekstbestand...</text>
+		<text id="progress.precalculatingPages" h="15183896">Creëren pagina's voor inhoudsopgave...</text>
+		<text id="progress.preparingSelected" h="52031EDE">Voorbereiden geselecteerde bladwijzers...</text>
+		<text id="progress.sortingBookmarks" h="99E846CF">Sorteren bladwijzer: %1...</text>
+		<text id="progress.sortingBookmarks.status" h="451C3890">Sorteren bladwijzer %1 van %2...</text>
+		<text id="progress.sortingBookmarks.title" h="E134B46E">Sorteren bladwijzers</text>
+		<text id="progress.statusText.ProcessingBookmarks" h="3836AD6B">Verwerken bladwijzer %1 van %2...</text>
+		<text id="progress.statusText.ProcessingBookmarksDone" h="67CB6C48">Verwerken bladwijzers compleet.</text>
+		<text id="progress.undoingChanges" h="BBD3EE96">Ongedaanmaken wijzigingen...</text>
+		<text id="regex.error.backref" h="3D1C1BE5">De expressie bevat een ongeldige referentie.</text>
+		<text id="regex.error.badbrace" h="4363EA7D">De expressie bevat een ongeldig bereik tussen haakjes: '{' en '}'.</text>
+		<text id="regex.error.badrepeat" h="9091944F">De expressie bevat een terugkerende specificaties (één van *? + {) die niet voorafgegaan word door een geldige reguliere expressie.</text>
+		<text id="regex.error.brace" h="3031B0A1">De expressie bevat ongeldige haakjes '{' en '}'.</text>
+		<text id="regex.error.brack" h="A41AB311">De expressie bevat ongeldige haakjes '[' en ']'.</text>
+		<text id="regex.error.collate" h="D15FB49F">De expressie bevat een ongeldig collectie element naam.</text>
+		<text id="regex.error.complexity" h="76ADCA5C">De complexiteit van een poging om een reguliere expressie te vergelijken overschrijd een vooraf ingesteld niveau.</text>
+		<text id="regex.error.ctype" h="76D6C176">De expressie bevat een ongeldig classnaam-teken.</text>
+		<text id="regex.error.default" h="509A660E">Er is een fout ontstaan bij het invoeren van reguliere expressies.</text>
+		<text id="regex.error.escape" h="4BAF1552">De expressie bevat een ongeldig escape-teken</text>
+		<text id="regex.error.paren" h="11F2EE54">De expressie bevat ongeldige haakjes '(' en ')'.</text>
+		<text id="regex.error.range" h="CDB00023">De expressie bevat een ongeldig teken bereik (bijv., [z-a])</text>
+		<text id="regex.error.space" h="2FFB9DD7">Er was onvoldoende geheugen beschikbaar om de reguliere expressie te verwerken.</text>
+		<text id="regex.error.stack" h="2F47E3EC">Er was onvoldoende geheugen beschikbaar om te bepalen of de reguliere expressie overeenkomt met de tekenreeks.</text>
+		<text id="regex.error.syntax" h="4F399035">Fout in een reguliere expressie</text>
+		<text id="sb.ascending" h="59F2363F">Oplopend</text>
+		<text id="sb.chb.ignoreCase" h="E0949C6C">Hoofdletters / kleine letters negeren</text>
+		<text id="sb.chb.sortAll" h="7BB3E98C">Sorteel alle bladwijzer niveaus</text>
+		<text id="sb.chb.sortChildren" h="B1087C90">Sorteer dieper liggende bladwijzers</text>
+		<text id="sb.descending" h="74091246">Aflopend</text>
+		<text id="sb.g.sortingMethod" h="93D0D863">Sorteer methode</text>
+		<text id="sb.l.selectLevel" h="F0507AA3">Selecteer niveau bladwijzer tbv sorteren:</text>
+		<text id="sb.l.sortType" h="85828DAE">Type sortering:</text>
+		<text id="sb.rb.sortAlpha" h="F9CD110C">Bladwijzers alfabetisch sorteren</text>
+		<text id="sb.rb.sortByPage" h="EB2AF7E4">Sorteer bladwijzens op paginanummer</text>
+		<text id="test" h="3337B3E7">Test string</text>
+		<text id="tree.fontColor" h="210B1C91">Tekstkleur:</text>
+		<text id="tree.fontName" h="ACA86074">Lettertype:</text>
+		<text id="tree.fontSize" h="B3CE43BA">Tekengrootte:</text>
+		<text id="tree.fontTolerance" h="7781AAB6">Tolerantie:</text>
+		<text id="tree.level" h="9B075A86">Niveau:</text>
+		<text id="tree.textPattern" h="24121AD7">Tekstpatroon:</text>
+		<text id="tree.vb.bookmark" h="9926EC31">&lt;b&gt;%1. Bladwijzer:&lt;/b&gt; "%2"</text>
+		<text id="ttoc.b.build" h="DE9A0F1C">Maken</text>
+		<text id="ttoc.b.changeNumber" h="DD04BEA8">Opmaak wijzigen ...</text>
+		<text id="ttoc.b.changeTitle" h="3B951B9A">Wijzig opmaak titel...</text>
+		<text id="ttoc.chb.asLastPage" h="D323F9DD">Als laatste pagina</text>
+		<text id="ttoc.chb.end" h="9F41B967">Gebruik alle bladwijzer niveaus</text>
+		<text id="ttoc.chb.skipInvalid" h="F864C487">Negeer ongeldige bladwijzers</text>
+		<text id="ttoc.chb.useDifferentNumberFormatting" h="A39D9F18">Gebruik aangepaste nummer opmaak</text>
+		<text id="ttoc.chb.useDifferentSeparatorFormatting" h="7D6F82B2">Gebruik aangepast scheidingsteken</text>
+		<text id="ttoc.chb.useSizeFromDoc" h="40E05E3E">Bepalen paginaformaat van het document</text>
+		<text id="ttoc.g.pageNumbering" h="21AF4605">Paginanummering</text>
+		<text id="ttoc.g.pageSettings" h="D82087B4">Paginainstellingen</text>
+		<text id="ttoc.ib.numberFormat" h="D41C6CB8">&lt;b&gt;Nummeropmaak:&lt;/b&gt; &lt;i&gt;Lettertypefamilie:&lt;/i&gt; %1, &lt;i&gt;Letter grootte:&lt;/i&gt; %2 pt, &lt;i&gt;Tekstkleur:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.ib.separatorFormat" h="14A80F28">&lt;b&gt;Opmaak scheidingsteken:&lt;/b&gt; &lt;i&gt;Lettertypefamilie:&lt;/i&gt; %1, &lt;i&gt;Letter grootte:&lt;/i&gt; %2 pt, &lt;i&gt;Tekstkleur:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.ib.titleFormat" h="4A9C0388">&lt;b&gt;Titel opmaak:&lt;/b&gt; &lt;i&gt;Lettertypefamilie:&lt;/i&gt; %1, &lt;i&gt;Letter grootte:&lt;/i&gt; %2 pt, &lt;i&gt;Tekstkleur:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.l.end" h="0B21D394">Laatste bladwijzer niveau in inhoudsopgave:</text>
+		<text id="ttoc.l.insertAsPage" h="B68AF5B1">Inh.opg. invoegen voor pag</text>
+		<text id="ttoc.l.outputPagesAs" h="96E6A50A">Uitvoer paginanummers als:</text>
+		<text id="ttoc.l.pageMargins" h="DA4D6B15">Pagina marges:</text>
+		<text id="ttoc.l.start" h="0816B0F1">Eerste bladwijzer niveau in inhoudsopgave:</text>
+		<text id="ttoc.l.title" h="930D3835">Titel:</text>
+		<text id="ttoc.l.titleFormatting" h="21C775EE">Bijwerken titel opmaak:</text>
+		<text id="ttoc.output.bates" h="ECE56FA9">Bates nummer (mits aanwezig)</text>
+		<text id="ttoc.output.labels" h="EAE579C1">Labels van pagina</text>
+		<text id="ttoc.output.numbers" h="38E0043C">Originele pagina nummers</text>
+		<text id="ttoc.style.dots" h="C13D9439">Hoofdstuk..........1</text>
+		<text id="ttoc.style.spaces" h="D9E4F5A0">Hoofdstuk          1</text>
+		<text id="ttoc.style.underline" h="B52B746A">Hoofdstuk______1</text>
+		<text id="ttoc.tableOfContents" h="080B4CC0">Inhoudsopgave</text>
+		<text id="vb.invalidALWarining" h="D8448444">De veranderingen als gevolg van een ongeldige actielijst worden niet uitgevoerd. De lijst moet ten minste één actie bevatten!</text>
+		<text id="vb.l.invalidBookmarks" h="EE502FFE">%1 ongeldige bladwijzer(s) gevonden</text>
+		<text id="rtab" h="E2032460">Bladwijzers</text>
+		<text id="rbar.create" h="EDCA1553">Aanmaken</text>
+		<text id="rbar.modify" h="EA358CAF">Wijzigen</text>
+		<text id="rbar.convert" h="EFAC3874">Omzetten</text>
+	</Strings>
+</Localization>

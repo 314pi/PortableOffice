@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Version date="20150521211101">2.00.00</Version>
+	<Author>slavusec</Author>
+	<Copyright>slavo72@azet.sk</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Slovak" lName="slovenčina" code="sk-SK" R2L="false"/>
+	<Module name="SpellChecker" namespace="spell" version="5.5.312.1"/>
+	<Strings>
+		<text id="lstDicts.empty" h="FFD5B8BB">&lt;žiadne slovníky&gt;</text>
+		<text id="wrd.b.AddWord" h="8E2EE8C1">Pridať</text>
+		<text id="opt.b.AddDict" h="E0BF5FDE">Pridať slovník</text>
+		<text id="msg.CopyDictError" h="81324CC9">Nemôžem skopírovať súbory zo slovníkov</text>
+		<text id="msg.LoadDictError" h="D139CD51">Nemôžem načítať slovník</text>
+		<text id="msg.RemoveError" h="10071F88">Nemôžem odstrániť súbory zo slovníkov</text>
+		<text id="opt.b.CustomWordList" h="D1505337">Zoznam vlastných slov</text>
+		<text id="wrd.title" h="66DDC653">Zoznam vlastných slov</text>
+		<text id="wrd.b.Delete" h="D8FE3F70">Zmazať</text>
+		<text id="wrd.b.DeleteAll" h="848E003C">Zmazať všetko</text>
+		<text id="msg.DictExists" h="650ABF1A">Slovník už existuje</text>
+		<text id="msg.DictExists.title" h="A81488F3">Slovník existuje</text>
+		<text id="wrd.l.Dictionary" h="66E4322E">Slovník:</text>
+		<text id="opt.cb.EnableHyphens" h="BC236380">Povoliť slovníku delenie slov</text>
+		<text id="opt.cb.EnableAllHyphens" h="207464CF">Povoliť delenie slov</text>
+		<text id="opt.cb.EnableSpellChecker" h="1D563674">Povoliť kontrólu pravopisu</text>
+		<text id="opt.cb.AllowAlgoHyphens" h="184CA069">Deliť neznáme slová</text>
+		<text id="dict.param.hyphen" h="50549BEC">Delenie slov</text>
+		<text id="opt.cb.IgnoreWordsInUppercase" h="918E6B8B">Ignorovať slová len s VEĽKÝMI PÍSMENAMI</text>
+		<text id="opt.cb.IgnoreWordsWithNumbers" h="6054313B">Ignorovať slová obsahujúce čísla</text>
+		<text id="opt.b.RemoveDict" h="D94F3439">Odstrániť slovník</text>
+		<text id="dict.param.spell" h="E10DA1DD">Pravopis</text>
+		<text id="opt.title" h="AEF9F007">Nastavenie kontróly pravopisu</text>
+		<text id="msg.ErrorTitle" h="8FEB05A5">Chyba kontróly pravopisu</text>
+		<text id="msg.WordExists" h="08449B8B">Slovo už existuje</text>
+		<text id="msg.WordExists.title" h="B19E6963">Slovo existuje</text>
+		<text id="wrd.l.Word" h="7AFBC23E">Slovo:</text>
+</Strings>
+</Localization>

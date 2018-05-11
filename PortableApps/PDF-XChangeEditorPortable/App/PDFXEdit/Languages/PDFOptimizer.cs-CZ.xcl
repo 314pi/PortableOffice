@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171220231426">2.00.00</Version>
+	<Author>Martin Paulík</Author>
+	<Copyright>TERAGON SW s.r.o.
+www.pdfxchange.cz	</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Czech (Czech Republic)" lName="čeština" code="cs-CZ" R2L="false"/>
+	<Module name="PDFOptimizer" namespace="pdfopt" version="7.0.323.2"/>
+	<Strings>
+		<text id="AcrobatForms" h="45DE15E7">Formuláře Acrobat</text>
+		<text id="AllInPPI" h="73445ABD">Všechny jednotky jsou pixely na palec (ppi).</text>
+		<text id="BackRemov" h="F699750D">Odstranění pozadí</text>
+		<text id="BookMarks" h="E2032460">Záložky</text>
+		<text id="Bytes" h="4EF6C00A">Bytů</text>
+		<text id="CleanUp" h="C194E67C">Vyčištění</text>
+		<text id="ColorGrayscale" h="63F8C2FC">Barevné/Stupně šedi:</text>
+		<text id="ColorSpaces" h="4035B7FB">Barevné prostory</text>
+		<text id="Comments3D" h="1A213B5F">Komentáře a 3D obsah</text>
+		<text id="ContentStreams" h="EC5AA2E9">Streamy obsahu</text>
+		<text id="Count" h="48FC51FB">Počet</text>
+		<text id="CrossReferenceTable" h="B0A3CE52">Tabulka křížových odkazů</text>
+		<text id="Description" h="8990DB08">Popis</text>
+		<text id="DiscardObjects" h="9A75CFD1">Vypustit objekty</text>
+		<text id="DiscardUserData" h="1B55800A">Vypustit data uživatele</text>
+		<text id="DocOverhead" h="8AF9C6B9">Režie dokumentu</text>
+		<text id="ErrCount" h="494DF48F">Nalezené chyby:</text>
+		<text id="ExGStates" h="CFF492D3">Rozšířené stavy grafiky</text>
+		<text id="Fonts" h="B72149DB">Písma</text>
+		<text id="Images" h="77764F9D">Obrázky</text>
+		<text id="LinkAnnotations" h="50D3AB53">Odkazy anotací</text>
+		<text id="Mobile" h="A5903811">Mobilní</text>
+		<text id="Mobile.Desc" h="AC3CDB44">Nastavení pro mobilní zařízení</text>
+		<text id="NamedDect" h="C4E8D8F5">Pojmenované cíle</text>
+		<text id="ObjectFor" h="24200BB3">PDF objekty pro...</text>
+		<text id="Optimize.Error1" h="C319CA59">Během optimalizace dokumentu došlo ke kritické chybě:</text>
+		<text id="Optimize.Error2" h="A394ADBC">Výsledný soubor nemohl být uložen.</text>
+		<text id="Optimize.IsXFA" h="58B9F3C4">Tento soubor PDF obsahuje Adobe XML formulář.
+
+Takové soubory nemohou být optimalizovány.</text>
+		<text id="OptimizeCleanUp" h="321A47D5">Čistím dokument...</text>
+		<text id="OptimizeCropContent" h="0178DFBF">Najít a odstranit obsah vně ořezového rámečku</text>
+		<text id="OptimizeDiscardObj" h="0F6D2E1E">Vypouštím objekty z dokumentu...</text>
+		<text id="OptimizeDiscardUD" h="8298BB8B">Vypouštím data uživatele z dokumentu...</text>
+		<text id="OptimizeDuplicates" h="72B17970">Hledám a odstraňuji duplicity...</text>
+		<text id="OptimizeFonts" h="B3521B7F">Optimalizuji fonty...</text>
+		<text id="OptimizeImages" h="D042191D">Optimalizuji obrázky...</text>
+		<text id="OptimizeTransparency" h="117EF944">Optimalizuji průhlednost...</text>
+		<text id="PDFAuditInfo" h="3689108E">Informace o využití místa </text>
+		<text id="PDFOptScaned" h="15D6F8BB">Optimalizace skenů</text>
+		<text id="PDFOptimizer" h="E369C144">Optimalizace PDF</text>
+		<text id="PatternInfo" h="BF98E424">Informace o vzorech</text>
+		<text id="Percentage" h="AB9C5DE5">Podíl</text>
+		<text id="PieceInfo" h="14FA9D8A">Informace o dokumentu</text>
+		<text id="ProgOptimizing" h="307A05DD">Optimalizuji dokument, prosím čekejte...</text>
+		<text id="ProgPreparing" h="88C0C05E">Připravuji dokument pro optimalizaci...</text>
+		<text id="ProgTitle" h="9480CEF5">Optimalizace...</text>
+		<text id="RetainExisting" h="6258BC37">Zachovat existující</text>
+		<text id="SavingDocument" h="56115414">Ukládám optimalizovaný dokument...</text>
+		<text id="ShadingInfo" h="F222371A">Informace o stínování</text>
+		<text id="Standard" h="C6DA1F99">Standard</text>
+		<text id="Standard.Desc" h="D517594C">Výchozí nastavení pro všechna zařízení</text>
+		<text id="StructInfo" h="75C658E9">Informace o struktuře</text>
+		<text id="Thumbnails" h="47B1B2D9">Náhledy</text>
+		<text id="Total" h="9CAA90C0">Celkem</text>
+		<text id="Transparency" h="9EAC5CA4">Průhlednost</text>
+		<text id="VersionWarning" h="4EF893BE">Verze PDF byla snížena z %1.%2 na %3.%4 z důvodu nastavení optimalizace.
+To může v některých aplikacích způsobit problémy. Optimalizovaný dokument prosím zkontrolujte.</text>
+		<text id="XForms" h="336DF358">X Objects Forms</text>
+		<text id="abc" h="BD101B14">Text</text>
+		<text id="adjustName" h="CD74E7C8">Upravit název souboru po optimalizaci:</text>
+		<text id="alpha" h="632E9A25">Předvolby</text>
+		<text id="alpha.resolution.0" h="D33F1C80">Nízké rozlišení</text>
+		<text id="alpha.resolution.1" h="64A38366">Střední rozlišení</text>
+		<text id="alpha.resolution.2" h="0B020749">Vysoké rozlišení</text>
+		<text id="alpha.set" h="A135F93B">Nastavení předvoleb:</text>
+		<text id="alpha.set.0" h="04DA8EE6">Úroveň průhlednosti: %1</text>
+		<text id="alpha.set.1" h="E18C52C1">Čáry a text: %1</text>
+		<text id="alpha.set.2" h="82CFFAB0">Gradient a sítě: %1</text>
+		<text id="alpha.set.3" h="6FFD6051">Převést text na obrysy: %1</text>
+		<text id="alpha.set.4" h="F2FA75FC">Převést všechny tahy na obrysy: %1</text>
+		<text id="alpha.set.5" h="B3DB6D2B">Připnout celé oblasti: %1</text>
+		<text id="alpha.set.6" h="33A6ABAC">Zachovat přetisk: %1</text>
+		<text id="cleanUp" h="BC454C9C">Nastavení vyčištění</text>
+		<text id="cleanUp.DelDuplicateFont" h="A9B95EB3">Vypustit duplicitní písma</text>
+		<text id="cleanUp.DelDuplicateImg" h="5981356D">Vypustit duplicitní obrázky</text>
+		<text id="cleanUp.DelDuplicateXForm" h="FAA4C52C">Vypustit duplicitní XForms</text>
+		<text id="cleanUp.LZW" h="4AB18C2D">Ve streamech, které používají kódování LZW, použít místo toho Flate</text>
+		<text id="cleanUp.bookmark" h="116E391E">Vypustit neplatné záložky</text>
+		<text id="cleanUp.compress" h="469EFC00">Možnosti komprese objektu:</text>
+		<text id="cleanUp.compress.0" h="590461FB">Komprimovat celý soubor</text>
+		<text id="cleanUp.compress.1" h="223C9F8A">Komprimovat strukturu dokumentu</text>
+		<text id="cleanUp.compress.2" h="02FEB23B">Odstranit kompresi</text>
+		<text id="cleanUp.compress.3" h="00A7F105">Nechat kompresi beze změny</text>
+		<text id="cleanUp.content" h="9C2423FB">Optimalizovat obsah stránky</text>
+		<text id="cleanUp.destinat" h="0B5DB0C4">Vypustit pojmenovaná cílová místa na která nevedou odkazy</text>
+		<text id="cleanUp.link" h="1456C457">Vypustit neplatné odkazy</text>
+		<text id="cleanUp.stream" h="28B1810A">Použít Flate k zakódování streamů, které nejsou zakódované</text>
+		<text id="cleanUp.web" h="278DAB99">Optimalizovat PDF pro prohlížení na webu</text>
+		<text id="cmd.name" h="E03D5D96">Uložit optimalizovaný...</text>
+		<text id="cmd.nameScan" h="9FD32538">Optimalizovat skeny</text>
+		<text id="cmd.nameScanShort" h="EC746C37">Optimalizovat sken...</text>
+		<text id="cmd.nameScanTip" h="075F0E8E">Upravit a redukova velikost skenů.</text>
+		<text id="cmd.nameShort" h="E03D5D96">Uložit optimalizovaný...</text>
+		<text id="cmd.nameTip" h="DBCE5DD2">Uložít aktivní dokument jako optimalizovaný za účelem zmenšení velikosti souboru.</text>
+		<text id="descreen" h="250001AD">Descreening</text>
+		<text id="deskew" h="D73E3DAE">Narovnání</text>
+		<text id="diObject" h="686FD8CF">Vypustit nastavení objektů</text>
+		<text id="diObject.action" h="05E16E16">Vypustit všechny akce odeslání, importu a obnovení formuláře</text>
+		<text id="diObject.bookmark" h="A40329EB">Vypustit záložky</text>
+		<text id="diObject.curves" h="919F43B2">Převést hladké čáry na křivky</text>
+		<text id="diObject.flatten" h="73C56406">Sloučit pole formuláře</text>
+		<text id="diObject.fragment" h="CD4A23BC">Detekovat a sloučit části obrázku</text>
+		<text id="diObject.image" h="63729870">Vypustit všechny alternativní obrázky</text>
+		<text id="diObject.javascript" h="7FFE9012">Vypustit všechny akce JavaScriptu</text>
+		<text id="diObject.print" h="BD6C83FA">Vypustit vložená nastavení tisku</text>
+		<text id="diObject.search" h="7B117F1A">Vypustit vložený index prohledávání</text>
+		<text id="diObject.tags" h="3C045100">Vypustit tagy dokumentu</text>
+		<text id="diObject.thumbnail" h="9599423F">Vypustit vložené miniatury stránek</text>
+		<text id="diUserData" h="94495488">Vypuštění uživatelských informací</text>
+		<text id="diUserData.attach" h="92D67E12">Vypustit souborové přílohy</text>
+		<text id="diUserData.form" h="A5238C7D">Vypustit všechny komentáře, formuláře a multimédia</text>
+		<text id="diUserData.layer" h="D2512415">Vypustit obsah skrytých vrstev a sloučit viditelné vrstvy</text>
+		<text id="diUserData.links" h="12EEC435">Vypustit všechny odkazy</text>
+		<text id="diUserData.metadata" h="1E9402E3">Vypustit informace o dokumentu a metadata</text>
+		<text id="diUserData.object" h="6C03028D">Vypustit data všech objektů</text>
+		<text id="diUserData.privat" h="304A6889">Vypustit privátní data ostatních aplikací</text>
+		<text id="diUserData.refer" h="B0E9F442">Vypustit externí křížové reference</text>
+		<text id="dlg.POTitle" h="E462CC15">Optimalizace PDF</text>
+		<text id="dlg.delete" h="38F26847">Opravdu chcete smazat nastavení '%1'?</text>
+		<text id="dlg.save" h="9A3AA1B1">Vytvořit nastavení Optimalátoru PDF</text>
+		<text id="dlg.save.text" h="A599E751">Uložit aktuální nastavení jako:</text>
+		<text id="filename" h="B06ACB9D">Konvence</text>
+		<text id="filters" h="8DA3B27E">Filtry</text>
+		<text id="fonts" h="4EA24A2A">Nastavení odebrání písma</text>
+		<text id="fonts.active" h="5C8642DA">Neodstraňovat žádné písmo</text>
+		<text id="fonts.all" h="3FE17594">Zrušit vložení všech písem</text>
+		<text id="fonts.btn.retain" h="BAD13ABC">&lt;&lt; Zachovat</text>
+		<text id="fonts.btn.unembed" h="760953D2">&gt;&gt; Odstranit</text>
+		<text id="fonts.comment" h="E0CEEE00">Písma v seznamu nad tímto textem jsou vloženy v PDF. O odstranění písem je přesuňte do pravého panelu. Písma v levém panelu zůstávají vložena.</text>
+		<text id="fonts.custom" h="2AAB35CE">Vyberte písma pro zrušení vložení</text>
+		<text id="fonts.embedded" h="A77293DA">Vložená písma:</text>
+		<text id="fonts.mergesubsets" h="F0C43A59">Sloučit podmnožiny písem</text>
+		<text id="fonts.recommend" h="F9ABDD3E">Zrušit vložení doporučených písem</text>
+		<text id="fonts.subset" h="6EC24EDD">Rozdělit písma na podmnožiny</text>
+		<text id="fonts.unembed" h="D1144C15">Písma k odstranění:</text>
+		<text id="highQuality" h="44A62CCC">Vysoká kvalita</text>
+		<text id="images.AverageDownsampling" h="9DF5988E">Průměrné převzorkování na</text>
+		<text id="images.BicubicDownsamplingTo" h="2B989117">Bikubické převzorkování na</text>
+		<text id="images.NoDownsampling" h="747AEF4D">Žádné převzorkování</text>
+		<text id="images.SubsamplingTo" h="F298A3BE">Podvzorkování do</text>
+		<text id="images.above" h="09C2601E">pro obrázky nad:</text>
+		<text id="images.color" h="EFDBFA28">Barevné obrázky</text>
+		<text id="images.compress" h="990F2529">Komprese:</text>
+		<text id="images.compress.CCITTGroup3" h="B7DD624B">CCITT Group 3</text>
+		<text id="images.compress.CCITTGroup4" h="F89CF48C">CCITT Group 4</text>
+		<text id="images.compress.JBIG2" h="DE3BC257">JBIG2</text>
+		<text id="images.compress.JPEG" h="58DE58E0">JPEG</text>
+		<text id="images.compress.JPEG2000" h="3A603972">JPEG2000</text>
+		<text id="images.compress.LZW" h="D62F11BD">LZW</text>
+		<text id="images.compress.MRC" h="F6693DA2">MRC</text>
+		<text id="images.compress.RunLength" h="82741A51">Run Length</text>
+		<text id="images.compress.ZIP" h="0E4D9E8D">ZIP</text>
+		<text id="images.grey" h="F9551019">Obrázky v šedi</text>
+		<text id="images.ingexed" h="FE837B06">Indexované obrázky</text>
+		<text id="images.mono" h="19F5498E">Monochromatické obrázky</text>
+		<text id="images.quality.High" h="21A95620">Vysoká</text>
+		<text id="images.quality.Lossless" h="40A582D7">Bezeztrátová</text>
+		<text id="images.quality.Lossy" h="78731864">Ztrátová</text>
+		<text id="images.quality.Low" h="845E3D8C">Nízká</text>
+		<text id="images.quality.Maximum" h="A8A97F0E">Maximální</text>
+		<text id="images.quality.Medium" h="91153342">Střední</text>
+		<text id="images.quality.Minimum" h="8415F85F">Minimální</text>
+		<text id="images.reduct" h="96D00A5D">Optimalizovat obrázky jen v případě zmenšení velikosti</text>
+		<text id="mono" h="65032FDA">Monochromatické:</text>
+		<text id="msg.NoPermission" h="073C6158">Tento dokument je zabezpečený a nemáte dostatečná oprávnění k provedení optimalizace</text>
+		<text id="optPrefs" h="FDCAF687">Nastavení optimalizace</text>
+		<text id="ppi" h="B39AC2C1">dpi</text>
+		<text id="prefix" h="95164599">Předpona:</text>
+		<text id="quality" h="E3A77A93">Kvalita:</text>
+		<text id="result" h="CE676C2B">Výsledek:</text>
+		<text id="settings" h="B781AB7B">Nastavení:</text>
+		<text id="settings.Custom" h="A918FF38">Vlastní</text>
+		<text id="settings.Mobile" h="A5903811">Mobilní</text>
+		<text id="settings.Standard" h="C6DA1F99">Standard</text>
+		<text id="smallSize" h="2A56EB5B">Malá velikost</text>
+		<text id="spaceusage" h="2FA61B33">Audit využitého místa...</text>
+		<text id="stage.getfonts" h="9DF9EE20">Shromažďování fontů v dokumentu...</text>
+		<text id="stage.preparing" h="3F6313D6">Připravuji dokument...</text>
+		<text id="sufix" h="1627987B">Přípona:</text>
+		<text id="textSharp" h="D60116F5">Doostření textu</text>
+		<text id="tileSize" h="A4FAD93F">Dlaždice:</text>
+		<text id="ver" h="B0A620D6">Změnit na kompatibilní s:</text>
+		<text id="ver.1" h="8B2AEC62">Verze 1.3 (Acrobat 4.0 a novější)</text>
+		<text id="ver.2" h="A0EA502A">Verze 1.4 (Acrobat 5.0 a novější)</text>
+		<text id="ver.3" h="26054EFC">Verze 1.5 (Acrobat 6.0 a novější)</text>
+		<text id="ver.4" h="70929FB3">Verze 1.6 (Acrobat 7.0 a novější)</text>
+		<text id="ver.5" h="FD059DF9">Verze 1.7 (Acrobat 8.0 a novější)</text>
+		<text id="ver.current" h="17DA1613">Současná verze PDF: %1.%2</text>
+	</Strings>
+</Localization>

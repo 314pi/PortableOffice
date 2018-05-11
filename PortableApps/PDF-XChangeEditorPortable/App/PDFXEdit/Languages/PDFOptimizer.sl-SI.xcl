@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20161130215845">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Slovenian" lName="slovenščina" code="sl-SI" R2L="false"/>
+	<Module name="PDFOptimizer" namespace="pdfopt" version="6.0.319.0"/>
+	<Strings>
+		<text id="AcrobatForms" h="45DE15E7">Acrobat obrazci</text>
+		<text id="AllInPPI" h="73445ABD">Vse enote so v slikovnih pikah na palec (ppi).</text>
+		<text id="BookMarks" h="E2032460">Zaznamki</text>
+		<text id="Bytes" h="4EF6C00A">Bajti</text>
+		<text id="CleanUp" h="C194E67C">Počisti</text>
+		<text id="ColorSpaces" h="4035B7FB">Barvni prostor</text>
+		<text id="Comments3D" h="1A213B5F">Pripombe in 3D vsebina</text>
+		<text id="ContentStreams" h="EC5AA2E9">Tok vsebine</text>
+		<text id="Count" h="48FC51FB">Štetje</text>
+		<text id="CrossReferenceTable" h="B0A3CE52">Navzkrižna referenčna tabela</text>
+		<text id="Description" h="8990DB08">Opis</text>
+		<text id="ObjectFor" h="24200BB3">PDF objekt za ...</text>
+		<text id="DiscardObjects" h="9A75CFD1">Zavrzi objekte</text>
+		<text id="DiscardUserData" h="1B55800A">Zavrzi podatke o uporabnikih</text>
+		<text id="DocOverhead" h="8AF9C6B9">Dodatni podatki v dokumentu</text>
+		<text id="ErrCount" h="494DF48F">Ugotovljene napake:</text>
+		<text id="ExGStates" h="CFF492D3">Razširjeno stanje grafike</text>
+		<text id="Fonts" h="B72149DB">Pisave</text>
+		<text id="Images" h="77764F9D">Slike</text>
+		<text id="LinkAnnotations" h="50D3AB53">Povezava pripisov</text>
+		<text id="Mobile" h="A5903811">Mobilni</text>
+		<text id="Mobile.Desc" h="AC3CDB44">Nastavitve za mobilne gledalce</text>
+		<text id="NamedDect" h="C4E8D8F5">Poimenovanje cilja</text>
+		<text id="Optimize.Error1" h="C319CA59">Med optimizacijo dokumentov je prišlo do kritične napake:</text>
+		<text id="Optimize.Error2" h="A394ADBC">Datoteke z rezultati ni mogoče shraniti.</text>
+		<text id="Optimize.IsXFA" h="58B9F3C4">Ta PDF dokument vsebuje obliko XML Adobe. Take datoteke ne morejo biti optimizirane.</text>
+		<text id="OptimizeCleanUp" h="321A47D5">Počisti dokument ...</text>
+		<text id="OptimizeCropContent" h="0178DFBF">Poišči in odstrani vsebino izven polja obreza</text>
+		<text id="OptimizeDiscardObj" h="0F6D2E1E">Zavrzi objekt iz dokumenta ...</text>
+		<text id="OptimizeDiscardUD" h="8298BB8B">Zavrzi podatke o uporabnikih iz dokumenta ...</text>
+		<text id="OptimizeDuplicates" h="ADD4C1C1">Iskanje dvojnikov (slike, X-obrazci, pisave) in njihova odstranitev ...</text>
+		<text id="OptimizeFonts" h="B3521B7F">Optimiziraj pisave ...</text>
+		<text id="OptimizeImages" h="D042191D">Optimiziraj slike ...</text>
+		<text id="OptimizeTransparency" h="117EF944">Optimiziraj prosojnost ...</text>
+		<text id="PDFAuditInfo" h="3689108E">PDF revizija informacij</text>
+		<text id="PDFOptimizer" h="E369C144">Optimiziraj PDF</text>
+		<text id="PatternInfo" h="BF98E424">Vzorec informacije</text>
+		<text id="Percentage" h="AB9C5DE5">Odstotek</text>
+		<text id="PieceInfo" h="14FA9D8A">Kos informacije</text>
+		<text id="ProgOptimizing" h="307A05DD">Optimizacija dokumenta, počakajte ...</text>
+		<text id="ProgPreparing" h="88C0C05E">Priprava za optimizacijo dokumentov ...</text>
+		<text id="ProgTitle" h="9480CEF5">Optimizacija ...</text>
+		<text id="SavingDocument" h="56115414">Shrani optimiziran dokument ...</text>
+		<text id="ShadingInfo" h="F222371A">Senčenje Informacije</text>
+		<text id="Standard" h="C6DA1F99">Splošno</text>
+		<text id="Standard.Desc" h="4B85CB86">Izhodiščne nastavitve za vse naprave</text>
+		<text id="StructInfo" h="75C658E9">Podatki strukture</text>
+		<text id="Thumbnails" h="47B1B2D9">Sličice</text>
+		<text id="Total" h="9CAA90C0">Skupaj</text>
+		<text id="Transparency" h="9EAC5CA4">Prosojnost</text>
+		<text id="VersionWarning" h="2AFD0301">Različica PDF specifikacije za ta dokument se je zmanjšala iz %1.%2 na %3.%4, zaradi nastavitev za optimizacijo. To lahko povzroči težave z nekaterimi aplikacijami. Preverite optimiziran dokument.</text>
+		<text id="XForms" h="336DF358">Obrazec X objekta</text>
+		<text id="abc" h="BD101B14">Besedilo od</text>
+		<text id="alpha" h="632E9A25">Prednastavitev</text>
+		<text id="alpha.resolution.0" h="D33F1C80">Nizka ločljivost</text>
+		<text id="alpha.resolution.1" h="64A38366">Srednja resolucija</text>
+		<text id="alpha.resolution.2" h="0B020749">Visoka ločljivost</text>
+		<text id="alpha.set" h="A135F93B">Prednastavljene nastavitve:</text>
+		<text id="alpha.set.0" h="04DA8EE6">Stopnja prosojnosti: %1</text>
+		<text id="alpha.set.1" h="E18C52C1">Črtna grafika in tekst: %1</text>
+		<text id="alpha.set.2" h="82CFFAB0">Gradient in mreža: %1</text>
+		<text id="alpha.set.3" h="6FFD6051">Pretvarjanje vsega besedila v osnutke: %1</text>
+		<text id="alpha.set.4" h="F2FA75FC">Pretvarjanje vseh potez v osnutke: %1</text>
+		<text id="alpha.set.5" h="B3DB6D2B">Pritrdi kompleksne regije: %1</text>
+		<text id="alpha.set.6" h="33A6ABAC">Ohrani pretisk: %1</text>
+		<text id="cleanUp" h="BC454C9C">Počisti nastavitve</text>
+		<text id="cleanUp.DelDuplicateFont" h="A9B95EB3">Zavrzi podvojene pisave</text>
+		<text id="cleanUp.DelDuplicateImg" h="5981356D">Zavrzi podvojene slike</text>
+		<text id="cleanUp.DelDuplicateXForm" h="FAA4C52C">Zavrzi dvojnike X-obrazcev</text>
+		<text id="cleanUp.LZW" h="4AB18C2D">V tokovih, ki uporabljajo kodiranje LZW uporabi Flate</text>
+		<text id="cleanUp.bookmark" h="116E391E">Zavrzi neveljavne zaznamke</text>
+		<text id="cleanUp.compress" h="469EFC00">Možnosti stiskanja objekta:</text>
+		<text id="cleanUp.compress.0" h="590461FB">Stisni celotno datoteko</text>
+		<text id="cleanUp.compress.1" h="223C9F8A">Stisni strukturo dokumenta</text>
+		<text id="cleanUp.compress.2" h="02FEB23B">Odstrani stiskanje</text>
+		<text id="cleanUp.compress.3" h="00A7F105">Pusti stiskanje nespremenjeno</text>
+		<text id="cleanUp.content" h="9C2423FB">Optimiziraj vsebino strani</text>
+		<text id="cleanUp.destinat" h="0B5DB0C4">Zavrzi ne označene poimenovane cilje</text>
+		<text id="cleanUp.link" h="1456C457">Zavrzi neveljavne povezave</text>
+		<text id="cleanUp.stream" h="28B1810A">Uporabi Flate, da zakodirate tokove, ki niso zakodirani</text>
+		<text id="cleanUp.web" h="512E797E">Optimiziraj PDF za hiter pregled na spletu</text>
+		<text id="cmd.name" h="E03D5D96">Shrani kot optimizirano ...</text>
+		<text id="cmd.nameTip" h="DBCE5DD2">Shrani aktivni dokument, kot optimiziran za zmanjšanje velikosti in za zmanjšanje odpiralnega časa.</text>
+		<text id="diObject" h="686FD8CF">Zavrzi nastavitve objekta</text>
+		<text id="diObject.action" h="05E16E16">Zavrzi vse oblike podreditev, uvoz in ponastavljene postopke</text>
+		<text id="diObject.bookmark" h="A40329EB">Zavrzi zaznamke</text>
+		<text id="diObject.curves" h="919F43B2">Pretvori gladke linije v krivulje</text>
+		<text id="diObject.flatten" h="73C56406">Splošči polja obrazca</text>
+		<text id="diObject.fragment" h="CD4A23BC">Odkrij in združi slikovne odlomke</text>
+		<text id="diObject.image" h="63729870">Zavrzi vse nadomestne slike</text>
+		<text id="diObject.javascript" h="7FFE9012">Zavrzi vsa dejanja JavaScript</text>
+		<text id="diObject.print" h="BD6C83FA">Zavrzi vdelane nastavitve tiskanja</text>
+		<text id="diObject.search" h="7B117F1A">Zavrzi vgrajene indekse iskanja</text>
+		<text id="diObject.tags" h="3C045100">Zavrzi oznake dokumentov</text>
+		<text id="diObject.thumbnail" h="9599423F">Zavrzi vdelane sličice strani</text>
+		<text id="diUserData" h="94495488">Zavrzi uporabniške povezane informacije</text>
+		<text id="diUserData.attach" h="92D67E12">Zavrzi priponke datotek</text>
+		<text id="diUserData.form" h="A5238C7D">Zavrzi vse komentarje, obrazce in večpredstavnost</text>
+		<text id="diUserData.layer" h="D2512415">Zavrzi skrite vsebine sloja in ravne vidne plasti</text>
+		<text id="diUserData.metadata" h="1E9402E3">Zavrzi informacije dokumenta in metapodatke</text>
+		<text id="diUserData.object" h="6C03028D">Zavrzi vse podatke objektov</text>
+		<text id="diUserData.privat" h="304A6889">Zavrzi zasebne podatke drugih aplikacij</text>
+		<text id="diUserData.refer" h="B0E9F442">Zavrzi zunanje sklice</text>
+		<text id="dlg.POTitle" h="E462CC15">Optimiziraj PDF</text>
+		<text id="dlg.delete" h="38F26847">Ali ste prepričani, da želite izbrisati nastavitve '%1'?</text>
+		<text id="dlg.save" h="9A3AA1B1">Ustvari nastavitve za optimiranje PDF</text>
+		<text id="dlg.save.text" h="A599E751">Shranjevanje trenutnih nastavitev kot:</text>
+		<text id="fonts" h="4EA24A2A">Nastavitve povezanih pisav</text>
+		<text id="fonts.active" h="5C8642DA">Ne poveži vsako pisavo</text>
+		<text id="fonts.all" h="3FE17594">Poveži vse pisave</text>
+		<text id="fonts.btn.retain" h="BAD13ABC">&lt;&lt; Ohrani</text>
+		<text id="fonts.btn.unembed" h="760953D2">povezano &gt;&gt;</text>
+		<text id="fonts.comment" h="E0CEEE00">Seznam pisav, ki so trenutno vstavljene v PDF datoteko. Za povezavo pisavo premaknite v desno podokno. Pisave, navedene v levem podoknu ostanejo vgrajene.</text>
+		<text id="fonts.custom" h="2AAB35CE">Izberi povezane pisave ročno</text>
+		<text id="fonts.embedded" h="A77293DA">Vgrajene pisave:</text>
+		<text id="fonts.mergesubsets" h="F0C43A59">Spoji dele pisav</text>
+		<text id="fonts.recommend" h="F9ABDD3E">Priporočljive povezane pisave</text>
+		<text id="fonts.subset" h="6EC24EDD">Podmnožica vse vgrajenih pisav</text>
+		<text id="fonts.unembed" h="D1144C15">Pisave za povezavo:</text>
+		<text id="images.above" h="09C2601E">za slike zgoraj:</text>
+		<text id="images.color" h="EFDBFA28">Barvne slike</text>
+		<text id="images.compress" h="990F2529">Kompresija:</text>
+		<text id="images.compress.0" h="6258BC37">Ohrani obstoječe</text>
+		<text id="images.compress.1" h="3A603972">JPEG2000</text>
+		<text id="images.compress.2" h="58DE58E0">JPEG</text>
+		<text id="images.compress.3" h="0E4D9E8D">ZIP</text>
+		<text id="images.compress.indexed.0" h="6258BC37">Ohrani obstoječe</text>
+		<text id="images.compress.indexed.1" h="0E4D9E8D">ZIP</text>
+		<text id="images.compress.indexed.2" h="82741A51">Pretečena dolžina</text>
+		<text id="images.compress.indexed.3" h="D62F11BD">LZW</text>
+		<text id="images.compress.mono.0" h="6258BC37">Ohrani obstoječe</text>
+		<text id="images.compress.mono.1" h="DE3BC257">JBIG2</text>
+		<text id="images.compress.mono.2" h="B7DD624B">CCITT Group 3</text>
+		<text id="images.compress.mono.3" h="F89CF48C">CCITT Group 4</text>
+		<text id="images.compress.mono.4" h="0E4D9E8D">ZIP</text>
+		<text id="images.compress.mono.5" h="82741A51">Pretečena dolžina</text>
+		<text id="images.downsampling.0" h="747AEF4D">Brez zmanjšanega vzorčenja</text>
+		<text id="images.downsampling.1" h="9DF5988E">Povprečje po vzorčenju</text>
+		<text id="images.downsampling.2" h="F298A3BE">Podvzorčeno za</text>
+		<text id="images.downsampling.3" h="2B989117">Bikubično zmanjšano vzorčenje do</text>
+		<text id="images.downsampling.indexed.0" h="747AEF4D">Brez zmanjšanega vzorčenja</text>
+		<text id="images.downsampling.indexed.1" h="F298A3BE">Podvzorčeno za</text>
+		<text id="images.grey" h="F9551019">Sivinske slike</text>
+		<text id="images.ingexed" h="FE837B06">Indeksirane slike</text>
+		<text id="images.mono" h="19F5498E">Monokromatske slike</text>
+		<text id="images.quality.0" h="8415F85F">Minimum</text>
+		<text id="images.quality.1" h="845E3D8C">Nizka</text>
+		<text id="images.quality.2" h="91153342">Srednja</text>
+		<text id="images.quality.3" h="21A95620">Visoka</text>
+		<text id="images.quality.4" h="A8A97F0E">Največja vrednost</text>
+		<text id="images.quality.5" h="40A582D7">Brez izgub</text>
+		<text id="images.quality.mono.0" h="78731864">Lossy</text>
+		<text id="images.quality.mono.1" h="40A582D7">Brez izgub</text>
+		<text id="images.reduct" h="96D00A5D">Optimiziraj slike le, če je zmanjšana velikost</text>
+		<text id="msg.NoPermission" h="073C6158">Dokument je zaščiten in nimate zadostnih dovoljenj za izvedbo optimizacije.</text>
+		<text id="ppi" h="B39AC2C1">dpi</text>
+		<text id="quality" h="E3A77A93">Kakovost:</text>
+		<text id="result" h="CE676C2B">Rezultat:</text>
+		<text id="settings" h="B781AB7B">Nastavitve:</text>
+		<text id="settings.Custom" h="A918FF38">Po meri</text>
+		<text id="settings.Mobile" h="A5903811">Mobilni</text>
+		<text id="settings.Standard" h="C6DA1F99">Splošno</text>
+		<text id="spaceusage" h="0E26C3EE">Revizija uporabe prostora ...</text>
+		<text id="stage.getfonts" h="9DF9EE20">Zbiranje pisav dokumentov ...</text>
+		<text id="stage.preparing" h="3F6313D6">Priprava dokumenta ...</text>
+		<text id="tileSize" h="A4FAD93F">Velikost ploščice:</text>
+		<text id="ver" h="B0A620D6">Naredi združljivo z:</text>
+		<text id="ver.0" h="6258BC37">Ohrani obstoječe</text>
+		<text id="ver.1" h="8B2AEC62">Različica 1.3 (Acrobat 4.0 in novejši)</text>
+		<text id="ver.2" h="A0EA502A">Različica 1.4 (Acrobat 5.0 in novejši)</text>
+		<text id="ver.3" h="26054EFC">Različica 1.5 (Acrobat 6.0 in novejši)</text>
+		<text id="ver.4" h="70929FB3">Različica 1.6 (Acrobat 7.0 in novejši)</text>
+		<text id="ver.5" h="FD059DF9">Različica 1.7 (Acrobat 8.0 in novejši)</text>
+		<text id="ver.current" h="17DA1613">Trenutna PDF različica: %1.%2</text>
+	</Strings>
+</Localization>

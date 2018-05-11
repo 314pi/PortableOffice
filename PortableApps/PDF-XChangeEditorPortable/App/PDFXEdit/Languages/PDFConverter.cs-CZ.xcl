@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171220231419">2.00.00</Version>
+	<Author>Martin Paulík</Author>
+	<Copyright>TERAGON SW s.r.o.
+www.pdfxchange.cz</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Czech (Czech Republic)" lName="čeština" code="cs-CZ" R2L="false"/>
+	<Module name="PDFConverter" namespace="pdfconv" version="7.0.323.2"/>
+	<Strings>
+		<text id="DT" h="68CCD7A1">Desetinná čárka a oddělovač tisíců:</text>
+		<text id="Decimal" h="97B538F3">Desetinná čárka:</text>
+		<text id="Fonts" h="09BC9E47">Písma</text>
+		<text id="NoPermission" h="F6BEA48A">Dokument je chráněný. Nemáte dostatečná práva k provedení konverze.</text>
+		<text id="cmd.name.P" h="FE79EAE9">Export do Microsoft PowerPoint...</text>
+		<text id="cmd.name.Sel.P" h="10B9EA70">Export výběru do Microsoft PowerPoint...</text>
+		<text id="cmd.name.Sel.W" h="F60B7012">Export výběru do Microsoft Word...</text>
+		<text id="cmd.name.Sel.X" h="53447190">Export výběru do Microsoft Excel...</text>
+		<text id="cmd.name.W" h="36A68CE1">Export do Microsoft Word...</text>
+		<text id="cmd.name.X" h="5F515377">Export do Microsoft Excel...</text>
+		<text id="cmd.nameShort.P" h="C4DB7FDB">Do MS PowerPoint...</text>
+		<text id="cmd.nameShort.W" h="23467A9D">Do MS Word...</text>
+		<text id="cmd.nameShort.X" h="4FDED68C">Do MS Excel...</text>
+		<text id="cmd.nameTip.P" h="5DF5F44C">Export aktivního dokumentu do Microsoft PowerPoint...</text>
+		<text id="cmd.nameTip.Sel.P" h="547499FA">Export aktuálního výběru do Microsoft PowerPoint...</text>
+		<text id="cmd.nameTip.Sel.W" h="9526C3A8">Export aktuálního výběru do Microsoft Word...</text>
+		<text id="cmd.nameTip.Sel.X" h="9DBFD9AB">Export aktuálního výběru do Microsoft Excel...</text>
+		<text id="cmd.nameTip.W" h="08C70E7C">Export aktivního dokumentu do Microsoft Word...</text>
+		<text id="cmd.nameTip.X" h="71C65F22">Export aktivního dokumentu do Microsoft Excel...</text>
+		<text id="convertation" h="B1E1828B">Konverze PDF dokumentu</text>
+		<text id="convertation.DecimalError" h="AB9CA906">Neplatná desetinná čárka</text>
+		<text id="convertation.DecimalThousandsError" h="9002FE5E">Desetinná čárka a oddělovač tisíců musí být rozdílné</text>
+		<text id="convertation.Error1" h="388D83B4">Během konverze dokumentu došlo ke kritické chybě:</text>
+		<text id="convertation.Error2" h="A394ADBC">Výsledný soubor nemůže být uložen.</text>
+		<text id="convertation.ThousandsError" h="1660BD37">Neplatný oddělovač tisíců</text>
+		<text id="dpi" h="B39AC2C1">dpi</text>
+		<text id="elseUseRegional" h="8F1D3748">* V opačném případě použijte místní nastavení</text>
+		<text id="excel.filter" h="D766664D">MS Excel</text>
+		<text id="newRowRul" h="4CD45F3D">Použít nový řádek na listu pro každý:</text>
+		<text id="options" h="DAD7B4F4">Možnosti</text>
+		<text id="options.compress.0" h="378201C4">PNG</text>
+		<text id="options.compress.1" h="25090095">JPG</text>
+		<text id="options.dpilevel" h="4D4FE579">%1 dpi</text>
+		<text id="options.fontsembedmode.0" h="4FD6EAB9">Vložit pouze písma vložená v PDF dokumentu</text>
+		<text id="options.fontsembedmode.1" h="485361C4">Nevkládat</text>
+		<text id="options.quality.0" h="8415F85F">Minimální</text>
+		<text id="options.quality.1" h="845E3D8C">Nízká</text>
+		<text id="options.quality.2" h="91153342">Střední</text>
+		<text id="options.quality.3" h="21A95620">Vysoká</text>
+		<text id="options.quality.4" h="A8A97F0E">Maximální</text>
+		<text id="options.textmode.0" h="77B1E837">Zachovat text editovatelný</text>
+		<text id="options.textmode.1" h="8419D7CE">Konverze na křivky</text>
+		<text id="options.textmode.2" h="60E91945">Konverze na obrázky</text>
+		<text id="options.newRow.0" h="9CF38C36">Odstavec</text>
+		<text id="options.newRow.1" h="6D45691D">Řádek</text>
+		<text id="optionsCBAllowCurves" h="976099D8">Umožnit konverzi textu s problematickými fonty na křivky</text>
+		<text id="optionsCBAllowSubstitution" h="169F5988">Umožnit nahrazení fontů, které nelze vložit</text>
+		<text id="optionsCBEmbedFont" h="3E50224C">Vložit</text>
+		<text id="optionsCBIncludeComments" h="B08E5CA8">Včetně komentářů</text>
+		<text id="optionsCBIncludeImages" h="969B2F6C">Včetně obrázků</text>
+		<text id="optionsCBIncludeLinks" h="F5F4CED4">Včetně odkazů</text>
+		<text id="optionsCBPageToImage" h="0707FDB4">Převést celý obsah stránky na obrázek</text>
+		<text id="optionsGBCommonOpt" h="5B3B421B">Obvyklá nastavení</text>
+		<text id="optionsGBTextOpt" h="D7BD8320">Možnosti konverze textu</text>
+		<text id="optionsIBTextRaster" h="699A1B72">Text bude převeden na rastrové obrázky v případě, že nelze převést podle výše uvedených možností.</text>
+		<text id="optionsLBCompres" h="990F2529">Komprese:</text>
+		<text id="optionsLBIssuesFont" h="BB2E863E">Pokud existují problémy s kompatibilitou/přenositelností fontů:</text>
+		<text id="optionsLBMode" h="274455FC">Mód:</text>
+		<text id="optionsLBQuality" h="E3A77A93">Kvalita:</text>
+		<text id="optionsLBTextRaster" h="32A3B18F">Kvalita rasterizace textu:</text>
+		<text id="optionsLBToImgParam" h="4ED54AB4">Nastavení konverze textu na obrázek:</text>
+		<text id="optionsLBdpiComm" h="0FE84938">Rozlišení:</text>
+		<text id="optionsLBdpiCompression" h="4CA3E32A">Pokud je zaškrtnutá výše uvedená položka, tak lze nastavit kvalitu rasterizace pro nekonvertibilní obsah (např. složité přechody) nebo celou stránku:</text>
+		<text id="optionsLBlastHope" h="F73DC603">INFO: V případě selhání konverze textu na křivky bude text převeden na obrázky.</text>
+		<text id="powerpoint.filter" h="9FB63544">Prezentace MS PowerPoint</text>
+		<text id="regionalDT" h="929F7393">Použít místní nastavení</text>
+		<text id="thousands" h="256655C5">Oddělovač tisíců:</text>
+		<text id="userDefinedDT" h="CFDC144E">Použít vlastní:</text>
+		<text id="word.filter" h="6BB79C71">Dokument MS Word</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171221003322">2.00.00</Version>
+	<Author>Martin Paulík</Author>
+	<Copyright>TERAGON SW s.r.o.
+www.pdfxchange.cz	</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Czech (Czech Republic)" lName="čeština" code="cs-CZ" R2L="false"/>
+	<Module name="Dropbox" namespace="db" version="7.0.323.2"/>
+	<Strings>
+		<text id="btn.cancel" h="3D302A38">Zrušit</text>
+		<text id="btn.chooseUser" h="BEC16DA6">Vybrat uživatele</text>
+		<text id="btn.ok" h="FEF0C771">&amp;OK</text>
+		<text id="btn.open" h="B1A510F0">Otevřít</text>
+		<text id="btn.save" h="F363C410">Uložit</text>
+		<text id="btn.saveReplace" h="11BF9724">Uložit a nahradit</text>
+		<text id="cmd.cmdsCategory" h="22B8ECE9">Dropbox</text>
+		<text id="cmd.open" h="028048E8">&amp;Dropbox...</text>
+		<text id="cmd.open.tip" h="94556787">Otevřít dokument z Dropboxu.</text>
+		<text id="cmd.save" h="028048E8">&amp;Dropbox...</text>
+		<text id="cmd.save.tip" h="A6A3EE84">Uložit aktivní dokument do Dropboxu.</text>
+		<text id="cmd.dropbox" h="6616FE70">&amp;Dropbox</text>
+		<text id="dlg.authenticate" h="E6E77652">Ověření</text>
+		<text id="dlg.openFile" h="435887CD">Otevření souboru</text>
+		<text id="dlg.saveFile" h="520CB069">Uložit soubor</text>
+		<text id="lb.itemsInFolder" h="8F56A98C">%d položek</text>
+		<text id="lb.name" h="DEC92488">Soubor:</text>
+		<text id="ls.column.created" h="FE6510B7">Datum vytvoření</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Datum a čas vytvoření souboru, složky nebo seznamu</text>
+		<text id="ls.column.extension" h="14FEB836">Přípona</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Přípona souboru</text>
+		<text id="ls.column.modified" h="7E234D6D">Datum úprav</text>
+		<text id="ls.column.modified.hint" h="12933E76">Datum a čas poslední změny souboru, složky nebo seznamu</text>
+		<text id="ls.column.size" h="17A58A52">Velikost</text>
+		<text id="ls.column.size.hint" h="9C4BD847">Velikost souboru</text>
+		<text id="ls.column.title" h="D18643E3">Název</text>
+		<text id="ls.column.title.hint" h="FB317B14">Název složky nebo souboru</text>
+		<text id="msg.connectError" h="BB92EFFA">Připojení k Dropboxu se nezdařilo. Prosíme zkontrolujte internetové připojení a práva k přístupu ke zdroji Dropboxu.</text>
+		<text id="msg.fileNotFound" h="CD319CFB">Soubor "%1" nebyl nalezen v aktuální složce.</text>
+		<text id="msg.invalidFileName" h="28B7A772">"%1" není platný název souboru (symboly &lt;&gt;"/?* nejsou povoleny).</text>
+		<text id="msg.navigateError" h="8DFB6834">Chyba při navigaci ke zdroji Dropboxu. Prosíme zkontrolujte internetové připojení, adresu zdroje a práva pro přístup ke zdroji Dropboxu.</text>
+		<text id="msg.openFailed" h="0BB63F1F">Chyba otevření souboru. Ujistěte se prosím, zda soubor existuje a zda máte k němu práva.</text>
+		<text id="msg.saveFailed" h="48F763F5">Chyba při ukládání souboru. Ujistěte se, zda má soubor platný název a zda máte práva k zápisu.</text>
+		<text id="msg.saveReplace" h="D31D53A9">Soubor "%1" již existuje. Chcete jej nahradit?</text>
+		<text id="msg.wrongUser" h="BF2BFAE3">Nemohu otevřít tento zdroj, protože patří jinému uživateli Dropboxu. Chcete zvolit jiného uživatele?</text>
+		<text id="str.fileSystemName" h="22B8ECE9">Dropbox</text>
+	</Strings>
+</Localization>

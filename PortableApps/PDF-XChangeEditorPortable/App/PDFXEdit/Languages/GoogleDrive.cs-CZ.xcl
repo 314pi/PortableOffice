@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171220231402">2.00.00</Version>
+	<Author>Ing. Martin Paulík</Author>
+	<Copyright>TERAGON SW s.r.o.
+www.pdfxchange.cz</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Czech (Czech Republic)" lName="čeština" code="cs-CZ" R2L="false"/>
+	<Module name="GoogleDrivePlugin" namespace="gd" version="7.0.323.2"/>
+	<Strings>
+		<text id="DlgOpenFile" h="B98AB29D">Otevřít soubor z Google Drive</text>
+		<text id="DlgSaveFile" h="81F99046">Uložit soubor do Google Drive</text>
+		<text id="GDPlugin" h="32B7E3E0">Google Driver Plugin</text>
+		<text id="btn.connectToAnother" h="508BDBC5">Nový login...</text>
+		<text id="cmd.cmdsCategory" h="AD23B285">Google Drive</text>
+		<text id="cmd.googledrive" h="1D28DF85">Google Drive</text>
+		<text id="cmd.open" h="F32ECED5">Google Drive...</text>
+		<text id="cmd.open.tip" h="933837A2">Otevřít dokument z Google Drive.</text>
+		<text id="cmd.save" h="F32ECED5">Google Drive...</text>
+		<text id="cmd.save.tip" h="948C3269">Uložit dokument do Google Drive.</text>
+		<text id="cpt.fileNotFound" h="A7F5FA7A">Soubor nenalezen</text>
+		<text id="cpt.invalidFileName" h="79C1387C">"Neplatný název souboru</text>
+		<text id="cpt.navigateError" h="3D300A1C">Chyba navigace</text>
+		<text id="cpt.saveReplace" h="520CB069">Uložit soubor</text>
+		<text id="cpt.selectFile" h="C55D68B0">Výbírání souboru</text>
+		<text id="dlg.googleAuth" h="E5642F22">Autentizace Google Drive</text>
+		<text id="fileName" h="DEC92488">Soubor:</text>
+		<text id="lb.CurrentFolder" h="44158804">Aktuální složka:</text>
+		<text id="lb.Test" h="273F3E5B">Test Test Test!</text>
+		<text id="lb.googleAccName" h="C94645A3">Účet Google:</text>
+		<text id="msg.fileNotFound" h="430E08B1">Soubor "%1" nebyl v aktuální složce nalezen.</text>
+		<text id="msg.invalidFileName" h="7C0655B5">"%1" není platný název souboru.</text>
+		<text id="msg.navigateError" h="2FCAA72A">Chyba při navigaci na zdroj Google Drive. Prosíme, zkontrolujte internetové připojení a přístupová práva ke zdroji Google Drive.</text>
+		<text id="msg.openFailed" h="AC94D960">Chyba při otevření souboru. Ujistěte se, že soubor existuje, zda není odeslán jinému uživateli nebo zda k němu máte přístupová práva.</text>
+		<text id="msg.saveFailed" h="4D413392">Chyba při uložení souboru. Ujistěte se, že je název souboru platný a že máte přístupová práva pro zápis.</text>
+		<text id="msg.saveReplace" h="5D56833E">Soubor %1 již existuje. Chcete ho nahradit?</text>
+		<text id="msg.selectFile" h="2530C20F">Vyberte soubor před stiskem OK</text>
+		<text id="ls.column.created" h="FE6510B7">Datum vytvoření</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Datum a čas vytvoření složky, souboru nebo seznamu</text>
+		<text id="ls.column.extension" h="14FEB836">Přípona</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Přípona souboru</text>
+		<text id="ls.column.modified" h="7E234D6D">Datum úpravy</text>
+		<text id="ls.column.modified.hint" h="12933E76">Datum a čas úpravy složky, souboru nebo seznamu</text>
+		<text id="ls.column.size" h="17A58A52">Velikost</text>
+		<text id="ls.column.size.hint" h="9C4BD847">Velikost souboru</text>
+		<text id="ls.column.title" h="D18643E3">Název</text>
+		<text id="ls.column.title.hint" h="6A895576">Název souboru, název složky a seznam titulů</text>
+		<text id="virtualfolder.mydrive" h="84C2D3A6">My Drive</text>
+		<text id="virtualfolder.sharedwithme" h="8B65307E">Sdíleno se mnou</text>
+		<text id="cpt.unableToSaveToVirtualFolder" h="778EF99A">Soubor nelze uložit do složky</text>
+		<text id="msg.unableToSaveToVirtualFolder" h="A6644426">Soubor nemůže být uložen do vybraného umístění. Prosím vyberte 'My Drive' složku, jednu z jejích podložek nebo jednu podsložek 'Sdíleno se mnou' pro uložení souboru.</text>
+	</Strings>
+</Localization>

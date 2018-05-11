@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171116222939">2.00.00</Version>
+	<Author>Michael Dodl</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="German (Germany)" lName="Deutsch" code="de-DE" R2L="false"/>
+	<Module name="ReadOutLoud" namespace="speech" version="6.0.322.7"/>
+	<Strings>
+		<text id="opt.btn.test" h="D799C8E8">&amp;Text vorlesen</text>
+		<text id="opt.cb.defAttr" h="232D9E03">Standard-Stimmeigensch&amp;aften benutzen</text>
+		<text id="opt.cb.defVoice" h="57A5382A">Stan&amp;dard-Stimme benutzen</text>
+		<text id="opt.cb.readComments" h="070A2526">Anmer&amp;kungen vorlesen</text>
+		<text id="opt.cb.readFields" h="4331E3A2">&amp;Formularfelder vorlesen</text>
+		<text id="opt.group.title" h="54357DDF">Vorlesen</text>
+		<text id="opt.l.max" h="284585D5">Max</text>
+		<text id="opt.l.min" h="F16918ED">Min</text>
+		<text id="opt.l.pitch" h="A6915A2C">&amp;Höhe:</text>
+		<text id="opt.l.rate" h="10B1E128">&amp;Geschwindigkeit:</text>
+		<text id="opt.l.voice" h="5026E016">St&amp;imme:</text>
+		<text id="opt.l.volume" h="8C0E20F2">&amp;Lautstärke:</text>
+		<text id="opt.l.wpm" h="9421CA7D">Wörter pro Minute</text>
+		<text id="opt.test.title" h="44732FAA">Test</text>
+		<text id="prefs.name" h="06D67BEF">Vorlesen</text>
+		<text id="prefs.tips" h="110DB02C">Einstellungen für das Vorlesen</text>
+		<text id="prefs.title" h="110DB02C">Vorlesen</text>
+		<text id="speech.opt.title" h="54357DDF">Einstellungen für das Vorlesen</text>
+		<text id="test.text" h="6B245451">Der schnelle braune Fuchs springt über den faulen Hund.</text>
+		<text id="cmd.readSelection" h="D503AA0C">Ausgewählten Text vorlesen</text>
+		<text id="cmd.readStop" h="06B322F6">Vorlesen beenden</text>
+		<text id="cmd.category" h="A1EB605F">Vorlesen</text>
+	</Strings>
+</Localization>

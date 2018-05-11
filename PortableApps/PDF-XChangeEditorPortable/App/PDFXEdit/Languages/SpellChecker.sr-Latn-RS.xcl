@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220838">2.00.00</Version>
+	<Author>Jovo Vilendečić</Author>
+	<Copyright>Jovo Vilendečić</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Serbian (Latin, Serbia)" lName="Srpski" code="sr-Latn-RS" R2L="false"/>
+	<Module name="SpellChecker" namespace="spell" version="6.0.322.7"/>
+	<Strings>
+		<text id="dict.param.hyphen" h="50549BEC">Prelamanje reči</text>
+		<text id="dict.param.spell" h="E10DA1DD">Speluj (proveri pisanje)</text>
+		<text id="lstDicts.empty" h="FFD5B8BB">&lt;Bez rečnika&gt;</text>
+		<text id="msg.CopyDictError" h="81324CC9">Nisu se mogle kopirati datoteke rečnika</text>
+		<text id="msg.DictExists" h="650ABF1A">Rečnik već postoji</text>
+		<text id="msg.DictExists.title" h="B025530B">Rečnik postoji</text>
+		<text id="msg.ErrorTitle" h="D9DB5E01">Greška u proveri pisanja</text>
+		<text id="msg.LoadDictError" h="D139CD51">Nije se mogao učitati rečnik</text>
+		<text id="msg.RemoveError" h="DDD3D452">Nije se mogla obrisati datoteka rečnika. Pristup onemogućen.</text>
+		<text id="msg.WordExists" h="54B206DA">Reč već postoji</text>
+		<text id="msg.WordExists.title" h="A9AFB29B">Reč postoji</text>
+		<text id="opt.b.AddDict" h="E0BF5FDE">Dodaj rečnik</text>
+		<text id="opt.b.CustomWordList" h="D1505337">Prolagođena lista reči</text>
+		<text id="opt.b.RemoveDict" h="D94F3439">Obriši rečnik</text>
+		<text id="opt.cb.AllowAlgoHyphens" h="D8C41308">Prelamaj nepoznate reči</text>
+		<text id="opt.cb.EnableAllHyphens" h="207464CF">Uključi prelamanje reči</text>
+		<text id="opt.cb.EnableHyphens" h="71ECEEC4">Uključi rečnik prelamanja reči</text>
+		<text id="opt.cb.EnableSpellChecker" h="1D563674">Uključi proveru pisanja</text>
+		<text id="opt.cb.IgnoreWordsInUppercase" h="BEB17F5B">Ignoriši reči sa velikim slovima</text>
+		<text id="opt.cb.IgnoreWordsWithNumbers" h="2AA28F70">Ignoriši reči sa ciframa</text>
+		<text id="opt.title" h="AEF9F007">Podešavanja provere pisanja</text>
+		<text id="wrd.b.AddWord" h="8E2EE8C1">Dodaj</text>
+		<text id="wrd.b.Delete" h="D8FE3F70">Obriši</text>
+		<text id="wrd.b.DeleteAll" h="848E003C">Obriši sve</text>
+		<text id="wrd.l.Dictionary" h="66E4322E">Rečnik:</text>
+		<text id="wrd.l.Word" h="7AFBC23E">Reč:</text>
+		<text id="wrd.title" h="66DDC653">Prolagođena lista reči</text>
+	</Strings>
+</Localization>

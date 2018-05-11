@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220812">2.00.00</Version>
+	<Author>Markus Konsa, support@PDF-XChange.se, +46(0)31-3121100</Author>
+	<Copyright>PDF-XChange Sverige, +46(0)31-312 11 00
+https://pdf-xchange.se, 
+Tracker Software Products(Canada+UK) reg. partner.
+	</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Swedish (Sweden)" lName="svenska" code="sv-SE" R2L="false"/>
+	<Module name="FileOpenSH" namespace="fopw" version="6.0.322.7"/>
+	<Strings>
+		<text id="secure.printer.title" h="448D1D7F">Skrivaren är inte tillåten.</text>
+		<text id="secure.printer.text" h="7488F002">Skrivaren kan ej användas för säker utskrift. Starta om utskriften och välj en annan skrivare.</text>
+	</Strings>
+</Localization>

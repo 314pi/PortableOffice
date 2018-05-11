@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117213643">2.00.00</Version>
+	<Author>Markus Konsa, support@PDF-XChange.se, +46(0)31-3121100</Author>
+	<Copyright>PDF-XChange Sverige, +46(0)31-312 11 00
+https://pdf-xchange.se, 
+Tracker Software Products(Canada+UK) reg. partner.
+	</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Swedish (Sweden)" lName="svenska" code="sv-SE" R2L="false"/>
+	<Module name="Dropbox" namespace="db" version="6.0.322.7"/>
+	<Strings>
+		<text id="btn.cancel" h="3D302A38">&amp;Avbryt</text>
+		<text id="btn.chooseUser" h="4E5DDBFB">&amp;Välj användare</text>
+		<text id="btn.ok" h="FEF0C771">&amp;OK</text>
+		<text id="btn.open" h="B1A510F0">&amp;Öppna</text>
+		<text id="btn.save" h="F363C410">&amp;Spara</text>
+		<text id="btn.saveReplace" h="11BF9724">Spara och &amp;ersätt</text>
+		<text id="cmd.cmdsCategory" h="22B8ECE9">Dropbox</text>
+		<text id="cmd.open" h="028048E8">&amp;Dropbox...</text>
+		<text id="cmd.open.tip" h="683AE278">Öppna dokument från Dropbox.</text>
+		<text id="cmd.save" h="028048E8">&amp;Dropbox...</text>
+		<text id="cmd.save.tip" h="B5D0B78F">Spara aktivt dokument på ett Dropbox-konto.</text>
+		<text id="cmd.dropbox" h="6616FE70">&amp;Dropbox</text>
+		<text id="dlg.authenticate" h="E6E77652">Autentisera/bestyrka</text>
+		<text id="dlg.openFile" h="435887CD">Öppna fil</text>
+		<text id="dlg.saveFile" h="520CB069">Spara fil</text>
+		<text id="lb.itemsInFolder" h="8F56A98C">%d objekt</text>
+		<text id="lb.name" h="F7B9E475">Filnamn:</text>
+		<text id="ls.column.created" h="9E0B497D">Skapad</text>
+		<text id="ls.column.created.hint" h="291F5AEC">Datum och tid när fil, mapp eller lista skapades.</text>
+		<text id="ls.column.extension" h="14FEB836">Filändelse</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Filändelse</text>
+		<text id="ls.column.modified" h="691C3610">Senast ändrad</text>
+		<text id="ls.column.modified.hint" h="2C2CF8F2">Datum och tid när fil, mapp eller lista senast ändrades.</text>
+		<text id="ls.column.size" h="17A58A52">Storlek</text>
+		<text id="ls.column.size.hint" h="E79CA174">Filstorlek</text>
+		<text id="ls.column.title" h="D18643E3">Namn</text>
+		<text id="ls.column.title.hint" h="D883F263">Fil- eller mappnamn</text>
+		<text id="msg.connectError" h="A594B0D5">Kunde inte ansluta till Dropbox. Kontrollera din internetanslutning och åtkomsträttigheten för den begärda Dropbox-resursen.</text>
+		<text id="msg.fileNotFound" h="381368F8">Filen &lt;b&gt;%1&lt;/b&gt; kan inte hittas i den aktuell mappen.</text>
+		<text id="msg.invalidFileName" h="6BE657E3">&lt;b&gt;%1&lt;/b&gt; är inte ett giltigt filnamn, pga tecknen &lt;&gt;"/|?* är inte tillåtna.</text>
+		<text id="msg.navigateError" h="8BCFBD0F">Kunde inte navigera till Dropbox-resursen. Kontrollera din internetanslutning, riktigheten i resursadressen och åtkomsträttigheten för den begärda Dropbox-resursen.</text>
+		<text id="msg.openFailed" h="794811DE">Kunde inte öppna filen. Tillse att filen existerar och att du har läsbehörighet för den.</text>
+		<text id="msg.saveFailed" h="36780EC6">Kunde inte spara filen. Tillse att filnamnet är giltigt och att du har skrivrättigheter på målplatsen.</text>
+		<text id="msg.saveReplace" h="B1889DFB">Filen &lt;b&gt;%1&lt;/b&gt; finns redan. Vill du ersätta den?.</text>
+		<text id="msg.wrongUser" h="27773B86">Kan inte öppna resursen eftersom den tillhör ett annat Dropbox-konto. Vill du välja en annan användare?</text>
+	</Strings>
+</Localization>

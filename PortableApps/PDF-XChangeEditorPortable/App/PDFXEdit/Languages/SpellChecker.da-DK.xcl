@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220838">2.00.00</Version>
+	<Author>Regmos</Author>
+	<Copyright>Regmos 2018</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Danish (Denmark)" lName="dansk" code="da-DK" R2L="false"/>
+	<Module name="SpellChecker" namespace="spell" version="6.0.322.7"/>
+	<Strings>
+		<text id="dict.param.hyphen" h="50549BEC">Orddeling</text>
+		<text id="dict.param.spell" h="E10DA1DD">Stav</text>
+		<text id="lstDicts.empty" h="FFD5B8BB">&lt;ingen ordbog&gt;</text>
+		<text id="msg.CopyDictError" h="81324CC9">Kunne ikke kopiere ordbogsfiler</text>
+		<text id="msg.DictExists" h="650ABF1A">Ordbogen findes allerede</text>
+		<text id="msg.DictExists.title" h="B025530B">Ordbog findes</text>
+		<text id="msg.ErrorTitle" h="D9DB5E01">Stavekontrolfejl</text>
+		<text id="msg.LoadDictError" h="D139CD51">Kunne ikke indlæse ordbog</text>
+		<text id="msg.RemoveError" h="DDD3D452">Kunne ikke fjerne ordbog. Adgang nægtet.</text>
+		<text id="msg.WordExists" h="54B206DA">Ordet findes allerede</text>
+		<text id="msg.WordExists.title" h="A9AFB29B">Ord findes</text>
+		<text id="opt.b.AddDict" h="E0BF5FDE">Tilføj ordbog</text>
+		<text id="opt.b.CustomWordList" h="D1505337">Tilpasset ordliste</text>
+		<text id="opt.b.RemoveDict" h="D94F3439">Fjern ordbog</text>
+		<text id="opt.cb.AllowAlgoHyphens" h="D8C41308">Del ukendte ord</text>
+		<text id="opt.cb.EnableAllHyphens" h="207464CF">Aktivér orddeling</text>
+		<text id="opt.cb.EnableHyphens" h="71ECEEC4">Aktivér ordbogs orddeling</text>
+		<text id="opt.cb.EnableSpellChecker" h="1D563674">Aktivér stavekontrol</text>
+		<text id="opt.cb.IgnoreWordsInUppercase" h="BEB17F5B">Ignorér ord med STORE bogstaver</text>
+		<text id="opt.cb.IgnoreWordsWithNumbers" h="2AA28F70">Ignorér ord der indeholder tal</text>
+		<text id="opt.title" h="AEF9F007">Stavekontrol indstillinger</text>
+		<text id="wrd.b.AddWord" h="8E2EE8C1">Tilføj</text>
+		<text id="wrd.b.Delete" h="D8FE3F70">Slet</text>
+		<text id="wrd.b.DeleteAll" h="848E003C">Slet alle</text>
+		<text id="wrd.l.Dictionary" h="66E4322E">Ordliste:</text>
+		<text id="wrd.l.Word" h="7AFBC23E">Ord:</text>
+		<text id="wrd.title" h="66DDC653">Tilpasset ordliste</text>
+	</Strings>
+</Localization>

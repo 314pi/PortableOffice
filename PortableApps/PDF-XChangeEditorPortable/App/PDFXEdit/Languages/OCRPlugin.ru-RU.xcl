@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123215811">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Russian (Russia)" lName="Русский" code="ru-RU" R2L="false"/>
+	<Module name="OCRPlugin" namespace="ocr" version="7.0.323.3"/>
+	<Strings>
+		<text id="OrientationDetection" h="40F7AA0E">Автоматическое определение ориентации</text>
+		<text id="accuracy.high" h="21A95620">Выское </text>
+		<text id="accuracy.low" h="845E3D8C">Низкое</text>
+		<text id="accuracy.medium" h="91153342">Среднее</text>
+		<text id="cb.cuenoany" h="899F9872">Никакой не установлен</text>
+		<text id="cmd.name" h="6DAA8A17">OCR страниц...</text>
+		<text id="l.accuracy" h="3B2028D8">Точность:</text>
+		<text id="l.language" h="7B707020">Язык:</text>
+		<text id="lnk.more" h="2E2CCD84">&lt;a=1&gt;Другие языки... &lt;/a&gt;</text>
+		<text id="prefs.title" h="D0975E29">Параметры OCR</text>
+	</Strings>
+</Localization>

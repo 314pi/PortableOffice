@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20160912182517">2.00.00</Version>
+	<Author>Åke Engelbrektson - https://svenskasprakfiler.se</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Swedish (Sweden)" lName="svenska" code="sv-SE" R2L="false"/>
+	<Module name="PDFConverter" namespace="pdfconv" version="6.0.318.0"/>
+	<Strings>
+		<text id="cmd.nameTip.X" h="71C65F22">Exportera ett aktivt dokument till Microsoft Excel...</text>
+		<text id="cmd.nameTip" h="5DF5F44C">Exportera ett aktivt dokument till Microsoft PowerPoint-presentation...</text>
+		<text id="cmd.nameTip.W" h="08C70E7C">Exportera ett aktivt dokument till Microsoft Word...</text>
+		<text id="cmd.name.X" h="5F515377">Exportera till Microsoft Excel...</text>
+		<text id="cmd.name" h="FE79EAE9">Exportera till Microsoft PowerPoint-presentation...</text>
+		<text id="cmd.name.W" h="36A68CE1">Exportera till Microsoft Word-dokument...</text>
+		<text id="cmd.nameShort.X" h="4FDED68C">Till MS Excel...</text>
+		<text id="cmd.nameShort" h="C4DB7FDB">Till MS PowerPoint</text>
+		<text id="cmd.nameShort.W" h="23467A9D">Till MS Word...</text>
+		<text id="options.dpilevel" h="4D4FE579">%1 dpi</text>
+		<text id="optionsLBlastHope" h="DEA1EE3C">* I de fall konvertering av text till kurvor misslyckas, kommer texten att konverteras till bilder.</text>
+		<text id="convertation.Error1" h="388D83B4">Ett kritiskt fel inträffade vid dokumentkonvertering:</text>
+		<text id="optionsCBAllowCurves" h="976099D8">Tillåt konvertering av text med problematiska teckensnitt, till kurvor</text>
+		<text id="optionsCBAllowSubstitution" h="169F5988">Tillåt användning av substitut för teckensnitt som inte kan bäddas in</text>
+		<text id="optionsGBCommonOpt" h="4C043966">Allmäna inställningar</text>
+		<text id="optionsLBCompres" h="990F2529">Komprimering:</text>
+		<text id="optionsCBPageToImage" h="4C1A8806">Konvertera allt sidinnehåll till bild</text>
+		<text id="options.textmode.1" h="8419D7CE">Konvertera till kurvor</text>
+		<text id="options.textmode.2" h="60E91945">Konvertera till bilder</text>
+		<text id="convertation" h="B1E1828B">Konverterar PDF-dokument</text>
+		<text id="dpi" h="B39AC2C1">dpi</text>
+		<text id="optionsCBEmbedFont" h="3E50224C">Bädda in alla teckensnitt</text>
+		<text id="options.quality.3" h="21A95620">Hög</text>
+		<text id="optionsCBIncludeComments" h="B08E5CA8">Inkludera kommentarer</text>
+		<text id="optionsCBIncludeImages" h="969B2F6C">Inkludera bilder</text>
+		<text id="options.compress.1" h="25090095">JPG</text>
+		<text id="options.quality.1" h="845E3D8C">Låg</text>
+		<text id="options.quality.4" h="A8A97F0E">Maximal</text>
+		<text id="options.quality.2" h="91153342">Medium</text>
+		<text id="options.quality.0" h="8415F85F">Minimal</text>
+		<text id="optionsLBMode" h="274455FC">Läge:</text>
+		<text id="excel.filter" h="EB3AE627">MS Excel (*.xlsx)|*.xlsx|</text>
+		<text id="powerpoint.filter" h="484FCE4A">MS PowerPoint-presentation (*.pptx)|*.pptx|</text>
+		<text id="word.filter" h="AD076027">MS Word Document (*.docx)|*.docx|</text>
+		<text id="options" h="DAD7B4F4">Alternativ</text>
+		<text id="options.compress.0" h="378201C4">PNG</text>
+		<text id="options.textmode.0" h="77B1E837">Bevara text redigerbar</text>
+		<text id="optionsLBQuality" h="E3A77A93">Kvalitet:</text>
+		<text id="optionsLBdpiComm" h="0FE84938">Upplösning:</text>
+		<text id="optionsGBTextOpt" h="8545ED03">Alternativ för textkonvertering:</text>
+		<text id="optionsLBTextRaster" h="32A3B18F">Textrastreringskvalitet:</text>
+		<text id="optionsLBToImgParam" h="7B6ED6A6">Inställningar för text-till-bildkonvertering</text>
+		<text id="optionsIBTextRaster" h="699A1B72">Text kommer att rastreras om den inte kan konverteras enligt alternativen ovan.</text>
+		<text id="NoPermission" h="F6BEA48A">Dokumentet är skyddat. Du har inte tillräcklig behörighet för att utföra konverteringen.</text>
+		<text id="convertation.Error2" h="A394ADBC">Resultatfilen kan inte sparas.</text>
+		<text id="optionsLBIssuesFont" h="BB2E863E">När det uppstår kompatibilitets-/portabilitetsproblem med teckensnitt:</text>
+		<text id="optionsLBdpiCompression" h="4CA3E32A">Du kan justera rastreringskvaliteten för icke-konvertibla innehållsposter (såsom komplexa toningar) eller för hela sidan, när ovanstående alternativ är aktiverat.</text>
+	</Strings>
+</Localization>

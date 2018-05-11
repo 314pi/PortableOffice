@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123215804">2.00.00</Version>
+	<Author>Michael Dodl</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="German (Germany)" lName="Deutsch" code="de-DE" R2L="false"/>
+	<Module name="BookmarksPlugin" namespace="bp" version="7.0.323.3"/>
+	<Strings>
+		<text id="DlgAddExcludedWords" h="BED549D0">Neue Ausschlüsse hinzufügen</text>
+		<text id="DlgAddTextToBookmark" h="E5B26485">Text zu Lesezeichentitel hinzufügen</text>
+		<text id="DlgAutoGenerateBookmarks.Title" h="0E85373B">Erstelle Lesezeichen aus Seitentext</text>
+		<text id="DlgBookmarkAppearance" h="7544DDCE">Aussehen</text>
+		<text id="DlgBookmarkEveryNthPage" h="B6869582">Lesezeichen für jede N-te Seite</text>
+		<text id="DlgBookmarkLevelDescription" h="186C1D0A">Einstellungen zur Texterkennung</text>
+		<text id="DlgBookmarkPropSheet" h="862C67E7">Einstellungen zur Erstellung von Lesezeichen</text>
+		<text id="DlgBookmarkTitleFormatting" h="A87502C2">Formatierung</text>
+		<text id="DlgBookmarksToNamedDests" h="8A0957E5">In Sprungmarken umwandeln</text>
+		<text id="DlgBookmarksToTextFile" h="29F18B82">Lesezeichen in Textdatei exportieren</text>
+		<text id="DlgChangeBookmarkCase" h="4D74C7D9">Groß-/Kleinschreibung ändern</text>
+		<text id="DlgEditStopWords" h="911413E7">Stopwörter bearbeiten</text>
+		<text id="DlgFindReplaceBookmarkText" h="733A7FC1">Lesezeichentext suchen und ersetzen</text>
+		<text id="DlgFontNames" h="3C8B1F88">Schriftarten auswählen</text>
+		<text id="DlgFromTOC" h="AC2ED85C">Lesezeichen für Inhaltsverzeichnis</text>
+		<text id="DlgFromTOCIndentation" h="12688622">Einrückung ändern</text>
+		<text id="DlgFromTextFile" h="B3799046">Lesezeichen aus Textdatei erstellen</text>
+		<text id="DlgNamedDestsToPageNumbers" h="9CAE5E39">Sprungmarken zu normalen Zielen umwandeln</text>
+		<text id="DlgSheetBttfBookmarkProps" h="4B2F0AA2">Lesezeicheneigenschaften</text>
+		<text id="DlgSheetBttfSelectBookmarks" h="30673BCD">Allgemein</text>
+		<text id="DlgSortBookmarks" h="8339BB6C">Lesezeichen sortieren</text>
+		<text id="DlgToTOC" h="2B3E9BF1">Inhaltsverzeichnis erstellen</text>
+		<text id="DlgValidateBookmarks" h="0CD39971">Lesezeichen überprüfen</text>
+		<text id="atb.btn.Macroses" h="81734E4F">Mac</text>
+		<text id="atb.chb.IncludeChildren" h="0AC4CB2B">Alle darunterliegenden Ebenen einschließen</text>
+		<text id="atb.chb.ProcessAllLevels" h="26C3B2DF">Alle Ebenen verarbeiten</text>
+		<text id="atb.chb.RemoveSpaces" h="ABDEA5BC">Zusätzliche Leerzeichen aus Lesezeichentitel entfernen</text>
+		<text id="atb.gb.AddText" h="E21C9B55">Text hinzufügen</text>
+		<text id="atb.gb.Levels" h="8A668489">Lesezeichenebenen, die verarbeitet werden sollen</text>
+		<text id="atb.gb.SelectSource" h="1E2E96A4">Lesezeichenquelle auswählen</text>
+		<text id="atb.lbl.BookmarkTitle" h="2DC1254E">"Lesezeichentitel"</text>
+		<text id="atb.lbl.Prefix" h="A51A4726">Prefix zu Titel hinzufügen:</text>
+		<text id="atb.lbl.SelectLevel" h="D1263889">Ebene auswählen:</text>
+		<text id="atb.lbl.Suffix" h="C27741D5">Suffix zu Titel hinzufügen:</text>
+		<text id="atb.lbl.UseBookmarksFrom" h="E770326C">Benutze Lesezeichen:</text>
+		<text id="ba.chb.expand" h="BBA3BD8A">Alle Unterknoten ausklappen</text>
+		<text id="ba.l.expl" h="EE297184">Legen Sie das Aussehen der erstellten Lesezeichen fest:</text>
+		<text id="ba.l.textStyle" h="8D5CA9B5">Textformat:</text>
+		<text id="benp.Gb.Main" h="4B2F0AA2">Lesezeicheneigenschaften</text>
+		<text id="benp.Label.TitleTemplate" h="5E999567">Titelvorlage:</text>
+		<text id="benp.Label1.SelectN" h="8626E4EA">Lesezeichen alle</text>
+		<text id="benp.Label2.SelectN" h="6270721D">Seiten im ausgewählten Bereich</text>
+		<text id="benp.infoBtn.invalidMacro" h="1561C0F2">Die Zeichenfolge enthält einen nicht definierten Makronamen und wird ignoriert</text>
+		<text id="bft.l.actionSeparator" h="5C05CE1E">Trenner für Aktionen:</text>
+		<text id="bft.l.separator" h="A4269065">Feldtrenner:</text>
+		<text id="bld.btn.selStyle" h="EE213BC5">Format von ausgewähltem Text verwenden</text>
+		<text id="bld.chb.fontNames" h="AB457B23">Schriftart(en):</text>
+		<text id="bld.chb.limitToPattern" h="7F0826AB">Lesezeichentitel auf Textmuster einschränken</text>
+		<text id="bld.chb.matchTextPattern" h="5A64E195">Textmuster:</text>
+		<text id="bld.chb.multilineBookmarks" h="CB4817D1">Mehrzeilige Lesezeichentitel zulassen</text>
+		<text id="bld.g.textContentRules" h="5B364747">Regeln für den Textinhalt</text>
+		<text id="bld.l.description" h="2F770A5B">Wählen Sie folgende Textattribute, um automatisiert Lesezeichen aus dem Text zu erstellen:</text>
+		<text id="bld.l.matchTextCase" h="43616BDA">Groß-/Kleinschreibung:</text>
+		<text id="bld.matchTextCase.allCapital" h="D4E8E731">Alle Zeichen sind groß</text>
+		<text id="bld.matchTextCase.firstCapital" h="CAA2E79D">Erstes Zeichen ist ein Großbuchstabe</text>
+		<text id="bld.matchTextCase.firstDigit" h="42E73545">Erstes Zeichen ist eine Zahl</text>
+		<text id="bld.matchTextCase.noRestrictions" h="93089981">Keine Einschränkungen</text>
+		<text id="bnd.gb.Main" h="4DDA9780">Name der Sprungmarke</text>
+		<text id="bnd.lbl.NDTitle" h="7F7F73EC">Der Name wird nach folgender Maske erzeugt:</text>
+		<text id="btf.chb.insertAfter" h="DD7B743E">Text anhängen:</text>
+		<text id="btf.chb.insertBefore" h="CBDD1CF8">Text voranstellen:</text>
+		<text id="btf.chb.removeDuplicateSpaces" h="2653A648">Doppelte Leerzeichen entfernen</text>
+		<text id="btf.chb.replaceLineBreaks" h="0C51EEEB">Zeilenumbrüche durch Leerzeichen ersetzen</text>
+		<text id="btf.chb.replaceTitle" h="097EF3C2">In Lesezeichentiteln suchen und ersetzen</text>
+		<text id="btf.g.advancedFormatting" h="9130441A">Erweiterte Formatierung</text>
+		<text id="btf.g.textCase" h="97FCC959">Groß-/Kleinschreibung</text>
+		<text id="btf.l.characters" h="189C88D2">(Zeichen)</text>
+		<text id="btf.l.expl" h="169A084A">Texteigenschaften für die neuen Lesezeichentitel auswählen:</text>
+		<text id="btf.l.leadingNumbers" h="074A1A51">Nummerieren:</text>
+		<text id="btf.l.maxLength" h="A52EC501">Maximale Länge:</text>
+		<text id="btf.l.replacePattern" h="B54B1F92">Ersetzen durch:</text>
+		<text id="btf.l.searchPattern" h="E87DDC08">Suchmuster:</text>
+		<text id="btf.l.use" h="46DEA47A">Benutze:</text>
+		<text id="btf.leadingNumbers.noChange" h="3399B0A0">Keine Änderung</text>
+		<text id="btf.rb.doNotChange" h="4CBF2C1B">Unverändert</text>
+		<text id="btf.rb.lowercase" h="82451817">alles klein</text>
+		<text id="btf.rb.sentenceCase" h="B26B2798">Erstes wort groß</text>
+		<text id="btf.rb.titleCase" h="2C8DBF1B">Alle Wörter Groß</text>
+		<text id="btf.rb.uppercase" h="42F820C7">ALLES GROSS</text>
+		<text id="btf.use.letters" h="6EE7E478">Buchstaben</text>
+		<text id="btf.use.numbers" h="E2FE5FA7">Nummern</text>
+		<text id="btf.use.romanLetters" h="290A50ED">Römische Zahlen</text>
+		<text id="btn.add.custom" h="3080663C">Eigene hinzufügen...</text>
+		<text id="btn.highlight" h="2485FBFF">Lesezeichen markieren</text>
+		<text id="btn.validate" h="1E91E484">Überprüfen</text>
+		<text id="cbc.aew.label" h="7EC386C0">Fügen Sie ein neues Wort pro Zeile hinzu, das ausgeschlossen werden soll (Trennen mit "Enter"):</text>
+		<text id="cbc.cb.fromBookmarks" h="CF38CD8D">Ausgewählte Lesezeichen</text>
+		<text id="cbc.cb.fromDocument" h="424CAFC5">Alle Lesezeichen</text>
+		<text id="cbc.chb.EnterCustomWordList" h="EB8ACE1B">Wörter, die nicht berücksichtigt werden sollen:</text>
+		<text id="cbc.chb.IncludeChildrenBookmarks" h="051C6219">Auf alle untergeordneten Lesezeichen anwenden</text>
+		<text id="cbc.gb.SelectTextCase" h="F9747FC0">Groß-/Kleinschreibung auswählen</text>
+		<text id="cbc.gb.TextCaseOptions" h="DAD7B4F4">Einstellungen</text>
+		<text id="cbc.list.header" h="647D6FC4">Ausgeschlossene Wörter</text>
+		<text id="cbc.rbtn.LowerCase" h="82451817">alles klein</text>
+		<text id="cbc.rbtn.SentenceCase" h="B26B2798">Erstes wort groß</text>
+		<text id="cbc.rbtn.TitleCase" h="2C8DBF1B">Jedes Wort Groß</text>
+		<text id="cbc.rbtn.UpperCase" h="42F820C7">ALLES GROSS</text>
+		<text id="chb.ignoreDuplicates" h="B30FC50E">Aufeinanderfolgende doppelte Lesezeichen ignorieren</text>
+		<text id="chb.stopWords" h="491ED7FC">Text mit Stopwörtern ignorieren</text>
+		<text id="chb.verifyLinks" h="7A46B598">Links zu externen Dateien überprüfen</text>
+		<text id="chb.warnGoTo" h="911FC68A">Warnen bei ungültigen GoTo-Aktionen</text>
+		<text id="chb.warnGoToRE" h="C0827D11">Warnen bei ungültiger GoToR- oder GoToE-Aktionen</text>
+		<text id="chb.warnLaunchURI" h="94F27C09">Warnen bei ungültigen Start- und URL-Aktionen</text>
+		<text id="chb.warnNoActions" h="FBF997CF">Warnen bei leerer Aktionsliste und ohne Kindelemente</text>
+		<text id="chb.warnNoGoTo" h="66B02339">Warnen bei fehlender GoTo-Aktion</text>
+		<text id="chb.warnOther" h="B30D6C64">Warnen bei anderen ungültigen Aktionen</text>
+		<text id="chb.warnTitle" h="F0B5EE52">Waren bei leerem Titel</text>
+		<text id="cmd.addAGBLevel" h="928E2BB5">Ausgewähltes Textformat für Lesezeichenerstellung verwenden...</text>
+		<text id="cmd.addTextToBookmarkTitle" h="C4C93738">Text zu Lesezeichentitel hinzufügen...</text>
+		<text id="cmd.addTextToBookmarkTitle.short" h="E21C9B55">Text hinzufügen</text>
+		<text id="cmd.addTextToBookmarkTitle.tip" h="B412507B">Fügt Lesezeichen Prä- und Suffixe hinzu</text>
+		<text id="cmd.changeBookmarkCase" h="359544B0">Groß-/Kleinschreibung ändern</text>
+		<text id="cmd.changeBookmarkCase.short" h="BC4AE60A">Groß-/Kleinschreibung</text>
+		<text id="cmd.changeBookmarkCase.tip" h="48522DE3">Ändert die Groß-/Kleinschreibung der Lesezeichen</text>
+		<text id="cmd.findReplaceBookmarkText" h="AF996007">Text in Lesezeichen suchen und ersetzen...</text>
+		<text id="cmd.findReplaceBookmarkText.short" h="9F35A871">Suchen und ersetzen</text>
+		<text id="cmd.findReplaceBookmarkText.tip" h="7ED81F66">Sucht und ersetzt Text in Lesezeichen</text>
+		<text id="cmd.sort" h="B1FFF012">Lesezeichen sortieren...</text>
+		<text id="cmd.sort.short" h="579162B0">Sortieren</text>
+		<text id="cmd.sort.tip" h="90B74C06">Sortiert die Lesezeichen nach den angegebenen Kriterien</text>
+		<text id="cmd.validate" h="E61D60D2">Lesezeichen überprüfen...</text>
+		<text id="cmd.validate.short" h="1E91E484">Überprüfen</text>
+		<text id="cmd.validate.tip" h="AF7C0DD0">Prüft die Lesezeichen nach den angegebenen Kriterien auf Gültigkeit</text>
+		<text id="cmd.toTOC" h="9B7AEEEA">Inhaltsverzeichnis erstellen...</text>
+		<text id="cmd.toTOC.short" h="2B3E9BF1">Inhaltsverzeichnis erstellen</text>
+		<text id="cmd.toTOC.tip" h="E92DA1A8">Erstellt ein Inhaltsverzeichnis aus den Lesezeichen und den Seiten auf die sie zeigen</text>
+		<text id="cmd.bookmarksToNamedDests" h="9A9E5CF2">In Sprungmarken umwandeln...</text>
+		<text id="cmd.bookmarksToNamedDests.short" h="9226CE11">In Sprungmarken umwandeln</text>
+		<text id="cmd.bookmarksToNamedDests.tip" h="76CA39A1">Wandelt normale Ziele der Lesezeichen in Sprungmarken um</text>
+		<text id="cmd.bookmarksToTextFile" h="DBEBEEB8">Lesezeichen in Textdatei exportieren...</text>
+		<text id="cmd.bookmarksToTextFile.short" h="738D44A8">In Textdatei exportieren</text>
+		<text id="cmd.bookmarksToTextFile.tip" h="2F1DD236">Speichert die Lesezeichen als Textdatei</text>
+		<text id="cmd.bookmarksToHtmlFile" h="EFF75744">Lesezeichen in HTML-Datei exportieren...</text>
+		<text id="cmd.bookmarksToHtmlFile.short" h="76C20816">In HTML exportieren</text>
+		<text id="cmd.bookmarksToHtmlFile.tip" h="8968844D">Speichert die Lesezeichen als HTML-Datei</text>
+		<text id="cmd.namedDestsToPageNumbers" h="3A651CA9">Sprungmarken in normale Ziele umwandeln...</text>
+		<text id="cmd.namedDestsToPageNumbers.short" h="74C22304">Sprungmarken zu normalen Zielen</text>
+		<text id="cmd.namedDestsToPageNumbers.tip" h="2ABF8034">Wandelt Sprungmarken der Lesezeichen in normale Ziele um</text>
+		<text id="cmd.bookmarkEveryNthPage" h="940FCD39">Lesezeichen für jede N-te Seite...</text>
+		<text id="cmd.bookmarkEveryNthPage.short" h="71BCE832">Lesezeichen für jede Nte Seite</text>
+		<text id="cmd.bookmarkEveryNthPage.tip" h="B60E23D7">Erstellt Lesezeichen in Verbindung mit Seitenzahlen</text>
+		<text id="cmd.generate" h="2147DF79">Lesezeichen aus Seitentext...</text>
+		<text id="cmd.generate.short" h="8BE514A6">Aus Seitentext</text>
+		<text id="cmd.generate.tip" h="2A03253C">Erstellt Lesezeichen aus dem Text des Dokuments anhand des Formats und weiterer Parameter</text>
+		<text id="cmd.fromTOC" h="D15400EB">Lesezeichen aus Inhaltsverzeichnis...</text>
+		<text id="cmd.fromTOC.short" h="3AB39C50">Aus Inhaltsverzeichnis</text>
+		<text id="cmd.fromTOC.tip" h="D4170828">Erstellt Lesezeichen aus einem Inhaltsverzeichnis. Das Inhaltsverzeichnis muss vorher mit dem Textauswahlwerkzeug ausgewählt werden.</text>
+		<text id="cmd.fromTextFile" h="55CA46BC">Lesezeichen aus Textdatei...</text>
+		<text id="cmd.fromTextFile.short" h="3619B3DB">Aus Textdatei</text>
+		<text id="cmd.fromTextFile.tip" h="11167525">Erstellt Lesezeichen aus einer Textdatei. Das Format der Textdatei muss zum Format der Textdateien passen, die die Export-Funktion erzeugt.</text>
+		<text id="cmd.name" h="7CDCE9BE">&amp;Lesezeichen</text>
+		<text id="cmd.macro.firstLine" h="613F14A5">Erste Zeile der Seite</text>
+		<text id="cmd.macro.hierIndex" h="7DCA5F4D">Hierarchischer Index</text>
+		<text id="cmd.macro.hierTitle" h="0E7B4B6F">Hierarchischer Lesezeichentitel</text>
+		<text id="cmd.macro.indexInParent" h="1B41AFB1">Index des Eintrags</text>
+		<text id="cmd.macro.label" h="EEE40FF3">Seitentitel</text>
+		<text id="cmd.macro.launch" h="87D9EB8D">Datei öffnen</text>
+		<text id="cmd.macro.level" h="B863033F">Lesezeichenebene</text>
+		<text id="cmd.macro.namedDest" h="C4E8D8F5">Sprungmarke</text>
+		<text id="cmd.macro.sequentialNum" h="CDF4EA5E">Sequenznummer</text>
+		<text id="cmd.macro.title" h="3AB782A4">Lesezeichentitel</text>
+		<text id="cmd.macro.uri" h="6C21F7EF">Webseite öffnen</text>
+		<text id="ebttf.actType.all" h="B8B21253">Lesezeichen mit Hyperlink-Aktionen</text>
+		<text id="ebttf.actType.goto" h="05B4C93C">Lesezeichen mit Gehe-Zu-Seite-Aktionen</text>
+		<text id="ebttf.actType.gotoR" h="41E1955E">Lesezeichen mit Gehe-Zu-Datei-Aktionen</text>
+		<text id="ebttf.actType.js" h="07676EBA">Lesezeichen mit JavaScript-Aktionen</text>
+		<text id="ebttf.actType.launch" h="38537D36">Lesezeichen mit Datei-Öffnen-Aktionen</text>
+		<text id="ebttf.actType.uri" h="F39B51AE">Lesezeichen mit Web-Link-Öffnen-Aktionen</text>
+		<text id="ebttf.cb.separator.comma" h="827998F7">Komma</text>
+		<text id="ebttf.cb.separator.semi" h="988594A6">Strichpunkt</text>
+		<text id="ebttf.ch.doNotEscape" h="09B53F9F">Funktionssymbole wie @ # { } \ : usw. nicht escapen</text>
+		<text id="ebttf.ch.expClosedState" h="46E4EC7E">"Geschlossen-Zustand" des Lesezeichens exportieren</text>
+		<text id="ebttf.ch.expDetailedGotoDescr" h="18B9C243">Detaillierte Zielbeschreibung exportieren</text>
+		<text id="ebttf.ch.exportActions" h="3444FE51">Aktionen für den Export</text>
+		<text id="ebttf.ch.exportGoto" h="37493654">Seite exportieren, auf die das Lesezeichen verweist</text>
+		<text id="ebttf.ch.exportGotoR" h="92C06BA6">Beschreibung für "Gehe zu Datei"-Aktionen exportieren</text>
+		<text id="ebttf.ch.exportJS" h="9362EAE3">JavaScript-Aktionen exportieren</text>
+		<text id="ebttf.ch.exportLaunch" h="1B39BF89">Beschreibung für "Datei öffnen"-Aktionen exportieren</text>
+		<text id="ebttf.ch.exportStyle" h="A6713F10">Format und Farben des Lesezeichentexts exportieren</text>
+		<text id="ebttf.ch.exportWebLinks" h="3C61424C">Weblinks exportieren</text>
+		<text id="ebttf.ch.includeSubBookmarks" h="051C6219">Untergeordnete Lesezeichen einschließen</text>
+		<text id="ebttf.ch.openContFolder" h="80BDDAAC">Beinhaltenden Ordner öffnen</text>
+		<text id="ebttf.ch.overwriteExistingFiles" h="29981774">Existierende Dateien überschreiben</text>
+		<text id="ebttf.ch.resloveNamedDests" h="D1E8A9BC">Sprungmarken zu Seitenzahlen auflösen</text>
+		<text id="ebttf.gb.actionExportParams" h="DA853D34">Lesezeicheneigenschaften für den Export auswählen</text>
+		<text id="ebttf.gb.savingResults" h="49571A59">Einstellungen für die Ausgabe</text>
+		<text id="ebttf.gb.selectBookmarks" h="E2AFC2C6">Lesezeichen für den Export auswählen</text>
+		<text id="ebttf.infoBtn.doNotEscape" h="93A6DD6C">Wenn Sie die Ausgabe mit der "Lesezeichen aus Textdatei erstellen"-Funktion verwenden wollen, sollten Sie Funktionssymbole escapen.</text>
+		<text id="ebttf.infoBtn.invalidSeparator" h="44875D1F">Ein Trenner darf nicht leer sein und muss Leerzeichen oder alphanumerische Zeichen enthalten. Folgende Zeichen sind nicht erlaubt: @ # : { }  \</text>
+		<text id="ebttf.lbl.folder" h="3F9ED2F9">Ordner:</text>
+		<text id="ebttf.lbl.separator" h="E9D351AC">Trenner:</text>
+		<text id="ebttf.rb.exportActionTypes" h="533F8EA6">Hyperlink-Lesezeichen exportieren:</text>
+		<text id="ebttf.rb.exportAll" h="8F2ED544">Alle exportieren</text>
+		<text id="ebttf.rb.exportSelected" h="69FB5145">Ausgewählte Lesezeichen exportieren</text>
+		<text id="ebttf.rb.useDefaultFilename" h="0E7FC989">PDF-Dateinamen für das Speichern der Ergebnisse verwenden</text>
+		<text id="esw.chb.matchCase" h="2E5EFD7E">Groß/Klein beachten</text>
+		<text id="esw.chb.matchWhole" h="17009870">Nur ganze Wörter</text>
+		<text id="esw.chb.useRegExp" h="7FC6EB4F">Reguläre Ausdrücke verwenden</text>
+		<text id="esw.l.explanation" h="2C312B17">Text, der diese Stopwörter enthält, wird ignoriert und beim Erstellen von Lesezeichen nicht berücksichtigt.</text>
+		<text id="fn.l.selectFontNames" h="0CCEF1FA">Schriftart(en) auswählen:</text>
+		<text id="frbt.chb.MatchCase" h="12EB8088">Groß-/Kleinschreibung</text>
+		<text id="frbt.chb.MatchWholeWord" h="FE8CC762">Nur ganze Wörter</text>
+		<text id="frbt.chb.UseRegex" h="7FC6EB4F">Reguläre Ausdrücke verwenden</text>
+		<text id="frbt.gb.FindReplace" h="BA012728">Suchen- und Ersetzeneinstellungen</text>
+		<text id="frbt.lbl.FindWhat" h="D0A8A2C5">Suchen:</text>
+		<text id="frbt.lbl.ReplaceWith" h="3BE65784">Ersetzen durch:</text>
+		<text id="ftoc.allIncluded" h="C994FC1B">Alle einschließen</text>
+		<text id="ftoc.b.indents" h="48800D32">Einrückung...</text>
+		<text id="ftoc.chb.addBookmarks" h="CBBAE768">Lesezeichen anhand eines Inhaltsverzeichnisses erstellen</text>
+		<text id="ftoc.chb.addLinks" h="68456DBA">Links zu den Einträgen des Inhaltsverzeichnisses hinzufügen</text>
+		<text id="ftoc.chb.createLevels" h="58CF083A">Aus Einrückungen im Inhaltsverzeichnis Lesezeichenhierarchie ableiten</text>
+		<text id="ftoc.chb.improveDest" h="417AD7B0">Versuche Sprungziele der Lesezeichen anhand des Texts zu verbessern</text>
+		<text id="ftoc.chb.trimNumbers" h="40ACC5F5">Nummerierung aus Lesezeichentiteln entfernen</text>
+		<text id="ftoc.chb.trimSpaces" h="5A27A063">Mehrfache Lesezeichen aus Lesezeichentiteln entfernen</text>
+		<text id="ftoc.chb.useExistingLinks" h="E214DBE7">Existierende Links als Sprungziele für Lesezeichen verwenden</text>
+		<text id="ftoc.l.bottomIndent" h="C983AD6F">Einrückung unten:</text>
+		<text id="ftoc.l.expl" h="1FAB779E">Erstellen Sie Lesezeichen aus ausgewählten Einträgen eines Inhaltsverzeichnisses. Dabei können Links im Inhaltsverzeichnis hinzugefügt oder bestehende Links als Sprungziele für Lesezeichen verwendet werden.</text>
+		<text id="ftoc.l.offsetExpl" h="9D6C25F6">Unterschied zwischen der tatsächlichen Seitenzahl und den aufgedruckten Seitenzahlen (kann positiv oder negativ sein).</text>
+		<text id="ftoc.l.pageOffset" h="9E563407">Seitenversatz:</text>
+		<text id="ftoc.l.separator" h="45CF4893">Trenner auswählen:</text>
+		<text id="ftoc.l.topIndent" h="FA827580">Einrückung oben:</text>
+		<text id="msg.bft.warning" h="726201E6">Bitte wählen Sie unterschiedliche Symbole für als Feld- und Aktionstrennzeichen</text>
+		<text id="msg.cbc.excludedwords.add.title" h="9ADE883B">Neuen Ausschluss hinzufügen</text>
+		<text id="msg.cbc.excludedwords.caption" h="6B29D4B4">Neuen Ausschluss hinzufügen:</text>
+		<text id="msg.cbc.excludedwords.edit.title" h="82F8AAA6">Ausgewählten Ausschluss bearbeiten</text>
+		<text id="msg.dlg.bookmarksToTextFile.done" h="8E1397E9">Lesezeichen wurden erfolgreich exportiert.</text>
+		<text id="msg.dlg.emptyFilename.warning" h="96A438DA">Dateiname darf nicht leer sein.</text>
+		<text id="msg.dlg.invalidFilename.slashes" h="626318B0">Der Dateiname darf weder aufeinanderfolgende  noch /-Zeichen enthalten, noch mit ihnen enden.</text>
+		<text id="msg.dlg.invalidFilename.warning" h="46CD566C">Dateinamen dürfen keines der folgenden Zeichen enthalten: * ? : | " &lt; &gt;</text>
+		<text id="msg.dlg.noActionsSelected.warning" h="933F1901">"Lesezeichenaktionen  exportieren" wurde ausgewählt, aber keine Aktionsarten ausgewählt. Bitte wählen Sie mindestens eine Aktionsart aus oder wählen Sie die "Lesezeichenaktionen  exportieren"-Option ab.</text>
+		<text id="msg.dlg.noSelectedBookmarks.warning" h="21F37C67">Sie haben keine Lesezeichen im Dokument ausgewählt. Bitte wählen Sie mindestens ein Lesezeichen oder ändern Sie die Lesezeichenquelle auf "Alle Lesezeichen".</text>
+		<text id="msg.dlg.pathDoesntExist.warning" h="0804B942">Der angegebene Ordner existiert nicht. Bitte wählen Sie einen gültigen Ordner und versuchen Sie es erneut.</text>
+		<text id="msg.font.addCustom.caption" h="75533687">Neuen PDF-Schriftnamen eingeben:</text>
+		<text id="msg.font.addCustom.title" h="06AFFCAB">Neue Schriftart hinzufügen</text>
+		<text id="msg.frbt.result.bookmarksCount" h="EE00AC0B">Die Suche wurde abgeschlossen. Veränderte Lesezeichen: %1</text>
+		<text id="msg.frbt.result.noBookmarksModified" h="84BE491B">Die Suche wurde abgeschlossen. Keine Lesezeichen wurden verändert.</text>
+		<text id="msg.levelDesc.title" h="E92EACC5">Beschreibungen für Ebene</text>
+		<text id="msg.levelDesc.warning" h="86A85979">Mit diesen Parametern können keine neuen Lesezeichen erstellt werden. Bitte wählen Sie mindestens ein Kriterium in den Textvergleichseinstellungen aus. Prüfen Sie ebenfalls, ob die ausgewählten Elemente Daten enthalten.</text>
+		<text id="msg.oper.noChanges" h="5777DD79">Es wurden keine Änderungen gemacht. Bitte überprüfen Sie Ihre Eingabe.</text>
+		<text id="msg.oper.warning" h="ABDCBB65">Bei der Ausführung sind einige Probleme aufgetreten. Bitte überprüfen Sie das Ergebnis.</text>
+		<text id="msg.regex.error" h="D799FCBE">Fehler beim Verarbeiten der Textdatei</text>
+		<text id="msg.stopWords.add.title" h="F6B54725">Neuen Stoptext hinzufügen</text>
+		<text id="msg.stopWords.caption" h="E2BC1B9E">Neues Stopwort oder Stopsatz eingeben:</text>
+		<text id="msg.stopWords.edit.title" h="AFE604DF">Ausgewählten Stoptext bearbeiten</text>
+		<text id="msg.validateBookmarks.delete.caption" h="ED4457F4">Wollen Sie die ausgewählten Lesezeichen und tieferliegende Elemente löschen?</text>
+		<text id="msg.validateBookmarks.delete.title" h="8FF00765">Ungültige Lesezeichen löschen</text>
+		<text id="msg.validateBookmarks.rename.caption" h="CE842D61">Neuen Lesezeichennamen eingeben:</text>
+		<text id="msg.validateBookmarks.rename.title" h="ED9AF7FA">Lesezeichen umbenennen</text>
+		<text id="ndpn.ch.deleteDests" h="BC12FBF0">Umgewandelte Sprungmarken aus dem Dokument entfernen</text>
+		<text id="op.GenerateBookmarks" h="05382BCA">Lesezeichen erstellen</text>
+		<text id="op.ValidateBookmarks.msg.emptyActionsList" h="A0A0065C">Dem Lesezeichen sind keine Aktionen zugeordnet.</text>
+		<text id="op.ValidateBookmarks.msg.emptyTitle" h="83F3E965">Der Lesezeichentitel ist leer.</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidDestName" h="81A40483">GoTo-Aktion bezieht sich auf ungültige Sprungmarke</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidPageNumber" h="C8941D79">GoTo-Aktion bezieht sich auf nicht existierende Seite.</text>
+		<text id="op.ValidateBookmarks.msg.goto.noAction" h="368F0970">Es ist keine GoTo-Aktion in der Aktionsliste enthalten.</text>
+		<text id="op.ValidateBookmarks.msg.gotoE.invalidTargetPath" h="9D8A50F1">Das Ziel in der GoToE-Aktion ist leer oder existiert nicht.</text>
+		<text id="op.ValidateBookmarks.msg.gotoR.invalidFile" h="76CCA61D">GoToR-Aktion bezieht sich auf nicht vorhandene Datei.</text>
+		<text id="op.ValidateBookmarks.msg.gotoR.invalidPath" h="560614BE">Der Pfad zur Datei ist ungültig.</text>
+		<text id="op.ValidateBookmarks.msg.invalidAction" h="84877FDA">Die Aktion %1 ist ungültig.</text>
+		<text id="progress.BookmarkEveryNthPage.title" h="DA523087">Lesezeichen für Seiten erstellen...</text>
+		<text id="progress.addTextToBookmarkTitle.text" h="BE27C5C9">Text zu Lesezeichen hinzufügen: %1...</text>
+		<text id="progress.addTextToBookmarkTitle.title" h="EC7EB408">Text zu Lesezeichen hinzufügen...</text>
+		<text id="progress.addingBookmark" h="45BBB17E">Lesezeichen hinzufügen: %1 von %2...</text>
+		<text id="progress.bookmarksToHtmlFile.status" h="AF1901AD">Exportiere Lesezeichen %1 von %2...</text>
+		<text id="progress.bookmarksToHtmlFile.text" h="4DD531FF">Exportiere Lesezeichen: %1...</text>
+		<text id="progress.bookmarksToHtmlFile.title" h="E1D21FEE">Exportiere Lesezeichen in HTML-Datei...</text>
+		<text id="progress.bookmarksToNamedDests.text" h="CE73819F">Lesezeichen umwandeln: %1...</text>
+		<text id="progress.bookmarksToNamedDests.title" h="8DB00717">Umwandeln zu Sprungmarken...</text>
+		<text id="progress.bookmarksToTextFile.text" h="6E74EA26">Verarbeite Lesezeichen für den Export: %1</text>
+		<text id="progress.bookmarksToTextFile.title" h="D2C04472">Exportiere Lesezeichen in Textdatei...</text>
+		<text id="progress.calculatingBookmarks" h="4AC26E12">Zähle Lesezeichen...</text>
+		<text id="progress.changingBookmarkCase.text" h="107628CA">Groß-/Kleinschreibung ändern: %1...</text>
+		<text id="progress.changingBookmarkCase.title" h="E01AED17">Groß-/Kleinschreibung ändern</text>
+		<text id="progress.findReplaceBookmarkText.text" h="ABC58F1D">Verarbeite Lesezeichen: %1</text>
+		<text id="progress.findReplaceBookmarkText.title" h="00FEBD2A">Lesezeichentext ersetzen...</text>
+		<text id="progress.generateBookmarks" h="3D5E30ED">Erstelle Lesezeichen von Seite %1...</text>
+		<text id="progress.generatingBookmarks" h="CFF0F2A9">Lesezeichen erstellen</text>
+		<text id="progress.generatingBookmarks.label" h="043CF7B1">Lesezeichen hinzufügen: %1...</text>
+		<text id="progress.generatingLevels" h="07A22443">Erstelle Ebenen aus Lesezeichen...</text>
+		<text id="progress.generatingTOC" h="A438CB9C">Erstelle Inhaltsverzeichnis</text>
+		<text id="progress.generatingTOCFromBookmark" h="C9213435">Erstelle Inhalt aus Lesezeichen: %1...</text>
+		<text id="progress.namedDestsToPageNumbers.deleteNds" h="5DFFFF06">Lösche Sprungmarken...</text>
+		<text id="progress.namedDestsToPageNumbers.title" h="4615CB0B">Sprungmarken zu Seitenzahlen umwandeln...</text>
+		<text id="progress.parsingFile" h="B2405DA1">Imprtiere Lesezeichenstruktur aus Textdatei...</text>
+		<text id="progress.precalculatingPages" h="DB83BEF7">Erstelle die Seiten mit dem Inhaltsverzeichnis...</text>
+		<text id="progress.preparingSelected" h="52031EDE">Ausgewählte Lesezeichen vorbereiten...</text>
+		<text id="progress.sortingBookmarks" h="99E846CF">Sortiere Lesezeichen: %1...</text>
+		<text id="progress.sortingBookmarks.status" h="451C3890">Sortiere Lesezeichen %1 von %2...</text>
+		<text id="progress.sortingBookmarks.title" h="E134B46E">Lesezeichen sortieren</text>
+		<text id="progress.statusText.ProcessingBookmarks" h="3836AD6B">Verarbeite Lesezeichen %1 von %2...</text>
+		<text id="progress.statusText.ProcessingBookmarksDone" h="67CB6C48">Verarbeitung der Lesezeichen abgeschlossen.</text>
+		<text id="progress.undoingChanges" h="BBD3EE96">Änderungen rückgängig machen...</text>
+		<text id="regex.error.backref" h="3D1C1BE5">Der Ausdruck enthält eine ungültige Referenz.</text>
+		<text id="regex.error.badbrace" h="4363EA7D">Der Ausdruck enthält einen ungültigen Bereich zwischen Klammern: '{' und '}'.</text>
+		<text id="regex.error.badrepeat" h="9091944F">Der Ausdruck enthält ein Wiederholungszeichen (*?+{) vor dem kein gültiger regulärer Ausdruck steht.</text>
+		<text id="regex.error.brace" h="3031B0A1">Der Ausdruck enthält ungültige Klammern: '{' und '}'.</text>
+		<text id="regex.error.brack" h="A41AB311">Der Ausdruck enthält ungültige Klammern: '[' und ']'.</text>
+		<text id="regex.error.collate" h="D15FB49F">Der Ausdruck enthält einen ungültigen Sammelelementnamen.</text>
+		<text id="regex.error.complexity" h="76ADCA5C">Die Komplexität beim Versuch einen regulären Ausdruck zu vergleichen hat einen festgelegten Grenzwert überschritten.</text>
+		<text id="regex.error.ctype" h="76D6C176">Der Ausdruck enthält einen ungültigen Zeichenklassennamen.</text>
+		<text id="regex.error.default" h="509A660E">Ein Fehler ist beim Verarbeiten des regulären Ausdrucks aufgetreten.</text>
+		<text id="regex.error.escape" h="4BAF1552">Der Ausdruck enthält ein ungültiges Escape-Zeichen</text>
+		<text id="regex.error.paren" h="11F2EE54">Der Ausdruck enthält ungültige Klammern: '(' und ')'.</text>
+		<text id="regex.error.range" h="CDB00023">Der Ausdruck enthält einen ungültigen Zeichenbereich (z.B. [z-a])</text>
+		<text id="regex.error.space" h="2FFB9DD7">Es war nicht genügend Speicher verfügbar um den regulären Ausdruck zu verarbeiten.</text>
+		<text id="regex.error.stack" h="2F47E3EC">Es war nicht genügend Speicher verfügbar, um festzustellen, ob der reguläre Ausdruck auf die Zeichenfolge passt.</text>
+		<text id="regex.error.syntax" h="4F399035">Fehler im regulären Ausdruck</text>
+		<text id="sb.ascending" h="59F2363F">Aufsteigend</text>
+		<text id="sb.chb.ignoreCase" h="E0949C6C">Groß-/Kleinschreibung ignorieren</text>
+		<text id="sb.chb.sortAll" h="7BB3E98C">Alle Lesezeichenebenen sortieren</text>
+		<text id="sb.chb.sortChildren" h="B1087C90">Tiefer liegende Lesezeichen sortieren</text>
+		<text id="sb.descending" h="74091246">Absteigend</text>
+		<text id="sb.g.sortingMethod" h="93D0D863">Sortieren nach</text>
+		<text id="sb.l.selectLevel" h="62FA8E9C">Sortieren ab Lesezeichenebene:</text>
+		<text id="sb.l.sortType" h="85828DAE">Sortierung:</text>
+		<text id="sb.rb.sortAlpha" h="F9CD110C">Alphabetisch</text>
+		<text id="sb.rb.sortByPage" h="EB2AF7E4">Referenzierter Seitenzahl</text>
+		<text id="test" h="A538F326">Testtext</text>
+		<text id="tree.fontColor" h="210B1C91">Textfarbe:</text>
+		<text id="tree.fontName" h="ACA86074">Schriftname:</text>
+		<text id="tree.fontSize" h="B3CE43BA">Schriftgröße:</text>
+		<text id="tree.fontTolerance" h="7781AAB6">Toleranz:</text>
+		<text id="tree.level" h="9B075A86">Ebene:</text>
+		<text id="tree.textPattern" h="24121AD7">Textmuster:</text>
+		<text id="tree.vb.bookmark" h="9926EC31">&lt;b&gt;%1. Lesezeichen:&lt;/b&gt; "%2"</text>
+		<text id="ttoc.b.build" h="DE9A0F1C">Erstellen</text>
+		<text id="ttoc.b.changeNumber" h="DD04BEA8">Format ändern...</text>
+		<text id="ttoc.b.changeTitle" h="3B951B9A">Titelformat ändern...</text>
+		<text id="ttoc.chb.asLastPage" h="D323F9DD">Als letzte Seite</text>
+		<text id="ttoc.chb.end" h="9F41B967">Alle Lesezeichenebenen verwenden</text>
+		<text id="ttoc.chb.skipInvalid" h="F864C487">Ungültige Lesezeichen überspringen</text>
+		<text id="ttoc.chb.useDifferentNumberFormatting" h="A39D9F18">Nummernformat anpassen</text>
+		<text id="ttoc.chb.useDifferentSeparatorFormatting" h="7D6F82B2">Trennerformatierung anpassen</text>
+		<text id="ttoc.chb.useSizeFromDoc" h="79C19271">Seitengröße aus Dokument ermitteln</text>
+		<text id="ttoc.g.pageNumbering" h="21AF4605">Seitennummerierung</text>
+		<text id="ttoc.g.pageSettings" h="D82087B4">Seiteneinstellungen:</text>
+		<text id="ttoc.ib.numberFormat" h="D41C6CB8">&lt;b&gt;Nummernformat:&lt;/b&gt; &lt;i&gt;Schriftfamilie:&lt;/i&gt; %1, &lt;i&gt;Schriftgröße:&lt;/i&gt; %2 pt, &lt;i&gt;Schriftfarbe:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.ib.separatorFormat" h="14A80F28">&lt;b&gt;Trennerformat:&lt;/b&gt; &lt;i&gt;Schriftfamilie:&lt;/i&gt; %1, &lt;i&gt;Schriftgröße:&lt;/i&gt; %2 pt, &lt;i&gt;Schriftfarbe:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.ib.titleFormat" h="4A9C0388">&lt;b&gt;Titelformat:&lt;/b&gt; &lt;i&gt;Schriftfamilie:&lt;/i&gt; %1, &lt;i&gt;Schriftgröße:&lt;/i&gt; %2 pt, &lt;i&gt;Schriftfarbe:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.l.end" h="43FA653A">Tiefste Lesezeichenebene für Verzeichnis:</text>
+		<text id="ttoc.l.insertAsPage" h="B68AF5B1">Inhaltsverzeichnis vor Seite:</text>
+		<text id="ttoc.l.outputPagesAs" h="96E6A50A">Seitenzahlen ausgeben als:</text>
+		<text id="ttoc.l.pageMargins" h="DA4D6B15">Seitenränder:</text>
+		<text id="ttoc.l.start" h="B03149CB">Oberste Lesezeichenebene für Verzeichnis:</text>
+		<text id="ttoc.l.title" h="930D3835">Titel:</text>
+		<text id="ttoc.l.titleFormatting" h="21C775EE">Titelformatierung aktualisieren:</text>
+		<text id="ttoc.output.bates" h="ECE56FA9">Paginierung (falls vorhanden)</text>
+		<text id="ttoc.output.labels" h="EAE579C1">Seitentitel</text>
+		<text id="ttoc.output.numbers" h="38E0043C">Original Seitenzahlen</text>
+		<text id="ttoc.style.dots" h="C13D9439">Kapitel............1</text>
+		<text id="ttoc.style.spaces" h="D9E4F5A0">Kapitel                1</text>
+		<text id="ttoc.style.underline" h="B52B746A">Kapitel________1</text>
+		<text id="ttoc.tableOfContents" h="080B4CC0">Inhaltsverzeichnis</text>
+		<text id="undefinedFont" h="06D72DED">Schriftart nicht definiert (%1)</text>
+		<text id="vb.invalidALWarining" h="6B3E67E5">Die Änderungen können wegen einer ungültigen Aktionsliste nicht durchgeführt werden. Die Liste muss mindestens eine Aktion enthalten!</text>
+		<text id="vb.l.invalidBookmarks" h="EE502FFE">%1 ungültige(s) Lesezeichen gefunden</text>
+		<text id="rtab" h="7CDCE9BE">&amp;Lesezeichen</text>
+		<text id="rbar.create" h="EDCA1553">Erstellen</text>
+		<text id="rbar.modify" h="EA358CAF">Ändern</text>
+		<text id="rbar.convert" h="EFAC3874">Umwandeln</text>
+	</Strings>
+</Localization>

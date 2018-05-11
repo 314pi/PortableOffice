@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220812">2.00.00</Version>
+	<Author>Osman Öz</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Turkish (Turkey)" lName="Türkçe" code="tr-TR" R2L="false"/>
+	<Module name="FileOpenSH" namespace="fopw" version="6.0.322.7"/>
+	<Strings>
+		<text id="secure.printer.title" h="448D1D7F">Bu yazıcıya izin verilmiyor.</text>
+		<text id="secure.printer.text" h="7488F002">Bu yazıcıya güvenli yazdırma izni verilmiyor. Lütfen başka bir yazıcı seçin ve yazdırmaya tekrar başlayın.</text>
+	</Strings>
+</Localization>

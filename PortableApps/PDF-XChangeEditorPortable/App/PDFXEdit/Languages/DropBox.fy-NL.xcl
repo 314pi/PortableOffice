@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123223803">2.00.00</Version>
+	<Author>Berend Ytsma</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Western Frisian (Netherlands)" lName="Frysk" code="fy-NL" R2L="false"/>
+	<Module name="Dropbox" namespace="db" version="7.0.323.3"/>
+	<Strings>
+		<text id="btn.cancel" h="3D302A38">&amp;Ofbrekke</text>
+		<text id="btn.chooseUser" h="4E5DDBFB">Brûker &amp;kieze</text>
+		<text id="btn.ok" h="FEF0C771">&amp;Okee</text>
+		<text id="btn.open" h="B1A510F0">&amp;Iepenje</text>
+		<text id="btn.save" h="F363C410">&amp;Bewarje</text>
+		<text id="btn.saveReplace" h="11BF9724">Bewarj en fe&amp;rfange</text>
+		<text id="cmd.cmdsCategory" h="22B8ECE9">Dropbox</text>
+		<text id="cmd.open" h="028048E8">&amp;Dropbox...</text>
+		<text id="cmd.open.tip" h="683AE278">Dokumint út Dropbox iepenje.</text>
+		<text id="cmd.save" h="028048E8">&amp;Dropbox...</text>
+		<text id="cmd.save.tip" h="B5D0B78F">In aktyf dokumint yn Dropbox bewarje.</text>
+		<text id="cmd.dropbox" h="6616FE70">&amp;Dropbox</text>
+		<text id="dlg.authenticate" h="E6E77652">Ferifikaasje</text>
+		<text id="dlg.openFile" h="435887CD">Triem iepenje</text>
+		<text id="dlg.saveFile" h="520CB069">Triem bewarje</text>
+		<text id="lb.itemsInFolder" h="8F56A98C">%d items</text>
+		<text id="lb.name" h="F7B9E475">Triemnamme:</text>
+		<text id="ls.column.created" h="9E0B497D">Datum oanmakke</text>
+		<text id="ls.column.created.hint" h="291F5AEC">Datum en tiid doe't triem, map of list oanmakke waard.</text>
+		<text id="ls.column.extension" h="14FEB836">Taheaksel</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Triem taheaksel</text>
+		<text id="ls.column.modified" h="691C3610">Datum feroare</text>
+		<text id="ls.column.modified.hint" h="2C2CF8F2">Datum en tiid doe't triem, map of list oanpast waard</text>
+		<text id="ls.column.size" h="17A58A52">Grutte</text>
+		<text id="ls.column.size.hint" h="E79CA174">Triem grutte</text>
+		<text id="ls.column.title" h="D18643E3">Namme</text>
+		<text id="ls.column.title.hint" h="D883F263">Triem/mapnamme</text>
+		<text id="msg.connectError" h="A594B0D5">Ferbininen mei Dropbox mislearre. Kontrolearje jo ynternet ferbining en foech foar tagong ta it frege materiaal.</text>
+		<text id="msg.fileNotFound" h="381368F8">Triem &lt;b&gt;%1&lt;/b&gt; waard net fûn yn de hjoeddeiske map.</text>
+		<text id="msg.invalidFileName" h="6BE657E3">&lt;b&gt;%1&lt;/b&gt; is net in jildige triemnamme, symboalen lykas &lt; &gt; " / \ | ? *  wurde net tastien.</text>
+		<text id="msg.navigateError" h="8BCFBD0F">Kontrolearje jo ynternet ferbining, en dat it juste adres oantsjutte is em dat jo foech foar tagong de frege Dropbox item oanwêzich is.</text>
+		<text id="msg.openFailed" h="794811DE">It iepenjen fan de triem mislearre. Wês wis dat de triem bestiet en jo foech ha om it te lêzen.</text>
+		<text id="msg.saveFailed" h="36780EC6">It bewarjen fan de triem mislearre. Wês wis dat de triemnamme jildich is en of jo foech ha om it te bewarjen en DropBox genôch romte hat.</text>
+		<text id="msg.saveReplace" h="B1889DFB">De triem &lt;b&gt;%1&lt;/b&gt; bestiet al. Wolle jo it ferfange?</text>
+		<text id="msg.wrongUser" h="27773B86">De triem/map kin net iepene wurde omdat it taheard ta in Dropbox fan in oare brûker. Wolle jo in oare brûker kieze?</text>
+		<text id="str.fileSystemName" h="22B8ECE9">Dropbox</text>
+	</Strings>
+</Localization>

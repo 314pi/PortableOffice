@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220820">2.00.00</Version>
+	<Author>Jovo Vilendečić</Author>
+	<Copyright>Jovo Vilendečić</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Serbian (Latin, Serbia)" lName="Srpski" code="sr-Latn-RS" R2L="false"/>
+	<Module name="GoogleDrivePlugin" namespace="gd" version="6.0.322.7"/>
+	<Strings>
+		<text id="DlgOpenFile" h="B98AB29D">Otvori datoteku iz Google Drive-a</text>
+		<text id="DlgSaveFile" h="81F99046">Sačuvajte datoteku na Google Drive</text>
+		<text id="GDPlugin" h="32B7E3E0">Google Drive plagin</text>
+		<text id="btn.connectToAnother" h="508BDBC5">Nova prijava...</text>
+		<text id="cmd.cmdsCategory" h="AD23B285">Google Drive</text>
+		<text id="cmd.googledrive" h="1D28DF85">&amp;Google Drive</text>
+		<text id="cmd.open" h="F32ECED5">&amp;Google Drive...</text>
+		<text id="cmd.open.tip" h="933837A2">Otvori dokument sa Google Drive-a.</text>
+		<text id="cmd.save" h="F32ECED5">&amp;Google Drive...</text>
+		<text id="cmd.save.tip" h="948C3269">Sačuvaj aktivni dokument na Google Drive.</text>
+		<text id="cpt.fileNotFound" h="A7F5FA7A">Datoteka nije nađena</text>
+		<text id="cpt.invalidFileName" h="79C1387C">Nevalidni naziv dokumenta</text>
+		<text id="cpt.navigateError" h="3D300A1C">Greška u navigaciji</text>
+		<text id="cpt.saveReplace" h="520CB069">Sačuvajte datoteku</text>
+		<text id="cpt.selectFile" h="C55D68B0">Izbor datoteke</text>
+		<text id="dlg.googleAuth" h="E5642F22">GoogleDrive autentifikacija</text>
+		<text id="fileName" h="DEC92488">Naziv datoteke:</text>
+		<text id="lb.CurrentFolder" h="44158804">Trenutna fascikla:</text>
+		<text id="lb.Test" h="273F3E5B">Test Test Test!</text>
+		<text id="lb.googleAccName" h="C94645A3">Google nalog:</text>
+		<text id="msg.fileNotFound" h="430E08B1">Datoteka "%1" nije nađena u trenutnoj fascikli.</text>
+		<text id="msg.invalidFileName" h="7C0655B5">"%1" nije validni naziv dokumenta.</text>
+		<text id="msg.navigateError" h="2FCAA72A">Navigacija do Google Drive-a nije uspela. Molimo da proverite svoju internet konenkciju i prava za pristup zahtevanim Google Drive resursima.</text>
+		<text id="msg.openFailed" h="AC94D960">Otvaranje datoteke nije uspelo. Molimo da proverite da datoteka postoji, da nije preuzeta od strane drugog korisnika i da imate permisije za njeno čitanje.</text>
+		<text id="msg.saveFailed" h="4D413392">Čuvanje datoteke nije uspelo. Molimo da proverite da li je naziv datoteke validan i da li imate permisije za njeno zapisivanje.</text>
+		<text id="msg.saveReplace" h="5D56833E">Datoteka %1 već postoji. Da li želite da je zamenite?</text>
+		<text id="msg.selectFile" h="2530C20F">Molimo da izaberete datoteku pre pritiska na OK</text>
+		<text id="ls.column.created" h="FE6510B7">Datum kreiranja</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Datum i vreme kada je datoteka, fascikla ili lista kreirana</text>
+		<text id="ls.column.extension" h="14FEB836">Ekstenzija</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Ekstenzija datoteke</text>
+		<text id="ls.column.modified" h="7E234D6D">Datum modifikacije</text>
+		<text id="ls.column.modified.hint" h="12933E76">Datum i vreme kada je datoteka, fascikla ili lista poslednji put modifikovana</text>
+		<text id="ls.column.size" h="17A58A52">Veličina</text>
+		<text id="ls.column.size.hint" h="9C4BD847">Veličina datoteke</text>
+		<text id="ls.column.title" h="D18643E3">Naziv</text>
+		<text id="ls.column.title.hint" h="6A895576">Naziv datoteke, fascikle ili naslov liste</text>
+		<text id="virtualfolder.mydrive" h="84C2D3A6">Moj Drive</text>
+		<text id="virtualfolder.sharedwithme" h="8B65307E">Deljeno samnom</text>
+		<text id="cpt.unableToSaveToVirtualFolder" h="778EF99A">Ne može se sačuvati datoteka u fasciklu</text>
+		<text id="msg.unableToSaveToVirtualFolder" h="A6644426">Datoteka ne može biti sačuvana na izabranu lokaciju. Molimo da izaberete fasciklu Moj Drive (My Drive), jednu od njenih podfascikli ili jednu od Deljeno samnom (Shared With Me) podfascikli da sačuvate datoteku.</text>
+	</Strings>
+</Localization>

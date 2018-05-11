@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20170425233726">2.00.00</Version>
+	<Author>Pierre-Loïc Michon (defii@defii.fr), Swirti</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="French (France)" lName="Français" code="fr-FR" R2L="false"/>
+	<Module name="FileOpenSH" namespace="fopw" version="6.0.322.7"/>
+	<Strings>
+		<text id="secure.printer.title" h="448D1D7F">Cette imprimante n'est pas autorisée.</text>
+		<text id="secure.printer.text" h="7488F002">Cette imprimante ne peut être utilisée pour des raisons de sécurité d'impression. Relancer l'impression et sélectionner une autre imprimante.</text>
+	</Strings>
+</Localization>

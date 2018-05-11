@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20170426011622">2.00.00</Version>
+	<Author>pdf.xchange.translate@gmail.com</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Dutch (Netherlands)" lName="Nederlands" code="nl-NL" R2L="false"/>
+	<Module name="SharePoint" namespace="sp" version="6.0.322.0"/>
+	<Strings>
+		<text id="btn.checkIn" h="09996473">&amp;Teruggeven</text>
+		<text id="btn.discardCheckOut" h="40AC5603">&amp;Negeer lenen</text>
+		<text id="btn.keepCkeckedOut" h="AEA0D6B1">&amp;Aanhouden lenen</text>
+		<text id="btn.navigate" h="B03F439E">&amp;Navigeer</text>
+		<text id="btn.open" h="B1A510F0">&amp;Open</text>
+		<text id="btn.openWithCheckOut" h="2F774735">Openen en &amp;lenen</text>
+		<text id="btn.save" h="F363C410">&amp;Opslaan</text>
+		<text id="btn.saveAndCheckOut" h="E44D9A0A">&amp;Opslaan en lenen</text>
+		<text id="btn.saveReplace" h="11BF9724">Opslaan en &amp;vervangen</text>
+		<text id="cb.url.tip" h="CD81E674">Geef adres...</text>
+		<text id="cmd.checkIn" h="AEF235ED">&amp;Teruggeven</text>
+		<text id="cmd.checkIn.tip" h="3AEF3C8D">Het document naar SharePoint teruggeven.</text>
+		<text id="cmd.checkOut" h="E6A87AFE">&amp;Lenen</text>
+		<text id="cmd.checkOut.tip" h="5C7938B4">Het document van SharePoint lenen.</text>
+		<text id="cmd.cmdsCategory" h="56A5F9B3">SharePoint</text>
+		<text id="cmd.discardCheckOut" h="541A4ED2">&amp;Negeer lenen</text>
+		<text id="cmd.discardCheckOut.tip" h="B5673BAE">Negeer uitlenen van het document vanuit SharePoint.</text>
+		<text id="cmd.open" h="68595810">Share&amp;Point...</text>
+		<text id="cmd.open.tip" h="42228BCF">Openen document vanuit SharePoint.</text>
+		<text id="cmd.prepareFileInfo" h="56811CA0">Voorbereiden Bestands&amp;info</text>
+		<text id="cmd.prepareFileInfo.tip" h="2BF55A56">Voorbereiden van bestandsinfo op SharePoint.</text>
+		<text id="cmd.save" h="68595810">Share&amp;Point...</text>
+		<text id="cmd.save.tip" h="FCA25307">Actief document opslaan naar SharePoint.</text>
+		<text id="cmd.share_point" h="B7423C0E">Share&amp;Point</text>
+		<text id="dlg.liveLogin" h="BFADC685">Live inloggen</text>
+		<text id="dlg.openFile" h="435887CD">Openen bestand</text>
+		<text id="dlg.saveFile" h="520CB069">Opslaan bestand</text>
+		<text id="lb.name" h="DEC92488">Bestandnaam:</text>
+		<text id="ls.column.created" h="FE6510B7">Aanmaakdatum</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Datum en tijd van aanmaken bestand, map of lijst</text>
+		<text id="ls.column.extension" h="14FEB836">Extensie</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Bestands extensie</text>
+		<text id="ls.column.modified" h="7E234D6D">Wijzigingsdatum</text>
+		<text id="ls.column.modified.hint" h="12933E76">Datum van laatste wijziging van bestand, map of lijst</text>
+		<text id="ls.column.size" h="17A58A52">Grootte</text>
+		<text id="ls.column.size.hint" h="9C4BD847">Bestandsgrootte</text>
+		<text id="ls.column.title" h="D18643E3">Naam</text>
+		<text id="ls.column.title.hint" h="6A895576">Bestandsnaam, map-naam of titel-lijst</text>
+		<text id="msg.askForCheckInOnClose" h="7B06F17B">Wilt het bestand controleren voordat u het sluit om wijzigingen beschikbaar te maken voor andere gebruikers?</text>
+		<text id="msg.askForCheckOutOnOpen" h="7803C4A6">U kunt gewoon het bestand openen en andere gebruikers toestaand om het te veranderen of u kunt openen met uitlenen om het bestand alleen laten te lezen door anderen, maar beschrijfbaar voor u.</text>
+		<text id="msg.askForCheckOutOnSave" h="8E5C5FBB">Bestand is niet uitgeleend. Je moet het bestand uitlenen en doorgaan met het opslaan.</text>
+		<text id="msg.askForDiscardCheckOutOnClose" h="6ADE6C3D">Dit bestand is uitgeleend aan u. Wilt u de lening ongedaan maken en toestaan dat andere gebruikers het bestand kunnen bewerken?</text>
+		<text id="msg.checkIn" h="BC40B537">Fout bij terugkeren. Zorg ervoor dat het bestand bestaat en in bruikleen van u is gegeven.</text>
+		<text id="msg.checkOut" h="D1B23376">Fout bij lenen. Zorg ervoor dat het bestand bestaat en niet al in bruikleen is gegeven.</text>
+		<text id="msg.connectError" h="D31B7CA0">Kan geen verbinding met de SharePoint-server. Controleer uw internetverbinding, de server adres en toegangsrechten.</text>
+		<text id="msg.discardCheckOut" h="6CD5936B">Kan uitlenen niet ongedaan maken. Zorg ervoor dat het bestand bestaat en in bruikleen aan u is gegeven.</text>
+		<text id="msg.fileNotFound" h="CD319CFB">Bestand "%s" is niet gevonden in de huidige folder.</text>
+		<text id="msg.invalidFileName" h="4FAC9EDF">"%s" is geen geldige bestandsnaam.</text>
+		<text id="msg.navigateError" h="DE02F44B">Niet mogelijk om te navigeren naar de SharePoint bron. Controleer uw internetverbinding, juistheid van de bron adres en de rechten voor toegang tot gevraagde SharePoint bron. </text>
+		<text id="msg.openFailed" h="A9228907">Niet mogelijk om bestand te openen. Zorg ervoor dat het bestand bestaat, niet is uitgeleend aan een andere gebruiker en je hebt er lees-toestemmingen voor.</text>
+		<text id="msg.saveFailed" h="2C1B0E0B">Niet mogelijk om bestand op te slaan. Zorg ervoor dat de bestandsnaam geldig is, het niet uitgeleend is aan een andere gebruiker en je hebt schrijfrechten voor.</text>
+		<text id="msg.saveReplace" h="D31D53A9">Het bestand "%s" bestaat al. Wilt u deze vervangen?</text>
+	</Strings>
+</Localization>

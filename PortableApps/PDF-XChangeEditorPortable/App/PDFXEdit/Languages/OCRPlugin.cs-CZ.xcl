@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171220231350">2.00.00</Version>
+	<Author>Martin Paulík</Author>
+	<Copyright>TERAGON SW s.r.o.
+www.pdfxchange.cz</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Czech (Czech Republic)" lName="čeština" code="cs-CZ" R2L="false"/>
+	<Module name="OCRPlugin" namespace="ocr" version="7.0.323.2"/>
+	<Strings>
+		<text id="OrientationDetection" h="40F7AA0E">Automatická detekce natočení</text>
+		<text id="accuracy.high" h="21A95620">Vysoká</text>
+		<text id="accuracy.low" h="845E3D8C">Nízká</text>
+		<text id="accuracy.medium" h="91153342">Střední</text>
+		<text id="cb.cuenoany" h="899F9872">Žádný</text>
+		<text id="cmd.name" h="6DAA8A17">Spustit OCR ...</text>
+		<text id="l.accuracy" h="3B2028D8">Přesnost</text>
+		<text id="l.language" h="7B707020">Jazyk:</text>
+		<text id="lnk.more" h="2E2CCD84">&lt;a=1&gt;Další jazyky...&lt;/a&gt;</text>
+		<text id="prefs.title" h="D0975E29">Možnosti OCR</text>
+	</Strings>
+</Localization>

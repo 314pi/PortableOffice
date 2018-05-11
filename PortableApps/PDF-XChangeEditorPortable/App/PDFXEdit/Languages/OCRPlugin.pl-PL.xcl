@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20170131185643">2.00.00</Version>
+	<Author>Maciej Bojakowski, Marek Szczepański</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Polish" lName="Polski (Polska)" code="pl-PL" R2L="false"/>
+	<Module name="OCRPlugin" namespace="ocr" version="6.0.320.0"/>
+	<Strings>
+		<text id="ComplexBackground" h="7D4E65E9">Usuwanie komleksowego tła</text>
+		<text id="LANGUAGE" h="7B707020">&amp;Język:</text>
+		<text id="LanguageSelect" h="13F6EE1C">Wybierz...</text>
+		<text id="MULTIPLECORES" h="C21D9F69">Użyj wielowątkowości</text>
+		<text id="OrientationDetection" h="40F7AA0E">Automatyczne Wykrywanie Orientacji</text>
+		<text id="PREFERENCES" h="4481257B">Preferencje</text>
+		<text id="TITLEWHITELIST" h="B446B537">Biała i Czarna lista</text>
+		<text id="WHITELIST" h="68C2961B">Biała Lista</text>
+		<text id="accuracy.high" h="21A95620">Wysoka</text>
+		<text id="accuracy.low" h="845E3D8C">Niska</text>
+		<text id="accuracy.medium" h="91153342">Średnia</text>
+		<text id="cb.cuenoany" h="57DD34C3">Nie jest zainstalowany</text>
+		<text id="cmd.name" h="6DAA8A17">OCR Strona...</text>
+		<text id="g.recognition" h="962555B5">Rozpoznanie</text>
+		<text id="l.accuracy" h="3B2028D8">&amp;Dokładność:</text>
+		<text id="l.language" h="7B707020">&amp;Język:</text>
+		<text id="lnk.more" h="2E2CCD84">&lt;a=1&gt;Więcej języków...&lt;/a&gt;</text>
+		<text id="notice.emptyselection" h="2B9E6261">OCR nie powiodło się: Nieprawidłowy dokument lub zaznaczenie puste</text>
+		<text id="notice.finished" h="0CFE0EC4">Zadanie OCR zakończone</text>
+		<text id="notice.notavailable" h="CAC07593">Wybrany typ OCR nie jest dostępny w tej wersji.</text>
+		<text id="notice.notfinished" h="F46B8362">Nie można zainicjować OCR: Sprawdź język i preferencje ustawień wyjściowych</text>
+		<text id="notice.permissions" h="3BE9C6A8">Dokument jest zabezpieczony. Sprawdź ograniczenia w menu Plik-&gt;Właściwości dokumentu-&gt;Zabezpieczenia.</text>
+		<text id="ocr.l.language" h="7B707020">&amp;Język:</text>
+		<text id="outputtype.editable" h="B24B2872">Utwórz nowy edytowalny PDF</text>
+		<text id="outputtype.layer" h="DFA4EAA6">Zachowaj oryginalną zawartość i dodaj warstwę tekstową</text>
+		<text id="outputtype.new" h="85C87BB3">Utwórz nowy PDF z możliwością przeszukiwania</text>
+		<text id="prefs.langdir" h="ED1B4BF6">OCR Języki</text>
+		<text id="prefs.name" h="00DD8F43">OCR</text>
+		<text id="prefs.tips" h="D0975E29">OCR Opcje</text>
+		<text id="prefs.title" h="D0975E29">OCR Opcje</text>
+		<text id="progress.finalizing" h="BD3E3BA6">Kończenie...</text>
+		<text id="progress.pageinfo" h="4580EE29">Przetwarzanie strony %d z %d...</text>
+		<text id="progress.placing" h="C9F1FA8A">Umieszczanie zawartości...</text>
+		<text id="progress.rasterizing" h="ACB9131E">Rasteryzacja...</text>
+		<text id="progress.recognizing" h="281E6862">Rozpoznawanie...</text>
+		<text id="progress.title" h="8E35B0D9">OCR strony, Proszę czekać...</text>
+	</Strings>
+</Localization>

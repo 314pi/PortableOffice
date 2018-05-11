@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220833">2.00.00</Version>
+	<Author>Regmos</Author>
+	<Copyright>Regmos 2018</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Danish (Denmark)" lName="dansk" code="da-DK" R2L="false"/>
+	<Module name="PDFConverter" namespace="pdfconv" version="6.0.322.7"/>
+	<Strings>
+		<text id="DT" h="68CCD7A1">Decimaltegn og tusinde separator:</text>
+		<text id="Decimal" h="97B538F3">Decimaltegn:</text>
+		<text id="Fonts" h="09BC9E47">Skrift:</text>
+		<text id="NoPermission" h="F6BEA48A">Dokumentet er beskyttet. Du har ikke rettigheder til at konvertere det.</text>
+		<text id="cmd.name.P" h="FE79EAE9">Eksportér til PowerPoint...</text>
+		<text id="cmd.name.Sel.P" h="10B9EA70">Eksportér valgte til PowerPoint...</text>
+		<text id="cmd.name.Sel.W" h="F60B7012">Eksportér valgte til Word...</text>
+		<text id="cmd.name.Sel.X" h="53447190">Eksportér valgte til Excel...</text>
+		<text id="cmd.name.W" h="36A68CE1">Eksportér til Word...</text>
+		<text id="cmd.name.X" h="5F515377">Eksportér til Excel...</text>
+		<text id="cmd.nameShort.P" h="C4DB7FDB">Til PowerPoint...</text>
+		<text id="cmd.nameShort.W" h="23467A9D">Til Word...</text>
+		<text id="cmd.nameShort.X" h="4FDED68C">Til Excel...</text>
+		<text id="cmd.nameTip.P" h="5DF5F44C">Eksportér aktivt dokument til PowerPoint...</text>
+		<text id="cmd.nameTip.Sel.P" h="547499FA">Eksportér aktuel markering til PowerPoint...</text>
+		<text id="cmd.nameTip.Sel.W" h="9526C3A8">Eksportér aktuel markering til Word...</text>
+		<text id="cmd.nameTip.Sel.X" h="9DBFD9AB">Eksportér aktuel markering til Excel...</text>
+		<text id="cmd.nameTip.W" h="08C70E7C">Eksportér aktivt dokument til Word...</text>
+		<text id="cmd.nameTip.X" h="71C65F22">Eksportér aktivt dokument til Excel...</text>
+		<text id="convertation" h="B1E1828B">Konvertere PDF dokument</text>
+		<text id="convertation.DecimalError" h="AB9CA906">Ugyldigt decimaltegn</text>
+		<text id="convertation.DecimalThousandsError" h="9002FE5E">Decimaltegn og tusinde separator skal vær forskellige</text>
+		<text id="convertation.Error1" h="388D83B4">Der opstod en kritisk konverteringfejl:</text>
+		<text id="convertation.Error2" h="A394ADBC">Resultatfilen kan ikke gemmes.</text>
+		<text id="convertation.ThousandsError" h="1660BD37">Ugyldig tusinde separator</text>
+		<text id="dpi" h="B39AC2C1">dpi</text>
+		<text id="elseUseRegional" h="8F1D3748">* Ellers brug lokale indstillinger</text>
+		<text id="excel.filter" h="D766664D">MS Excel</text>
+		<text id="newRowRul" h="4CD45F3D">Brug ny række for hver:</text>
+		<text id="options" h="DAD7B4F4">Indstillinger</text>
+		<text id="options.compress.0" h="378201C4">PNG</text>
+		<text id="options.compress.1" h="25090095">JPG</text>
+		<text id="options.dpilevel" h="4D4FE579">%1 dpi</text>
+		<text id="options.fontsembedmode.0" h="4FD6EAB9">Indlejr kun skrifttyper fra PDF dokumentet</text>
+		<text id="options.fontsembedmode.1" h="485361C4">Ingen indlejring</text>
+		<text id="options.quality.0" h="8415F85F">Minimum</text>
+		<text id="options.quality.1" h="845E3D8C">Lav</text>
+		<text id="options.quality.2" h="91153342">Medium</text>
+		<text id="options.quality.3" h="21A95620">Høj</text>
+		<text id="options.quality.4" h="A8A97F0E">Maksimum</text>
+		<text id="options.textmode.0" h="77B1E837">Bevar redigerbar tekst</text>
+		<text id="options.textmode.1" h="8419D7CE">Konvertér til kurver</text>
+		<text id="options.textmode.2" h="60E91945">Konvertér til billeder</text>
+		<text id="options.newRow.0" h="9CF38C36">Afsnit</text>
+		<text id="options.newRow.1" h="6D45691D">Linie</text>
+		<text id="optionsCBAllowCurves" h="976099D8">Tillad konvertering af tekst der bruger problematiske skrifttyper</text>
+		<text id="optionsCBAllowSubstitution" h="169F5988">Tillad erstatning af skrifttyper der ikke kan indlejres</text>
+		<text id="optionsCBEmbedFont" h="3E50224C">Alle skrifttyper indlejres</text>
+		<text id="optionsCBIncludeComments" h="B08E5CA8">Medtag kommentarer</text>
+		<text id="optionsCBIncludeImages" h="969B2F6C">Medtag billeder</text>
+		<text id="optionsCBIncludeLinks" h="F5F4CED4">Medtag links</text>
+		<text id="optionsCBPageToImage" h="0707FDB4">Konvertér alt sideindhold til billede</text>
+		<text id="optionsGBCommonOpt" h="5B3B421B">Almene indstillinger</text>
+		<text id="optionsGBTextOpt" h="D7BD8320">Tekstkonvertering</text>
+		<text id="optionsIBTextRaster" h="699A1B72">Tekst rasteriseres hvis den ikke kan konverteres efter ovenstående valg.</text>
+		<text id="optionsLBCompres" h="990F2529">Komprimér:</text>
+		<text id="optionsLBIssuesFont" h="BB2E863E">Hvis der kompabilitesproblemer med skrifttyper:</text>
+		<text id="optionsLBMode" h="274455FC">Tilstand:</text>
+		<text id="optionsLBQuality" h="E3A77A93">Kvalitet:</text>
+		<text id="optionsLBTextRaster" h="32A3B18F">Tekst rasterkvalitet:</text>
+		<text id="optionsLBToImgParam" h="4ED54AB4">Tekst til billede konvertering:</text>
+		<text id="optionsLBdpiComm" h="0FE84938">Opløsning:</text>
+		<text id="optionsLBdpiCompression" h="4CA3E32A">Du kan justere rasterkvaliteten for ikke konvertible emner (f.eks. komplekse grafer), eller for hele siden, når ovenstående er valgt:</text>
+		<text id="optionsLBlastHope" h="F73DC603">NB: Hvis konvertering af tekst til kurver fejler, konverteres tekst til billeder.</text>
+		<text id="powerpoint.filter" h="9FB63544">MS PowerPoint</text>
+		<text id="regionalDT" h="929F7393">Brug computerens indstillinger</text>
+		<text id="thousands" h="256655C5">Tusinde separator:</text>
+		<text id="userDefinedDT" h="CFDC144E">Tilpas:</text>
+		<text id="word.filter" h="6BB79C71">MS Word</text>
+	</Strings>
+</Localization>

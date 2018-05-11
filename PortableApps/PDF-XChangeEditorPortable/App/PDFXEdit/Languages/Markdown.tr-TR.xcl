@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117213644">2.00.00</Version>
+	<Author>Osman Öz</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Turkish (Turkey)" lName="Türkçe" code="tr-TR" R2L="false"/>
+	<Module name="MarkdownPlugin" namespace="md" version="6.0.322.7"/>
+	<Strings>
+		<text id="btn.md.submenu" h="89D1502A">&amp;Markdown'dan...</text>
+		<text id="cmd.tip" h="117085B4">Markdown dosyalarından yeni bir belge oluşturun.</text>
+		<text id="converter.desc" h="41356938">Markdown Dosyalarını Dönüştür</text>
+		<text id="converter.filterName" h="AE86B691">Markdown Dosyaları</text>
+		<text id="converter.name" h="AE86B691">Markdown Dosyaları</text>
+		<text id="converting.progress.text" h="4DD2C8CD">Dosya dönüştürme:</text>
+		<text id="grb.style" h="1FF454A3">Metin Şekli</text>
+		<text id="msg.error" h="51BFF51D">Hata</text>
+		<text id="msg.file.empty" h="8F9B5982">Dosya boş.</text>
+		<text id="opt.all.files" h="C68ACE05">Tüm Dosyalar</text>
+		<text id="opt.btn.clear.style" h="8932B6EE">CSS stilini varsayılana geri döndürür</text>
+		<text id="opt.create.style" h="EDCA1553">Oluştur</text>
+		<text id="opt.file" h="45B5DF3A">Dosya</text>
+		<text id="opt.margins.fixed" h="6103695E">Marjlarınız çok büyük. Otomatik olarak düzeltilecektir.</text>
+		<text id="opt.none" h="F9398D7D">Hiçbiri</text>
+		<text id="opt.style" h="5CEA121A">Stil:</text>
+		<text id="opt.test.title" h="44732FAA">Test</text>
+		<text id="opt.title" h="45D26671">PDF Seçeneklerine Markdown</text>
+		<text id="opt.unavailable" h="5669C949">mevcut değil</text>
+		<text id="prefs.name" h="07E67B98">PDF'ye Markdown</text>
+		<text id="prefs.title" h="45D26671">PDF Seçeneklerine Markdown</text>
+		<text id="prop.list.extension" h="14FEB836">Uzantı</text>
+		<text id="prop.list.location" h="BB241F45">Konumlar</text>
+		<text id="prop.list.modified" h="30325672">Değişiklik</text>
+		<text id="prop.list.size" h="17A58A52">Boyut</text>
+		<text id="prop.list.title" h="796DFAD3">Başlık</text>
+		<text id="prop.source" h="AE86B691">Markdown Dosyaları</text>
+		<text id="prop.source.file" h="F3110572">Markdown Dosyalarını Seç</text>
+		<text id="prop.source.file.unavailable" h="AE2771B8">Dosya türü mevcut değil</text>
+		<text id="prop.source.folder" h="8477FBD3">Markdown ile Klasör Seç</text>
+		<text id="prop.source.subfolder" h="F053B635">Alt klasörlere bakın</text>
+		<text id="prop.source.txt" h="0B465380">Metin Dosyaları</text>
+		<text id="prop.window.name" h="6E4F5CCE">Markdown'u PDF'ye Dönüştür</text>
+		<text id="style.edit.default" h="600F2F18">Varsayılan stili kullan</text>
+		<text id="style.files.title" h="26E23587">CSS Dosyaları</text>
+		<text id="style.folder.name" h="2F5ECDDE">Markdown Stili</text>
+		<text id="style.save.title" h="2E270E87">Stili Kaydet</text>
+		<text id="style.select.file" h="37C34A80">Dosya Türü Seçimi</text>
+	</Strings>
+</Localization>

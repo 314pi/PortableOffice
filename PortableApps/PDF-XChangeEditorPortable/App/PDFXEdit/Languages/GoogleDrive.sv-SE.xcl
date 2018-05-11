@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220820">2.00.00</Version>
+	<Author>Markus Konsa, support@PDF-XChange.se, +46(0)31-3121100</Author>
+	<Copyright>PDF-XChange Sverige, +46(0)31-312 11 00
+https://pdf-xchange.se, 
+Tracker Software Products(Canada+UK) reg. partner.
+	</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Swedish (Sweden)" lName="Svenska" code="sv-SE" R2L="false"/>
+	<Module name="GoogleDrivePlugin" namespace="gd" version="6.0.322.7"/>
+	<Strings>
+		<text id="DlgOpenFile" h="B98AB29D">Öppna filen från Google Drive</text>
+		<text id="DlgSaveFile" h="81F99046">Spara filen till Google Drive</text>
+		<text id="GDPlugin" h="32B7E3E0">Google Drive Plugin</text>
+		<text id="btn.connectToAnother" h="508BDBC5">Ny Login...</text>
+		<text id="cmd.cmdsCategory" h="AD23B285">Google Drive</text>
+		<text id="cmd.googledrive" h="1D28DF85">&amp;Google Drive</text>
+		<text id="cmd.open" h="F32ECED5">&amp;Google Drive...</text>
+		<text id="cmd.open.tip" h="933837A2">Öppna dokument från Google Drive.</text>
+		<text id="cmd.save" h="F32ECED5">&amp;Google Drive...</text>
+		<text id="cmd.save.tip" h="948C3269">Spara aktivt dokument till Google Drive.</text>
+		<text id="cpt.fileNotFound" h="A7F5FA7A">Filen hittas ej</text>
+		<text id="cpt.invalidFileName" h="79C1387C">"Ogiltigt filnamn</text>
+		<text id="cpt.navigateError" h="3D300A1C">Navigationsfel</text>
+		<text id="cpt.saveReplace" h="520CB069">Spara fil</text>
+		<text id="cpt.selectFile" h="C55D68B0">Väljer fil</text>
+		<text id="dlg.googleAuth" h="E5642F22">Google Drive-autentisering(verifiera)</text>
+		<text id="fileName" h="DEC92488">Filnamn:</text>
+		<text id="lb.CurrentFolder" h="44158804">Aktuell mapp:</text>
+		<text id="lb.Test" h="273F3E5B">Test Test Test!</text>
+		<text id="lb.googleAccName" h="C94645A3">Google-Konto:</text>
+		<text id="msg.fileNotFound" h="430E08B1">Fil "%1" kunde inte hittas i den aktuella mappen.</text>
+		<text id="msg.invalidFileName" h="7C0655B5">"%1" ej ett giltigt filnamn</text>
+		<text id="msg.navigateError" h="2FCAA72A">Google Drive kunde inte öppnas. Kontrollera din internetanslutning och behörighet att komma åt Google Drive..</text>
+		<text id="msg.openFailed" h="AC94D960">Filen kunde inte öppnas. Se till att filen finns, ej används av en annan användare och att du har läsbehörighet för filen.</text>
+		<text id="msg.saveFailed" h="4D413392">Filen kunde inte sparas. Se till att filnamnet är giltigt och du har skrivbehörighet för filen.</text>
+		<text id="msg.saveReplace" h="5D56833E">Filen%1 finns redan. Vill du ersätta den?</text>
+		<text id="msg.selectFile" h="2530C20F">Var god välj en fil innan du klickar på OK</text>
+		<text id="ls.column.created" h="FE6510B7">Datum för skapande</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Datum och tid filen, mappen eller listan skapades</text>
+		<text id="ls.column.extension" h="14FEB836">Förlängning</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">FIL-ändelse/tillägg</text>
+		<text id="ls.column.modified" h="7E234D6D">Senast ändrad</text>
+		<text id="ls.column.modified.hint" h="12933E76">Datum och tid filen, mappen eller listan senast ändrades</text>
+		<text id="ls.column.size" h="17A58A52">Storlek</text>
+		<text id="ls.column.size.hint" h="9C4BD847">Filstorlek</text>
+		<text id="ls.column.title" h="D18643E3">Namn</text>
+		<text id="ls.column.title.hint" h="6A895576">Fil, mapp eller listnamn</text>
+		<text id="virtualfolder.mydrive" h="84C2D3A6">My Drive / Min enhet</text>
+		<text id="virtualfolder.sharedwithme" h="8B65307E">Delad med mig</text>
+		<text id="cpt.unableToSaveToVirtualFolder" h="778EF99A">Filen kunde inte sparas i den valda mappen</text>
+		<text id="msg.unableToSaveToVirtualFolder" h="A6644426">Filen kunde inte sparas på den valda platsen. Var god välj mappen "Min enhet", en av dess undermappar eller en undermapp av "Delad med mig" för att spara filen.</text>
+	</Strings>
+</Localization>

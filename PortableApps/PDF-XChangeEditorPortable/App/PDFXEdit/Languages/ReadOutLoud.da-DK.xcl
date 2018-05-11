@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220803">2.00.00</Version>
+	<Author>Regmos</Author>
+	<Copyright>Regmos 2018</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Danish (Denmark)" lName="dansk" code="da-DK" R2L="false"/>
+	<Module name="ReadOutLoud" namespace="speech" version="6.0.322.7"/>
+	<Strings>
+		<text id="opt.btn.test" h="D799C8E8">Læs tekst</text>
+		<text id="opt.cb.defAttr" h="232D9E03">brug standard stemmeegenskaber</text>
+		<text id="opt.cb.defVoice" h="57A5382A">Brug standardstemme</text>
+		<text id="opt.cb.readComments" h="070A2526">Læs kommentarer</text>
+		<text id="opt.cb.readFields" h="4331E3A2">Læs formularer</text>
+		<text id="opt.group.title" h="54357DDF">Oplæsningsindstillinger</text>
+		<text id="opt.l.max" h="284585D5">Maks.</text>
+		<text id="opt.l.min" h="F16918ED">Min.</text>
+		<text id="opt.l.pitch" h="A6915A2C">Tone:</text>
+		<text id="opt.l.rate" h="10B1E128">Frekvens:</text>
+		<text id="opt.l.voice" h="5026E016">Stemme:</text>
+		<text id="opt.l.volume" h="8C0E20F2">Lydstyrke:</text>
+		<text id="opt.l.wpm" h="9421CA7D">ord pr. minut</text>
+		<text id="opt.test.title" h="44732FAA">Test</text>
+		<text id="prefs.name" h="06D67BEF">Tale</text>
+		<text id="prefs.tips" h="110DB02C">Taleindstillinger</text>
+		<text id="prefs.title" h="110DB02C">Taleindstillinger</text>
+		<text id="speech.opt.title" h="54357DDF">Oplæsningsindstillinger</text>
+		<text id="test.text" h="6B245451">Den hurtige brune ræv hopper over den dovne hund.</text>
+		<text id="cmd.readSelection" h="D503AA0C">Oplæs valgt tekst</text>
+		<text id="cmd.readStop" h="06B322F6">Stop oplæsning</text>
+		<text id="cmd.category" h="A1EB605F">Læs op</text>
+	</Strings>
+</Localization>

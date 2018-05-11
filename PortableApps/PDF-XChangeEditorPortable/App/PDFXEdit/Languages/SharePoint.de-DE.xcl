@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123224509">2.00.00</Version>
+	<Author>Michael Dodl</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="German (Germany)" lName="Deutsch" code="de-DE" R2L="false"/>
+	<Module name="SharePoint" namespace="sp" version="7.0.323.3"/>
+	<Strings>
+		<text id="btn.checkIn" h="09996473">&amp;Zurückgeben</text>
+		<text id="btn.discardCheckOut" h="40AC5603">Ausleihen &amp;rückgängig machen</text>
+		<text id="btn.checkInAndKeepCkeckedOut" h="34DA624B">Z&amp;urückgeben, aber weiterhin ausleihen</text>
+		<text id="btn.connect" h="A79F815C">&amp;Verbinden</text>
+		<text id="btn.keepCkeckedOut" h="AEA0D6B1">Weiter aus&amp;leihen</text>
+		<text id="btn.navigate" h="B03F439E">&amp;Navigieren</text>
+		<text id="btn.open" h="B1A510F0">Ö&amp;ffnen</text>
+		<text id="btn.openWithCheckOut" h="2F774735">Öffnen und Auslei&amp;hen</text>
+		<text id="btn.save" h="F363C410">&amp;Speichern</text>
+		<text id="btn.saveAndCheckOut" h="E44D9A0A">&amp;Speichern und ausleihen</text>
+		<text id="btn.saveReplace" h="11BF9724">Speichern und &amp;Ersetzen</text>
+		<text id="btn.signOut" h="645CEBE2">Ab&amp;melden</text>
+		<text id="cb.url.tip" h="CD81E674">Adresse eingeben...</text>
+		<text id="cmd.checkIn" h="AEF235ED">&amp;Zurückgeben</text>
+		<text id="cmd.checkIn.tip" h="C9DCA405">Das Dokument bei SharePoint zurückgeben.</text>
+		<text id="cmd.checkOut" h="E6A87AFE">&amp;Ausleihen</text>
+		<text id="cmd.checkOut.tip" h="E1B64D30">Das Dokument bei SharePoint ausleihen.</text>
+		<text id="cmd.cmdsCategory" h="56A5F9B3">SharePoint</text>
+		<text id="cmd.discardCheckOut" h="40AC5603">Ausleihen &amp;rückgängig machen</text>
+		<text id="cmd.discardCheckOut.tip" h="ED54ACC3">Das Ausleihen des Dokuments auf SharePoint rückgängig machen.</text>
+		<text id="cmd.open" h="68595810">Share&amp;Point...</text>
+		<text id="cmd.open.tip" h="007B7200">Dokument von SharePoint öffnen.</text>
+		<text id="cmd.prepareFileInfo" h="56811CA0">Datei&amp;informationen vorbereiten</text>
+		<text id="cmd.prepareFileInfo.tip" h="E609EA07">Dateiinformationen auf SharePoint vorbereiten.</text>
+		<text id="cmd.save" h="68595810">Share&amp;Point...</text>
+		<text id="cmd.save.tip" h="C48C1C25">Ein aktives Dokument auf SharePoint speichern.</text>
+		<text id="cmd.share_point" h="B7423C0E">Share&amp;Point</text>
+		<text id="cmd.share_point.tip" h="CA99078B">Mit Dokumenten aus SharePoint arbeiten</text>
+		<text id="dlg.liveLogin" h="BFADC685">Live-Anmeldung</text>
+		<text id="dlg.openFile" h="435887CD">Datei öffnen</text>
+		<text id="dlg.saveFile" h="520CB069">Datei speichern</text>
+		<text id="lb.checkInComment" h="694DD18A">Kommentar (optional):</text>
+		<text id="lb.name" h="F7B9E475">Dateiname:</text>
+		<text id="lb.sharePointPlaceUrl" h="F900769A">URL von SharePoint:</text>
+		<text id="ls.column.created" h="FE6510B7">Erstellungsdatum</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Datum und Uhrzeit als die Datei, der Ordner oder die Liste erstellt wurde</text>
+		<text id="ls.column.extension" h="14FEB836">Erweiterung</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Erweiterung</text>
+		<text id="ls.column.modified" h="691C3610">Änderungsdatum</text>
+		<text id="ls.column.modified.hint" h="12933E76">Datum und Uhrzeit als die Datei, der Ordner oder die Liste geändert wurde</text>
+		<text id="ls.column.size" h="17A58A52">Größe</text>
+		<text id="ls.column.size.hint" h="E79CA174">Dateigröße</text>
+		<text id="ls.column.title" h="D18643E3">Name</text>
+		<text id="ls.column.title.hint" h="81F4F728">Datei-, Ordnername oder Listentitel</text>
+		<text id="msg.askForCheckInOnClose" h="8F50A2BC">Wollen Sie die Datei &lt;b&gt;%1&lt;/b&gt; vor dem Schließen zurückgeben, um die Änderungen für andere Benutzer verfügbar zu machen?</text>
+		<text id="msg.askForCheckOutOnOpen" h="20742355">Sie können die Datei &lt;b&gt;%1&lt;/b&gt; ausleihen, damit sie von anderen Benutzern nur noch gelesen werden kann, um Sie zu ändern und wieder auf SharePoint zu speichern. Oder Sie können anderen Benutzern erlauben die Datei zu bearbeiten, was zu Konflikten führen kann, wenn Sie die Datei ändern und auch speichern möchten.</text>
+		<text id="msg.askForCheckOutOnSave" h="0D7127AB">Die Datei &lt;b&gt;%1&lt;/b&gt; ist nicht ausgeliehen. Sie müssen die Datei ausleihen um sie speichern zu können.</text>
+		<text id="msg.askForDiscardCheckOutOnClose" h="CF92CA4B">Die Datei &lt;b&gt;%1&lt;/b&gt; ist von Ihnen ausgeliehen. Wollen Sie das Ausleihen Rückgängig machen, damit andere Benutzer es wieder ändern können?</text>
+		<text id="msg.checkInFailed" h="3E327B8B">Die Datei &lt;b&gt;%1&lt;/b&gt; konnte nicht zurückgegeben werden. Bitte prüfen Sie, dass die Datei existiert und von Ihnen ausgeliehen ist.</text>
+		<text id="msg.checkInDialogMessage" h="8A8CB676">Datei &lt;b&gt;%1&lt;/b&gt; zurückgeben.</text>
+		<text id="msg.checkedOutToOtherOnOpen" h="0931ED51">Sie können die Datei &lt;b&gt;%1&lt;/b&gt; nicht ausleihen, weil es bereits vom Benutzer "%2" ausgeliehen wurde.</text>
+		<text id="msg.checkedOutToOtherOnSave" h="2974FCD2">Die Datei &lt;b&gt;%1&lt;/b&gt; ist von Benutzer "%2" ausgeliehen. Sie können diese Datei nicht auf SharePoint speichern, solange Sie es nicht ausgeliehen haben, aber Sie können Ihre Änderungen an einem anderen Ort speichern.</text>
+		<text id="msg.checkOutFailed" h="AE188A1B">Die Datei &lt;b&gt;%1&lt;/b&gt; konnte nicht ausgeliehen werden. Bitte prüfen Sie, dass die Datei auf dem Server existiert und nicht bereits von einem anderen Benutzer ausgeliehen wurde.</text>
+		<text id="msg.connectError" h="18DFEDBE">Fehler beim Verbinden mit dem SharePoint-Server. Bitte prüfen Sie Ihre Internetverbindung, die Serveradresse und Ihre Zugriffsberechtigungen.</text>
+		<text id="msg.discardCheckOutFailed" h="427CEAFC">Fehler beim Zurückgeben der Datei &lt;b&gt;%1&lt;/b&gt;. Bitte prüfen Sie, ob die Datei existiert und von Ihnen ausgeliehen ist.</text>
+		<text id="msg.errorOnCheckOutNoEditPermissions" h="72CACDDF">Sie können die Datei &lt;b&gt;%1&lt;/b&gt; nicht ausleihen, weil Sie keine Rechte zum Bearbeiten der Datei haben.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedCheckOut" h="0075F732">Sie können die Datei &lt;b&gt;%1&lt;/b&gt; nicht ausleihen, weil Sie keine Rechte zum Bearbeiten der Datei haben.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedWriteAccess" h="FD9B1AB1">Sie können die Datei &lt;b&gt;%1&lt;/b&gt; nicht zum Bearbeiten öffnen, weil Sie keine Rechte zum Bearbeiten der Datei haben.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedWriteAccess" h="3453F306">Die Datei &lt;b&gt;%1&lt;/b&gt; kann nicht auf SharePoint gespeichert werden, da sie keine Berechtigungen zum Bearbeiten der Datei haben.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedCheckOut" h="833598E7">Die Datei &lt;b&gt;%1&lt;/b&gt; muss ausgeliehen werden, bevor Sie es speichern können, aber Sie haben keine Rechte zum Bearbeiten der Datei.</text>
+		<text id="msg.fileNotFound" h="381368F8">Die Datei &lt;b&gt;%1&lt;/b&gt; wurde im aktuellen Ordner nicht gefunden.</text>
+		<text id="msg.invalidFileName" h="5F43EF67">&lt;b&gt;%1&lt;/b&gt; ist kein gültiger Dateiname.</text>
+		<text id="msg.navigateError" h="CF23B4B6">Fehler beim Öffnen der SharePoint-Ressource. Bitte prüfen Sie Ihre Internetverbindung, die Serveradresse und Ihre Zugriffsberechtigungen.</text>
+		<text id="msg.openFailed" h="34DE1259">Die Datei konnte nicht geöffnet werden. Stellen Sie sicher, dass die Datei existiert und nicht von einem anderen Benutzer ausgeliehen wurde und Ihre Zugriffsberechtigungen.</text>
+		<text id="msg.outdatedFileOnWrite" h="1D71732B">Die Datei &lt;b&gt;%1&lt;/b&gt; konnte nicht auf SharePoint gespeichert werden, da es einen Änderungskonflikt gibt. Das Dokument, das Sie heruntergeladen, ist vom &lt;b&gt;%2&lt;/b&gt;, aber der das Dokument auf dem Server enthält neuere Änderungen vom &lt;b&gt;%3&lt;/b&gt;. Speichern Sie Ihre Änderungen in eine neue Datei und leihen Sie sich die neueste Version des Dokuments vom Sharepoint aus, um die Änderungen in das neuere Dokument einzupflegen.</text>
+		<text id="msg.saveFailed" h="967D2A64">Die Datei konnte nicht gespeichert werden. Stellen Sie sicher, dass der Dateiname gültig ist und die Datei nicht von einem anderen Benutzer ausgeliehen wurde und Ihre Zugriffsberechtigungen.</text>
+		<text id="msg.saveReplace" h="B1889DFB">Die Datei &lt;b&gt;%1&lt;/b&gt; existiert bereits. Wollen Sie die Datei ersetzen?</text>
+		<text id="msg.signOutError" h="0E6A5F45">Der aktuelle Benutzer konnte nicht vom SharePoint-Server abgemeldet werden. Sie könnten immer noch in der Lage sein auf SharePoint zuzugreifen ohne sich erneut anmelden zu müssen.</text>
+		<text id="msg.warnOnOpenWithNoEditPermissions" h="E1A7E642">Sie öffnen die Datei &lt;b&gt;%1&lt;/b&gt;, aber Sie haben keine Rechte zum Bearbeiten der Datei. Bitte beachten Sie, dass Sie Änderungen nicht auf SharePoint speichern können, solange Sie nicht die nötigen Berechtigungen dafür haben.</text>
+		<text id="msg.warnOnOpenWithOthersCheckOut" h="46080172">Die Datei &lt;b&gt;%1&lt;/b&gt; ist von Benutzer "%2" ausgeliehen. Sie können diese Datei nicht auf SharePoint speichern, solange "%2" die Datei nicht zurück gibt. Wenn die Datei von "%2" Änderungen enthält, führt dies zu einem Änderungskonflikt.</text>
+		<text id="opt.keepCkeckedOut" h="15301A94">Die Datei nach dem Speichern weiterhin aus&amp;leihen</text>
+		<text id="str.sharePoint" h="56A5F9B3">SharePoint</text>
+		<text id="rbar.sharepoint" h="56A5F9B3">SharePoint</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171221003147">2.00.00</Version>
+	<Author>Martin Paulík</Author>
+	<Copyright>TERAGON SW s.r.o.
+www.pdfxchange.cz</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Czech (Czech Republic)" lName="čeština" code="cs-CZ" R2L="false"/>
+	<Module name="MarkdownPlugin" namespace="md" version="7.0.323.2"/>
+	<Strings>
+		<text id="btn.md.submenu" h="89D1502A">Z &amp;MarkDown...</text>
+		<text id="cmd.tip" h="117085B4">Vytvořit nový dokument ze souborů MarkDown.</text>
+		<text id="converter.desc" h="41356938">Konverze MarkDown souborů</text>
+		<text id="converter.filterName" h="AE86B691">Soubory MarkDown</text>
+		<text id="converter.name" h="AE86B691">Soubory MarkDown</text>
+		<text id="converting.progress.text" h="4DD2C8CD">Převod souboru:</text>
+		<text id="grb.style" h="1FF454A3">Styl textu</text>
+		<text id="msg.error" h="51BFF51D">Chyba</text>
+		<text id="msg.file.empty" h="8F9B5982">Soubor je prázdný.</text>
+		<text id="opt.all.files" h="C68ACE05">Všechny soubory</text>
+		<text id="opt.btn.clear.style" h="8932B6EE">Vrátí CSS styl do výchozího stavu</text>
+		<text id="opt.create.style" h="EDCA1553">Vytvořit</text>
+		<text id="opt.file" h="45B5DF3A">Soubor</text>
+		<text id="opt.margins.fixed" h="6103695E">Okraje jsou moc velké. Budou automaticky opraveny.</text>
+		<text id="opt.none" h="F9398D7D">Žádný</text>
+		<text id="opt.style" h="5CEA121A">Styl:</text>
+		<text id="opt.test.title" h="44732FAA">Test</text>
+		<text id="opt.title" h="45D26671">Nastavení MarkDown do PDF</text>
+		<text id="opt.unavailable" h="5669C949">je nedostupný</text>
+		<text id="prefs.name" h="07E67B98">MarkDown do PDF</text>
+		<text id="prefs.title" h="45D26671">Nastavení MarkDown do PDF</text>
+		<text id="prop.list.extension" h="14FEB836">Přípona</text>
+		<text id="prop.list.location" h="BB241F45">Umístění</text>
+		<text id="prop.list.modified" h="30325672">Upraveno</text>
+		<text id="prop.list.size" h="17A58A52">Velikost</text>
+		<text id="prop.list.title" h="796DFAD3">Název</text>
+		<text id="prop.source" h="AE86B691">Soubory MarkDown</text>
+		<text id="prop.source.file" h="F3110572">Vybrat soubory MarkDown</text>
+		<text id="prop.source.file.unavailable" h="AE2771B8">Soubor se stylem je nedostupný</text>
+		<text id="prop.source.folder" h="8477FBD3">Vybrat složku s MarkDown</text>
+		<text id="prop.source.subfolder" h="F053B635">Podívat se do podsložek</text>
+		<text id="prop.source.txt" h="0B465380">Textové soubory</text>
+		<text id="prop.window.name" h="6E4F5CCE">Konverze MarkDown na PDF</text>
+		<text id="style.edit.default" h="600F2F18">Použít výchozí styl</text>
+		<text id="style.files.title" h="26E23587">CSS soubory</text>
+		<text id="style.folder.name" h="2F5ECDDE">Styly MarkDown</text>
+		<text id="style.save.title" h="2E270E87">Uložit styl</text>
+		<text id="style.select.file" h="37C34A80">Vybrat soubor se stylem</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Version date="20160923234228">2.00.00</Version>
+	<Author>Zach Yu</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Chinese (PRC)" lName="中文(简体)" code="zh-CN" R2L="false"/>
+	<Module name="FileOpenSH" namespace="fopw" version="6.0.318.1"/>
+	<Strings>
+		<text id="secure.printer.title" h="F43CD4DF">打印机不可用</text>
+		<text id="secure.printer.text" h="0AF11744">此打印机不能用于安全打印。请重新开始打印并另选一台打印机。</text>
+</Strings>
+</Localization>

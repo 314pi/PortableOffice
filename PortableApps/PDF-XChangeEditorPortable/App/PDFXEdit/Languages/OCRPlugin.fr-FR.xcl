@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20170425233727">2.00.00</Version>
+	<Author>Jeff Mahe (jfmahe@europe.com), Pierre-Loïc, Swirti</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="French (France)" lName="Français " code="fr-FR" R2L="false"/>
+	<Module name="OCRPlugin" namespace="ocr" version="6.0.322.7"/>
+	<Strings>
+		<text id="OrientationDetection" h="40F7AA0E">Détection automatique de l'orientation</text>
+		<text id="accuracy.high" h="21A95620">Haut</text>
+		<text id="accuracy.low" h="845E3D8C">Bas</text>
+		<text id="accuracy.medium" h="91153342">Moyen</text>
+		<text id="cb.cuenoany" h="899F9872">Aucune installée</text>
+		<text id="cmd.name" h="6DAA8A17">Pages OCR...</text>
+		<text id="l.accuracy" h="3B2028D8">Précision :</text>
+		<text id="l.language" h="7B707020">&amp;Langue :</text>
+		<text id="lnk.more" h="2E2CCD84">&lt;a=1&gt;Plus de langues... &lt;/a&gt;</text>
+		<text id="prefs.title" h="D0975E29">Options OCR</text>
+	</Strings>
+</Localization>

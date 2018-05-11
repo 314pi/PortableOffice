@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Version date="20160810093804">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Hungarian" lName="magyar" code="hu-HU" R2L="false"/>
+	<Module name="SpellChecker" namespace="spell" version="6.0.317.0"/>
+	<Strings>
+		<text id="lstDicts.empty" h="FFD5B8BB">&lt;Nincsenek Szótárak&gt;</text>
+		<text id="wrd.b.AddWord" h="8E2EE8C1">Hozzáadás</text>
+		<text id="opt.b.AddDict" h="E0BF5FDE">Szótár Hozzáadása</text>
+		<text id="msg.CopyDictError" h="81324CC9">Szótárfájlok másolása nem lehetséges</text>
+		<text id="msg.LoadDictError" h="D139CD51">Szótár betöltése sikertelen</text>
+		<text id="msg.RemoveError" h="10071F88">Szótárfájlok eltávolítása sikertelen. Hozzáférés megtagadva.</text>
+		<text id="opt.b.CustomWordList" h="D1505337">Egyedi Szólista</text>
+		<text id="wrd.title" h="66DDC653">Egyedi Szólista</text>
+		<text id="wrd.b.Delete" h="D8FE3F70">Törlés</text>
+		<text id="wrd.b.DeleteAll" h="848E003C">Összes Törlése</text>
+		<text id="msg.DictExists" h="650ABF1A">A szótár már létezik</text>
+		<text id="msg.DictExists.title" h="A81488F3">A szótár létezik</text>
+		<text id="wrd.l.Dictionary" h="66E4322E">Szótár:</text>
+		<text id="opt.cb.EnableHyphens" h="BC236380">Eválasztás a szótárban </text>
+		<text id="opt.cb.EnableAllHyphens" h="207464CF">Elválasztás engedélyezése</text>
+		<text id="opt.cb.EnableSpellChecker" h="1D563674">Helyesírás-ellenőrző Engedélyezése </text>
+		<text id="opt.cb.AllowAlgoHyphens" h="184CA069">Ismeretlen szavak elválasztása</text>
+		<text id="dict.param.hyphen" h="50549BEC">Elválasztás</text>
+		<text id="opt.cb.IgnoreWordsInUppercase" h="918E6B8B">NAGYBETŰS szavak figyelmen kívül hagyása</text>
+		<text id="opt.cb.IgnoreWordsWithNumbers" h="6054313B">Számokat tartalmazó szavak kihagyása</text>
+		<text id="opt.b.RemoveDict" h="D94F3439">Szótár Eltávolítása</text>
+		<text id="dict.param.spell" h="E10DA1DD">Helyesírás</text>
+		<text id="opt.title" h="AEF9F007">Helyesírás-ellenőrzés Beállítása</text>
+		<text id="msg.ErrorTitle" h="8FEB05A5">Helyesírás-ellenőrzési hiba</text>
+		<text id="msg.WordExists" h="08449B8B">A szó már létezik</text>
+		<text id="msg.WordExists.title" h="B19E6963">A szó létezik</text>
+		<text id="wrd.l.Word" h="7AFBC23E">Szó:</text>
+</Strings>
+</Localization>

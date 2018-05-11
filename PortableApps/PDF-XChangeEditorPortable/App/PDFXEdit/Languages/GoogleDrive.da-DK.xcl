@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220820">2.00.00</Version>
+	<Author>Regmos</Author>
+	<Copyright>Regmos 2018</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Danish (Denmark)" lName="dansk" code="da-DK" R2L="false"/>
+	<Module name="GoogleDrivePlugin" namespace="gd" version="6.0.322.7"/>
+	<Strings>
+		<text id="DlgOpenFile" h="B98AB29D">Åben fil fra Google drev</text>
+		<text id="DlgSaveFile" h="81F99046">Gem fil på Google drev</text>
+		<text id="GDPlugin" h="32B7E3E0">Google drev plugin</text>
+		<text id="btn.connectToAnother" h="508BDBC5">Nyt log ind...</text>
+		<text id="cmd.cmdsCategory" h="AD23B285">Google drev</text>
+		<text id="cmd.googledrive" h="1D28DF85">Google drev...</text>
+		<text id="cmd.open" h="F32ECED5">Google drev...</text>
+		<text id="cmd.open.tip" h="933837A2">Åben dokument fra Google drev.</text>
+		<text id="cmd.save" h="F32ECED5">Google drev...</text>
+		<text id="cmd.save.tip" h="948C3269">Gem aktivt dokument i Google drev.</text>
+		<text id="cpt.fileNotFound" h="A7F5FA7A">Fil ikke fundet</text>
+		<text id="cpt.invalidFileName" h="79C1387C">Ugyldigt filnavn</text>
+		<text id="cpt.navigateError" h="3D300A1C">Navigationsfejl</text>
+		<text id="cpt.saveReplace" h="520CB069">em fil</text>
+		<text id="cpt.selectFile" h="C55D68B0">Vælger fil</text>
+		<text id="dlg.googleAuth" h="E5642F22">Google drev godkendelse</text>
+		<text id="fileName" h="DEC92488">Filnavn:</text>
+		<text id="lb.CurrentFolder" h="44158804">Aktuel mappe:</text>
+		<text id="lb.Test" h="273F3E5B">Test test test!</text>
+		<text id="lb.googleAccName" h="C94645A3">Googlekonto:</text>
+		<text id="msg.fileNotFound" h="430E08B1">Filen "%1" findes ikke i den aktuelle mappe.</text>
+		<text id="msg.invalidFileName" h="7C0655B5">"%1" er ikke et gyldigt filnavn.</text>
+		<text id="msg.navigateError" h="2FCAA72A">Kunne ikke åbne emnet på Google drev. Kontroller din internetforbindelse og dine rettigheder til emnet.</text>
+		<text id="msg.openFailed" h="AC94D960">Åbning af filen fejlede. Forvis dig om at filen findes, og at du har rettigheder til at åbne den.</text>
+		<text id="msg.saveFailed" h="4D413392">Kunne ikke gemme filen. Kontroller at filnavnet er gyldigt, og at du har de fornødne rettigheder.</text>
+		<text id="msg.saveReplace" h="5D56833E">Filen %1 findes allerede. Vil du erstatte?</text>
+		<text id="msg.selectFile" h="2530C20F">Vælg fil før du klikker OK</text>
+		<text id="ls.column.created" h="FE6510B7">Oprettet</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Oprettelsesdato og tid for fil, mappe eller liste</text>
+		<text id="ls.column.extension" h="14FEB836">Filtype</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Filtype</text>
+		<text id="ls.column.modified" h="7E234D6D">Ændret</text>
+		<text id="ls.column.modified.hint" h="12933E76">Ændringsdato og tid for fil, mappe eller liste</text>
+		<text id="ls.column.size" h="17A58A52">Str.</text>
+		<text id="ls.column.size.hint" h="9C4BD847">Filstørrelse</text>
+		<text id="ls.column.title" h="D18643E3">Navn</text>
+		<text id="ls.column.title.hint" h="6A895576">Filnavn, mappenavn eller listetitel</text>
+		<text id="virtualfolder.mydrive" h="84C2D3A6">Mit drev</text>
+		<text id="virtualfolder.sharedwithme" h="8B65307E">Delt med mig</text>
+		<text id="cpt.unableToSaveToVirtualFolder" h="778EF99A">Kan ikke gemme i mappen.</text>
+		<text id="msg.unableToSaveToVirtualFolder" h="A6644426">Filen kan ikke gemmes på valgte placering. Vælg "Mit drev", en af dets undermapper, eller en "Delt med mig" undermappe.</text>
+	</Strings>
+</Localization>

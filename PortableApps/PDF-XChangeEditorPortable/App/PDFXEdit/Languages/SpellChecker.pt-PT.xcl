@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20161130215845">2.00.00</Version>
+	<Author>Nuno Filipe Rego</Author>
+	<Copyright>Nuno Filipe Rego ©
+
+Coments and\or suggestions about the translations:
+Comentários e\ou sugestões sobre as traduções: 
+
+nunito.mokito@gmail.com</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Portuguese (Portugal)" lName="português" code="pt-PT" R2L="false"/>
+	<Module name="SpellChecker" namespace="spell" version="6.0.319.0"/>
+	<Strings>
+		<text id="dict.param.hyphen" h="50549BEC">Hifenização</text>
+		<text id="dict.param.spell" h="E10DA1DD">Soletrar</text>
+		<text id="lstDicts.empty" h="FFD5B8BB">&lt;Sem Dicionários&gt;</text>
+		<text id="msg.CopyDictError" h="81324CC9">Não foi possível copiar os ficheiros do dicionário</text>
+		<text id="msg.DictExists" h="650ABF1A">O Dicionário já existe.</text>
+		<text id="msg.DictExists.title" h="A81488F3">Dicionário já existente</text>
+		<text id="msg.ErrorTitle" h="8FEB05A5">Erro do Corrector Ortográfico</text>
+		<text id="msg.LoadDictError" h="D139CD51">Erro ao carregar o dicionário</text>
+		<text id="msg.RemoveError" h="10071F88">Erro ao remover ficheiros do dicionário. Acesso negado.</text>
+		<text id="msg.WordExists" h="08449B8B">A palavra já existe</text>
+		<text id="msg.WordExists.title" h="B19E6963">Palavra já existente</text>
+		<text id="opt.b.AddDict" h="E0BF5FDE">Adicionar Dicionário</text>
+		<text id="opt.b.CustomWordList" h="D1505337">Lista de Palavras Personalizada</text>
+		<text id="opt.b.RemoveDict" h="D94F3439">Remover Dicionário</text>
+		<text id="opt.cb.AllowAlgoHyphens" h="184CA069">Hifenizar as palavras desconhecidas</text>
+		<text id="opt.cb.EnableAllHyphens" h="207464CF">Activar a Hifenização</text>
+		<text id="opt.cb.EnableHyphens" h="BC236380">Activar o dicionário de hifenização</text>
+		<text id="opt.cb.EnableSpellChecker" h="1D563674">Activar o Corretor Ortográfico</text>
+		<text id="opt.cb.IgnoreWordsInUppercase" h="918E6B8B">Ignorar palavras em MAIÚSCULAS</text>
+		<text id="opt.cb.IgnoreWordsWithNumbers" h="6054313B">Ignorar palavras que contenham números</text>
+		<text id="opt.title" h="AEF9F007">Definições do Corretor Ortográfico</text>
+		<text id="wrd.b.AddWord" h="8E2EE8C1">Adicionar</text>
+		<text id="wrd.b.Delete" h="D8FE3F70">Eliminar</text>
+		<text id="wrd.b.DeleteAll" h="848E003C">Eliminar Tudo</text>
+		<text id="wrd.l.Dictionary" h="66E4322E">Dicionário:</text>
+		<text id="wrd.l.Word" h="7AFBC23E">Palavra:</text>
+		<text id="wrd.title" h="66DDC653">Lista de Palavras Personalizada</text>
+	</Strings>
+</Localization>

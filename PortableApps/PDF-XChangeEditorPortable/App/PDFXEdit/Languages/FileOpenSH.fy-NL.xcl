@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220812">2.00.00</Version>
+	<Author>Berend Ytsma</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Western Frisian (Netherlands)" lName="Frysk" code="fy-NL" R2L="false"/>
+	<Module name="FileOpenSH" namespace="fopw" version="6.0.322.7"/>
+	<Strings>
+		<text id="secure.printer.title" h="448D1D7F">Dizze printer is net tastien.</text>
+		<text id="secure.printer.text" h="7488F002">Dizze printer kin net brûkt wurde foar feilich printsjen. Start op 'e nij mei printsjen en selektearje in oare printer.</text>
+	</Strings>
+</Localization>

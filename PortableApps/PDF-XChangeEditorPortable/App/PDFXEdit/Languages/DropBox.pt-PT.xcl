@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20161130215843">2.00.00</Version>
+	<Author>Nuno Filipe Rego</Author>
+	<Copyright>Nuno Filipe Rego ©
+
+Coments and\or suggestions about the translations:
+Comentários e\ou sugestões sobre as traduções: 
+
+nunito.mokito@gmail.com</Copyright>
+	<Product id="product"/>
+	<Language eName="Portuguese (Portugal)" lName="português" code="pt-PT" R2L="false"/>
+	<Module name="Dropbox" namespace="db" version="6.0.319.0"/>
+	<Strings>
+		<text id="btn.cancel" h="3D302A38">Cancelar</text>
+		<text id="btn.chooseUser" h="BEC16DA6">Escolher Utilizador</text>
+		<text id="btn.ok" h="FEF0C771">OK</text>
+		<text id="btn.open" h="B1A510F0">Abrir</text>
+		<text id="btn.save" h="F363C410">Guardar</text>
+		<text id="btn.saveReplace" h="11BF9724">Salvar e Substituir</text>
+		<text id="cmd.cmdsCategory" h="22B8ECE9">Dropbox</text>
+		<text id="cmd.open" h="028048E8">Dropbox...</text>
+		<text id="cmd.open.tip" h="94556787">Abrir Documento a partir do Dropbox.</text>
+		<text id="cmd.save" h="028048E8">Dropbox...</text>
+		<text id="cmd.save.tip" h="A6A3EE84">Guardar um documento aberto no Dropbox</text>
+		<text id="cmd.dropbox" h="6616FE70">Dropbox</text>
+		<text id="dlg.authenticate" h="E6E77652">Autenticar</text>
+		<text id="dlg.openFile" h="435887CD">Abrir Ficheiro</text>
+		<text id="dlg.saveFile" h="520CB069">Guardar Ficheiro</text>
+		<text id="lb.itemsInFolder" h="8F56A98C">%d itens</text>
+		<text id="lb.name" h="DEC92488">Nome do Ficheiro:</text>
+		<text id="ls.column.created" h="FE6510B7">Data de Criação</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Data e Hora de quando o ficheiro, pasta ou lista foi criada.</text>
+		<text id="ls.column.extension" h="14FEB836">Extensão</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Extensão do ficheiro</text>
+		<text id="ls.column.modified" h="7E234D6D">Data de Modificação</text>
+		<text id="ls.column.modified.hint" h="12933E76">Data e hora em que o ficheiro, pasta ou lista foi modificado(a) pela última vez</text>
+		<text id="ls.column.size" h="17A58A52">Tamanho</text>
+		<text id="ls.column.size.hint" h="9C4BD847">Tamanho do ficheiro</text>
+		<text id="ls.column.title" h="D18643E3">Nome</text>
+		<text id="ls.column.title.hint" h="FB317B14">Nome do Ficheiro ou da Pasta</text>
+		<text id="msg.connectError" h="BB92EFFA">Falha ao ligar-se ao Dropbox. Verifique a sua ligação à  Internet e permissões de acesso ao recurso do Dropbox selecionado.</text>
+		<text id="msg.fileNotFound" h="CD319CFB">O ficheiro "%1" não foi encontrado na pasta atual.</text>
+		<text id="msg.invalidFileName" h="7153C280">"%1" não é um nome válido para o ficheiro (símbolos &lt;&gt;"/|?* não são permitidos).</text>
+		<text id="msg.navigateError" h="8DFB6834">Falha ao navegar para o recurso do Dropbox selecionado.Verifique a sua ligação à Internet, se o endereço está correto, e as permissões de acesso ao recurso do Dropbox.</text>
+		<text id="msg.openFailed" h="0BB63F1F">Falha ao abrir o ficheiro. Certifique-se de que o ficheiro existe e de que tem permissões de leitura.</text>
+		<text id="msg.saveFailed" h="48F763F5">Falha ao guardar o ficheiro. Certifique-se de que o nome é válido e de que você tem permissões de escrita.</text>
+		<text id="msg.saveReplace" h="D31D53A9">O ficheiro "%1" já existe. Você deseja substituí-lo?</text>
+		<text id="msg.wrongUser" h="BF2BFAE3">Não é possível abrir o ficheiro pois ele pertence ao Dropbox de outro utilizador. Deseja escolher outro utilizador?</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220806">2.00.00</Version>
+	<Author>Andy Chen</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Chinese (Traditional, Taiwan)" lName="中文(繁體)" code="zh-TW" R2L="true"/>
+	<Module name="OCRPlugin" namespace="ocr" version="6.0.322.7"/>
+	<Strings>
+		<text id="LANGUAGE" h="7B707020">語言:</text>
+		<text id="LanguageSelect" h="13F6EE1C">選擇...</text>
+		<text id="MULTIPLECORES" h="F4A23CC9">使用多線程</text>	
+		<text id="OrientationDetection" h="40F7AA0E">自動定位檢測</text>
+		<text id="PREFERENCES" h="4481257B">設置</text>
+		<text id="TITLEWHITELIST" h="B446B537">白名單和黑名單</text>
+		<text id="WHITELIST" h="68C2961B">白名單</text>
+		<text id="accuracy.high" h="21A95620">高</text>
+		<text id="accuracy.low" h="845E3D8C">低</text>
+		<text id="accuracy.medium" h="91153342">中</text>
+		<text id="cb.cuenoany" h="899F9872">未安裝語言</text>
+		<text id="cmd.name" h="6DAA8A17">頁面辨識中...</text>
+		<text id="g.recognition" h="962555B5">確認</text>
+		<text id="l.accuracy" h="3B2028D8">準確度(&amp;A):</text>
+		<text id="l.language" h="7B707020">語言(&amp;L)</text>
+		<text id="lnk.more" h="2E2CCD84">&lt;a=1&gt;更多語言...&lt;/a&gt;</text>
+		<text id="notice.emptyselection" h="B666EF9A">識別錯誤: 一個非工作文件或沒有分配任何東西</text>
+		<text id="notice.finished" h="A9DFF88B">已完成</text>
+		<text id="notice.notavailable" h="91B691A1">所選的 OCR 功能在此版本中不可用.</text>
+		<text id="notice.notfinished" h="8FF943CD">初始化錯誤: 檢查語言和輸出選項.</text>
+		<text id="notice.permissions" h="1319E1F3">這個文件是受保護的. 檢查中的權限 "文件" -&gt; "文檔屬性" -&gt; "安全".</text>
+		<text id="ocr.l.language" h="7B707020">語言:</text>
+		<text id="outputtype.editable" h="B24B2872">創建新的帳戶 PDF 編輯的可能性</text>
+		<text id="outputtype.layer" h="DFA4EAA6">保存原始內容並添加文本圖層</text>
+		<text id="outputtype.new" h="85C87BB3">創建新的帳戶 PDF 具有搜索能力</text>
+		<text id="prefs.langdir" h="ED1B4BF6">OCR 語言</text>
+		<text id="prefs.name" h="00DD8F43">OCR</text>
+		<text id="prefs.tips" h="D0975E29">參數 OCR</text>
+		<text id="prefs.title" h="D0975E29">OCR 選項</text>
+		<text id="progress.finalizing" h="BD3E3BA6">完成...</text>
+		<text id="progress.pageinfo" h="4580EE29">頁面處理 %d 至 %d...</text>
+		<text id="progress.placing" h="C9F1FA8A">放置內容...</text>
+		<text id="progress.rasterizing" h="ACB9131E">光柵化...</text>
+		<text id="progress.recognizing" h="281E6862">確認...</text>
+		<text id="progress.title" h="8E35B0D9">頁面識別, 請稍等...</text>
+	</Strings>
+</Localization>

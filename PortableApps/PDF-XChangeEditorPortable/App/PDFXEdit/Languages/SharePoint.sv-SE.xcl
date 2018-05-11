@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117213645">2.00.00</Version>
+	<Author>Markus Konsa, support@PDF-XChange.se,+46(0)31-3121100</Author>
+	<Copyright>PDF-XChange Sverige, tel +46(0)31-312 11 00
+https://pdf-xchange.se, 
+Tracker Software Products(Canada+UK) reg. partner.
+	</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Swedish (Sweden)" lName="svenska" code="sv-SE" R2L="false"/>
+	<Module name="SharePoint" namespace="sp" version="6.0.322.7"/>
+	<Strings>
+		<text id="btn.checkIn" h="09996473">&amp;Checka in</text>
+		<text id="btn.discardCheckOut" h="40AC5603">&amp;Ta bort utcheckning</text>
+		<text id="btn.checkInAndKeepCkeckedOut" h="34DA624B">C&amp;hecka in och behåll utcheckning</text>
+		<text id="btn.keepCkeckedOut" h="AEA0D6B1">&amp;Behåll utcheckning</text>
+		<text id="btn.navigate" h="B03F439E">&amp;Bläddra...</text>
+		<text id="btn.open" h="B1A510F0">&amp;Öppna</text>
+		<text id="btn.openWithCheckOut" h="2F774735">Öppna med C&amp;hecka ut</text>
+		<text id="btn.save" h="F363C410">&amp;Spara</text>
+		<text id="btn.saveAndCheckOut" h="E44D9A0A">&amp;Spara och checka ut</text>
+		<text id="btn.saveReplace" h="11BF9724">Spara och &amp;ersätt</text>
+		<text id="btn.signOut" h="645CEBE2">L&amp;ogga ut</text>
+		<text id="cb.url.tip" h="CD81E674">Ange adress..</text>
+		<text id="cmd.checkIn" h="AEF235ED">Checka &amp;In</text>
+		<text id="cmd.checkIn.tip" h="C9DCA405">Checka in dokumentfilen till SharePoint.</text>
+		<text id="cmd.checkOut" h="E6A87AFE">Checka &amp;Ut</text>
+		<text id="cmd.checkOut.tip" h="E1B64D30">Checka ut dokumentfilen från SharePoint.</text>
+		<text id="cmd.cmdsCategory" h="56A5F9B3">SharePoint</text>
+		<text id="cmd.discardCheckOut" h="40AC5603">&amp;Ta bort utcheckning</text>
+		<text id="cmd.discardCheckOut.tip" h="ED54ACC3">Ta bort utcheckning för dokumentfil på SharePoint.</text>
+		<text id="cmd.open" h="68595810">Share&amp;Point...</text>
+		<text id="cmd.open.tip" h="007B7200">Öppna dokument från SharePoint.</text>
+		<text id="cmd.prepareFileInfo" h="56811CA0">Förbered fil&amp;Info</text>
+		<text id="cmd.prepareFileInfo.tip" h="E609EA07">Förbered dokumentinfo till SharePoint.</text>
+		<text id="cmd.save" h="68595810">Share&amp;Point...</text>
+		<text id="cmd.save.tip" h="C48C1C25">Spara ett aktivt dokument till SharePoint.</text>
+		<text id="cmd.share_point" h="B7423C0E">Share&amp;Point</text>
+		<text id="dlg.liveLogin" h="BFADC685">Live-inloggning</text>
+		<text id="dlg.openFile" h="435887CD">Öppna fil</text>
+		<text id="dlg.saveFile" h="520CB069">Spara fil</text>
+		<text id="lb.checkInComment" h="694DD18A">Kommentar (frivilligt):</text>
+		<text id="lb.name" h="F7B9E475">Filnamn:</text>
+		<text id="ls.column.created" h="FE6510B7">Skapad</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Datum och tid när fil, mapp eller lista skapades</text>
+		<text id="ls.column.extension" h="14FEB836">Filändelse</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Filändelse</text>
+		<text id="ls.column.modified" h="691C3610">Senast ändrad</text>
+		<text id="ls.column.modified.hint" h="12933E76">Datum och tid när fil, mapp eller lista senast ändrades</text>
+		<text id="ls.column.size" h="17A58A52">Storlek</text>
+		<text id="ls.column.size.hint" h="E79CA174">Filstorlek</text>
+		<text id="ls.column.title" h="D18643E3">Namn</text>
+		<text id="ls.column.title.hint" h="81F4F728">Filnamn, mappnamn eller listtitel</text>
+		<text id="msg.askForCheckInOnClose" h="8F50A2BC">Vill du checka in filen &lt;b&gt;%1&lt;/b&gt; innan den stängs?  Det vill göra ändringar tillgängliga för andra användare.</text>
+		<text id="msg.askForCheckOutOnOpen" h="20742355">Du kan öppna filen &lt;b&gt;%1&lt;/b&gt; med checkout och sätta filen "Read only" för andra användare + på säkert sätt ändra det och spara ändringar till SharePoint.Tillåt andra användare att ändra den men finns risk konflikt om du försöker ändra/spara filen samtidigt.</text>
+		<text id="msg.askForCheckOutOnSave" h="0D7127AB">Filen &lt;b&gt;%1&lt;/b&gt; är inte utcheckad. Du måste checka ut filen och fortsätta med sparåtgärden.</text>
+		<text id="msg.askForDiscardCheckOutOnClose" h="CF92CA4B">Filen &lt;b&gt;%1&lt;/b&gt; är utcheckad till dig. Vill du ta bort utcheckningen och tillåta andra användare att redigera den?</text>
+		<text id="msg.checkInFailed" h="3E327B8B">Filen &lt;b&gt;%1&lt;/b&gt; misslyckades att checka in. Säkerställ att filen existerar och att den är utcheckad till dig.</text>
+		<text id="msg.checkInDialogMessage" h="8A8CB676">Checka in filen &lt;b&gt;%1&lt;/b&gt;.</text>
+		<text id="msg.checkedOutToOtherOnOpen" h="0931ED51">Du kan INTE öppna filen &lt;b&gt;%1&lt;/b&gt; med check ut pga filen är utcheckad av användare "%2".</text>
+		<text id="msg.checkedOutToOtherOnSave" h="2974FCD2">Filen &lt;b&gt;%1&lt;/b&gt; är utcheckad till användare "%2". Du kan ej spara filen till SharePoint om inte den är utcheckad till dig men du kan spara ändringar på annan plats.</text>
+		<text id="msg.checkOutFailed" h="AE188A1B">Filen &lt;b&gt;%1&lt;/b&gt; misslyckades att checka ut. Säkerställ att filen existerar på servern och se om annan användare checkat ut filen.</text>
+		<text id="msg.connectError" h="18DFEDBE">Kunde inte ansluta till SharePoint-servern. Kontrollera din internetanslutning, korrektheten i serveradressen och åtkomsträttigheter till den begärda SharePoint-resursen.</text>
+		<text id="msg.discardCheckOutFailed" h="427CEAFC">Misslyckades ignorera filens utcheckade tillstånd &lt;b&gt;%1&lt;/b&gt;. Kontrollera att filen existerar och är utcheckad till dig.</text>
+		<text id="msg.errorOnCheckOutNoEditPermissions" h="72CACDDF">Du kan INTE checka ut filen &lt;b&gt;%1&lt;/b&gt; då du saknar behörighet för denna fil.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedCheckOut" h="0075F732">Du kan INTE öppna filen &lt;b&gt;%1&lt;/b&gt; med check ut pga du har INTE BEHÖRIGHET för denna fil.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedWriteAccess" h="FD9B1AB1">Du kan INTE öppna filen &lt;b&gt;%1&lt;/b&gt; för redigering då du saknar behörighet för denna fil.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedWriteAccess" h="3453F306">Kan ej spara fil &lt;b&gt;%1&lt;/b&gt; till SharePoint pga ni har inte behörighet till denna fil.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedCheckOut" h="833598E7">Filen &lt;b&gt;%1&lt;/b&gt; måste checkas ut innan den kan sparas men du har EJ BEHÖRIGHET för denna fil.</text>
+		<text id="msg.fileNotFound" h="381368F8">Filen &lt;b&gt;%1&lt;/b&gt; kan inte hittas i aktuell mapp.</text>
+		<text id="msg.invalidFileName" h="5F43EF67">&lt;b&gt;%1&lt;/b&gt; är inget giltigt filnamn.</text>
+		<text id="msg.navigateError" h="CF23B4B6">Kunde inte navigera till SharePoint-resurs. Kontrollera din internetanslutning, korrektheten i resursadressen och åtkomsträttigheter till den begärda SharePoint-resursen.</text>
+		<text id="msg.openFailed" h="34DE1259">Kunde inte öppna filen. Tillse att filen finns, inte är utcheckad till annan användare och att du har läsrättigheter för den.</text>
+		<text id="msg.outdatedFileOnWrite" h="1D71732B">Filen &lt;b&gt;%1&lt;/b&gt; kan ej sparas till SharePoint pga ändringskonflikt. Dokumentet innehåller ändringar gjorda av &lt;b&gt;%2&lt;/b&gt; men servern har nyare ändringar gjorda &lt;b&gt;%3&lt;/b&gt;. Spara dina ändringar i ny fil, sen öppna/checka ut senaste från SharePoint och överför/sammanfoga ändringarna + spara på server.</text>
+		<text id="msg.saveFailed" h="967D2A64">Kunde inte spara filen. Tillse att filnamnet är giltigt, att den inte är utcheckad till annan användare och att du har skrivrättigheter för den.</text>
+		<text id="msg.saveReplace" h="B1889DFB">Filen &lt;b&gt;%1&lt;/b&gt; finns redan. Vill du ersätta den?</text>
+		<text id="msg.signOutError" h="0E6A5F45">Kunde ej logga ut nuvarande användare från SharePoint server men möjligt att ni fortfarande har access till SharePoint utan autentiseringsbegäran.</text>
+		<text id="msg.warnOnOpenWithNoEditPermissions" h="E1A7E642">Du öppnar filen &lt;b&gt;%1&lt;/b&gt; men du har EJ ÄNDRINGS-BEHÖRIGHET för denna fil. OBS! Du kan ej spara ändringar till SharePoint om du ej har rätt behörighet.</text>
+		<text id="msg.warnOnOpenWithOthersCheckOut" h="46080172">Filen &lt;b&gt;%1&lt;/b&gt; är utcheckad till användare "%2". Du kan ej spara filen till SharePoint om inte "%2" ignorerar utcheckning-tillståndet. Om "%2" checkar in filen med ändringar uppstår vanligtvis en ändrings-konflikt.</text>
+		<text id="opt.keepCkeckedOut" h="15301A94">&amp;Behåll filen utcheckad efter att sparat</text>
+		<text id="rbar.sharepoint" h="56A5F9B3">SharePoint</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171221003322">2.00.00</Version>
+	<Author>Nicola E.; Pari D.</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Italian (Italy)" lName="italiano" code="it-IT" R2L="false"/>
+	<Module name="Dropbox" namespace="db" version="7.0.323.2"/>
+	<Strings>
+		<text id="btn.cancel" h="3D302A38">Annulla</text>
+		<text id="btn.chooseUser" h="4E5DDBFB">Seleziona Utente...</text>
+		<text id="btn.ok" h="FEF0C771">OK</text>
+		<text id="btn.open" h="B1A510F0">Apri</text>
+		<text id="btn.save" h="F363C410">Salva</text>
+		<text id="btn.saveReplace" h="11BF9724">Salva e sovrascrivi</text>
+		<text id="cmd.cmdsCategory" h="22B8ECE9">Dropbox</text>
+		<text id="cmd.open" h="028048E8">Dropbox...</text>
+		<text id="cmd.open.tip" h="683AE278">Apre documenti da Dropbox.</text>
+		<text id="cmd.save" h="028048E8">Dropbox...</text>
+		<text id="cmd.save.tip" h="B5D0B78F">Salva un documento attivo su Dropbox.</text>
+		<text id="cmd.dropbox" h="6616FE70">Dropbox</text>
+		<text id="dlg.authenticate" h="E6E77652">Autenticazione</text>
+		<text id="dlg.openFile" h="435887CD">Apri File</text>
+		<text id="dlg.saveFile" h="520CB069">Salva File</text>
+		<text id="lb.itemsInFolder" h="8F56A98C">%d oggetti</text>
+		<text id="lb.name" h="F7B9E475">Nome File:</text>
+		<text id="ls.column.created" h="9E0B497D">Data di creazione</text>
+		<text id="ls.column.created.hint" h="291F5AEC">Data e ora di creazione del file, cartella o lista.</text>
+		<text id="ls.column.extension" h="14FEB836">Estensione</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Estensione del file</text>
+		<text id="ls.column.modified" h="691C3610">Ultima modifica</text>
+		<text id="ls.column.modified.hint" h="2C2CF8F2">Data e ora di ultima modifica del file, cartella o lista.</text>
+		<text id="ls.column.size" h="17A58A52">Dimensione</text>
+		<text id="ls.column.size.hint" h="E79CA174">Dimensione del file</text>
+		<text id="ls.column.title" h="D18643E3">Nome</text>
+		<text id="ls.column.title.hint" h="D883F263">Nome del file o della cartella</text>
+		<text id="msg.connectError" h="A594B0D5">Impossibile connettersi a Dropbox. Si prega di verificare la propria connessione ad internet ed i privilegi di accesso all'account Dropbox selezionato.</text>
+		<text id="msg.fileNotFound" h="381368F8">Il file &lt;b&gt;%1&lt;/b&gt; non è stato trovato nella cartella corrente.</text>
+		<text id="msg.invalidFileName" h="6BE657E3">&lt;b&gt;%1&lt;/b&gt; non è un nome valido (i simboli &lt;&gt;"/|?* non sono permessi)</text>
+		<text id="msg.navigateError" h="8BCFBD0F">Verificare la connessione ad internet, la correttezza dell'indirizzo ed i privilegi di accesso all'elemento Dropbox richiesto.</text>
+		<text id="msg.openFailed" h="794811DE">Impossibile aprire il file. Assicurati che il file esista e che tu abbia i permessi di lettura.</text>
+		<text id="msg.saveFailed" h="36780EC6">Impossibile salvare il file. Assicurati che il nome del file sia valido, di avere i permessi di scrittura e che ci sia sufficiente spazio disponibile su DropBox.</text>
+		<text id="msg.saveReplace" h="B1889DFB">Il file &lt;b&gt;%1&lt;/b&gt; esiste già. Sei sicuro di volerlo sovrascrivere?</text>
+		<text id="msg.wrongUser" h="27773B86">Impossibile aprire la risorsa perchè appartiene ad un altro utente Dropbox. Vuoi scegliere un altro utente?</text>
+		<text id="str.fileSystemName" h="22B8ECE9">Dropbox</text>
+	</Strings>
+</Localization>

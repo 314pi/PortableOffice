@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20180123215811">2.00.00</Version>
+	<Author>Regmos</Author>
+	<Copyright>Regmos 2018</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Danish (Denmark)" lName="dansk" code="da-DK" R2L="false"/>
+	<Module name="OCRPlugin" namespace="ocr" version="7.0.323.3"/>
+	<Strings>
+		<text id="OrientationDetection" h="40F7AA0E">Genkend autoorientering</text>
+		<text id="accuracy.high" h="21A95620">Høj</text>
+		<text id="accuracy.low" h="845E3D8C">Lav</text>
+		<text id="accuracy.medium" h="91153342">Mellem</text>
+		<text id="cb.cuenoany" h="899F9872">Ingen installerede</text>
+		<text id="cmd.name" h="6DAA8A17">OCR sider...</text>
+		<text id="l.accuracy" h="3B2028D8">Præcision:</text>
+		<text id="l.language" h="7B707020">Sprog:</text>
+		<text id="lnk.more" h="2E2CCD84">&lt;a=1&gt;Flere sprog...&lt;/a&gt;</text>
+		<text id="prefs.title" h="D0975E29">OCR indstillinger</text>
+	</Strings>
+</Localization>

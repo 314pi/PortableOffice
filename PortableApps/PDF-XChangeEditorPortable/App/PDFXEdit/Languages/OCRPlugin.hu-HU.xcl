@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Version date="20160810093803">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Hungarian" lName="magyar" code="hu-HU" R2L="false"/>
+	<Module name="OCRPlugin" namespace="ocr" version="6.0.317.0"/>
+	<Strings>
+		<text id="cmd.name" h="6DAA8A17">Szövegfelismerés...</text>
+		<text id="l.accuracy" h="3B2028D8">&amp;Pontosság:</text>
+		<text id="l.language" h="7B707020">&amp;Nyelv:</text>
+		<text id="ocr.l.language" h="7B707020">&amp;Nyelv:</text>
+		<text id="LANGUAGE" h="7B707020">&amp;Nyelv:</text>
+		<text id="lnk.more" h="2E2CCD84">&lt;a=1&gt;További Nyelvek...&lt;/a&gt;</text>
+		<text id="OrientationDetection" h="40F7AA0E">Tájolás Amutomatikus Észlelése</text>
+		<text id="LanguageSelect" h="13F6EE1C">Válassz...</text>
+		<text id="ComplexBackground" h="7D4E65E9">Komplex Háttér Eltávolítása</text>
+		<text id="outputtype.editable" h="B24B2872">Új szerkeszthető PDF létrehozása</text>
+		<text id="outputtype.new" h="85C87BB3">Új keresthető PDF létrehozása</text>
+		<text id="progress.finalizing" h="BD3E3BA6">Véglegesítés...</text>
+		<text id="accuracy.high" h="21A95620">Magas</text>
+		<text id="accuracy.low" h="845E3D8C">Alacsony</text>
+		<text id="accuracy.medium" h="91153342">Közepes</text>
+		<text id="cb.cuenoany" h="57DD34C3">Egy sincs telepítve</text>
+		<text id="prefs.name" h="00DD8F43">Szövegfelismerés</text>
+		<text id="notice.notfinished" h="F46B8362">Szövegfelismerés Inicializálás Sikertelen: Ellenőrizze a Nyelvi és a Kimeneti Tulajdonságok Beállítását</text>
+		<text id="notice.emptyselection" h="2B9E6261">Szövegfelismerés Sikertelen: Érvénytelen Dokumentum vagy Üres Kijelölés</text>
+		<text id="notice.finished" h="0CFE0EC4">Szövegfelismerés kész</text>
+		<text id="prefs.title" h="D0975E29">Szövegfelismerés Beállítások</text>
+		<text id="prefs.tips" h="D0975E29">Szövegfelismerés Beállítások</text>
+		<text id="progress.title" h="8E35B0D9">Szövegfelismerés, Kérjük Várjon...</text>
+		<text id="prefs.langdir" h="ED1B4BF6">Szövegfelismerés Nyelvek</text>
+		<text id="progress.placing" h="C9F1FA8A">Tartalom Elhelyezése...</text>
+		<text id="PREFERENCES" h="4481257B">Tulajdonságok</text>
+		<text id="outputtype.layer" h="DFA4EAA6">Eredeti Tartalom Megőrzése és Szövegéteg Hozzáadása</text>
+		<text id="progress.pageinfo" h="4580EE29">Oldal Feldolgozása %d a%d-ból...</text>
+		<text id="progress.rasterizing" h="ACB9131E">Raszterelés...</text>
+		<text id="g.recognition" h="962555B5">Felismerés</text>
+		<text id="progress.recognizing" h="281E6862">Felismerés...</text>
+		<text id="notice.notavailable" h="CAC07593">A kiválasztott szövegfelismerés-típus nem elérhető ebben a verzióban. </text>
+		<text id="notice.permissions" h="3BE9C6A8">Ez a dokumentum védett. Kérjük ellenőrizze a jogosultságot a Fájl -&gt; Dokumentum Tulajdonságai -&gt; Biztonság menüpont alatt.</text>
+		<text id="MULTIPLECORES" h="C21D9F69">Többszáló futtatás</text>
+		<text id="WHITELIST" h="68C2961B">Fehérlista</text>
+		<text id="TITLEWHITELIST" h="B446B537">Fehérlista és Feketelista</text>
+</Strings>
+</Localization>

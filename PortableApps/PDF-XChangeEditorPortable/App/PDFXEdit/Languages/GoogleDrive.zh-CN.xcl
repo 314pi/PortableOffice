@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Version date="20161128230104">2.00.00</Version>
+	<Author>Zach Yu</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Chinese (PRC)" lName="中文(简体)" code="zh-CN" R2L="false"/>
+	<Module name="GoogleDrivePlugin" namespace="gd" version="0.0.0.0"/>
+	<Strings>
+		<text id="cmd.googledrive" h="1D28DF85">Google 云端硬盘(&amp;G)</text>
+		<text id="cmd.save" h="F32ECED5">Google 云端硬盘(&amp;G)...</text>
+		<text id="cmd.open" h="F32ECED5">Google 云端硬盘(&amp;G)...</text>
+		<text id="cmd.cmdsCategory" h="AD23B285">Google 云端硬盘</text>
+		<text id="cmd.open.tip" h="933837A2">从 Google 云端硬盘打开文档</text>
+		<text id="cmd.save.tip" h="948C3269">保存当前文档到 Google 云端硬盘</text>
+		<text id="msg.invalidFileName" h="7C0655B5">&quot;%1&quot; 是无效的文件名.</text>
+		<text id="cpt.invalidFileName" h="79C1387C">文件名无效</text>
+		<text id="lb.CurrentFolder" h="44158804">当前文件夹:</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">创建文件、文件夹、列表的日期和时间</text>
+		<text id="ls.column.modified.hint" h="12933E76">最后修改文件、文件夹、列表的日期和时间</text>
+		<text id="ls.column.created" h="FE6510B7">创建日期</text>
+		<text id="ls.column.modified" h="7E234D6D">修改日期</text>
+		<text id="ls.column.extension" h="14FEB836">扩展名</text>
+		<text id="msg.navigateError" h="2FCAA72A">无法导航到 Google 云端硬盘资源。请检查您的互联网连接和访问请求的 Google 云端硬盘资源的权限。</text>
+		<text id="msg.openFailed" h="AC94D960">无法打开文件。请确保文件存在，未被其他用户签出并且你有读取权限。</text>
+		<text id="msg.saveFailed" h="4D413392">无法保存文件。请确保文件名有效并且你有写入权限。</text>
+		<text id="msg.fileNotFound" h="430E08B1">当前文件夹下找不到文件 “%1”</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">文件扩展名</text>
+		<text id="ls.column.title.hint" h="6A895576">文件、文件夹名或列表标题</text>
+		<text id="fileName" h="DEC92488">文件名：</text>
+		<text id="cpt.fileNotFound" h="A7F5FA7A">找不到文件</text>
+		<text id="lb.googleAccName" h="C94645A3">Google 账号:</text>
+		<text id="dlg.googleAuth" h="E5642F22">登陆 Google 云端硬盘</text>
+		<text id="GDPlugin" h="32B7E3E0">Google 云端硬盘插件</text>
+		<text id="virtualfolder.mydrive" h="84C2D3A6">我的云端硬盘</text>
+		<text id="ls.column.title" h="D18643E3">名称</text>
+		<text id="cpt.navigateError" h="3D300A1C">无法导航</text>
+		<text id="btn.connectToAnother" h="508BDBC5">切换账号...</text>
+		<text id="DlgOpenFile" h="B98AB29D">从 Google 云端硬盘打开文件</text>
+		<text id="msg.selectFile" h="2530C20F">请选择文件，然后点击确定</text>
+		<text id="cpt.saveReplace" h="520CB069">保存文件</text>
+		<text id="DlgSaveFile" h="81F99046">保存文件到 Google 云端硬盘</text>
+		<text id="cpt.selectFile" h="C55D68B0">选择文件</text>
+		<text id="virtualfolder.sharedwithme" h="8B65307E">与我共享</text>
+		<text id="ls.column.size" h="17A58A52">大小</text>
+		<text id="ls.column.size.hint" h="9C4BD847">文件大小</text>
+		<text id="lb.Test" h="273F3E5B">测试 测试 测试！</text>
+		<text id="msg.saveReplace" h="5D56833E">文件 “%1” 已存在。你是否要替换它？</text>
+		<text id="msg.unableToSaveToVirtualFolder" h="A6644426">无法将文件保存到选定的位置。请选择 &quot;我的云端硬盘&quot; 文件夹，它的一个子文件夹或者 &quot;与我共享&quot; 的子文件夹来保存文件.</text>
+		<text id="cpt.unableToSaveToVirtualFolder" h="778EF99A">无法保存文件到文件夹</text>
+</Strings>
+</Localization>

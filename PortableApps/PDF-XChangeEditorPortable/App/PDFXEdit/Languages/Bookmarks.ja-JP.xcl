@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220831">2.00.00</Version>
+	<Author>Jungle, Inc / Tz</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Japanese (Japan)" lName="日本語" code="ja-JP" R2L="false"/>
+	<Module name="BookmarksPlugin" namespace="bp" version="6.0.322.7"/>
+	<Strings>
+		<text id="DlgAddExcludedWords" h="BED549D0">新しい除外ワードを追加</text>
+		<text id="DlgAddTextToBookmark" h="E5B26485">テキストにブックマークのタイトルを追加</text>
+		<text id="DlgAutoGenerateBookmarks.Title" h="0E85373B">ページテキストからブックマークを生成</text>
+		<text id="DlgBookmarkAppearance" h="7544DDCE">結果の表示</text>
+		<text id="DlgBookmarkEveryNthPage" h="B6869582">ページ単位のブックマーク</text>
+		<text id="DlgBookmarkLevelDescription" h="186C1D0A">テキストマッチングのオプション</text>
+		<text id="DlgBookmarkPropSheet" h="862C67E7">ブックマーク世代のプロパティ</text>
+		<text id="DlgBookmarkTitleFormatting" h="A87502C2">タイトルのフォーマット</text>
+		<text id="DlgBookmarksToNamedDests" h="8A0957E5">名前つき宛先に変換</text>
+		<text id="DlgBookmarksToTextFile" h="29F18B82">ブックマークをテキストファイルにエクスポート</text>
+		<text id="DlgChangeBookmarkCase" h="4D74C7D9">ブックマークの大文字／小文字を変更</text>
+		<text id="DlgEditStopWords" h="911413E7">ストップワードを編集</text>
+		<text id="DlgFindReplaceBookmarkText" h="733A7FC1">ブックマークテキストの検索と置換</text>
+		<text id="DlgFontNames" h="3C8B1F88">フォント名を選択</text>
+		<text id="DlgFromTOC" h="AC2ED85C">コンテンツのブックマークテーブル</text>
+		<text id="DlgFromTOCIndentation" h="12688622">インデントの変更</text>
+		<text id="DlgFromTextFile" h="B3799046">テキストファイルからブックマークを生成</text>
+		<text id="DlgNamedDestsToPageNumbers" h="9CAE5E39">名前つき宛先をページに変換</text>
+		<text id="DlgSheetBttfBookmarkProps" h="4B2F0AA2">ブックマークのプロパティ</text>
+		<text id="DlgSheetBttfSelectBookmarks" h="30673BCD">一般</text>
+		<text id="DlgSortBookmarks" h="8339BB6C">ブックマークをソート</text>
+		<text id="DlgToTOC" h="2B3E9BF1">コンテンツテーブルのビルド</text>
+		<text id="DlgValidateBookmarks" h="0CD39971">ブックマークを検証</text>
+		<text id="atb.btn.Macroses" h="81734E4F">Mac</text>
+		<text id="atb.chb.IncludeChildren" h="0AC4CB2B">すべてのサブレベルを含める</text>
+		<text id="atb.chb.ProcessAllLevels" h="26C3B2DF">すべてのブックマークレベルを処理する</text>
+		<text id="atb.chb.RemoveSpaces" h="ABDEA5BC">元のブックマークタイトルから余分なスペースを削除する</text>
+		<text id="atb.gb.AddText" h="E21C9B55">テキストを追加</text>
+		<text id="atb.gb.Levels" h="8A668489">処理するブックマークのレベルを選択</text>
+		<text id="atb.gb.SelectSource" h="1E2E96A4">ブックマークのソース選択</text>
+		<text id="atb.lbl.BookmarkTitle" h="2DC1254E">"タイトル"</text>
+		<text id="atb.lbl.Prefix" h="A51A4726">タイトルにプレフィックスを追加：</text>
+		<text id="atb.lbl.SelectLevel" h="D1263889">処理するレベルを選択：</text>
+		<text id="atb.lbl.Suffix" h="C27741D5">タイトルにサフィックスを追加：</text>
+		<text id="atb.lbl.UseBookmarksFrom" h="E770326C">ブックマークを使用：</text>
+		<text id="ba.chb.expand" h="BBA3BD8A">展開して表示（すべての子ノードを表示）</text>
+		<text id="ba.l.expl" h="EE297184">ブックマークの表示方法を選択してください：</text>
+		<text id="ba.l.textStyle" h="8D5CA9B5">スタイル：</text>
+		<text id="benp.Gb.Main" h="4B2F0AA2">ブックマークのプロパティ</text>
+		<text id="benp.Label.TitleTemplate" h="5E999567">ブックマークタイトルのテンプレート：</text>
+		<text id="benp.Label1.SelectN" h="8626E4EA">選択範囲で</text>
+		<text id="benp.Label2.SelectN" h="6270721D">ページごとにブックマークする</text>
+		<text id="benp.infoBtn.invalidMacro" h="1561C0F2">この文字列には無視される未定義のマクロ名が含まれています</text>
+		<text id="bft.l.actionSeparator" h="5C05CE1E">アクションパラメータ区切り文字：</text>
+		<text id="bft.l.separator" h="A4269065">区切り文字：</text>
+		<text id="bld.btn.selStyle" h="EE213BC5">選択したテキストからスタイルを取得</text>
+		<text id="bld.chb.fontNames" h="AB457B23">フォント名：</text>
+		<text id="bld.chb.limitToPattern" h="7F0826AB">パターンマッチングのみに制限する</text>
+		<text id="bld.chb.matchTextPattern" h="5A64E195">マッチさせるテキストのパターン：</text>
+		<text id="bld.chb.multilineBookmarks" h="CB4817D1">複数行のブックマークタイトルを対象</text>
+		<text id="bld.g.textContentRules" h="5B364747">テキスト内容のルール</text>
+		<text id="bld.l.description" h="2F770A5B">ドキュメントのテキストからブックマークを自動的に生成するには、テキスト属性の組み合わせを選択します。</text>
+		<text id="bld.l.matchTextCase" h="43616BDA">マッチさせる条件：</text>
+		<text id="bld.matchTextCase.allCapital" h="D4E8E731">すべての文字が大文字です</text>
+		<text id="bld.matchTextCase.firstCapital" h="CAA2E79D">最初の文字は大文字です</text>
+		<text id="bld.matchTextCase.firstDigit" h="42E73545">最初の文字は数字です</text>
+		<text id="bld.matchTextCase.noRestrictions" h="93089981">制限なし</text>
+		<text id="bnd.gb.Main" h="4DDA9780">名前つき宛先のタイトル</text>
+		<text id="bnd.lbl.NDTitle" h="7F7F73EC">名前つき宛先　入力されたパターンに基づいて生成します</text>
+		<text id="btf.chb.insertAfter" h="DD7B743E">タイトルの後にこのテキストを挿入：</text>
+		<text id="btf.chb.insertBefore" h="CBDD1CF8">タイトルの前にこのテキストを挿入：</text>
+		<text id="btf.chb.removeDuplicateSpaces" h="2653A648">不要なスペースを削除</text>
+		<text id="btf.chb.replaceLineBreaks" h="0C51EEEB">改行をスペースで置き換える</text>
+		<text id="btf.chb.replaceTitle" h="097EF3C2">テキストパターンでブックマークタイトルを検索して置換</text>
+		<text id="btf.g.advancedFormatting" h="9130441A">高度なフォーマット</text>
+		<text id="btf.g.textCase" h="97FCC959">大文字／小文字</text>
+		<text id="btf.l.characters" h="189C88D2">（文字）</text>
+		<text id="btf.l.expl" h="169A084A">新しいブックマークタイトルに適用するテキストプロパティを選択してください：</text>
+		<text id="btf.l.leadingNumbers" h="074A1A51">先頭数字：</text>
+		<text id="btf.l.maxLength" h="A52EC501">最大テキスト長：</text>
+		<text id="btf.l.replacePattern" h="B54B1F92">置換パターン：</text>
+		<text id="btf.l.searchPattern" h="E87DDC08">検索パターン：</text>
+		<text id="btf.l.use" h="46DEA47A">使用：</text>
+		<text id="btf.leadingNumbers.noChange" h="3399B0A0">変更なし</text>
+		<text id="btf.rb.doNotChange" h="4CBF2C1B">変更しない</text>
+		<text id="btf.rb.lowercase" h="82451817">小文字</text>
+		<text id="btf.rb.sentenceCase" h="B26B2798">文頭を大文字</text>
+		<text id="btf.rb.titleCase" h="2C8DBF1B">タイトルケース</text>
+		<text id="btf.rb.uppercase" h="42F820C7">大文字</text>
+		<text id="btf.use.letters" h="6EE7E478">文字</text>
+		<text id="btf.use.numbers" h="E2FE5FA7">番号</text>
+		<text id="btf.use.romanLetters" h="290A50ED">ローマ数字</text>
+		<text id="btn.add.custom" h="3080663C">カスタム追加...</text>
+		<text id="btn.highlight" h="2485FBFF">ブックマークを強調</text>
+		<text id="btn.validate" h="1E91E484">検証</text>
+		<text id="cbc.aew.label" h="7EC386C0">除外ワードは1行に1単語（「Enter」で改行）：</text>
+		<text id="cbc.cb.fromBookmarks" h="CF38CD8D">選択しています</text>
+		<text id="cbc.cb.fromDocument" h="424CAFC5">すべてのブックマーク</text>
+		<text id="cbc.chb.EnterCustomWordList" h="EB8ACE1B">処理しない単語のリストを入力</text>
+		<text id="cbc.chb.IncludeChildrenBookmarks" h="051C6219">すべてのサブブックマークを含む</text>
+		<text id="cbc.gb.SelectTextCase" h="F9747FC0">大文字／小文字を選択</text>
+		<text id="cbc.gb.TextCaseOptions" h="DAD7B4F4">オプション</text>
+		<text id="cbc.list.header" h="647D6FC4">除外ワード</text>
+		<text id="cbc.rbtn.LowerCase" h="82451817">小文字</text>
+		<text id="cbc.rbtn.SentenceCase" h="B26B2798">文頭を大文字</text>
+		<text id="cbc.rbtn.TitleCase" h="2C8DBF1B">タイトルケース</text>
+		<text id="cbc.rbtn.UpperCase" h="42F820C7">大文字</text>
+		<text id="chb.ignoreDuplicates" h="B30FC50E">重複するブックマークを無視する</text>
+		<text id="chb.stopWords" h="491ED7FC">ストップワードを含むテキストを無視する</text>
+		<text id="chb.verifyLinks" h="7A46B598">外部ファイルへのリンクを確認する</text>
+		<text id="chb.warnGoTo" h="911FC68A">不正な Go-toアクションについて警告する</text>
+		<text id="chb.warnGoToRE" h="C0827D11">不正な Go-to Rと Go-to Eアクションについて警告する</text>
+		<text id="chb.warnLaunchURI" h="94F27C09">不正な実行アクションと URI アクションについて警告する</text>
+		<text id="chb.warnNoActions" h="FBF997CF">空のアクションリストまたは無効な子ノードについて警告する</text>
+		<text id="chb.warnNoGoTo" h="66B02339">アクションリスト内の無効な Go-toアクションについて警告する</text>
+		<text id="chb.warnOther" h="B30D6C64">その他の不正なアクションについて警告する</text>
+		<text id="chb.warnTitle" h="F0B5EE52">空のタイトルについて警告する</text>
+		<text id="cmd.addAGBLevel" h="928E2BB5">ブックマークの生成で選択したテキストスタイルを使用...</text>
+		<text id="cmd.addTextToBookmarkTitle" h="C4C93738">テキストをブックマークタイトルに追加...</text>
+		<text id="cmd.changeBookmarkCase" h="359544B0">ブックマークの大文字小文字を変更...</text>
+		<text id="cmd.findReplaceBookmarkText" h="AF996007">ブックマークテキストを検索して置換...</text>
+		<text id="cmd.sort" h="B1FFF012">ブックマークをソート...</text>
+		<text id="cmd.validate" h="E61D60D2">ブックマークを検証...</text>
+		<text id="cmd.toTOC" h="9B7AEEEA">コンテンツテーブルをビルド...</text>
+		<text id="cmd.bookmarksToNamedDests" h="9A9E5CF2">名前つき宛先に変換...</text>
+		<text id="cmd.bookmarksToTextFile" h="DBEBEEB8">ブックマークをテキストファイルにエクスポート...</text>
+		<text id="cmd.bookmarksToHtmlFile" h="EFF75744">ブックマークをHTMLファイルにエクスポート...</text>
+		<text id="cmd.namedDestsToPageNumbers" h="3A651CA9">名前つき宛先をページに変換...</text>
+		<text id="cmd.bookmarkEveryNthPage" h="940FCD39">数ページごとにブックマーク...</text>
+		<text id="cmd.generate" h="2147DF79">ページテキストからブックマークを作成...</text>
+		<text id="cmd.fromTOC" h="D15400EB">コンテンツテーブルからブックマークを作成...</text>
+		<text id="cmd.fromTextFile" h="55CA46BC">テキストファイルからブックマークを作成...</text>
+		<text id="cmd.name" h="E2032460">ブックマーク</text>
+		<text id="cmd.macro.firstLine" h="613F14A5">ページの開始行</text>
+		<text id="cmd.macro.hierIndex" h="7DCA5F4D">階層インデックス</text>
+		<text id="cmd.macro.hierTitle" h="0E7B4B6F">階層タイトルからブックマークを生成</text>
+		<text id="cmd.macro.indexInParent" h="1B41AFB1">親インデックス</text>
+		<text id="cmd.macro.label" h="EEE40FF3">ページラベル</text>
+		<text id="cmd.macro.launch" h="87D9EB8D">ファイルを開く</text>
+		<text id="cmd.macro.level" h="B863033F">ブックマークレベル</text>
+		<text id="cmd.macro.namedDest" h="C4E8D8F5">名前つき宛先</text>
+		<text id="cmd.macro.sequentialNum" h="CDF4EA5E">連番</text>
+		<text id="cmd.macro.title" h="3AB782A4">ブックマークタイトル</text>
+		<text id="cmd.macro.uri" h="6C21F7EF">Web リンクを開く</text>
+		<text id="ebttf.actType.all" h="B8B21253">ハイパーリンクアクションがあるブックマーク</text>
+		<text id="ebttf.actType.goto" h="05B4C93C">「Go-toページ」アクションがあるブックマーク</text>
+		<text id="ebttf.actType.gotoR" h="41E1955E">「Go-toリモート」アクションがあるブックマーク</text>
+		<text id="ebttf.actType.js" h="07676EBA">JavaScript アクションがあるブックマーク</text>
+		<text id="ebttf.actType.launch" h="38537D36">「ファイルを開く」アクションがあるブックマーク</text>
+		<text id="ebttf.actType.uri" h="F39B51AE">「Webリンクを開く」アクションがあるブックマーク</text>
+		<text id="ebttf.cb.separator.comma" h="827998F7">コンマ</text>
+		<text id="ebttf.cb.separator.semi" h="988594A6">セミコロン</text>
+		<text id="ebttf.ch.doNotEscape" h="09B53F9F">@ # { }  : 等のシンボルをエスケープしない</text>
+		<text id="ebttf.ch.expClosedState" h="46E4EC7E">ブックマークツリーの「折りたたみ」状態をエクスポート</text>
+		<text id="ebttf.ch.expDetailedGotoDescr" h="18B9C243">詳細な宛先の情報をエクスポート</text>
+		<text id="ebttf.ch.exportActions" h="3444FE51">ブックマークアクションをエクスポート</text>
+		<text id="ebttf.ch.exportGoto" h="37493654">ブックマークが指すページをエクスポート</text>
+		<text id="ebttf.ch.exportGotoR" h="92C06BA6">「リモートGo-to」アクションの詳細をエクスポート</text>
+		<text id="ebttf.ch.exportJS" h="9362EAE3">JavaScript の実行コードをエクスポート</text>
+		<text id="ebttf.ch.exportLaunch" h="1B39BF89">「ファイルを開く」アクションの詳細をエクスポート</text>
+		<text id="ebttf.ch.exportStyle" h="A6713F10">ブックマークのテキストスタイルと色のプロパティをエクスポート</text>
+		<text id="ebttf.ch.exportWebLinks" h="3C61424C">Web リンクをエクスポート</text>
+		<text id="ebttf.ch.includeSubBookmarks" h="051C6219">すべてのサブブックマークを含む</text>
+		<text id="ebttf.ch.openContFolder" h="80BDDAAC">フォルダを開く</text>
+		<text id="ebttf.ch.overwriteExistingFiles" h="29981774">既存のファイルに上書き</text>
+		<text id="ebttf.ch.resloveNamedDests" h="D1E8A9BC">名前つき宛先をページ番号とする</text>
+		<text id="ebttf.gb.actionExportParams" h="DA853D34">エクスポートするブックマークのプロパティを選択</text>
+		<text id="ebttf.gb.savingResults" h="49571A59">出力パラメータ</text>
+		<text id="ebttf.gb.selectBookmarks" h="E2AFC2C6">エクスポートするブックマークを選択</text>
+		<text id="ebttf.infoBtn.doNotEscape" h="93A6DD6C">「テキストファイルからブックマークを生成」機能を使用してファイルを出力する予定がある場合は、シンボルをエスケープすることを推奨しません</text>
+		<text id="ebttf.infoBtn.invalidSeparator" h="44875D1F">プロパティの区切り文字は、英数字またはスペースを含む。空文字、@ # : { }  のいずれかの文字は利用できません。</text>
+		<text id="ebttf.lbl.folder" h="3F9ED2F9">フォルダ：</text>
+		<text id="ebttf.lbl.separator" h="E9D351AC">プロパティの区切り：</text>
+		<text id="ebttf.rb.exportActionTypes" h="533F8EA6">ハイパーリンクアクションのブックマークをエクスポート</text>
+		<text id="ebttf.rb.exportAll" h="8F2ED544">すべてエクスポート</text>
+		<text id="ebttf.rb.exportSelected" h="69FB5145">選択したブックマークをエクスポート</text>
+		<text id="ebttf.rb.useDefaultFilename" h="0E7FC989">結果を保存するときに PDF ファイルの名前を使用する</text>
+		<text id="esw.chb.matchCase" h="2E5EFD7E">大文字／小文字を区別</text>
+		<text id="esw.chb.matchWhole" h="17009870">完全に一致する単語</text>
+		<text id="esw.chb.useRegExp" h="7FC6EB4F">正規表現を使用する</text>
+		<text id="esw.l.explanation" h="2C312B17">これらの「ストップワード」を含むテキストは除外され、ブックマークの作成には使用されません。</text>
+		<text id="fn.l.selectFontNames" h="0CCEF1FA">フォント名を選択してください：</text>
+		<text id="frbt.chb.MatchCase" h="12EB8088">大文字小文字を区別</text>
+		<text id="frbt.chb.MatchWholeWord" h="FE8CC762">完全に一致する単語</text>
+		<text id="frbt.chb.UseRegex" h="7FC6EB4F">正規表現を使用する</text>
+		<text id="frbt.gb.FindReplace" h="BA012728">検索と置換のオプション</text>
+		<text id="frbt.lbl.FindWhat" h="D0A8A2C5">検索対象：</text>
+		<text id="frbt.lbl.ReplaceWith" h="3BE65784">次の内容で置換：</text>
+		<text id="ftoc.allIncluded" h="C994FC1B">すべて含む</text>
+		<text id="ftoc.b.indents" h="48800D32">インデントの変更...</text>
+		<text id="ftoc.chb.addBookmarks" h="CBBAE768">コンテンツテーブルを使うページにブックマークを追加する</text>
+		<text id="ftoc.chb.addLinks" h="68456DBA">コンテンツエントリーのテーブルにリンクを追加する</text>
+		<text id="ftoc.chb.createLevels" h="58CF083A">ブックマークの階層を作成するために ToC のインデントを使用する</text>
+		<text id="ftoc.chb.improveDest" h="417AD7B0">テキストに基づいてブックマークの宛先の改善します</text>
+		<text id="ftoc.chb.trimNumbers" h="40ACC5F5">ブックマークタイトルからプレフィックスの数字を削除する</text>
+		<text id="ftoc.chb.trimSpaces" h="5A27A063">ブックマークタイトルから不要なスペースを削除する</text>
+		<text id="ftoc.chb.useExistingLinks" h="E214DBE7">新しいブックマークの宛先として既存のリンクを使用する</text>
+		<text id="ftoc.l.bottomIndent" h="C983AD6F">末尾のインデント：</text>
+		<text id="ftoc.l.expl" h="1FAB779E">この操作では、選択した目次エントリに基づいてページにブックマークを追加します。 さらに、コンテンツエントリのテーブルにリンクを追加することも、既存のリンクをブックマークの宛先として使用することもできます。</text>
+		<text id="ftoc.l.offsetExpl" h="9D6C25F6">これは、PDF文書内の物理ページ番号と、増加減可能な印刷されたページ番号間の差です</text>
+		<text id="ftoc.l.pageOffset" h="9E563407">ページオフセット：</text>
+		<text id="ftoc.l.separator" h="45CF4893">セパレータの種類を選択：</text>
+		<text id="ftoc.l.topIndent" h="FA827580">先頭のインデント：</text>
+		<text id="msg.bft.warning" h="726201E6">フィールドの区切り文字とアクションのセパレータに別のシンボルを選択してください！</text>
+		<text id="msg.cbc.excludedwords.add.title" h="9ADE883B">新しい除外ワードを追加</text>
+		<text id="msg.cbc.excludedwords.caption" h="6B29D4B4">除外ワードを入力：</text>
+		<text id="msg.cbc.excludedwords.edit.title" h="82F8AAA6">選択した除外ワードを編集</text>
+		<text id="msg.dlg.bookmarksToTextFile.done" h="8E1397E9">ブックマークは正常にファイルにエクスポートされました</text>
+		<text id="msg.dlg.emptyFilename.warning" h="96A438DA">ファイル名を入力する必要があります</text>
+		<text id="msg.dlg.invalidFilename.slashes" h="626318B0">ファイル名は、連続した  または / を含んだり、それらのいずれかで終了してはいけません。</text>
+		<text id="msg.dlg.invalidFilename.warning" h="46CD566C">Windowsのファイル名は次のシンボルを含んではいけません：* ? : | " &lt; &gt;</text>
+		<text id="msg.dlg.noActionsSelected.warning" h="933F1901">「ブックマークアクションをエクスポート」チェックボックスが、アクションの種類が指定されていない状態で選択されています。エクスポートするには、1つまたは複数のアクションの種類を選択するか、「ブックマークアクションをエクスポート」チェックボックスの選択を解除してください。</text>
+		<text id="msg.dlg.noSelectedBookmarks.warning" h="21F37C67">ブックマークが選択されていません。一つ以上のブックマークを選択するか、操作を実行するために「ブックマークソース」パラメータを「すべてのブックマーク」に変更してください。</text>
+		<text id="msg.dlg.pathDoesntExist.warning" h="0804B942">指定したフォルダがありません。有効な保存先フォルダを選択して、もう一度実行してください。</text>
+		<text id="msg.font.addCustom.caption" h="75533687">新しい PDF フォント名を入力：</text>
+		<text id="msg.font.addCustom.title" h="06AFFCAB">新しいカスタムフォントを追加</text>
+		<text id="msg.frbt.result.bookmarksCount" h="EE00AC0B">検索が完了しました。変更されたブックマークの総数：%1</text>
+		<text id="msg.frbt.result.noBookmarksModified" h="84BE491B">検索が完了しました。変更されたブックマークはありません。</text>
+		<text id="msg.levelDesc.title" h="E92EACC5">レベル設定</text>
+		<text id="msg.levelDesc.warning" h="86A85979">指定したデータで新しいブックマークレベルを作成することができません。テキストマッチングオプションで一致条件を1つ以上選択するか、選択した要素にデータが含まれているかどうかを確認してください。</text>
+		<text id="msg.oper.noChanges" h="5777DD79">変更はありませんでした。 入力データを確認して、もう一度お試しください。</text>
+		<text id="msg.oper.warning" h="ABDCBB65">操作の実行中にいくつかの問題がありました。結果を確認してください。</text>
+		<text id="msg.regex.error" h="D799FCBE">正規表現構文解析エラー</text>
+		<text id="msg.stopWords.add.title" h="F6B54725">新しいストップフレーズを追加</text>
+		<text id="msg.stopWords.caption" h="E2BC1B9E">新しい「ストップワード」または「ストップ文」を入力 ：</text>
+		<text id="msg.stopWords.edit.title" h="AFE604DF">選択したストップフレーズを編集</text>
+		<text id="msg.validateBookmarks.delete.caption" h="ED4457F4">選択した子ノードのあるブックマークを削除しますか？</text>
+		<text id="msg.validateBookmarks.delete.title" h="8FF00765">不正なブックマークの削除</text>
+		<text id="msg.validateBookmarks.rename.caption" h="CE842D61">新しいブックマーク名を入力：</text>
+		<text id="msg.validateBookmarks.rename.title" h="ED9AF7FA">ブックマークの名前を変更</text>
+		<text id="ndpn.ch.deleteDests" h="BC12FBF0">ドキュメントから変換した名前つき宛先を削除する</text>
+		<text id="op.GenerateBookmarks" h="05382BCA">ブックマークを生成</text>
+		<text id="op.ValidateBookmarks.msg.emptyActionsList" h="A0A0065C">ブックマークに定義されたアクションがありません</text>
+		<text id="op.ValidateBookmarks.msg.emptyTitle" h="83F3E965">ブックマークのタイトルがありません</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidDestName" h="81A40483">Go-toアクションが不正な名前つき宛先を参照しています</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidPageNumber" h="C8941D79">Go-toアクションが領域外のページを参照しています</text>
+		<text id="op.ValidateBookmarks.msg.goto.noAction" h="368F0970">アクションリストに Go-toアクションがありません</text>
+		<text id="op.ValidateBookmarks.msg.gotoE.invalidTargetPath" h="9D8A50F1">ターゲットパスが指定のアクションが空もしくは存在しません。</text>
+		<text id="op.ValidateBookmarks.msg.gotoR.invalidFile" h="76CCA61D">Go-toアクションが不正なファイルを参照しています</text>
+		<text id="op.ValidateBookmarks.msg.gotoR.invalidPath" h="560614BE">ファイルへのパスが無効です。</text>
+		<text id="op.ValidateBookmarks.msg.invalidAction" h="84877FDA">%1 アクションが正しくありません</text>
+		<text id="progress.BookmarkEveryNthPage.title" h="DA523087">ページをブックマークしています...</text>
+		<text id="progress.addTextToBookmarkTitle.text" h="BE27C5C9">テキスト %1 をブックマークに追加しています...</text>
+		<text id="progress.addTextToBookmarkTitle.title" h="EC7EB408">テキストをブックマークに追加しています...</text>
+		<text id="progress.addingBookmark" h="45BBB17E">ブックマーク：%1 / %2 を追加しています...</text>
+		<text id="progress.bookmarksToHtmlFile.status" h="AF1901AD">ブックマークをエクスポートしています：%1 / %2</text>
+		<text id="progress.bookmarksToHtmlFile.text" h="4DD531FF">ブックマークをエクスポートしています：%1...</text>
+		<text id="progress.bookmarksToHtmlFile.title" h="E1D21FEE">ブックマークをHTMLファイルにエクスポートしています</text>
+		<text id="progress.bookmarksToNamedDests.text" h="CE73819F">ブックマークを変換しています：%1...</text>
+		<text id="progress.bookmarksToNamedDests.title" h="8DB00717">名前つき宛先に変換しています...</text>
+		<text id="progress.bookmarksToTextFile.text" h="6E74EA26">ブックマークをエクスポートしています：%1</text>
+		<text id="progress.bookmarksToTextFile.title" h="D2C04472">ブックマークをテキストファイルにエクスポートしています</text>
+		<text id="progress.calculatingBookmarks" h="4AC26E12">ブックマークをカウントしています...</text>
+		<text id="progress.changingBookmarkCase.text" h="107628CA">ブックマークの大文字小文字を変更しています：%1...</text>
+		<text id="progress.changingBookmarkCase.title" h="E01AED17">ブックマークの大文字小文字を変更しています...</text>
+		<text id="progress.findReplaceBookmarkText.text" h="ABC58F1D">ブックマークを処理しています：%1</text>
+		<text id="progress.findReplaceBookmarkText.title" h="00FEBD2A">ブックマークテキストを置換しています...</text>
+		<text id="progress.generateBookmarks" h="3D5E30ED">ページ %1 からブックマークを生成しています...</text>
+		<text id="progress.generatingBookmarks" h="CFF0F2A9">ブックマークを生成しています</text>
+		<text id="progress.generatingBookmarks.label" h="043CF7B1">ブックマーク：%1 を追加しています...</text>
+		<text id="progress.generatingLevels" h="07A22443">ブックマークからレベルを生成しています...</text>
+		<text id="progress.generatingTOC" h="A438CB9C">コンテンツテーブルを生成しています</text>
+		<text id="progress.generatingTOCFromBookmark" h="C9213435">ブックマーク %1 からブックマークを生成しています...</text>
+		<text id="progress.namedDestsToPageNumbers.deleteNds" h="5DFFFF06">名前つき宛先を削除しています...</text>
+		<text id="progress.namedDestsToPageNumbers.title" h="4615CB0B">名前つき宛先をページ番号に変換しています...</text>
+		<text id="progress.parsingFile" h="B2405DA1">テキストファイルからブックマーク構造を読み取っています...</text>
+		<text id="progress.precalculatingPages" h="DB83BEF7">目次のページを作成しています...</text>
+		<text id="progress.preparingSelected" h="52031EDE">選択したブックマークの準備中...</text>
+		<text id="progress.sortingBookmarks" h="99E846CF">ブックマークをソートしています：%1...</text>
+		<text id="progress.sortingBookmarks.status" h="451C3890">%2 の %1 ブックマークをソートしています...</text>
+		<text id="progress.sortingBookmarks.title" h="E134B46E">ブックマークをソートしています</text>
+		<text id="progress.statusText.ProcessingBookmarks" h="3836AD6B">ブックマークを処理しています：%1 / %2...</text>
+		<text id="progress.statusText.ProcessingBookmarksDone" h="67CB6C48">ブックマークの処理が完了しました</text>
+		<text id="progress.undoingChanges" h="BBD3EE96">変更を元に戻す...</text>
+		<text id="regex.error.backref" h="3D1C1BE5">式が無効な後方参照を含んでいます</text>
+		<text id="regex.error.badbrace" h="4363EA7D">式がかっこの間に無効な範囲を含んでいます：'{' and '}'</text>
+		<text id="regex.error.badrepeat" h="9091944F">式が有効な正規表現ではない繰り返し指定（ *?+{ のいずれか）を含んでいます</text>
+		<text id="regex.error.brace" h="3031B0A1">式が不一致なかっこを含んでいます：'{' and '}'</text>
+		<text id="regex.error.brack" h="A41AB311">式が不一致なかっこを含んでいます：'[' and ']'</text>
+		<text id="regex.error.collate" h="D15FB49F">式が無効な照合要素名を含んでいます</text>
+		<text id="regex.error.complexity" h="76ADCA5C">正規表現に対するマッチングの複雑さが予め設定されたレベルを超過しました</text>
+		<text id="regex.error.ctype" h="76D6C176">式が無効な文字クラス名を含んでいます</text>
+		<text id="regex.error.default" h="509A660E">入力正規表現の処理中にエラーが発生しました</text>
+		<text id="regex.error.escape" h="4BAF1552">式が無効なエスケープ文字または末尾のエスケープを含んでいます</text>
+		<text id="regex.error.paren" h="11F2EE54">式が不一致なかっこを含んでいます：'(' and ')'</text>
+		<text id="regex.error.range" h="CDB00023">式が無効な文字の範囲（たとえば [z-a]）を含んでいます</text>
+		<text id="regex.error.space" h="2FFB9DD7">この正規表現を扱うための十分なメモリがありません</text>
+		<text id="regex.error.stack" h="2F47E3EC">正規表現が指定された文字列に一致するかどうかを決定するための十分なメモリがありません</text>
+		<text id="regex.error.syntax" h="4F399035">正規表現の構文にエラーがあります</text>
+		<text id="sb.ascending" h="59F2363F">昇順</text>
+		<text id="sb.chb.ignoreCase" h="E0949C6C">大文字小文字を無視</text>
+		<text id="sb.chb.sortAll" h="7BB3E98C">すべてのブックマークレベルをソート</text>
+		<text id="sb.chb.sortChildren" h="B1087C90">子ノードのブックマークをソート</text>
+		<text id="sb.descending" h="74091246">降順</text>
+		<text id="sb.g.sortingMethod" h="93D0D863">ソート方法</text>
+		<text id="sb.l.selectLevel" h="62FA8E9C">ソートするブックマークレベルを選択：</text>
+		<text id="sb.l.sortType" h="85828DAE">ソートの種類：</text>
+		<text id="sb.rb.sortAlpha" h="F9CD110C">アルファベット順にブックマークをソート</text>
+		<text id="sb.rb.sortByPage" h="EB2AF7E4">ページ番号順にブックマークをソート</text>
+		<text id="test" h="A538F326">テスト文字列</text>
+		<text id="tree.fontColor" h="210B1C91">テキストの色：</text>
+		<text id="tree.fontName" h="ACA86074">フォント名：</text>
+		<text id="tree.fontSize" h="B3CE43BA">サイズ：</text>
+		<text id="tree.fontTolerance" h="7781AAB6">許容範囲：</text>
+		<text id="tree.level" h="9B075A86">レベル：</text>
+		<text id="tree.textPattern" h="24121AD7">テキストパターン：</text>
+		<text id="tree.vb.bookmark" h="9926EC31">&lt;b&gt;%1. ブックマーク：&lt;/b&gt; "%2"</text>
+		<text id="ttoc.b.build" h="DE9A0F1C">ビルド</text>
+		<text id="ttoc.b.changeNumber" h="DD04BEA8">フォーマットを変更...</text>
+		<text id="ttoc.b.changeTitle" h="3B951B9A">タイトルフォーマットの変更...</text>
+		<text id="ttoc.chb.asLastPage" h="D323F9DD">最終ページとする</text>
+		<text id="ttoc.chb.end" h="9F41B967">すべてのブックマークを使用する</text>
+		<text id="ttoc.chb.skipInvalid" h="F864C487">不正なブックマークをスキップ</text>
+		<text id="ttoc.chb.useDifferentNumberFormatting" h="A39D9F18">カスタム番号書式を使用</text>
+		<text id="ttoc.chb.useDifferentSeparatorFormatting" h="7D6F82B2">カスタムセパレータ書式を使用</text>
+		<text id="ttoc.chb.useSizeFromDoc" h="79C19271">ドキュメントからページサイズを決定する</text>
+		<text id="ttoc.g.pageNumbering" h="21AF4605">ページ番号</text>
+		<text id="ttoc.g.pageSettings" h="D82087B4">ページ設定</text>
+		<text id="ttoc.ib.numberFormat" h="D41C6CB8">&lt;b&gt;番号フォーマット:&lt;/b&gt; &lt;i&gt;フォントファミリー:&lt;/i&gt; %1, &lt;i&gt;フォントサイズ:&lt;/i&gt; %2 pt, &lt;i&gt;フォントの色:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.ib.separatorFormat" h="14A80F28">&lt;b&gt;セパレータフォーマット:&lt;/b&gt; &lt;i&gt;フォントファミリー:&lt;/i&gt; %1, &lt;i&gt;フォントサイズ:&lt;/i&gt; %2 pt, &lt;i&gt;フォントの色:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.ib.titleFormat" h="4A9C0388">&lt;b&gt;タイトルフォーマット:&lt;/b&gt; &lt;i&gt;フォントファミリー:&lt;/i&gt; %1, &lt;i&gt;フォントサイズ:&lt;/i&gt; %2 pt, &lt;i&gt;フォントの色:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.l.end" h="43FA653A">ToCに含める最後のブックマークレベル：</text>
+		<text id="ttoc.l.insertAsPage" h="B68AF5B1">ToC を挿入するページ：</text>
+		<text id="ttoc.l.outputPagesAs" h="96E6A50A">次の内容でページ番号を出力：</text>
+		<text id="ttoc.l.pageMargins" h="DA4D6B15">ページ余白：</text>
+		<text id="ttoc.l.start" h="B03149CB">ToCに含める最初のブックマークレベル：</text>
+		<text id="ttoc.l.title" h="930D3835">タイトル：</text>
+		<text id="ttoc.l.titleFormatting" h="21C775EE">タイトルフォーマットを更新：</text>
+		<text id="ttoc.output.bates" h="ECE56FA9">ベイツナンバー（存在する場合）</text>
+		<text id="ttoc.output.labels" h="EAE579C1">ページラベル</text>
+		<text id="ttoc.output.numbers" h="38E0043C">元のページ数</text>
+		<text id="ttoc.style.dots" h="C13D9439">Chapter..........1</text>
+		<text id="ttoc.style.spaces" h="D9E4F5A0">Chapter          1</text>
+		<text id="ttoc.style.underline" h="B52B746A">Chapter______1</text>
+		<text id="ttoc.tableOfContents" h="080B4CC0">テーブルコンテンツ</text>
+		<text id="undefinedFont" h="06D72DED">未定義フォント（%1）</text>
+		<text id="vb.invalidALWarining" h="6B3E67E5">その変更は、無効なアクションリストを設定したことにより保存されませんでした。少なくとも一つのアクションを残してください！</text>
+		<text id="vb.l.invalidBookmarks" h="EE502FFE">%1 の不正なブックマークが見つかりました</text>
+		<text id="rtab" h="E2032460">ブックマーク</text>
+		<text id="rbar.create" h="EDCA1553">作成</text>
+		<text id="rbar.modify" h="EA358CAF">変更</text>
+		<text id="rbar.convert" h="EFAC3874">変換</text>
+	</Strings>
+</Localization>

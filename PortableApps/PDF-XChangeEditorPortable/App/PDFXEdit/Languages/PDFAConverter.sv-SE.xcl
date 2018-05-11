@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117213645">2.00.00</Version>
+	<Author>Markus Konsa, support@PDF-XChange.se, +46(0)31-3121100</Author>
+	<Copyright>PDF-XChange Sverige, +46(0)31-312 11 00
+https://pdf-xchange.se, 
+Tracker Software Products(Canada+UK) reg. partner.
+	</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Swedish (Sweden)" lName="svenska" code="sv-SE" R2L="false"/>
+	<Module name="PDFAConverter" namespace="pdfa" version="6.0.322.3"/>
+	<Strings>
+		<text id="auto.pdfa.level" h="778FAC3D">Auto PDF/A-överensstämmelse</text>
+		<text id="conv.name" h="7A00CE23">PDF/A (*.pdf)</text>
+		<text id="dlg.opt.autopdfa.info" h="4FBB3824">Låt PDF-redigeraren välja den mest lämpliga anpassning-/överensstämmelse-nivån för att spara dokumentet.</text>
+		<text id="dlg.opt.cb.correction" h="1EF3C21C">Tillämpa korrigeringar</text>
+		<text id="dlg.opt.embedfonts.lbl" h="61AFDA73">Bädda In Teckensnitt</text>
+		<text id="dlg.opt.g1.title" h="DAD7B4F4">Alternativ</text>
+		<text id="dlg.opt.g2.title" h="8FB1A988">Färgprofil</text>
+		<text id="dlg.opt.g3.title" h="8AD54EB1">Korrigeringar</text>
+		<text id="dlg.opt.label.auto" h="FF103EFE">Auto PDF/A-överensstämmelse</text>
+		<text id="dlg.opt.label1" h="EB2313FD">välj Anpassningen/Överens&amp;stämmelse</text>
+		<text id="dlg.opt.label2" h="752CF760">Välj &amp;profil:</text>
+		<text id="dlg.opt.title" h="86709E15">Konvertera till PDF/A</text>
+		<text id="dlg.pdfxConvert" h="1D70370D">Konvertera till PDF/X</text>
+		<text id="dlg.rep.errors" h="EC9E93B4">Fel (%1):</text>
+		<text id="dlg.rep.fixes" h="594F7931">Fixat (%1):</text>
+		<text id="dlg.rep.title" h="1DC94CC7">KonverteringsRapport</text>
+		<text id="dlg.rep.warnings" h="6F8DAB37">Varningar (%1):</text>
+		<text id="lbl.chooseStd" h="4CB6AFEB">Välj Standard:</text>
+		<text id="msg.err.alternate_presenatations" h="19A17FF2">Dokumentet innehåller alternativa presentationer</text>
+		<text id="msg.err.embed_file_missing_key" h="B12243CC">Inbäddad fil: Nyckel %1 saknas</text>
+		<text id="msg.err.embed_file_no_AF" h="0D075E68">Inbäddad fil har ingen 'AF' post</text>
+		<text id="msg.err.embed_file_no_AFRelationship" h="0F2FF281">Inbäddad fil har ingen 'AFRelationship' post (AF förbindelse)</text>
+		<text id="msg.err.embed_file_no_MIME_type" h="B23BB7AE">Inbäddad fil har ingen MIME type-post</text>
+		<text id="msg.err.embed_file_no_ModDate" h="32393EC5">Inbäddad fil har ingen 'ModDate' post i parametern ordlista</text>
+		<text id="msg.err.embed_file_not_PDF" h="ACB6C0B4">Vissa inbäddade filer är inte PDF-filer</text>
+		<text id="msg.err.embed_file_not_PDFA_compliance" h="69851F66">Minst ett inbäddat PDF-dokument är inte PDF/A-kompatibelt</text>
+		<text id="msg.err.font" h="E728DE31">Teckensnittet %1 är ogiltigt: %2</text>
+		<text id="msg.err.invalidfontobject" h="D0411546">Teckensnittsobjekt är felaktig</text>
+		<text id="msg.err.halftone_has_name" h="044A925B">Status för utökad grafik: Halvton har halvtonsnamn</text>
+		<text id="msg.err.image_bpc_more" h="63802D36">Bildbitar per komponent mer än %1</text>
+		<text id="msg.err.impl_limit_obj_size_more" h="3A9756F7">%1 har en storlek större än %2</text>
+		<text id="msg.err.impl_limit_pagebox_less" h="39206E0E">Implementeringsgränser: Storlek för %1, mindre än 3 enheter</text>
+		<text id="msg.err.impl_limit_pagebox_more" h="7793CF00">Implementeringsgränser: Storlek för %1, mer än 14400 enheter</text>
+		<text id="msg.err.impl_limit_val_out_range" h="0778EBD3">%1 är utanför intervallet</text>
+		<text id="msg.err.incomp_docinfo_metadata" h="4CE13608">%1 obalans mellan dokumentinformation och XMP-metadata</text>
+		<text id="msg.err.incomp_ge_cs_with_outintent" h="A7DB0264">%2-färg när utdatametod är %1</text>
+		<text id="msg.err.incomp_image_cs_with_outintent" h="FA83CF54">%2-bild när utdatametod är %1</text>
+		<text id="msg.err.incomp_shading_cs_with_outintent" h="6CEF543E">%2-skuggning när utdatametod är %1</text>
+		<text id="msg.err.invalid.xform" h="735966B8">Dokumentet innehåller ogiltigt XFormulär</text>
+		<text id="msg.err.invalid_image" h="A275C999">Bild är inte giltig</text>
+		<text id="msg.err.keys_not_UR3_DocMDP" h="33EEDCA6">Nycklar andra än 'UR3' och 'DocMDP' är använda i behörigheter</text>
+		<text id="msg.err.mbox.missing" h="529404DB">'MediaBox' saknas</text>
+		<text id="msg.err.metadata_missing" h="52FA2A56">Ingen metadata</text>
+		<text id="msg.err.obj_validator_name_not_UTF8" h="FB949014">Namnet är inte en giltig UTF-8-sträng</text>
+		<text id="msg.err.pageseparated" h="04FDB927">Sidan är separerad platta</text>
+		<text id="msg.err.preliminary.modify" h="413E0B86">Ändring av dokumentet tillåts inte</text>
+		<text id="msg.err.preliminary.secured" h="1CA464FB">Dokumentet är säkrat</text>
+		<text id="msg.err.preliminary.xfa" h="1B4F1FD1">Dokumentet innehåller XFA-formulär. Kan inte spara som PDF/A-standard</text>
+		<text id="msg.err.root.invalid.key" h="AB4A8812">Root objektet innehåller felaktig nyckel</text>
+		<text id="msg.err.xfa" h="7CB7EB6A">Kan ej konvertera: Dokumentet innehåller XFA data/formulär</text>
+		<text id="msg.err.pressteps" h="1CBEE75B">Sidan har 'PresSteps'</text>
+		<text id="msg.err.st_root_elem_type_not_standard" h="F26BDE8C">Strukturerad PDF. Element använder inte standardtyp</text>
+		<text id="msg.err.st_root_missing" h="7F7D9806">'StructTreeRoot', Strukurerad trädrot saknas</text>
+		<text id="msg.err.substitute_filter" h="50898016">%1 användes i stället för %2</text>
+		<text id="msg.err.subtype_xform_missing" h="00C060BB">'Subtype', Undertyp saknas i XForm</text>
+		<text id="msg.err.tagging_structure" h="025A02E3">Taggstruktur</text>
+		<text id="msg.err.used_egs_key" h="8964F17F">Status för utökad grafik: %1%2%3 används</text>
+		<text id="msg.err.used_embedded_files" h="5D7BA79C">Inbäddade filer används i dokumentet</text>
+		<text id="msg.err.used_ext_stream" h="7B302079">Extern ström används</text>
+		<text id="msg.err.used_fiter" h="C350A2BE">%1 används</text>
+		<text id="msg.err.used_fiter_invalid" h="2604E73C">Dokumentet använder en okänd komprimeringstyp</text>
+		<text id="msg.err.used_jpeg2000" h="52FB4580">JPEG2000-komprimering används</text>
+		<text id="msg.err.used_key" h="48336238">Nyckeln %1 används</text>
+		<text id="msg.err.used_obj_transparency" h="A7E6E8BD">Objekt använder transparens: %1</text>
+		<text id="msg.err.used_scale_factor" h="341357C0">Skalfaktor används</text>
+		<text id="msg.err.layer_is_not_ocgs" h="192BDC6C">Lager är inte med i dokumentetslista av lager</text>
+		<text id="msg.err.realnumber.high" h="66E0E3DB">Faktiskt tal är för högt</text>
+		<text id="msg.err.realnumber.low" h="2A96B6D3">Faktiskt tal är för lågt</text>
+		<text id="msg.err.outlinetitle.missing" h="DDDF0A13">Skiss/dispositions-rubrik saknas</text>
+		<text id="msg.err.dictsize" h="A051CB86">Ordboks storlek är mer än 4095</text>
+		<text id="msg.err.filespecification" h="E67D7D14">Dokumentet innehåller fil-specifikation</text>
+		<text id="msg.warn.image.reencoded" h="E4131E9E">Bild data har blivit om-kodat</text>
+		<text id="msg.fix.added_mark_info" h="6603ECE2">'MarkInfo', Märkinfo lades till i dokumentkatalogen</text>
+		<text id="msg.fix.annot" h="A3ED2923">Utarbetade anteckning för PDF/A-standard</text>
+		<text id="msg.fix.annotPDFX" h="5675C2EF">Utarbetade anteckning för PDF/X</text>
+		<text id="msg.fix.append.data" h="C09E2EE2">Fixade otillräcklig data i bild</text>
+		<text id="msg.fix.blendingCS" h="C69A9AF9">Fast färgblandningsrymd</text>
+		<text id="msg.fix.convert_ge_to" h="0F8BC341">Grafiskt elements färgrymd konverterades till %1</text>
+		<text id="msg.fix.convert_image_to" h="4C6135BC">Bilds färgrymd konverterades till %1</text>
+		<text id="msg.fix.convert_shading_to" h="62CBFA3C">Skuggningens färgrymd konverterades till %1</text>
+		<text id="msg.fix.create_metadata" h="D90DAD7D">Metadata skapades</text>
+		<text id="msg.fix.create_res_dict" h="FCE6D2B1">Resursordbok lades till sidan</text>
+		<text id="msg.fix.create_st_root" h="41944498">'StructTreeRoot', Strukurerad trädrot skapades</text>
+		<text id="msg.fix.discard_action_annotation" h="F7198D05">Undanta icke-kompatibla åtgärder från anteckning</text>
+		<text id="msg.fix.discard_action_catalog" h="C3900926">Undanta icke-kompatibla åtgärder från katalog</text>
+		<text id="msg.fix.discard_action_document" h="C016B27B">Undanta icke-kompatibla åtgärder från dokument</text>
+		<text id="msg.fix.discard_action_outlines" h="FBBE3E9F">Undanta icke-kompatibla åtgärder från konturer</text>
+		<text id="msg.fix.embed_ext_stream" h="048B6358">Extern ström bäddades in</text>
+		<text id="msg.fix.embed_file_fixed" h="31D72A99">Inbäddat PDF-dokument konverterades till PDF/A-standard</text>
+		<text id="msg.fix.embed_file_set_AF" h="D2B4D107">Inbäddad fil: Skapa motsvarande nyckel i 'AF' inmatning</text>
+		<text id="msg.fix.embed_file_set_MIME" h="3EF87FF1">Inbäddad fil: MIME type är angiven</text>
+		<text id="msg.fix.embed_file_set_ModDate" h="BA267B98">Inbäddad fil: Ändringsdatum angavs i parametern ordlista</text>
+		<text id="msg.fix.embed_file_set_key_to" h="BC68FC0B">Inbäddad fil: Nyckel %1 är angiven till %2</text>
+		<text id="msg.fix.fixed.pageboxes" h="99E435FA">Fast sid Box(fönster) layout</text>
+		<text id="msg.fix.flatten_opt_contents" h="6B973C9C">Bäddade in tilläggsinnehåll</text>
+		<text id="msg.fix.flatten_transparency" h="1A34D6C7">Bäddade in transparens</text>
+		<text id="msg.fix.font" h="D72B5D39">Teckensnittet %1 fixades: %2</text>
+		<text id="msg.fix.font_rasterized" h="F886ED6D">Textobjekt med teckensnittet %1 rastrerades</text>
+		<text id="msg.fix.insert_correct_parent_outline_item_key" h="0EAAA35B">Infoga rätt överordnad nyckel till dispositions objekt</text>
+		<text id="msg.fix.insert_parent_outline_item_key" h="345CBC49">Infoga överordnad nyckel till dispositions objekt</text>
+		<text id="msg.fix.io.set" h="F9298C4C">Resultat avsikt är satt till %1</text>
+		<text id="msg.fix.pages.root" h="A1647A90">Fast sidrot för dokumentet sidträd</text>
+		<text id="msg.fix.rasterize.invalid.form" h="D899922D">Ogiltigt formulär har rastrerats</text>
+		<text id="msg.fix.recompress_image_to_target_BPC" h="FF073DE9">Komprimera om bild till %1 bitar per komponent</text>
+		<text id="msg.fix.recompress_jpeg2000" h="99C21C1F">Komprimera om JPEG 2000-bild</text>
+		<text id="msg.fix.remove.alternate_presentations" h="504508D7">Tog bort alternativa presentationer från dokument</text>
+		<text id="msg.fix.remove.embedded.files" h="26C6032E">Ta bort inbäddade filer från dokumentet</text>
+		<text id="msg.fix.remove_JS" h="60C345B8">Tog bort  JavaScript</text>
+		<text id="msg.fix.remove_TR" h="E292DCE2">Överföringskurvan togs bort</text>
+		<text id="msg.fix.remove_annot" h="6BD2280C">Tog bort förbjudna anteckningar</text>
+		<text id="msg.fix.remove_annot_invalid" h="F94382C8">Tog bort ogiltiga objekt från anteckningsmatrisen</text>
+		<text id="msg.fix.remove_egs_key" h="C443AC00">Status för utökad grafik: Nyckeln %1 togs bort</text>
+		<text id="msg.fix.remove_element_with_zero_cm" h="F8645451">Tog bort element med felaktig omformningsmatris</text>
+		<text id="msg.fix.remove_embedded_files" h="8F0B4037">Ta bort alla inbäddade filer en nödvändiga krav för PDF/A</text>
+		<text id="msg.fix.remove_ext_stream" h="AFDE8AD8">Extern ström togs bort</text>
+		<text id="msg.fix.remove_interpolate" h="F32EB202">Interpoleringsnyckel togs bort från bilden</text>
+		<text id="msg.fix.remove_key" h="4413CC72">%1 togs bort</text>
+		<text id="msg.fix.remove_scale_factor" h="143311F1">Skalfaktor togs bort</text>
+		<text id="msg.fix.remove_transparency" h="7E5AEEAE">Tog bort transparens</text>
+		<text id="msg.fix.remove.invalid.ge" h="1ADE8289">Tog bort felaktiga grafiska element</text>
+		<text id="msg.fix.set_PDFA_version_conformance" h="AB0F972F">Ange PDF/A-version och konformitet</text>
+		<text id="msg.fix.set_PDFX_version" h="7AA4188B">Sätt PDF/X version till %1</text>
+		<text id="msg.fix.set_egs_key_to" h="63221188">Status för utökad grafik: Nyckeln %1 är satt till %2</text>
+		<text id="msg.fix.set_image_intent_to_rc_metric" h="CF86B7A2">Bildsyfte sattes till RelativeColorimetric (relativ färgvärde)</text>
+		<text id="msg.fix.set_op_mode_to_0" h="5F8AB92B">Övertrycksläge angavs till 0 för 4-komponents ICC-baserad färgrymd</text>
+		<text id="msg.fix.set_page_size_to_pdfa" h="196F4E85">Ange storlek för %1, som implementeringsgräns för PDF/A</text>
+		<text id="msg.fix.settitle.unk" h="63847E95">Sätt dokument titel till %1</text>
+		<text id="msg.fix.synch_docinfo_metadata" h="725D19C7">%1 synkroniserades mellan dokumentinformation och XMP-metadata</text>
+		<text id="msg.fix.trapped" h="A5390027">Instängd flagga sätts till %1</text>
+		<text id="msg.fix.added_layer_to_ocgs" h="384350C4">Lagt till lager i dokumentetslista över lager</text>
+		<text id="msg.param.PSForm" h="33125BC8">PostScript-formulär</text>
+		<text id="msg.param.created_CIDSet" h="68DA0CCF">skapat CIDSet post enligt</text>
+		<text id="msg.param.created_CIDToGID" h="36E9144C">skapat CIDToGIDMap post i TrueType(CID) teckesnitt</text>
+		<text id="msg.param.created_charset" h="476FD8FB">skapad teckenuppsättnings inmatning</text>
+		<text id="msg.param.cs_based_on" h="FFE0AF7F">baserat på</text>
+		<text id="msg.param.cs_with_alternate" h="B031D3C5">Breddalternativ</text>
+		<text id="msg.param.font_CIDToGID_name_not_Identity" h="0DB4EA77">'CIDToGIDMap' är namngiven men inte 'Identitet'</text>
+		<text id="msg.param.font_convert_opentype" h="CAE0DA1F">OpenType-teckensnitt konverterades</text>
+		<text id="msg.param.font_create_CIDSet" h="A849D837">skapa 'CIDset' post enligt PDF/A-standard</text>
+		<text id="msg.param.font_create_CIDToGID" h="141C53C9">skapa 'CIDToGIDMap' post i TrueType(CID) teckensnitt enligt PDF/A-standard</text>
+		<text id="msg.param.font_create_charset" h="9936EE1E">skapa teckenuppsättning enligt PDF/A-standard</text>
+		<text id="msg.param.font_embed" h="9A6990DE">bädda in teckensnittsfil</text>
+		<text id="msg.param.font_fix_lenghts" h="30C5F865">Fasta (Längd) 'Length1', 'Length2', och 'Length3' poster i teckensnittfilens objektström</text>
+		<text id="msg.param.font_fix_width" h="034ED3BC">Fast teckenbreddsinformation </text>
+		<text id="msg.param.font_incomp_CIDSet" h="9548B2AE">'CIDset' ofullständig i delmängdens CID-teckensnitt</text>
+		<text id="msg.param.font_incomp_charset" h="DFFF9082">Ofullständig teckenuppsättning i delmängdsteckensnitt</text>
+		<text id="msg.param.font_incomp_width" h="AAD233DC">Breddinformation för renderade tecken är inkonsekvent</text>
+		<text id="msg.param.font_incons_ordering" h="EDC4D27C">'Sorteringspost' i 'CIDSystemInfo' inte kompatibel med motsvarande post i CMap</text>
+		<text id="msg.param.font_incons_registry" h="F21A60E4">'Registerpost' i 'CIDSystemInfo' inte kompatibel med motsvarande post i CMap</text>
+		<text id="msg.param.font_incons_supplement" h="8475905C">'Kompletterande' post i 'CIDSystemInfo' är inte kompatibel med motsvarande post i CMap</text>
+		<text id="msg.param.font_insert_CIDSet" h="3A450980">Infoga 'CIDSet' post</text>
+		<text id="msg.param.font_insert_charset" h="8F852948">Infoga teckentabellpost</text>
+		<text id="msg.param.font_invalid_Unicode" h="5CDDB7B2">Teckensnitt har 'ToUnicode' karta med olämpliga värden</text>
+		<text id="msg.param.font_invalid_fontname" h="71C51772">Teckensnittet är inte en giltig UTF-8-sträng</text>
+		<text id="msg.param.font_invalid_lenghts" h="CCBC3ABE">teckensnitt har ogiltiga(längd) Length1-, Length2-, och/eller Length3-poster i teckensnittfilens objektström</text>
+		<text id="msg.param.font_license_error" h="4B95C372">Teckensnittets licensflagga förbjuder inbäddning</text>
+		<text id="msg.param.font_missing_CIDSet" h="D6A633DA">'CIDset' saknas</text>
+		<text id="msg.param.font_missing_CIDToGID" h="F18AFC8B">'CIDToGIDMap' saknas i TrueType(CID) teckensnitt</text>
+		<text id="msg.param.font_missing_charset" h="99C00B0D">'Teckenuppsättning' saknas</text>
+		<text id="msg.param.font_missing_glyph" h="C8DB86BB">Specialtecken saknas i inbäddat teckensnitt</text>
+		<text id="msg.param.font_not_map_Unicode" h="6C4EAF86">Text kan inte mappas som unicode</text>
+		<text id="msg.param.font_refer_notdef" h="8A352025">character references .notdef glyph</text>
+		<text id="msg.param.font_remove_diff_from_tt" h="CD98800F">'differenser' togs bort från TruType-teckensnitt</text>
+		<text id="msg.param.font_tt_nonsymb_has_diff" h="352685E0">Icke-symboliskt TrueType-teckensnitt har 'Differenser'</text>
+		<text id="msg.param.font_tt_nonsymb_has_diff_names_not_from_AGL" h="29AB9D70">Truetype-teckensnitt har 'Differenser' i specialteckennamn som ej finns listade i Adobes specialteckenlista</text>
+		<text id="msg.param.font_tt_nonsymb_has_diff_not_enc31" h="4EF1854A">Icke-symboliskt Truetype-teckensnitt har 'Differenser' men innehåller inte Microsoft Unicode(3.1)-kodning</text>
+		<text id="msg.param.font_tt_nonsymb_wrong_enc" h="A3CC05FE">Fel kodning för icke-symboliskt TrueType-teckensnitt</text>
+		<text id="msg.param.font_tt_symb_enc_prohibit" h="567F543A">Kodningspost är förbjuden för symboliska TrueType-teckensnitt</text>
+		<text id="msg.param.font_tt_symb_enc_removed" h="B6D46693">kodnings post i symboliskt TrueType-teckensnitt togs bort</text>
+		<text id="msg.param.font_tt_symb_more_one_enc" h="5C1A2311">Fler än en kodning i symboliskt TrueType-teckensnitt</text>
+		<text id="msg.param.font_tt_symb_more_one_enc_not_enc30" h="3E42D77A">Fler än en kodning i symboliskt TrueType-teckensnitt och ingen Microsoft Symbol(3.0)-kodning</text>
+		<text id="msg.param.font_unembed" h="D58DB454">Teckensnitt inte inbäddat</text>
+		<text id="msg.param.font_unembed_CMap" h="9A7C00A5">CMap inte inbäddad för anpassad CMap</text>
+		<text id="msg.param.font_unknown_enc" h="41169097">Kodningsobjekt som beskriver teckensnitt är okänt</text>
+		<text id="msg.param.font_used_opentype" h="1DDFBB22">OpenType-teckensnitt används</text>
+		<text id="msg.param.font_was_converted" h="F6A778E4">Teckensnittet %1 konverterades till %2</text>
+		<text id="msg.param.transparent_bm" h="6113A951">Blandningsläget är inte 'Normal' eller 'Kompatibel'</text>
+		<text id="msg.param.transparent_cafill" h="0422F119">Alfafyllning är mindre än 1.0</text>
+		<text id="msg.param.transparent_castroke" h="4AE94E2B">Alfastreck är mindre än 1.0</text>
+		<text id="msg.param.transparent_smask" h="FB9037E9">SoftMask är inte trivial/obetydlig</text>
+		<text id="msg.param.transparent_smask_image" h="0B94C935">Bilden innehåller SoftMask med annat värde än 'Inget'</text>
+		<text id="msg.param.transparent_trgroup" h="60E2ACCB">Transparensgrupp används</text>
+		<text id="msg.warn.annot.is.RGB" h="BBEA0231">Anteckningar använder RGB-färger, medan utdatametoden inte är RGB. Värdet för PDF/A-delen är ökat till 2</text>
+		<text id="msg.warn.doc_has_embeddedfiles" h="E84C59BF">Dokumentet innehåller inbäddade filer. Värdet för PDF/A-delen är utökat till 2</text>
+		<text id="msg.warn.doc_has_layers" h="83853EB9">Dokumentet innehåller lager. Värdet för PDF/A-delen är utökat till 2</text>
+		<text id="msg.warn.doc_has_notpdf" h="A4A335D0">Dokumentet innehåller inbäddade filer som inte är PDF-dokument. Värdet för PDF/A-delen är utökat till 3</text>
+		<text id="msg.warn.doc_has_transparent" h="7DA0DFA8">Dokumentet innehåller transparenta objekt. Värdet för PDF/A-delen är utökat till 2</text>
+		<text id="msg.warn.doc_not_marked" h="C9BEF804">Dokumentet är inte märkt. Konformitetsnivån har reducerats till B</text>
+		<text id="msg.warn.font_not_map_Unicode" h="E326DC30">Text kan inte mappas som Unicode. Konformitetsnivån har reducerats till B</text>
+		<text id="msg.warn.st_root_elem_type_not_standard" h="D150764F">Strukturerad PDF. Element använder inte standardtyp. Konformitetsnivån har reducerats till B</text>
+		<text id="msg.warn.dictsize" h="9B24E799">Ordboks storlek är mer än 4095. Värdet av PDF/A delen är minskad till 2</text>
+		<text id="msg.warn.realvaluerange" h="410D6B7D">Faktiskt värde är utanför intervall. Värdet av PDF/A del är minskat till 2</text>
+		<text id="opt.report" h="2D42B915">Rapportalternativ</text>
+		<text id="opt.showreport" h="672E47E9">Visa Rapport:</text>
+		<text id="removeannots.chk" h="6BD67279">Avlägsna annoteringar (formulär,länkar mm)</text>
+		<text id="report.noshow" h="2B0D94AA">Aldrig/visa aldrig</text>
+		<text id="report.show.always" h="E8FA61CB">Visa alltid</text>
+		<text id="report.show.errwarn" h="2DCF92BE">Visa vid fel eller varning</text>
+		<text id="status.proc.cnvPage" h="92A4E6A3">Konverterar sida %1...</text>
+		<text id="status.proc.tools.cnvPage" h="60077237">%2: Konverterar sida %1...</text>
+		<text id="status.proc.converting" h="9CE2B7EC">Konverterar dokument till PDF/A</text>
+		<text id="status.proc.convertingPage" h="C25CC6CC">Konverterar sida %1 till PDF/A</text>
+		<text id="status.proc.convertingX" h="CD65583F">Konverterar dokument...</text>
+		<text id="status.proc.saving" h="3D2A3BDC">Sparar dokument</text>
+		<text id="status.proc.gatherfont" h="C8B76D87">Samlar teckensnittsinformation...</text>
+		<text id="status.res.fail" h="79501FE7">Konvertering misslyckades</text>
+		<text id="status.res.success" h="C25438FB">Konvertering genomförd</text>
+	</Strings>
+</Localization>

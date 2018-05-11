@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20170425233744">2.00.00</Version>
+	<Author>Jeff Mahe (jfmahe@europe.com), PIerre-Loïc, Swirti</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="French (France)" lName="Français" code="fr-FR" R2L="false"/>
+	<Module name="SpellChecker" namespace="spell" version="6.0.322.7"/>
+	<Strings>
+		<text id="dict.param.hyphen" h="50549BEC">Césure</text>
+		<text id="dict.param.spell" h="E10DA1DD">Orthographe</text>
+		<text id="lstDicts.empty" h="FFD5B8BB">&lt;Pas de dictionnaire&gt;</text>
+		<text id="msg.CopyDictError" h="81324CC9">Échec de copie des fichiers dictionnaires</text>
+		<text id="msg.DictExists" h="650ABF1A">Le dictionnaire existe déjà</text>
+		<text id="msg.DictExists.title" h="B025530B">Le dictionnaire existe</text>
+		<text id="msg.ErrorTitle" h="D9DB5E01">Erreurs de correction</text>
+		<text id="msg.LoadDictError" h="D139CD51">Échec du chargement du dictionnaire</text>
+		<text id="msg.RemoveError" h="DDD3D452">Impossible de supprimer le dictionnaire : accès refusé.</text>
+		<text id="msg.WordExists" h="54B206DA">Ce mot existe déjà</text>
+		<text id="msg.WordExists.title" h="A9AFB29B">Le mot existe</text>
+		<text id="opt.b.AddDict" h="E0BF5FDE">Ajouter un dictionnaire</text>
+		<text id="opt.b.CustomWordList" h="D1505337">Liste de mot perso.</text>
+		<text id="opt.b.RemoveDict" h="D94F3439">Retirer un dictionnaire</text>
+		<text id="opt.cb.AllowAlgoHyphens" h="D8C41308">Césure des mots inconnus</text>
+		<text id="opt.cb.EnableAllHyphens" h="207464CF">Activer la césure</text>
+		<text id="opt.cb.EnableHyphens" h="71ECEEC4">Activer la césure du dictionnaire</text>
+		<text id="opt.cb.EnableSpellChecker" h="1D563674">Activer le correcteur orthographique</text>
+		<text id="opt.cb.IgnoreWordsInUppercase" h="BEB17F5B">Ignorer les mots en MAJUSCULES</text>
+		<text id="opt.cb.IgnoreWordsWithNumbers" h="2AA28F70">Ignorer les mots qui contiennent des chiffres</text>
+		<text id="opt.title" h="AEF9F007">Paramètres du correcteur d'orthographe</text>
+		<text id="wrd.b.AddWord" h="8E2EE8C1">Ajouter</text>
+		<text id="wrd.b.Delete" h="D8FE3F70">Supprimer</text>
+		<text id="wrd.b.DeleteAll" h="848E003C">Supprimer tout</text>
+		<text id="wrd.l.Dictionary" h="66E4322E">Dictionnaire :</text>
+		<text id="wrd.l.Word" h="7AFBC23E">Mot :</text>
+		<text id="wrd.title" h="66DDC653">Liste de mots personnalisée</text>
+	</Strings>
+</Localization>

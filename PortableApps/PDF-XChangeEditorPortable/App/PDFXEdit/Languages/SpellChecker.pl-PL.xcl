@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20170131185650">2.00.00</Version>
+	<Author>Maciej Bojakowski</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Polish" lName="Polski (Polska)" code="pl-PL" R2L="false"/>
+	<Module name="SpellChecker" namespace="spell" version="6.0.320.0"/>
+	<Strings>
+		<text id="dict.param.hyphen" h="50549BEC">Dzielenie wyrazów</text>
+		<text id="dict.param.spell" h="E10DA1DD">Pisownia</text>
+		<text id="lstDicts.empty" h="FFD5B8BB">&lt;Brak słowników&gt;</text>
+		<text id="msg.CopyDictError" h="81324CC9">Nie mozna skopiować plików słownika</text>
+		<text id="msg.DictExists" h="650ABF1A">Słownik już istnieje</text>
+		<text id="msg.DictExists.title" h="A81488F3">Słownik istnieje</text>
+		<text id="msg.ErrorTitle" h="8FEB05A5">Błąd sprawdzania pisowni</text>
+		<text id="msg.LoadDictError" h="D139CD51">Nie można wczytać słownika</text>
+		<text id="msg.RemoveError" h="10071F88">Nie można usunąć plików słownika. Odmowa dostępu.</text>
+		<text id="msg.WordExists" h="08449B8B">Wyraz już istnieje</text>
+		<text id="msg.WordExists.title" h="B19E6963">Wyraz istnieje</text>
+		<text id="opt.b.AddDict" h="E0BF5FDE">Dodaj Słownik</text>
+		<text id="opt.b.CustomWordList" h="D1505337">Słowo Niestandardowe </text>
+		<text id="opt.b.RemoveDict" h="D94F3439">Usuń słownik</text>
+		<text id="opt.cb.AllowAlgoHyphens" h="184CA069">Dziel nieznane słowa</text>
+		<text id="opt.cb.EnableAllHyphens" h="207464CF">Zezwalaj na dzielenie wyrazów</text>
+		<text id="opt.cb.EnableHyphens" h="BC236380">Włącz słownik dzielenia wyrazów</text>
+		<text id="opt.cb.EnableSpellChecker" h="1D563674">Włącz sprawdzanie pisowni</text>
+		<text id="opt.cb.IgnoreWordsInUppercase" h="918E6B8B">Ignoruj duże litery</text>
+		<text id="opt.cb.IgnoreWordsWithNumbers" h="6054313B">Ignoruj słowa zawierające cyfry</text>
+		<text id="opt.title" h="AEF9F007">Ustawienia Sprawdzania Pisowni</text>
+		<text id="wrd.b.AddWord" h="8E2EE8C1">Dodaj</text>
+		<text id="wrd.b.Delete" h="D8FE3F70">Usuń</text>
+		<text id="wrd.b.DeleteAll" h="848E003C">Usuń wszystkie</text>
+		<text id="wrd.l.Dictionary" h="66E4322E">Słownik:</text>
+		<text id="wrd.l.Word" h="7AFBC23E">Wyraz:</text>
+		<text id="wrd.title" h="66DDC653">Lista Słów Niestandardowych</text>
+	</Strings>
+</Localization>

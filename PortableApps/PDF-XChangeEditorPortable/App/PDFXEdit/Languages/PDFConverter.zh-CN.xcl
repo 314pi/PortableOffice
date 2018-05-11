@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171220231419">2.00.00</Version>
+	<Author>Zach Yu, Kenny Deng</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Chinese (Simplified, China)" lName="中文(简体)" code="zh-CN" R2L="false"/>
+	<Module name="PDFConverter" namespace="pdfconv" version="7.0.323.2"/>
+	<Strings>
+		<text id="DT" h="68CCD7A1">小数点和千位分隔符：</text>
+		<text id="Decimal" h="97B538F3">小数点：</text>
+		<text id="Fonts" h="09BC9E47">字体：</text>
+		<text id="NoPermission" h="F6BEA48A">此文档受到保护。你没有足够的权限来转换文档。</text>
+		<text id="cmd.name.P" h="FE79EAE9">导出为 Microsoft PowerPoint 演示文稿...</text>
+		<text id="cmd.name.Sel.P" h="10B9EA70">将选择的内容导出为 Microsoft PowerPoint 演示文稿...</text>
+		<text id="cmd.name.Sel.W" h="F60B7012">将选择的内容导出为 Microsoft Word 文档...</text>
+		<text id="cmd.name.Sel.X" h="53447190">将选择的内容导出为 Microsoft Excel 工作簿...</text>
+		<text id="cmd.name.W" h="36A68CE1">导出为 Microsoft Word 文档...</text>
+		<text id="cmd.name.X" h="5F515377">导出为 Microsoft Excel 工作簿...</text>
+		<text id="cmd.nameShort.P" h="C4DB7FDB">到 MS-PowerPoint...</text>
+		<text id="cmd.nameShort.W" h="23467A9D">到 MS-Word...</text>
+		<text id="cmd.nameShort.X" h="4FDED68C">到 MS-Excel...</text>
+		<text id="cmd.nameTip.P" h="5DF5F44C">将当前文档导出为 Microsoft PowerPoint 演示文稿...</text>
+		<text id="cmd.nameTip.Sel.P" h="547499FA">将当前选定的内容导出为 Microsoft PowerPoint 演示文稿...</text>
+		<text id="cmd.nameTip.Sel.W" h="9526C3A8">将当前选定的内容导出为 Microsoft Word 文档...</text>
+		<text id="cmd.nameTip.Sel.X" h="9DBFD9AB">将当前选定的内容导出为 Microsoft Excel 工作簿...</text>
+		<text id="cmd.nameTip.W" h="08C70E7C">将当前文档导出为 Microsoft Word 文档...</text>
+		<text id="cmd.nameTip.X" h="71C65F22">将当前文档导出为 Microsoft Excel 工作簿...</text>
+		<text id="convertation" h="B1E1828B">正在转换 PDF 文档</text>
+		<text id="convertation.DecimalError" h="AB9CA906">无效的小数点</text>
+		<text id="convertation.DecimalThousandsError" h="9002FE5E">小数点和千位分隔符必须不同</text>
+		<text id="convertation.Error1" h="388D83B4">在转换文档时发生致命错误：</text>
+		<text id="convertation.Error2" h="A394ADBC">无法保存转换的文档。</text>
+		<text id="convertation.ThousandsError" h="1660BD37">无效的千位分隔符</text>
+		<text id="dpi" h="B39AC2C1">dpi</text>
+		<text id="elseUseRegional" h="8F1D3748">*否则使用区域设置</text>
+		<text id="excel.filter" h="D766664D">MS Excel 工作簿 (*.xlsx)|*.xlsx|</text>
+		<text id="newRowRul" h="4CD45F3D">作为表格的一个新行：每</text>
+		<text id="options" h="DAD7B4F4">选项</text>
+		<text id="options.compress.0" h="378201C4">PNG</text>
+		<text id="options.compress.1" h="25090095">JPG</text>
+		<text id="options.dpilevel" h="4D4FE579">%1 dpi</text>
+		<text id="options.fontsembedmode.0" h="4FD6EAB9">只嵌入PDF文档中嵌入的字体</text>
+		<text id="options.fontsembedmode.1" h="485361C4">不嵌入</text>
+		<text id="options.quality.0" h="8415F85F">最低</text>
+		<text id="options.quality.1" h="845E3D8C">低</text>
+		<text id="options.quality.2" h="91153342">中</text>
+		<text id="options.quality.3" h="21A95620">高</text>
+		<text id="options.quality.4" h="A8A97F0E">最高</text>
+		<text id="options.textmode.0" h="77B1E837">保持文本可编辑</text>
+		<text id="options.textmode.1" h="8419D7CE">转换为曲线</text>
+		<text id="options.textmode.2" h="60E91945">转换为图像</text>
+		<text id="options.newRow.0" h="9CF38C36">段</text>
+		<text id="options.newRow.1" h="6D45691D">行</text>
+		<text id="optionsCBAllowCurves" h="976099D8">允许将使用问题字体的文本转换为曲线</text>
+		<text id="optionsCBAllowSubstitution" h="169F5988">允许为无法嵌入的字体使用替代字体</text>
+		<text id="optionsCBEmbedFont" h="3E50224C">嵌入所有字体</text>
+		<text id="optionsCBIncludeComments" h="B08E5CA8">包含注释</text>
+		<text id="optionsCBIncludeImages" h="969B2F6C">包含图像</text>
+		<text id="optionsCBIncludeLinks" h="F5F4CED4">包含链接</text>
+		<text id="optionsCBPageToImage" h="4C1A8806">将整个页面转换为图像</text>
+		<text id="optionsGBCommonOpt" h="4C043966">常规设置</text>
+		<text id="optionsGBTextOpt" h="8545ED03">文本转换选项</text>
+		<text id="optionsIBTextRaster" h="699A1B72">当无法根据以上选项转换文本时，文本将被光栅化。</text>
+		<text id="optionsLBCompres" h="990F2529">压缩：</text>
+		<text id="optionsLBIssuesFont" h="BB2E863E">如果字体存在兼容性或可移植性问题：</text>
+		<text id="optionsLBMode" h="274455FC">模式：</text>
+		<text id="optionsLBQuality" h="E3A77A93">质量：</text>
+		<text id="optionsLBTextRaster" h="32A3B18F">文本光栅化质量：</text>
+		<text id="optionsLBToImgParam" h="7B6ED6A6">文本到图像转换设置</text>
+		<text id="optionsLBdpiComm" h="0FE84938">分辨率：</text>
+		<text id="optionsLBdpiCompression" h="4CA3E32A">你可以在此调整光栅化质量（若上面的选项被勾选，则作用于整个页面；否则仅作用于无法转换的内容，比如复杂颜色梯度）：</text>
+		<text id="optionsLBlastHope" h="DEA1EE3C">* 当文本到曲线的转换失败时，将把文本转换为图像</text>
+		<text id="powerpoint.filter" h="9FB63544">MS PowerPoint 演示文稿 (*.pptx)|*.pptx|</text>
+		<text id="regionalDT" h="929F7393">使用区域设置</text>
+		<text id="thousands" h="256655C5">千位分隔符：</text>
+		<text id="userDefinedDT" h="CFDC144E">自定义：</text>
+		<text id="word.filter" h="AD076027">MS Word 文档 (*.docx)|*.docx|</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220831">2.00.00</Version>
+	<Author>Violi S.;Pari D.</Author>
+	<Copyright>©Violi S. - http://plus.google.com/+SantoVioli
+Distribuito con Licenza Creative Commons
+Attribuzione - Condividi allo stesso modo 3.0 Italia
+http://creativecommons.org/licenses/by-sa/3.0/it/
+
+Basata su traduzione precedente di "Sergio"
+
+Aggiornato</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Italian (Italy)" lName="Italiano" code="it-IT" R2L="false"/>
+	<Module name="BookmarksPlugin" namespace="bp" version="6.0.322.7"/>
+	<Strings>
+		<text id="DlgAddExcludedWords" h="BED549D0">Aggiungi nuove parole alle esclusioni</text>
+		<text id="DlgAddTextToBookmark" h="E5B26485">Aggiungi testo al titolo del Segnalibro</text>
+		<text id="DlgAutoGenerateBookmarks.Title" h="0E85373B">Creazione Segnalibri dal testo presente in pagina</text>
+		<text id="DlgBookmarkAppearance" h="7544DDCE">Aspetto risultante</text>
+		<text id="DlgBookmarkEveryNthPage" h="B6869582">Crea un segnalibro ogni  # pagine</text>
+		<text id="DlgBookmarkLevelDescription" h="186C1D0A">Opzioni di corrispondenza del testo</text>
+		<text id="DlgBookmarkPropSheet" h="862C67E7">Proprietà creazione Segnalibri</text>
+		<text id="DlgBookmarkTitleFormatting" h="A87502C2">Titoli di formattazione</text>
+		<text id="DlgBookmarksToNamedDests" h="8A0957E5">Converti in nomi di Destinazione</text>
+		<text id="DlgBookmarksToTextFile" h="29F18B82">Esporta Segnalibri in un file di testo</text>
+		<text id="DlgChangeBookmarkCase" h="4D74C7D9">Converti Maiuscole/minuscole dei titoli Segnalibri</text>
+		<text id="DlgEditStopWords" h="911413E7">Modifica parole di esclusione</text>
+		<text id="DlgFindReplaceBookmarkText" h="733A7FC1">Trova e sostituisci il testo nei Segnalibri</text>
+		<text id="DlgFontNames" h="3C8B1F88">Scegli nomi dei caratteri</text>
+		<text id="DlgFromTOC" h="AC2ED85C">Crea Segnalibri dal Sommario</text>
+		<text id="DlgFromTOCIndentation" h="12688622">Modifica Rientro</text>
+		<text id="DlgFromTextFile" h="B3799046">Crea Segnalibri dal file di testo</text>
+		<text id="DlgNamedDestsToPageNumbers" h="9CAE5E39">Converti nomi di Destinazione in destinazioni semplici</text>
+		<text id="DlgSheetBttfBookmarkProps" h="4B2F0AA2">Proprietà del segnalibro</text>
+		<text id="DlgSheetBttfSelectBookmarks" h="30673BCD">Generale</text>
+		<text id="DlgSortBookmarks" h="8339BB6C">Ordina segnalibri</text>
+		<text id="DlgToTOC" h="2B3E9BF1">Crea Sommario</text>
+		<text id="DlgValidateBookmarks" h="0CD39971">Convalida Segnalibri</text>
+		<text id="atb.btn.Macroses" h="81734E4F">Mac</text>
+		<text id="atb.chb.IncludeChildren" h="0AC4CB2B">Includi tutti i sottolivelli</text>
+		<text id="atb.chb.ProcessAllLevels" h="26C3B2DF">Modifica tutti i livelli</text>
+		<text id="atb.chb.RemoveSpaces" h="ABDEA5BC">Rimuovi spazi in eccesso dal Segnalibro originale</text>
+		<text id="atb.gb.AddText" h="E21C9B55">Aggiungi testo</text>
+		<text id="atb.gb.Levels" h="8A668489">Seleziona livello dei Segnalibri da modificare</text>
+		<text id="atb.gb.SelectSource" h="1E2E96A4">Seleziona Segnalibri da includere nella ricerca</text>
+		<text id="atb.lbl.BookmarkTitle" h="2DC1254E">"Titolo Segnalibro"</text>
+		<text id="atb.lbl.Prefix" h="A51A4726">Aggiungi il prefisso al Segnalibro:</text>
+		<text id="atb.lbl.SelectLevel" h="D1263889">Seleziona il livello:</text>
+		<text id="atb.lbl.Suffix" h="C27741D5">Aggiungi il suffisso al Segnalibro</text>
+		<text id="atb.lbl.UseBookmarksFrom" h="E770326C">Usa Segnalibri:</text>
+		<text id="ba.chb.expand" h="BBA3BD8A">Espandi (vedi tutti i sottolivelli)</text>
+		<text id="ba.l.expl" h="EE297184">Imposta l'aspetto visivo dei segnalibri generati:</text>
+		<text id="ba.l.textStyle" h="8D5CA9B5">Stile testo:</text>
+		<text id="benp.Gb.Main" h="4B2F0AA2">Impostazioni</text>
+		<text id="benp.Label.TitleTemplate" h="5E999567">Modello del titolo del segnalibro:</text>
+		<text id="benp.Label1.SelectN" h="8626E4EA">Crea un Segnalibro ogni</text>
+		<text id="benp.Label2.SelectN" h="6270721D">pagine nell'intervallo selezionato</text>
+		<text id="benp.infoBtn.invalidMacro" h="1561C0F2">La stringa contiene un nome macro non definito che verrà ignorato.</text>
+		<text id="bft.l.actionSeparator" h="5C05CE1E">Carattere separatore delle azioni:</text>
+		<text id="bft.l.separator" h="A4269065">Carattere delimitatore</text>
+		<text id="bld.btn.selStyle" h="EE213BC5">Copia stile dal testo selezionato...</text>
+		<text id="bld.chb.fontNames" h="AB457B23">Nomi Font:</text>
+		<text id="bld.chb.limitToPattern" h="7F0826AB">Aggiungi solo i titoli che corrispondono al modello</text>
+		<text id="bld.chb.matchTextPattern" h="5A64E195">Modello del testo:</text>
+		<text id="bld.chb.multilineBookmarks" h="CB4817D1">Consenti titoli Segnalibri su più righe</text>
+		<text id="bld.g.textContentRules" h="5B364747">Regole per il testo</text>
+		<text id="bld.l.description" h="2F770A5B">Crea una combinazione di attributi per generare automaticamente i Segnalibri dal documento:</text>
+		<text id="bld.l.matchTextCase" h="43616BDA">Tipo di testo:</text>
+		<text id="bld.matchTextCase.allCapital" h="D4E8E731">Tutte Le Lettere Sono Maiuscole</text>
+		<text id="bld.matchTextCase.firstCapital" h="CAA2E79D">La prima lettera è maiuscola</text>
+		<text id="bld.matchTextCase.firstDigit" h="42E73545">Il primo carattere è un numero</text>
+		<text id="bld.matchTextCase.noRestrictions" h="93089981">Nessuna limitazione</text>
+		<text id="bnd.gb.Main" h="4DDA9780">Titolo della Destinazione</text>
+		<text id="bnd.lbl.NDTitle" h="7F7F73EC">Il Titolo della Destinazione verrà creato usando il modello inserito:</text>
+		<text id="btf.chb.insertAfter" h="DD7B743E">Testo da aggiungere dopo il titolo</text>
+		<text id="btf.chb.insertBefore" h="CBDD1CF8">Testo da inserire prima del titolo:</text>
+		<text id="btf.chb.removeDuplicateSpaces" h="2653A648">Rimuovi gli spazi duplicati</text>
+		<text id="btf.chb.replaceLineBreaks" h="0C51EEEB">Sostituisci interruzioni di linea con spazi</text>
+		<text id="btf.chb.replaceTitle" h="097EF3C2">Cerca e sostituisci i titoli secondo i seguenti schemi:</text>
+		<text id="btf.g.advancedFormatting" h="9130441A">Formattazione avanzata</text>
+		<text id="btf.g.textCase" h="97FCC959">Maiuscolo/minuscolo</text>
+		<text id="btf.l.characters" h="189C88D2">(caratteri)</text>
+		<text id="btf.l.expl" h="169A084A">Indica le proprietà del testo da applicare ai titoli dei nuovi Segnalibri:</text>
+		<text id="btf.l.leadingNumbers" h="074A1A51">Numerazione:</text>
+		<text id="btf.l.maxLength" h="A52EC501">Lunghezza massima:</text>
+		<text id="btf.l.replacePattern" h="B54B1F92">Sostituisci con:</text>
+		<text id="btf.l.searchPattern" h="E87DDC08">Cerca:</text>
+		<text id="btf.l.use" h="46DEA47A">Formato:</text>
+		<text id="btf.leadingNumbers.noChange" h="3399B0A0">Nessuna modifica</text>
+		<text id="btf.rb.doNotChange" h="4CBF2C1B">Non modificare</text>
+		<text id="btf.rb.lowercase" h="82451817">minuscolo</text>
+		<text id="btf.rb.sentenceCase" h="B26B2798">Inizio frase maiuscola</text>
+		<text id="btf.rb.titleCase" h="2C8DBF1B">Prima Lettera Maiuscola</text>
+		<text id="btf.rb.uppercase" h="42F820C7">MAIUSCOLO</text>
+		<text id="btf.use.letters" h="6EE7E478">Lettere</text>
+		<text id="btf.use.numbers" h="E2FE5FA7">Numeri</text>
+		<text id="btf.use.romanLetters" h="290A50ED">Numeri romani</text>
+		<text id="btn.add.custom" h="3080663C">Aggiungi personalizzato...</text>
+		<text id="btn.highlight" h="2485FBFF">Evidenzia segnalibro</text>
+		<text id="btn.validate" h="1E91E484">Convalida</text>
+		<text id="cbc.aew.label" h="7EC386C0">Aggiungi le nuove parole da escludere digitando una parola per ogni riga (premere "Invio" dopo ogni parola):</text>
+		<text id="cbc.cb.fromBookmarks" h="CF38CD8D">Seleziona segnalibri</text>
+		<text id="cbc.cb.fromDocument" h="424CAFC5">Tutti i segnalibri</text>
+		<text id="cbc.chb.EnterCustomWordList" h="EB8ACE1B">Crea una lista personalizzata di parole da non elaborare</text>
+		<text id="cbc.chb.IncludeChildrenBookmarks" h="051C6219">Includi tutti i Segnalibri nidificati</text>
+		<text id="cbc.gb.SelectTextCase" h="F9747FC0">Imposta Maiuscole/minuscole</text>
+		<text id="cbc.gb.TextCaseOptions" h="DAD7B4F4">Opzioni</text>
+		<text id="cbc.list.header" h="647D6FC4">Parole escluse</text>
+		<text id="cbc.rbtn.LowerCase" h="82451817">minuscolo</text>
+		<text id="cbc.rbtn.SentenceCase" h="B26B2798">Inizio frase maiuscola</text>
+		<text id="cbc.rbtn.TitleCase" h="2C8DBF1B">Prima Lettera Maiuscola</text>
+		<text id="cbc.rbtn.UpperCase" h="42F820C7">MAIUSCOLO</text>
+		<text id="chb.ignoreDuplicates" h="B30FC50E">Ignora Segnalibri duplicati consecutivi</text>
+		<text id="chb.stopWords" h="491ED7FC">Ignora testo contenente le seguenti parole di esclusione</text>
+		<text id="chb.verifyLinks" h="7A46B598">Verifica collegamenti a documenti e file esterni</text>
+		<text id="chb.warnGoTo" h="911FC68A">Notifica azioni Vai non valide</text>
+		<text id="chb.warnGoToRE" h="C0827D11">Notifica azioni Vai a Remoto e Vai a Incorporato non valide</text>
+		<text id="chb.warnLaunchURI" h="94F27C09">Notifica azioni Lancia e Collegamento web (URI) non valide</text>
+		<text id="chb.warnNoActions" h="FBF997CF">Notifica lista azioni vuota o segnalibro nidificato non valido</text>
+		<text id="chb.warnNoGoTo" h="66B02339">Notifica assenza azioni Vai nella lista delle azioni</text>
+		<text id="chb.warnOther" h="B30D6C64">Notifica altre azioni non valide</text>
+		<text id="chb.warnTitle" h="F0B5EE52">Notifica titoli vuoti</text>
+		<text id="cmd.addAGBLevel" h="928E2BB5">Usa il testo selezionato per la generazione dei segnalibri...</text>
+		<text id="cmd.addTextToBookmarkTitle" h="C4C93738">Aggiungi testo al titolo del Segnalibro...</text>
+		<text id="cmd.addTextToBookmarkTitle.short" h="E21C9B55">Aggiungi Testo</text>
+		<text id="cmd.addTextToBookmarkTitle.tip" h="B412507B">Aggiungi prefissi e suffissi ai titoli dei segnalibri.</text>
+		<text id="cmd.changeBookmarkCase" h="359544B0">Modifica Maiuscole/minuscole...</text>
+		<text id="cmd.changeBookmarkCase.short" h="BC4AE60A">Modifica Maiuscole</text>
+		<text id="cmd.changeBookmarkCase.tip" h="48522DE3">Modifica maiuscole e minuscole nei titoli dei segnalibri</text>
+		<text id="cmd.findReplaceBookmarkText" h="AF996007">Trova e sostituisci il testo nei Segnalibri...</text>
+		<text id="cmd.findReplaceBookmarkText.short" h="9F35A871">Trova e Sostituisci</text>
+		<text id="cmd.findReplaceBookmarkText.tip" h="7ED81F66">Trova e sostituire gli elementi di testo nei titoli dei segnalibri.</text>
+		<text id="cmd.sort" h="B1FFF012">Ordina segnalibri ...</text>
+		<text id="cmd.sort.short" h="579162B0">Ordina</text>
+		<text id="cmd.sort.tip" h="90B74C06">Ordina i segnalibri secondo i criteri indicati.</text>
+		<text id="cmd.validate" h="E61D60D2">Convalida Segnalibri...</text>
+		<text id="cmd.validate.short" h="1E91E484">Convalida</text>
+		<text id="cmd.validate.tip" h="AF7C0DD0">Convalida i segnalibri secondo i criteri impostati.</text>
+		<text id="cmd.toTOC" h="9B7AEEEA">Crea Sommario...</text>
+		<text id="cmd.toTOC.short" h="2B3E9BF1">Genera Sommario</text>
+		<text id="cmd.toTOC.tip" h="E92DA1A8">Crea un Sommario basato sulla struttura dei segnalibri e dalle pagine a cui puntano.</text>
+		<text id="cmd.bookmarksToNamedDests" h="9A9E5CF2">Converti in nome di Destinazione...</text>
+		<text id="cmd.bookmarksToNamedDests.short" h="9226CE11">Converti in Destinazioni con nome</text>
+		<text id="cmd.bookmarksToNamedDests.tip" h="76CA39A1">Converte le destinazioni normali nella lista azioni dei segnalibri in Destinazioni con nome. In questo modo se le pagine vengono spostate o eliminate, i segnalibri continueranno a puntare alle stesse pagine.</text>
+		<text id="cmd.bookmarksToTextFile" h="DBEBEEB8">Esporta Segnalibri in un file di testo...</text>
+		<text id="cmd.bookmarksToTextFile.short" h="738D44A8">Esporta su File di Testo</text>
+		<text id="cmd.bookmarksToTextFile.tip" h="2F1DD236">Salva la struttura dei segnalibri in un file di testo.</text>
+		<text id="cmd.bookmarksToHtmlFile" h="EFF75744">Esporta Segnalibri in un file HTML...</text>
+		<text id="cmd.bookmarksToHtmlFile.short" h="76C20816">Esporta in HTML</text>
+		<text id="cmd.bookmarksToHtmlFile.tip" h="8968844D">Salva la struttura dei segnalibri in un file HTML</text>
+		<text id="cmd.namedDestsToPageNumbers" h="3A651CA9">Converti nomi di Destinazione in destinazioni normali...</text>
+		<text id="cmd.namedDestsToPageNumbers.short" h="74C22304">Da destinazioni con Nome a Normali</text>
+		<text id="cmd.namedDestsToPageNumbers.tip" h="2ABF8034">Converte le Destinazioni con nome nell'elenco segnalibri in destinazioni normali. In questo modo se le pagine sono spostate o eliminate, i segnalibri punteranno alle pagine che corrispondono al numero inserito.</text>
+		<text id="cmd.bookmarkEveryNthPage" h="940FCD39">Segnalibro ogni n-esima pagina...</text>
+		<text id="cmd.bookmarkEveryNthPage.short" h="71BCE832">Segnalibro ogni n-esmia pagina</text>
+		<text id="cmd.bookmarkEveryNthPage.tip" h="B60E23D7">Crea segnalibri relativi al numero di pagine del documento</text>
+		<text id="cmd.generate" h="2147DF79">Crea Segnalibri dal testo presente in pagina...</text>
+		<text id="cmd.generate.short" h="8BE514A6">Dal Testo della Pagina</text>
+		<text id="cmd.generate.tip" h="2A03253C">Crea segnalibri dal testo del documento attivo, usando lo stile font ed i parametri selezionati.</text>
+		<text id="cmd.fromTOC" h="D15400EB">Sommario Segnalibri...</text>
+		<text id="cmd.fromTOC.short" h="3AB39C50">Da Sommario</text>
+		<text id="cmd.fromTOC.tip" h="D4170828">Crea segnalibri da un Sommario esistente. Il Sommario deve essere selezionato prima di avviare questa funzione.</text>
+		<text id="cmd.fromTextFile" h="55CA46BC">Crea Segnalibri da un file di testo...</text>
+		<text id="cmd.fromTextFile.short" h="3619B3DB">Da File di Testo</text>
+		<text id="cmd.fromTextFile.tip" h="11167525">Crea segnalibri da un file di testo. Il formato dati del file di testo deve rispettare quello usato dalla funzione Esporta Segnalibri su file di testo.</text>
+		<text id="cmd.name" h="E2032460">Segnalibri</text>
+		<text id="cmd.macro.firstLine" h="613F14A5">Prima linea di testo nella pagina</text>
+		<text id="cmd.macro.hierIndex" h="7DCA5F4D">Indice gerarchico</text>
+		<text id="cmd.macro.hierTitle" h="0E7B4B6F">Titolo gerarchico segnalibri</text>
+		<text id="cmd.macro.indexInParent" h="1B41AFB1">Indice superiore</text>
+		<text id="cmd.macro.label" h="EEE40FF3">Titolo pagina</text>
+		<text id="cmd.macro.launch" h="87D9EB8D">File da aprire</text>
+		<text id="cmd.macro.level" h="B863033F">Livello del Segnalibro</text>
+		<text id="cmd.macro.namedDest" h="C4E8D8F5">Nome della Destinazione</text>
+		<text id="cmd.macro.sequentialNum" h="CDF4EA5E">Numero sequenziale</text>
+		<text id="cmd.macro.title" h="3AB782A4">Titolo del Segnalibro</text>
+		<text id="cmd.macro.uri" h="6C21F7EF">Collegamento Web da aprire</text>
+		<text id="ebttf.actType.all" h="B8B21253">Segnalibri con tutti i tipi di collegamento ipertestuale</text>
+		<text id="ebttf.actType.goto" h="05B4C93C">Segnalibri con azioni Vai a Pagina</text>
+		<text id="ebttf.actType.gotoR" h="41E1955E">Segnalibri con azioni Vai a Remoto</text>
+		<text id="ebttf.actType.js" h="07676EBA">Segnalibri con azioni Javascript</text>
+		<text id="ebttf.actType.launch" h="38537D36">Segnalibri con azioni Apri File</text>
+		<text id="ebttf.actType.uri" h="F39B51AE">Segnalibri con azioni Apri collegamento Web</text>
+		<text id="ebttf.cb.separator.comma" h="827998F7">Virgola</text>
+		<text id="ebttf.cb.separator.semi" h="988594A6">Punto e virgola</text>
+		<text id="ebttf.ch.doNotEscape" h="09B53F9F">Non escludere caratteri di Escape come @ # { }  : ecc.</text>
+		<text id="ebttf.ch.expClosedState" h="46E4EC7E">Esporta stato di "chiusura" del Segnalibro</text>
+		<text id="ebttf.ch.expDetailedGotoDescr" h="18B9C243">Esporta descrizione dettagliata della destinazione</text>
+		<text id="ebttf.ch.exportActions" h="3444FE51">Esporta azioni incluse nei Segnalibri</text>
+		<text id="ebttf.ch.exportGoto" h="37493654">Esporta numero di pagina a cui punta il segnalibro</text>
+		<text id="ebttf.ch.exportGotoR" h="92C06BA6">Esporta descrizione delle azioni Vai a</text>
+		<text id="ebttf.ch.exportJS" h="9362EAE3">Esporta codice Javascript delle azioni </text>
+		<text id="ebttf.ch.exportLaunch" h="1B39BF89">Esporta descrizione delle azioni "Apri file"</text>
+		<text id="ebttf.ch.exportStyle" h="A6713F10">Esporta stile e colore del testo del Segnalibro</text>
+		<text id="ebttf.ch.exportWebLinks" h="3C61424C">Esporta indirizzo collegamento Web</text>
+		<text id="ebttf.ch.includeSubBookmarks" h="051C6219">Includi Segnalibri nidificati</text>
+		<text id="ebttf.ch.openContFolder" h="80BDDAAC">Apri la cartella di destinazione</text>
+		<text id="ebttf.ch.overwriteExistingFiles" h="29981774">Sovrascrivi file esistenti</text>
+		<text id="ebttf.ch.resloveNamedDests" h="D1E8A9BC">Converti nomi di Destinazione in numeri di pagina</text>
+		<text id="ebttf.gb.actionExportParams" h="DA853D34">Seleziona le proprietà dei segnalibri da esportare</text>
+		<text id="ebttf.gb.savingResults" h="49571A59">Parametri di uscita</text>
+		<text id="ebttf.gb.selectBookmarks" h="E2AFC2C6">Seleziona le segnalibri da esportare</text>
+		<text id="ebttf.infoBtn.doNotEscape" h="93A6DD6C">La non esclusione dei caratteri di servizio non è raccomandato se si usa la funzione "Genera Segnalibri da file di testo"</text>
+		<text id="ebttf.infoBtn.invalidSeparator" h="44875D1F">Il carattere di delimitazione non può essere una stringa vuota, non può contenere caratteri alfanumerici o spazi e non deve includere nessuno dei seguenti caratteri @ # : { } </text>
+		<text id="ebttf.lbl.folder" h="3F9ED2F9">Cartelle:</text>
+		<text id="ebttf.lbl.separator" h="E9D351AC">Carattere delimitatore:</text>
+		<text id="ebttf.rb.exportActionTypes" h="533F8EA6">Esporta i Segnalibri che eseguono le seguenti azioni:</text>
+		<text id="ebttf.rb.exportAll" h="8F2ED544">Esporta tutti i Segnalibri</text>
+		<text id="ebttf.rb.exportSelected" h="69FB5145">Esporta i Segnalibri selezionati</text>
+		<text id="ebttf.rb.useDefaultFilename" h="0E7FC989">Usa il nome del file PDF per salvare i risultati</text>
+		<text id="esw.chb.matchCase" h="2E5EFD7E">Maiuscole/minuscole</text>
+		<text id="esw.chb.matchWhole" h="17009870">Solo parole intere</text>
+		<text id="esw.chb.useRegExp" h="7FC6EB4F">Utilizza espressioni regolari</text>
+		<text id="esw.l.explanation" h="2C312B17">Il testo che contiene queste parole sarà ignorato e non verrà usato per creare dei segnalibri.</text>
+		<text id="fn.l.selectFontNames" h="0CCEF1FA">Aggiungi i nomi dei Font:</text>
+		<text id="frbt.chb.MatchCase" h="12EB8088">Maiuscole/minuscole</text>
+		<text id="frbt.chb.MatchWholeWord" h="FE8CC762">Trova parola intera</text>
+		<text id="frbt.chb.UseRegex" h="7FC6EB4F">Usa espressione regolare</text>
+		<text id="frbt.gb.FindReplace" h="BA012728">Impostazioni di trova e sostituisci</text>
+		<text id="frbt.lbl.FindWhat" h="D0A8A2C5">Cosa cercare:</text>
+		<text id="frbt.lbl.ReplaceWith" h="3BE65784">Sostituisci con:</text>
+		<text id="ftoc.allIncluded" h="C994FC1B">Includi tutto</text>
+		<text id="ftoc.b.indents" h="48800D32">Modifica rientro...</text>
+		<text id="ftoc.chb.addBookmarks" h="CBBAE768">Aggiungi Segnalibri alle pagine indicate nel Sommario</text>
+		<text id="ftoc.chb.addLinks" h="68456DBA">Aggiungi collegamenti alle voci del Sommario</text>
+		<text id="ftoc.chb.createLevels" h="58CF083A">Utilizza i livelli di Sommario per creare una gerarchia dei Segnalibri</text>
+		<text id="ftoc.chb.improveDest" h="417AD7B0">Analizza il testo per migliorare la destinazione dei Segnalibri</text>
+		<text id="ftoc.chb.trimNumbers" h="40ACC5F5">Elimina la numerazione di capitolo dal titolo dei Segnalibri</text>
+		<text id="ftoc.chb.trimSpaces" h="5A27A063">Rimuovi spazi consecutivi dai Segnalibri</text>
+		<text id="ftoc.chb.useExistingLinks" h="E214DBE7">Usa i collegamenti esistenti come destinazioni dei Segnalibri.</text>
+		<text id="ftoc.l.bottomIndent" h="C983AD6F">Rientro Inferiore:</text>
+		<text id="ftoc.l.expl" h="1FAB779E">Questo comando aggiunge dei Segnalibri alle pagine sulla base delle voci di sommario selezionate. Opzionalmente, può aggiugere dei collegamenti alle voci di sommario o utilizzare i collegamenti esistenti come destinazioni dei Segnalibri.</text>
+		<text id="ftoc.l.offsetExpl" h="9D6C25F6">Indica la differenza tra la numerazione delle pagine fisiche nel file PDF e la numerazione delle pagine stampate, differenza che può essere positiva o negativa.</text>
+		<text id="ftoc.l.pageOffset" h="9E563407">Scostamento pagine:</text>
+		<text id="ftoc.l.separator" h="45CF4893">Seleziona tipo di separatore:</text>
+		<text id="ftoc.l.topIndent" h="FA827580">Rientro Superiore:</text>
+		<text id="msg.bft.warning" h="726201E6">Prego seleziona un simbolo diverso per la separazione dei campi e delle azioni!</text>
+		<text id="msg.cbc.excludedwords.add.title" h="9ADE883B">Aggiungi nuova parola esclusa</text>
+		<text id="msg.cbc.excludedwords.caption" h="6B29D4B4">Inserisci nuove parole escluse:</text>
+		<text id="msg.cbc.excludedwords.edit.title" h="82F8AAA6">Modifica la parola esclusa selezionata</text>
+		<text id="msg.dlg.bookmarksToTextFile.done" h="8E1397E9">I Segnalibri sono stati esportati con successo nel file.</text>
+		<text id="msg.dlg.emptyFilename.warning" h="96A438DA">Il nome del file non può essere vuoto.</text>
+		<text id="msg.dlg.invalidFilename.slashes" h="626318B0">Il nome del file non deve contenere simboli  o / consecutivi, né terminare con nessuno di loro.</text>
+		<text id="msg.dlg.invalidFilename.warning" h="46CD566C">Il nome del file non può contenere i seguenti simboli: * ? : | " &lt; &gt;</text>
+		<text id="msg.dlg.noActionsSelected.warning" h="933F1901">È stata selezionata l'opzione "Esporta azioni segnalibri" senza nessun tipo di azione specificata. Prego seleziona almeno un tipo di azione da esportare o deseleziona il riquadro "Esporta azioni segnalibri".</text>
+		<text id="msg.dlg.noSelectedBookmarks.warning" h="21F37C67">Non hai selezionato nessun segnalibro. Selezionane almeno uno o seleziona "Tutti i Segnalibri" per proseguire.</text>
+		<text id="msg.dlg.pathDoesntExist.warning" h="0804B942">La cartella specificata non esiste. Prego seleziona una destinazione valida e prova di nuovo.</text>
+		<text id="msg.font.addCustom.caption" h="75533687">Immettere il nuovo nome del font:</text>
+		<text id="msg.font.addCustom.title" h="06AFFCAB">Aggiungi un nuovo carattere personalizzato.</text>
+		<text id="msg.frbt.result.bookmarksCount" h="EE00AC0B">La ricerca è completa. Numero totale di segnalibri modificati: %1</text>
+		<text id="msg.frbt.result.noBookmarksModified" h="84BE491B">La ricerca è completa. Nessun segnalibro modificato.</text>
+		<text id="msg.levelDesc.title" h="E92EACC5">Specifiche di Livello</text>
+		<text id="msg.levelDesc.warning" h="86A85979">Non è possibile creare un nuovo livello di segnalibri con i dati forniti. Seleziona almeno uno dei criteri di ricerca nelle Opzioni di corrispondenza del testo. Inoltre, verifica se gli elementi selezionati contengono dati.</text>
+		<text id="msg.oper.noChanges" h="5777DD79">Non sono state effettuate modifiche durante l'elaborazione. Si prega di controllare i dati di input e riprovare.</text>
+		<text id="msg.oper.warning" h="ABDCBB65">Ci sono stati problemi durante l'esecuzione dell'operazione. Prego controlla i risultati.</text>
+		<text id="msg.regex.error" h="D799FCBE">Errore analisi Regex</text>
+		<text id="msg.stopWords.add.title" h="F6B54725">Aggiungi nuova "frase di arresto"</text>
+		<text id="msg.stopWords.caption" h="E2BC1B9E">Aggiungi una nuova parola o frase di arresto</text>
+		<text id="msg.stopWords.edit.title" h="AFE604DF">Modifica la "frase di arresto" selezionata</text>
+		<text id="msg.validateBookmarks.delete.caption" h="ED4457F4">Vuoi cancellare i segnalibri selezionati e quelli nidificati?</text>
+		<text id="msg.validateBookmarks.delete.title" h="8FF00765">Cancella segnalibro non valido</text>
+		<text id="msg.validateBookmarks.rename.caption" h="CE842D61">Inserisci il nuovo nome del segnalibro:</text>
+		<text id="msg.validateBookmarks.rename.title" h="ED9AF7FA">Rinomina segnalibro</text>
+		<text id="ndpn.ch.deleteDests" h="BC12FBF0">Rimuovi nomi di Destinazione dal documento </text>
+		<text id="op.GenerateBookmarks" h="05382BCA">Crea Segnalibri</text>
+		<text id="op.ValidateBookmarks.msg.emptyActionsList" h="A0A0065C">Nessuna azione è assegnata a quel segnalibro.</text>
+		<text id="op.ValidateBookmarks.msg.emptyTitle" h="83F3E965">Il titolo del segnalibro è vuoto.</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidDestName" h="81A40483">L'azione Vai fa riferimento ad un nome di Destinazione non valido.</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidPageNumber" h="C8941D79">L'azione Vai fa riferimento ad una pagina che è fuori limiti.</text>
+		<text id="op.ValidateBookmarks.msg.goto.noAction" h="368F0970">Nessuna azione Vai a è presente nella lista di azioni.</text>
+		<text id="op.ValidateBookmarks.msg.gotoE.invalidTargetPath" h="9D8A50F1">Il percorso di destinazione è vuoto o non presente nell'azione GoToE (vai a)</text>
+		<text id="op.ValidateBookmarks.msg.gotoR.invalidFile" h="76CCA61D">L'azione Vai a Remoto fa riferimento a un file non valido.</text>
+		<text id="op.ValidateBookmarks.msg.gotoR.invalidPath" h="560614BE">Il percorso al documento od al file esterno / collegato non è valido</text>
+		<text id="op.ValidateBookmarks.msg.invalidAction" h="84877FDA">L'azione %1 non è valida.</text>
+		<text id="progress.BookmarkEveryNthPage.title" h="DA523087">Aggiunta Segnalibri alle pagine...</text>
+		<text id="progress.addTextToBookmarkTitle.text" h="BE27C5C9">Aggiungi testo al segnalibro: %1...</text>
+		<text id="progress.addTextToBookmarkTitle.title" h="EC7EB408">Aggiungi testo a segnalibri...</text>
+		<text id="progress.addingBookmark" h="45BBB17E">Aggiungi segnalibri: %1 di %2...</text>
+		<text id="progress.bookmarksToHtmlFile.status" h="AF1901AD">Esportazione dei segnalibri: %1 di %2...</text>
+		<text id="progress.bookmarksToHtmlFile.text" h="4DD531FF">Esportazione del segnalibro: %1...</text>
+		<text id="progress.bookmarksToHtmlFile.title" h="E1D21FEE">Esportazione dei segnalibri nel file HTML...</text>
+		<text id="progress.bookmarksToNamedDests.text" h="CE73819F">Converti segnalibri: %1...</text>
+		<text id="progress.bookmarksToNamedDests.title" h="8DB00717">Conversione in nome di Destinazione...</text>
+		<text id="progress.bookmarksToTextFile.text" h="6E74EA26">Elaborazione Segnalibro per l'esportazione: %1</text>
+		<text id="progress.bookmarksToTextFile.title" h="D2C04472">Esportazione dei segnalibri nel file di testo...</text>
+		<text id="progress.calculatingBookmarks" h="4AC26E12">Conteggio segnalibri ...</text>
+		<text id="progress.changingBookmarkCase.text" h="107628CA">Modifica segnalibro: %1...</text>
+		<text id="progress.changingBookmarkCase.title" h="E01AED17">Modifica Maiuscole/minuscole...</text>
+		<text id="progress.findReplaceBookmarkText.text" h="ABC58F1D">Elaborazione Segnalibro: %1...</text>
+		<text id="progress.findReplaceBookmarkText.title" h="00FEBD2A">Sostituisci testo segnalibri</text>
+		<text id="progress.generateBookmarks" h="3D5E30ED">Creazione Segnalibri dalla pagina %1...</text>
+		<text id="progress.generatingBookmarks" h="CFF0F2A9">Creazione Segnalibri</text>
+		<text id="progress.generatingBookmarks.label" h="043CF7B1">Aggiungi segnalibro: %1...</text>
+		<text id="progress.generatingLevels" h="07A22443">Creazione livelli dai Segnalibri...</text>
+		<text id="progress.generatingTOC" h="A438CB9C">Creazione Sommario</text>
+		<text id="progress.generatingTOCFromBookmark" h="C9213435">Creazione di contenuti dal Segnalibro: %1...</text>
+		<text id="progress.namedDestsToPageNumbers.deleteNds" h="5DFFFF06">Eliminazione dei nomi di Destinazione...</text>
+		<text id="progress.namedDestsToPageNumbers.title" h="4615CB0B">Conversione dei nomi di Destinazione in numeri di pagina...</text>
+		<text id="progress.parsingFile" h="B2405DA1">Lettura struttura segnalibri per il file di testo...</text>
+		<text id="progress.precalculatingPages" h="DB83BEF7">Creazione di pagine di Sommario...</text>
+		<text id="progress.preparingSelected" h="52031EDE">Preparazione dei Segnalibri selezionati...</text>
+		<text id="progress.sortingBookmarks" h="99E846CF">Ordinamento segnalibro: %1...</text>
+		<text id="progress.sortingBookmarks.status" h="451C3890">Ordinamento segnalibro %1 su %2...</text>
+		<text id="progress.sortingBookmarks.title" h="E134B46E">Ordinamento segnalibri</text>
+		<text id="progress.statusText.ProcessingBookmarks" h="3836AD6B">Elaborazione Segnalibro %1 di %2...</text>
+		<text id="progress.statusText.ProcessingBookmarksDone" h="67CB6C48">Elaborazione Segnalibri completata.</text>
+		<text id="progress.undoingChanges" h="BBD3EE96">Annullamento modifiche...</text>
+		<text id="regex.error.backref" h="3D1C1BE5">L'espressione contiene riferimento non valido</text>
+		<text id="regex.error.badbrace" h="4363EA7D">L'espressione contiene un intervallo non valido tra parentesi graffe: '{' e '}'</text>
+		<text id="regex.error.badrepeat" h="9091944F">L'espressione contiene un carattere jolly ( * ? + { ) che non è preceduto da una espressione regolare valida.</text>
+		<text id="regex.error.brace" h="3031B0A1">L'espressione contiene parentesi non corrispondenti: '{' e '}'</text>
+		<text id="regex.error.brack" h="A41AB311">L'espressione contiene parentesi non corrispondenti: '[' e ']'</text>
+		<text id="regex.error.collate" h="D15FB49F">L'espressione contiene un nome di confronto non valido</text>
+		<text id="regex.error.complexity" h="76ADCA5C">La complessità di un tentativo di confronto con una espressione regolare eccede un livello preimpostato</text>
+		<text id="regex.error.ctype" h="76D6C176">L'espressione contiene un carattere con nome classe non valido</text>
+		<text id="regex.error.default" h="509A660E">Errore durante il processo di inserimento</text>
+		<text id="regex.error.escape" h="4BAF1552">L'espressione contiene carattere di Escape non valido, o una sequenza di escape.</text>
+		<text id="regex.error.paren" h="11F2EE54">L'espressione contiene parentesi non corrispondenti: '(' e ')'</text>
+		<text id="regex.error.range" h="CDB00023">L'espressione contiene un intervallo di caratteri non valido (es. [z-a])</text>
+		<text id="regex.error.space" h="2FFB9DD7">La memoria è insufficiente per gestire questa espressione regolare.</text>
+		<text id="regex.error.stack" h="2F47E3EC">La memoria è insufficiente per determinare se l'espressione regolare sia corrispondente alla sequenza di caratteri specificata.</text>
+		<text id="regex.error.syntax" h="4F399035">Errore nella sintassi Regex.</text>
+		<text id="sb.ascending" h="59F2363F">Crescente</text>
+		<text id="sb.chb.ignoreCase" h="E0949C6C">Ignora Maiuscole/minuscole</text>
+		<text id="sb.chb.sortAll" h="7BB3E98C">Ordina tutti livelli</text>
+		<text id="sb.chb.sortChildren" h="B1087C90">Ordina segnalibri nidificati</text>
+		<text id="sb.descending" h="74091246">Decrescente</text>
+		<text id="sb.g.sortingMethod" h="93D0D863">Metodo di ordinamento</text>
+		<text id="sb.l.selectLevel" h="62FA8E9C">Seleziona livelli segnalibro da ordinare:</text>
+		<text id="sb.l.sortType" h="85828DAE">Tipo di ordinamento:</text>
+		<text id="sb.rb.sortAlpha" h="F9CD110C">Ordinamento alfabetico</text>
+		<text id="sb.rb.sortByPage" h="EB2AF7E4">Ordina per numero di pagina di riferimento</text>
+		<text id="test" h="A538F326">Frase di test</text>
+		<text id="tree.fontColor" h="210B1C91">Colore del testo:</text>
+		<text id="tree.fontName" h="ACA86074">Nome Font</text>
+		<text id="tree.fontSize" h="B3CE43BA">Dimensione Font</text>
+		<text id="tree.fontTolerance" h="7781AAB6">Tolleranza:</text>
+		<text id="tree.level" h="9B075A86">Livello:</text>
+		<text id="tree.textPattern" h="24121AD7">Modello di testo:</text>
+		<text id="tree.vb.bookmark" h="9926EC31">&lt;b&gt;%1. Segnalibro:&lt;/b&gt; "%2"</text>
+		<text id="ttoc.b.build" h="DE9A0F1C">Crea</text>
+		<text id="ttoc.b.changeNumber" h="DD04BEA8">Cambia formato...</text>
+		<text id="ttoc.b.changeTitle" h="3B951B9A">Cambia formato del titolo...</text>
+		<text id="ttoc.chb.asLastPage" h="D323F9DD">Come ultima pagina</text>
+		<text id="ttoc.chb.end" h="9F41B967">Utilizza tutti i livelli</text>
+		<text id="ttoc.chb.skipInvalid" h="F864C487">Ignora segnalibri non validi</text>
+		<text id="ttoc.chb.useDifferentNumberFormatting" h="A39D9F18">Usa formattazione personalizzata</text>
+		<text id="ttoc.chb.useDifferentSeparatorFormatting" h="7D6F82B2">Usa separatore personalizzato</text>
+		<text id="ttoc.chb.useSizeFromDoc" h="79C19271">Determina dimensione pagina dal documento</text>
+		<text id="ttoc.g.pageNumbering" h="21AF4605">Numerazione pagine</text>
+		<text id="ttoc.g.pageSettings" h="D82087B4">Configurazione</text>
+		<text id="ttoc.ib.numberFormat" h="D41C6CB8">&lt;b&gt;Formato numerazione:&lt;/b&gt; &lt;i&gt;Famiglia carattere:&lt;/i&gt; %1, &lt;i&gt;Dimensione:&lt;/i&gt; %2 pt, &lt;i&gt;Colore:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.ib.separatorFormat" h="14A80F28">&lt;b&gt;Formato separatore:&lt;/b&gt; &lt;i&gt;Famiglia carattere:&lt;/i&gt; %1, &lt;i&gt;Dimensione:&lt;/i&gt; %2 pt, &lt;i&gt;Colore:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.ib.titleFormat" h="4A9C0388">&lt;b&gt;Formato del titolo:&lt;/b&gt; &lt;i&gt;Famiglia carattere:&lt;/i&gt; %1, &lt;i&gt;Dimensione:&lt;/i&gt; %2 pt, &lt;i&gt;Colore:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.l.end" h="43FA653A">Ultimo livello da includere nel Sommario:</text>
+		<text id="ttoc.l.insertAsPage" h="B68AF5B1">Inserisci prima della pagina:</text>
+		<text id="ttoc.l.outputPagesAs" h="96E6A50A">Definisci la numerazione come:</text>
+		<text id="ttoc.l.pageMargins" h="DA4D6B15">Margini della pagina:</text>
+		<text id="ttoc.l.start" h="B03149CB">Primo livello da includere nel Sommario:</text>
+		<text id="ttoc.l.title" h="930D3835">Titolo:</text>
+		<text id="ttoc.l.titleFormatting" h="21C775EE">Aggiorna formattazione del titolo:</text>
+		<text id="ttoc.output.bates" h="ECE56FA9">Numerazione Bates (se presente)</text>
+		<text id="ttoc.output.labels" h="EAE579C1">Etichette delle pagine</text>
+		<text id="ttoc.output.numbers" h="38E0043C">Numero di pagine</text>
+		<text id="ttoc.style.dots" h="C13D9439">Capitolo..........1</text>
+		<text id="ttoc.style.spaces" h="D9E4F5A0">Capitolo          1</text>
+		<text id="ttoc.style.underline" h="B52B746A">Capitolo______1</text>
+		<text id="ttoc.tableOfContents" h="080B4CC0">Sommario</text>
+		<text id="undefinedFont" h="06D72DED">Font non definito (%1)</text>
+		<text id="vb.invalidALWarining" h="6B3E67E5">Le modifiche sono state negate a causa delle lista di azioni non valide. Prego lasciare almeno un'azione!</text>
+		<text id="vb.l.invalidBookmarks" h="EE502FFE">Trovati %1 Segnalibri non validi</text>
+		<text id="rtab" h="E2032460">Segnalibri</text>
+		<text id="rbar.create" h="EDCA1553">Crea</text>
+		<text id="rbar.modify" h="EA358CAF">Modifica</text>
+		<text id="rbar.convert" h="EFAC3874">Converti</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220807">2.00.00</Version>
+	<Author>Berend Ytsma</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Western Frisian (Netherlands)" lName="Frysk" code="fy-NL" R2L="false"/>
+	<Module name="PDFOptimizer" namespace="pdfopt" version="6.0.322.7"/>
+	<Strings>
+		<text id="AcrobatForms" h="45DE15E7">Acrobat formulieren</text>
+		<text id="AllInPPI" h="73445ABD">Alle ienheden binne yn piksels de tomme (ppi).</text>
+		<text id="BackRemov" h="F699750D">Eftergrûn wiskje</text>
+		<text id="BookMarks" h="E2032460">Blêdwizers</text>
+		<text id="Bytes" h="4EF6C00A">Bytes</text>
+		<text id="CleanUp" h="85D0243F">Opskjinje</text>
+		<text id="ColorGrayscale" h="63F8C2FC">Kleur/Griiswearde:</text>
+		<text id="ColorSpaces" h="279CFB02">Kleur romtes</text>
+		<text id="Comments3D" h="1A213B5F">Oantekens en 3D ynhâld</text>
+		<text id="ContentStreams" h="EC5AA2E9">Ynhâld streamen</text>
+		<text id="Count" h="48FC51FB">Telle</text>
+		<text id="CrossReferenceTable" h="B0A3CE52">Krús ferwizings tabel</text>
+		<text id="Description" h="8990DB08">Beskriuwing</text>
+		<text id="DiscardObjects" h="9A75CFD1">Objekten negearje</text>
+		<text id="DiscardUserData" h="1B55800A">Brûkers gegevens negearje</text>
+		<text id="DocOverhead" h="8AF9C6B9">Dokumint boppediel</text>
+		<text id="ErrCount" h="494DF48F">Flaters fûn:</text>
+		<text id="ExGStates" h="CFF492D3">Fergrutte grafyske status</text>
+		<text id="Fonts" h="B72149DB">Lettertypen</text>
+		<text id="Images" h="77764F9D">Ofbyldings</text>
+		<text id="LinkAnnotations" h="50D3AB53">Keppeling oantekens</text>
+		<text id="Mobile" h="A5903811">Mobyl</text>
+		<text id="Mobile.Desc" h="AC3CDB44">Ynstellings foar mobile brûkers</text>
+		<text id="NamedDect" h="C4E8D8F5">Neamde bestimming</text>
+		<text id="ObjectFor" h="24200BB3">PDF objekten foar...</text>
+		<text id="Optimize.Error1" h="C319CA59">In krityke flater barde by it optimalisearjen fan it dokumint:</text>
+		<text id="Optimize.Error2" h="E3B5A795">De triem mei it resultaat kin net bewarre wurde.</text>
+		<text id="Optimize.IsXFA" h="86036928">It PDF dokumint befettet in Adobe XML formulier(XFA).
+
+Triemmen befetsjend XFA formulier kin net optimalisearre wurde.</text>
+		<text id="OptimizeCleanUp" h="2BE9852C">It dokumint opskjinje...</text>
+		<text id="OptimizeCropContent" h="55D9A57D">De ynhâld bûten it bysnij fak lokalisearje en fuortsmite</text>
+		<text id="OptimizeDiscardObj" h="87F2BCDD">Objekten fan it dokumint ôftankje...</text>
+		<text id="OptimizeDiscardUD" h="0A072948">Brûkers gegevens fan it dokumint ôftankje...</text>
+		<text id="OptimizeDuplicates" h="C12ECD41">Sykje om dûbelen (Ofbyldings, X-formuliern,lettertypen) opsykje en har fuortsmiten...</text>
+		<text id="OptimizeFonts" h="A46D6002">Lettertypen optimalisearje...</text>
+		<text id="OptimizeImages" h="8D04A12D">Ofbyldings optimalisearje...</text>
+		<text id="OptimizeTransparency" h="F0A68140">Trochsichtigens optimalisearje...</text>
+		<text id="PDFAuditInfo" h="3689108E">PDF kontrôle ynformaasje</text>
+		<text id="PDFOptScaned" h="15D6F8BB">Skende PDF optimalisearje</text>
+		<text id="PDFOptimizer" h="E369C144">PDF optimalisearje</text>
+		<text id="PatternInfo" h="BF98E424">Patroan ynformaasje</text>
+		<text id="Percentage" h="AB9C5DE5">Persintaazje</text>
+		<text id="PieceInfo" h="14FA9D8A">Diel ynformaasje</text>
+		<text id="ProgOptimizing" h="307A05DD">It dokumint wurdt optimalisearre, in amerijke...</text>
+		<text id="ProgPreparing" h="88C0C05E">Dokumint wurdt taret op optimalisaasje...</text>
+		<text id="ProgTitle" h="9480CEF5">Optimalisaasje...</text>
+		<text id="RetainExisting" h="6258BC37">Besteande behâlde</text>
+		<text id="SavingDocument" h="56115414">Optimalisearre dokumint bewarje...</text>
+		<text id="ShadingInfo" h="F222371A">Skaad ynformaasje</text>
+		<text id="Standard" h="C6DA1F99">Standert</text>
+		<text id="Standard.Desc" h="D517594C">Standert ynstellings foar alle apparaten</text>
+		<text id="StructInfo" h="75C658E9">Struktuer ynformaasje</text>
+		<text id="Thumbnails" h="47B1B2D9">Miniatuerôfbyldings</text>
+		<text id="Total" h="9CAA90C0">Totaal</text>
+		<text id="Transparency" h="9EAC5CA4">Trochsichtich</text>
+		<text id="VersionWarning" h="4EF893BE">De ferzje fan PDF-spesifikaasje foar it dokumint is fermindere fan %1. %2 nei %3. %4, om de optimalisaasje ynstellings.
+Dit kin kwestjes meibringe by guon programma's. Kontrolearje it optimalisearre dokumint.</text>
+		<text id="XForms" h="336DF358">X objekt formulieren</text>
+		<text id="abc" h="BD101B14">Tekst fan</text>
+		<text id="adjustName" h="CD74E7C8">Triemnamme oanpasse by optimalisaasje:</text>
+		<text id="alpha" h="632E9A25">Foarkar ynstellings</text>
+		<text id="alpha.resolution.0" h="D33F1C80">Lege resolúsje</text>
+		<text id="alpha.resolution.1" h="64A38366">Middelste resolúsje</text>
+		<text id="alpha.resolution.2" h="0B020749">Hege resolúsje</text>
+		<text id="alpha.set" h="A135F93B">Foarkar ynstellings:</text>
+		<text id="alpha.set.0" h="04DA8EE6">Trochsichtich nivo: %1</text>
+		<text id="alpha.set.1" h="E18C52C1">Linen en tekst: %1</text>
+		<text id="alpha.set.2" h="82CFFAB0">Kleurferrin en gaas: %1</text>
+		<text id="alpha.set.3" h="6FFD6051">Alle tekst nei omlinen omsette: %1</text>
+		<text id="alpha.set.4" h="F2FA75FC">Alle streken nei omlinen omsette %1</text>
+		<text id="alpha.set.5" h="B3DB6D2B">Komplekse regio's bysnije: %1</text>
+		<text id="alpha.set.6" h="33A6ABAC">Opdruk behâlde: %1</text>
+		<text id="cleanUp" h="65707B26">Opskjin ynstellings</text>
+		<text id="cleanUp.DelDuplicateFont" h="19ADBE28">Dûbele lettertypen ôftankje</text>
+		<text id="cleanUp.DelDuplicateImg" h="6B3E34D0">Dûbele ôfbyldings ôftankje</text>
+		<text id="cleanUp.DelDuplicateXForm" h="C81BC491">Dûbele XForms ôftankje</text>
+		<text id="cleanUp.LZW" h="58145992">Yn streamen dy't brûkme meitsje fan 'LZW kodearring ynstee '' Flate' brûke</text>
+		<text id="cleanUp.bookmark" h="0744B268">Unjildige blêdwizers ôftankje</text>
+		<text id="cleanUp.compress" h="631E86C0">Objekt kompresje opsjes:</text>
+		<text id="cleanUp.compress.0" h="590461FB">Hiele triem komprimearje</text>
+		<text id="cleanUp.compress.1" h="223C9F8A">Dokumint struktuer komprimearje</text>
+		<text id="cleanUp.compress.2" h="02FEB23B">Kompresje fuortsmite</text>
+		<text id="cleanUp.compress.3" h="00A7F105">Kompresje net feroarje</text>
+		<text id="cleanUp.content" h="AF96A559">Side ynhâld optimalisearje</text>
+		<text id="cleanUp.destinat" h="43CBC798">Net neamde bestimmingsboarnen ôftankje</text>
+		<text id="cleanUp.link" h="D4DE7736">Unjildige keppelings ôftankje</text>
+		<text id="cleanUp.stream" h="2C797CB5">'Flate' brûke om de streamen dy't net kodearre binne te kodearjen</text>
+		<text id="cleanUp.web" h="278DAB99">De PDF optimalisearje foar flugge web werjefte</text>
+		<text id="cmd.name" h="E03D5D96">As optimalisearre bewarje...</text>
+		<text id="cmd.nameScan" h="9FD32538">Skende siden optimalisearje</text>
+		<text id="cmd.nameScanShort" h="EC746C37">Sjen optimalisearje...</text>
+		<text id="cmd.nameScanTip" h="075F0E8E">Korrizjearje en grutte ferlytsje fan skend dokumint.</text>
+		<text id="cmd.nameShort" h="E03D5D96">Optimalisearre bewarje...</text>
+		<text id="cmd.nameTip" h="DBCE5DD2">In aktyf dokumint bewarje as optimalisearre om grutte te ferminderjen en hegere fluggens fan iepenjen.</text>
+		<text id="descreen" h="250001AD">Flak meitsje</text>
+		<text id="deskew" h="D73E3DAE">Skean lûke</text>
+		<text id="diObject" h="686FD8CF">Objekt ynstellings ôftankje</text>
+		<text id="diObject.action" h="05E16E16">Alle formulier yntsjinnings, ymport en weromset aksjes ôftankje</text>
+		<text id="diObject.bookmark" h="A40329EB">Blêdwizers ôftankje</text>
+		<text id="diObject.curves" h="919F43B2">Glêde linen nei rûnings omsette</text>
+		<text id="diObject.flatten" h="73C56406">Formulier fjilden ôfflakje</text>
+		<text id="diObject.fragment" h="CD4A23BC">Fragminten fan ôfbyldings ûntdekke en gearfoegje</text>
+		<text id="diObject.image" h="63729870">Alle alternative ôfbyldings ôftankje</text>
+		<text id="diObject.javascript" h="7FFE9012">Alle JavaSkript aksjes ôftankje</text>
+		<text id="diObject.print" h="BD6C83FA">Ynsletten print ynstellings ôftankje</text>
+		<text id="diObject.search" h="7B117F1A">Ynsletten sykyndeks ôftankje</text>
+		<text id="diObject.tags" h="3C045100">Dokumint lebels ôftankje</text>
+		<text id="diObject.thumbnail" h="9599423F">Ynsletten side miniatueren ôftankje</text>
+		<text id="diUserData" h="728DF433">Ynformaasje oan de brûker ferbûn ôftankje</text>
+		<text id="diUserData.attach" h="92D67E12">Triem taheakke ôftankje</text>
+		<text id="diUserData.form" h="6C36F02B">Alle oantekens, formulieren en multymedia ôftankje</text>
+		<text id="diUserData.layer" h="FB8629C9">Ferburgen laach ynhâld ôftankje en flakje sichtbere lagen ôf</text>
+		<text id="diUserData.links" h="12EEC435">Alle keppelings ôftankje</text>
+		<text id="diUserData.metadata" h="1E9402E3">Dokumint ynformaasje en metagegevens ôftankje</text>
+		<text id="diUserData.object" h="6C03028D">Alle objekt gegevens negearje</text>
+		<text id="diUserData.privat" h="304A6889">Privee gegevens fan oare programma's ôftankje</text>
+		<text id="diUserData.refer" h="B0E9F442">Eksterne krús ferwizings ôftankje</text>
+		<text id="dlg.POTitle" h="E462CC15">PDF optimalisearje</text>
+		<text id="dlg.delete" h="38F26847">Wolle jo de ynstelling '%1' wiskje?</text>
+		<text id="dlg.save" h="9A3AA1B1">PDF Optimalisearder ynstellings oanmeitsje</text>
+		<text id="dlg.save.text" h="A599E751">Aktive ynstellings bewarje as:</text>
+		<text id="filename" h="B06ACB9D">Neamde konvenanten</text>
+		<text id="filters" h="8DA3B27E">Filters</text>
+		<text id="fonts" h="1250B714">Net ynsletten lettertypen</text>
+		<text id="fonts.active" h="5C8642DA">Gjin inkel lettertype bûten slute.</text>
+		<text id="fonts.all" h="3FE17594">Alle lettertypen bûten slute</text>
+		<text id="fonts.btn.retain" h="BAD13ABC">&lt;&lt; Hâlde</text>
+		<text id="fonts.btn.unembed" h="760953D2">Fuort &gt;&gt;</text>
+		<text id="fonts.comment" h="F38E9B57">De lettertypen opsomme hjirboppe binne op it stuit ynsletten yn it dokumint. Om in lettertype net yn te sluten, ferpleats it nei it rjochter paniel. Lettertypen opsomme yn de lofter paniel sil ynsletten bliuwe.</text>
+		<text id="fonts.custom" h="2AAB35CE">Selektearje lettertypen om sels bûten te sluten</text>
+		<text id="fonts.embedded" h="A77293DA">Ynsletten lettertypen:</text>
+		<text id="fonts.mergesubsets" h="F0C43A59">Lettertype subset gearfoegje</text>
+		<text id="fonts.recommend" h="F9ABDD3E">Net ynsletten oanrikkemandearre lettertypen</text>
+		<text id="fonts.subset" h="6EC24EDD">Alle ynsletten lettertypen yn subset sette</text>
+		<text id="fonts.unembed" h="D1144C15">Net ynsletten lettertypen:</text>
+		<text id="highQuality" h="44A62CCC">Hege kwaliteit</text>
+		<text id="images.AverageDownsampling" h="9DF5988E">Trochsneed downsampling nei</text>
+		<text id="images.BicubicDownsamplingTo" h="2B989117">Bicubic downsampling nei</text>
+		<text id="images.NoDownsampling" h="747AEF4D">Gjin downsampling</text>
+		<text id="images.SubsamplingTo" h="F298A3BE">Subsampling nei</text>
+		<text id="images.above" h="09C2601E">ôfbyldings boppe:</text>
+		<text id="images.color" h="EFDBFA28">Kleur fan ôfbyldings</text>
+		<text id="images.compress" h="990F2529">Kompresje:</text>
+		<text id="images.compress.CCITTGroup3" h="B7DD624B">CCITT groep 3</text>
+		<text id="images.compress.CCITTGroup4" h="F89CF48C">CCITT groep 4</text>
+		<text id="images.compress.JBIG2" h="DE3BC257">JBIG2</text>
+		<text id="images.compress.JPEG" h="58DE58E0">JPEG</text>
+		<text id="images.compress.JPEG2000" h="3A603972">JPEG2000</text>
+		<text id="images.compress.LZW" h="D62F11BD">LZW</text>
+		<text id="images.compress.MRC" h="F6693DA2">MRC</text>
+		<text id="images.compress.RunLength" h="82741A51">Rin lingte</text>
+		<text id="images.compress.ZIP" h="0E4D9E8D">ZIP</text>
+		<text id="images.grey" h="F9551019">Ofbyldings yn griiswearden</text>
+		<text id="images.ingexed" h="FE837B06">Yndeksearre ôfbyldings</text>
+		<text id="images.mono" h="19F5498E">Ofbyldings yn monogroom</text>
+		<text id="images.quality.High" h="21A95620">Heech</text>
+		<text id="images.quality.Lossless" h="40A582D7">Sûnder kompresje</text>
+		<text id="images.quality.Lossy" h="78731864">Lossy</text>
+		<text id="images.quality.Low" h="845E3D8C">Leech</text>
+		<text id="images.quality.Maximum" h="A8A97F0E">Maksimum</text>
+		<text id="images.quality.Medium" h="91153342">Medium</text>
+		<text id="images.quality.Minimum" h="8415F85F">Minimum</text>
+		<text id="images.reduct" h="96D00A5D">Ofbyldings allinne optimalisearje as der in fermindering is fan grutte</text>
+		<text id="mono" h="65032FDA">Monochroom:</text>
+		<text id="msg.NoPermission" h="DF8FF5FA">It dokumint is beskerme en jo ha net genôch foech om de optimalisaasje út te fieren.</text>
+		<text id="optPrefs" h="FDCAF687">Optimalisearder ynstellings</text>
+		<text id="ppi" h="B39AC2C1">dpi</text>
+		<text id="prefix" h="95164599">Foarstik:</text>
+		<text id="quality" h="E3A77A93">Kwaliteit:</text>
+		<text id="result" h="CE676C2B">Resultaat:</text>
+		<text id="settings" h="B781AB7B">Ynstellings:</text>
+		<text id="settings.Custom" h="A918FF38">Oanpast</text>
+		<text id="settings.Mobile" h="A5903811">Mobyl</text>
+		<text id="settings.Standard" h="C6DA1F99">Standert</text>
+		<text id="smallSize" h="2A56EB5B">Lytse grutte</text>
+		<text id="spaceusage" h="2FA61B33">Kontrôle romte brûkme...</text>
+		<text id="stage.getfonts" h="9DF9EE20">Dokumint lettertypen fersamelje</text>
+		<text id="stage.preparing" h="3F6313D6">Dokumint wurdt tarieden...</text>
+		<text id="sufix" h="1627987B">Efterstik:</text>
+		<text id="textSharp" h="D60116F5">Tekst skerpje</text>
+		<text id="tileSize" h="A4FAD93F">T.grutte:</text>
+		<text id="ver" h="C549FED4">Kompatibel meitsje mei:</text>
+		<text id="ver.1" h="8B2AEC62">Ferzje 1.3 (Acrobat 4.0 of heger)</text>
+		<text id="ver.2" h="A0EA502A">Ferzje 1.4 (Acrobat 5.0 of heger)</text>
+		<text id="ver.3" h="26054EFC">Ferzje 1.5 (Acrobat 6.0 of heger)</text>
+		<text id="ver.4" h="70929FB3">Ferzje 1.6 (Acrobat 7.0 of heger)</text>
+		<text id="ver.5" h="FD059DF9">Ferzje 1.7 (Acrobat 8.0 of heger)</text>
+		<text id="ver.current" h="17DA1613">Aktive PDF ferzje: %1 %2</text>
+	</Strings>
+</Localization>

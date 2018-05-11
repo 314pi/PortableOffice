@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Localization>
+	<Version date="20131230153750">2.00.00</Version>
+	<Author>Jack G.</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor" />
+	<Language eName="Hebrew" lName="עברית" code="he-IL" R2L="true"/>
+	<Module name="OCRPlugin" namespace="ocr" version="5.5.312" />
+	<Strings>
+		<text id="cmd.name" h="6DAA8A17">OCR עמודי...</text>
+		<text id="ACCURACY" h="3B2028D8">דיוק:</text>
+		<text id="RangeCtl.All" h="BC5A21F7">הכל</text>
+		<text id="MORELANGUAGES" h="B5A4C290">יותר שפות</text>
+		<text id="QUALITY" h="B09D7E26">איכות:</text>
+		<text id="RUN" h="263F2B55">הרץ</text>
+		<text id="RangeCtl.Array" h="3B3F1A04">עמודים נבחרים</text>
+		<text id="RangeCtl.PageRangesTotalPages" h="AD7CC48B">(סה&quot;כ %1 עמודים)</text>
+		<text id="DPI100" h="32F53FC3">100 DPI</text>
+		<text id="DPI200" h="4E941A18">200 DPI</text>
+		<text id="DPI300" h="D39BFB6E">300 DPI</text>
+		<text id="OUTPUTOVERLAY" h="B50A7A21">הוסף שכבת חיפוש לפידיאף הנוכחי</text>
+		<text id="pages.All" h="83434A26">הכל</text>
+		<text id="PageRangesFilter.All" h="83434A26">הכל</text>
+		<text id="AUTODESKEW" h="626A3AF3">ביטול הטיה אוטומטית</text>
+		<text id="OrientationDetection" h="40F7AA0E">זיהוי כיוון אוטומטי</text>
+		<text id="BLACKLIST" h="23BACD95">רשימה שחורה</text>
+		<text id="CANCEL" h="08961956">בטל</text>
+		<text id="ComplexBackground" h="7D4E65E9">הסרת רקע מורכב</text>
+		<text id="outputtype.editable" h="B24B2872"> ייצר קובץ חדש מפידיאף שניתן לערוך</text>
+		<text id="outputtype.new" h="85C87BB3">ייצר פידיאף חדש שניתן לבצע בו חיפוש </text>
+		<text id="RangeCtl.Current" h="F154A390">עמוד הנוכחי</text>
+		<text id="pages.Current" h="AA94BA52">נוכחי</text>
+		<text id="PageRangesFilter.Even" h="B47F9CB2">שווה</text>
+		<text id="OUTPUTEXPORT" h="AEBA8DAE">יצוא מסמך שנין לערוך</text>
+		<text id="progress.finalizing" h="BD3E3BA6">מסיים ...</text>
+		<text id="PageRangeHelp" h="2193298D">לדוגמה הקלד 1, 3, 5-12</text>
+		<text id="OUTPUTEDITABLE" h="BD2E798E">חדש שניתן לעריכה PDF</text>
+		<text id="OUTPUTSEARCHABLE" h="AC331458"> חדש שניתן לחפש בו PDF</text>
+		<text id="prefs.name" h="00DD8F43">OCR</text>
+		<text id="notice.notfinished" h="F46B8362">נכשלה בדוק שפות ופלט בהגדרות  שבהעדפות  OCR התקנת</text>
+		<text id="notice.emptyselection" h="2B9E6261">נכשל מסמך אינו חוקי או בחירה ריקה  OCR </text>
+		<text id="notice.finished" h="0CFE0EC4">הושלמה  OCR עבדת</text>
+		<text id="prefs.title" h="D0975E29">OCR אפשרויות</text>
+		<text id="prefs.tips" h="D0975E29">OCR אפשרויות</text>
+		<text id="progress.title" h="8E35B0D9"> נא להמתין  OCR עמודי...</text>
+		<text id="PROGRESSTITLE" h="EAC73B34">OCR התקדמות</text>
+		<text id="LABELPROGRESS" h="EAC73B34">OCR התקדמות</text>
+		<text id="prefs.langdir" h="ED1B4BF6">OCRשפת  </text>
+		<text id="PageRangesFilter.Odd" h="B42489B1">חריג</text>
+		<text id="OK" h="2F05215A">כן</text>
+		<text id="GROUPOUTPUT" h="99E2E755">פלט</text>
+		<text id="OUTPUTTYPE" h="BCF60940">סוג הפלט</text>
+		<text id="RangeCtl.Exact" h="F77481D2">עמודים:</text>
+		<text id="pages.Range" h="94D70EC1">טווח עמוד</text>
+		<text id="RangeCtl.GroupBox" h="30C24AC3">תחום עמודים</text>
+		<text id="PAGELABEL" h="23952CFD">עומדי:</text>
+		<text id="progress.placing" h="C9F1FA8A">הצבת תוכן ...</text>
+		<text id="PREFERENCES" h="4481257B">העדפות</text>
+		<text id="outputtype.layer" h="DFA4EAA6">שמור על תוכן מקורי והוספת שכבת טקסט</text>
+		<text id="LANGUAGE" h="9BF1BFB7">שפה ראשית</text>
+		<text id="progress.pageinfo" h="4580EE29"> %d מתוך %d מעבד עמוד  ...</text>
+		<text id="PAGES" h="E85B0001">טווח:</text>
+		<text id="progress.rasterizing" h="ACB9131E">הוספת רסטר ...</text>
+		<text id="GROUPRECOGNITION" h="962555B5">זיהוי</text>
+		<text id="progress.recognizing" h="281E6862">מזהה...</text>
+		<text id="RUNDIALOGTITLE" h="4C092002">OCR הרץ</text>
+		<text id="pages.Selected" h="CF38CD8D">נבחר</text>
+		<text id="RangeCtl.Filter" h="767CD238">קבוצת משנה:</text>
+		<text id="RangeCtl.Summary" h="12271F69">תקציר: %1 מ %2 עמודים</text>
+		<text id="notice.notavailable" h="CAC07593">שנבחר אינו זמין לגירסה זו OCR סוג .</text>
+		<text id="notice.permissions" h="3BE9C6A8">מסמך זה מוגן. בדקו את ההרשאות תחת קובץ -&gt; מאפייני מסמך -&gt; אבטחה.</text>
+		<text id="MULTIPLECORES" h="C21D9F69">השתמש ברב משימות</text>
+		<text id="WHITELIST" h="68C2961B">רשימה לבנה</text>
+		<text id="TITLEWHITELIST" h="B446B537">רשימה לבנה ורשימה שחורה</text>
+</Strings>
+</Localization>

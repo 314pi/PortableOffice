@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220806">2.00.00</Version>
+	<Author>Markus Konsa, support@PDF-XChange.se, +46(0)31-3121100</Author>
+	<Copyright>PDF-XChange Sverige, +46(0)31-312 11 00
+https://pdf-xchange.se, 
+Tracker Software Products(Canada+UK) reg. partner.
+	</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Swedish (Sweden)" lName="Svenska" code="sv-SE" R2L="false"/>
+	<Module name="OCRPlugin" namespace="ocr" version="6.0.322.7"/>
+	<Strings>
+		<text id="OrientationDetection" h="40F7AA0E">Automatisk orienteringsavkänning</text>
+		<text id="accuracy.high" h="21A95620">Hög</text>
+		<text id="accuracy.low" h="845E3D8C">Låg</text>
+		<text id="accuracy.medium" h="91153342">Medium</text>
+		<text id="cb.cuenoany" h="899F9872">Inget installerat</text>
+		<text id="cmd.name" h="6DAA8A17">OCR-Sidor...</text>
+		<text id="l.accuracy" h="3B2028D8">&amp;Noggrannhet:</text>
+		<text id="l.language" h="7B707020">&amp;Språk:</text>
+		<text id="lnk.more" h="2E2CCD84">&lt;a=1&gt;Fler språk...&lt;/a&gt;</text>
+		<text id="prefs.title" h="D0975E29">OCR-inställningar</text>
+	</Strings>
+</Localization>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220820">2.00.00</Version>
+	<Author>pdf.xchange.translate@gmail.com</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Dutch (Netherlands)" lName="Nederlands" code="nl-NL" R2L="false"/>
+	<Module name="GoogleDrivePlugin" namespace="gd" version="6.0.322.7"/>
+	<Strings>
+		<text id="DlgSaveFile" h="81F99046">Opslaan bestand naar Googledrive</text>
+		<text id="btn.connectToAnother" h="508BDBC5">Nieuwe login...</text>
+		<text id="cmd.cmdsCategory" h="AD23B285">Google Drive</text>
+		<text id="cmd.googledrive" h="1D28DF85">&amp;Google Drive</text>
+		<text id="cmd.open" h="F32ECED5">&amp;Google Drive...</text>
+		<text id="cmd.open.tip" h="933837A2">Open document van Googledrive.</text>
+		<text id="cmd.save" h="F32ECED5">&amp;Google Drive...</text>
+		<text id="cmd.save.tip" h="948C3269">Opslaan van actief document naar Googledrive.</text>
+		<text id="cpt.fileNotFound" h="A7F5FA7A">Bestand niet gevonden</text>
+		<text id="cpt.saveReplace" h="520CB069">Opslaan bestand</text>
+		<text id="cpt.selectFile" h="C55D68B0">Selecteer bestand</text>
+		<text id="dlg.googleAuth" h="E5642F22">Google Drive  verificatie</text>
+		<text id="fileName" h="DEC92488">Bestandsnaam:</text>
+		<text id="lb.CurrentFolder" h="44158804">Huidige map:</text>
+		<text id="lb.Test" h="273F3E5B">Test Test Test!</text>
+		<text id="lb.googleAccName" h="C94645A3">Google account:</text>
+		<text id="ls.column.extension" h="14FEB836">Extensie</text>
+		<text id="ls.column.size" h="17A58A52">Grootte</text>
+		<text id="ls.column.size.hint" h="9C4BD847">Grootte van bestand</text>
+		<text id="ls.column.title" h="D18643E3">Naam</text>
+	</Strings>
+</Localization>

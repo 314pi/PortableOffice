@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220838">2.00.00</Version>
+	<Author>Markus Konsa, support@PDF-XChange.se, +46(0)31-3121100</Author>
+	<Copyright>PDF-XChange Sverige, tel +46(0)31-312 11 00
+https://pdf-xchange.se, 
+Tracker Software Products(Canada+UK) reg. partner.
+	</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Swedish (Sweden)" lName="svenska" code="sv-SE" R2L="false"/>
+	<Module name="SpellChecker" namespace="spell" version="6.0.322.7"/>
+	<Strings>
+		<text id="dict.param.hyphen" h="50549BEC">Avstavning</text>
+		<text id="dict.param.spell" h="E10DA1DD">Stava</text>
+		<text id="lstDicts.empty" h="FFD5B8BB">&lt;Inga ordböcker&gt;</text>
+		<text id="msg.CopyDictError" h="81324CC9">Kunde inte kopiera ordboksfiler</text>
+		<text id="msg.DictExists" h="650ABF1A">Ordboken finns redan</text>
+		<text id="msg.DictExists.title" h="B025530B">Ordboken finns</text>
+		<text id="msg.ErrorTitle" h="D9DB5E01">Fel i stavningskontrollen</text>
+		<text id="msg.LoadDictError" h="D139CD51">Kunde inte läsa in ordbok</text>
+		<text id="msg.RemoveError" h="DDD3D452">Kunde inte ta bort ordboksfiler. Åtkomst nekad.</text>
+		<text id="msg.WordExists" h="54B206DA">Ordet finns redan</text>
+		<text id="msg.WordExists.title" h="A9AFB29B">Ordet finns</text>
+		<text id="opt.b.AddDict" h="E0BF5FDE">Lägg till ordbok</text>
+		<text id="opt.b.CustomWordList" h="D1505337">Anpassat ord - ordlista</text>
+		<text id="opt.b.RemoveDict" h="D94F3439">Ta bort ordbok</text>
+		<text id="opt.cb.AllowAlgoHyphens" h="D8C41308">Avstava okända ord</text>
+		<text id="opt.cb.EnableAllHyphens" h="207464CF">Aktivera avstavning</text>
+		<text id="opt.cb.EnableHyphens" h="71ECEEC4">Aktivera ordboksavstavning</text>
+		<text id="opt.cb.EnableSpellChecker" h="1D563674">Aktivera stavningskontroll</text>
+		<text id="opt.cb.IgnoreWordsInUppercase" h="BEB17F5B">Ignorera ord i VERSALER</text>
+		<text id="opt.cb.IgnoreWordsWithNumbers" h="2AA28F70">Ignorera ord som innehåller siffror</text>
+		<text id="opt.title" h="AEF9F007">Inställningar för stavningskontroll</text>
+		<text id="wrd.b.AddWord" h="8E2EE8C1">Lägg till</text>
+		<text id="wrd.b.Delete" h="D8FE3F70">Ta bort</text>
+		<text id="wrd.b.DeleteAll" h="848E003C">Ta bort alla</text>
+		<text id="wrd.l.Dictionary" h="66E4322E">Ordbok:</text>
+		<text id="wrd.l.Word" h="7AFBC23E">Ord:</text>
+		<text id="wrd.title" h="66DDC653">Anpassade ord - ordlista</text>
+	</Strings>
+</Localization>

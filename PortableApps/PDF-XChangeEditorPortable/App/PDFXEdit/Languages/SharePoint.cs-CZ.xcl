@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171221000124">2.00.00</Version>
+	<Author>Martin Paulík</Author>
+	<Copyright>TERAGON SW s.r.o.
+www.pdfxchange.cz	</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Czech (Czech Republic)" lName="čeština" code="cs-CZ" R2L="false"/>
+	<Module name="SharePoint" namespace="sp" version="7.0.323.2"/>
+	<Strings>
+		<text id="btn.checkIn" h="09996473">Přidat</text>
+		<text id="btn.discardCheckOut" h="40AC5603">Zrušit vyhrazení</text>
+		<text id="btn.checkInAndKeepCkeckedOut" h="34DA624B">Přidat a ponechat vyhrazený</text>
+		<text id="btn.connect" h="A79F815C">Připojit</text>
+		<text id="btn.keepCkeckedOut" h="AEA0D6B1">Ponechat vyhrazený</text>
+		<text id="btn.navigate" h="B03F439E">Navigovat</text>
+		<text id="btn.open" h="B1A510F0">Otevřít</text>
+		<text id="btn.openWithCheckOut" h="2F774735">Otevřít s odhlášením</text>
+		<text id="btn.save" h="F363C410">Uložit</text>
+		<text id="btn.saveAndCheckOut" h="E44D9A0A">Uložit a vyhradit</text>
+		<text id="btn.saveReplace" h="11BF9724">Uložit a nahradit</text>
+		<text id="btn.signOut" h="645CEBE2">Odhlášení</text>
+		<text id="cb.url.tip" h="CD81E674">Zadejte adresu...</text>
+		<text id="cmd.checkIn" h="AEF235ED">Přidat</text>
+		<text id="cmd.checkIn.tip" h="3AEF3C8D">Přidat nebo upravit dokument na SharePoint.</text>
+		<text id="cmd.checkOut" h="E6A87AFE">Otevřít a vyhradit</text>
+		<text id="cmd.checkOut.tip" h="5C7938B4">Otevřít dokument ze SharePoint.</text>
+		<text id="cmd.cmdsCategory" h="56A5F9B3">SharePoint</text>
+		<text id="cmd.discardCheckOut" h="40AC5603">Zrušit vyhrazení</text>
+		<text id="cmd.discardCheckOut.tip" h="B5673BAE">Zrušit vyhrazení dokumentu na SharePoint.</text>
+		<text id="cmd.open" h="68595810">SharePoint...</text>
+		<text id="cmd.open.tip" h="42228BCF">Otevřít dokument ze SharePoint.</text>
+		<text id="cmd.prepareFileInfo" h="56811CA0">Připravit soubor</text>
+		<text id="cmd.prepareFileInfo.tip" h="2BF55A56">Připravit informace o dokumentu na SharePoint.</text>
+		<text id="cmd.save" h="68595810">SharePoint...</text>
+		<text id="cmd.save.tip" h="FCA25307">Uložit aktivní dokument do SharePoint.</text>
+		<text id="cmd.share_point" h="B7423C0E">SharePoint</text>
+		<text id="cmd.share_point.tip" h="CA99078B">Pracovat s dokumenty v SharePointu</text>
+		<text id="dlg.liveLogin" h="BFADC685">Přihlášení</text>
+		<text id="dlg.openFile" h="435887CD">Otevření souboru</text>
+		<text id="dlg.saveFile" h="520CB069">Uložení souboru</text>
+		<text id="lb.checkInComment" h="694DD18A">Popis (volitelný):</text>
+		<text id="lb.name" h="DEC92488">Soubor:</text>
+		<text id="lb.sharePointPlaceUrl" h="F900769A">SharePoint URL:</text>
+		<text id="ls.column.created" h="FE6510B7">Datum vytvoření</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Datum a čas vytvoření souboru, složky nebo seznamu</text>
+		<text id="ls.column.extension" h="14FEB836">Přípona</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Přípona souboru</text>
+		<text id="ls.column.modified" h="7E234D6D">Datum úpravy</text>
+		<text id="ls.column.modified.hint" h="12933E76">Datum a čas úpravy souboru, složky nebo seznamu</text>
+		<text id="ls.column.size" h="17A58A52">Velikost</text>
+		<text id="ls.column.size.hint" h="9C4BD847">Velikost souboru</text>
+		<text id="ls.column.title" h="D18643E3">Název</text>
+		<text id="ls.column.title.hint" h="6A895576">Název souboru, název složky nebo titulek seznamu</text>
+		<text id="msg.askForCheckInOnClose" h="8F50A2BC">Chcete přidat soubor &lt;b&gt;%1&lt;/b&gt; před jeho zavřením? Tím budou změny přístupné pro ostatní uživatele.</text>
+		<text id="msg.askForCheckOutOnOpen" h="20742355">Soubor &lt;b&gt;%1&lt;/b&gt; můžete otevřít a vyhradit pouze pro čtení pro ostatní uživatele, abyste je mohli bezpečně změnit a uložit do služby SharePoint, nebo můžete povolit jiným uživatelům soubor změnit, ale mohou se dostat do konfliktu, pokud se pokusíte soubor změnit a uložit.</text>
+		<text id="msg.askForCheckOutOnSave" h="0D7127AB">Soubor &lt;b&gt;%1&lt;/b&gt; Vám není vyhrazen. Můžete jej vyhradit a pokračovat jeho uložením.</text>
+		<text id="msg.askForDiscardCheckOutOnClose" h="CF92CA4B">Soubor &lt;b&gt;%1&lt;/b&gt; je vyhrazen přímo Vám. Přejete si zrušit vyhrazení a povolit ostatním uživatelům editaci souboru?</text>
+		<text id="msg.checkInFailed" h="3E327B8B">Soubor &lt;b&gt;%1&lt;/b&gt; nelze přidat. Prosím zajistěte, že tento soubor existuje a že je vyhrazen přímo Vám.</text>
+		<text id="msg.checkInDialogMessage" h="8A8CB676">Přidat soubor &lt;b&gt;%1&lt;/b&gt;.</text>
+		<text id="msg.checkedOutToOtherOnOpen" h="0931ED51">Soubor &lt;b&gt;%1&lt;/b&gt; nemůžete otevřít s vyhrazením, protože je vyhrazen uživateli "%2".</text>
+		<text id="msg.checkedOutToOtherOnSave" h="2974FCD2">Soubor &lt;b&gt;%1&lt;/b je vyhrazen uživateli "%2". Tento soubor nelze uložit do SharePointu dokud Vám nebude vyhrazen, ale můžete ho uložit do jiného umístění.</text>
+		<text id="msg.checkOutFailed" h="AE188A1B">Soubor &lt;b&gt;%1&lt;/b&gt; nelze vyhradit. Prosím zajistěte, že tento soubor existuje na serveru a není vyhrazen jinému uživateli. </text>
+		<text id="msg.connectError" h="D31B7CA0">Nemohu se připojit k serveru SharePoint. Prosíme zkontrolujte internetové připojení, adresu serveru a přístupová práva k SharePoint.</text>
+		<text id="msg.discardCheckOutFailed" h="427CEAFC">Selhalo zrušení vyhrazení souboru &lt;b&gt;%1&lt;/b&gt;. Prosím zajistěte, že soubor existuje a že je vyhrazen Vám.</text>
+		<text id="msg.errorOnCheckOutNoEditPermissions" h="72CACDDF">Nemůžete vyhradit soubor &lt;b&gt;%1&lt;/b&gt;, protože k tomu nemáte přístupová práva.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedCheckOut" h="0075F732">Soubor &lt;b&gt;%1&lt;/b&gt; nemůžete otevřít s vyhrazením, protože k tomu nemáte přístupová práva.</text>
+		<text id="msg.errorOnOpenWithNoEditPermissionsNeedWriteAccess" h="FD9B1AB1">Soubor &lt;b&gt;%1&lt;/b&gt; nemůžete otevřít pro editaci, protože k tomu nemáte přístupová práva.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedWriteAccess" h="3453F306">Soubor &lt;b&gt;%1&lt;/b&gt; nemůžete uložit do SharePointu, protože nemáte přístupová práva pro úpravy.</text>
+		<text id="msg.errorOnReopenWithNoEditPermissionsNeedCheckOut" h="833598E7">Soubor &lt;b&gt;%1&lt;/b&gt; musí být před uložením vyhrazen, ale bohužel k tomu nemáte přístupová práva.</text>
+		<text id="msg.fileNotFound" h="CD319CFB">Soubor &lt;b&gt;%1&lt;/b&gt; nebyl nalezen v aktuální složce.</text>
+		<text id="msg.invalidFileName" h="4FAC9EDF">&lt;b&gt;%1&lt;/b&gt; není platný název souboru.</text>
+		<text id="msg.navigateError" h="DE02F44B">Nelze se dostat ke zdroji SharePoint. Prosíme, zkontrolujte internetové připojení, adresu serveru a přístupová práva ke zdroji SharePoint.</text>
+		<text id="msg.openFailed" h="A9228907">Soubor nelze otevřít. Ujistěte se, že soubor existuje, zda není vyhrazen pro jiného uživatele a zda máte k němu přístupová práva.</text>
+		<text id="msg.outdatedFileOnWrite" h="1D71732B">Soubor &lt;b&gt;%1&lt;/b&gt; nemohl být uložen do SharePointu z důvodu konfliktu změn. Dokument, který jste si stáhli, obsahuje změny provedené na adrese &lt;b&gt;%2&lt;/ b&gt;, ale server obsahuje novější změny provedené na adrese &lt;b&gt;%3&lt;/ b&gt;. Uložte změny do nového souboru, otevřete nejnovější dokument s vyhrazením, slučte změny a uložte je na server.</text>
+		<text id="msg.saveFailed" h="2C1B0E0B">Soubor nelze uložit. Ujistěte se, že má platný název souboru a že není vyhrazen pouze pro jiného uživatele. </text>
+		<text id="msg.saveReplace" h="D31D53A9">Soubor &lt;b&gt;%1&lt;/b&gt; již existuje. Chcete jej nahradit?</text>
+		<text id="msg.signOutError" h="B348A2EC">Odhlášení aktuálního uživatele ze SharePointu selhalo.Stále byste měli mít přístup k SharePointu bez autentizace.</text>
+		<text id="msg.warnOnOpenWithNoEditPermissions" h="E1A7E642">Otevíráte soubor &lt;b&gt;%1&lt;/b&gt; ke kterému nemáte přístupová práva pro úpravy. Vezměte prosím na vědomí, že nebudete moci uložit změny do služby SharePoint, pokud nemáte potřebná oprávnění.</text>
+		<text id="msg.warnOnOpenWithOthersCheckOut" h="46080172">Soubor &lt;b&gt;%1&lt;/b je vyhrazen uživateli "%2". Tento soubor nemůžete uložit do SharePointu dokud "%2" nezruší vyhrazení. Pokud "%2" přidá soubor se změnami, hned poté zjistíte změnu konfliktu.</text>
+		<text id="opt.keepCkeckedOut" h="15301A94">Ponechat vyhrazený po uložení</text>
+		<text id="str.sharePoint" h="56A5F9B3">SharePoint</text>
+		<text id="rbar.sharepoint" h="56A5F9B3">SharePoint</text>
+	</Strings>
+</Localization>

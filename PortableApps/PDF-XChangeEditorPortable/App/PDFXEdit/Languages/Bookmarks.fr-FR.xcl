@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20170425233743">2.00.00</Version>
+	<Author>Jeff Mahe (jfmahe@europe.com), Pierre-Loïc, Swirti</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="French (France)" lName="Français" code="fr-FR" R2L="false"/>
+	<Module name="BookmarksPlugin" namespace="bp" version="6.0.322.7"/>
+	<Strings>
+		<text id="DlgAddExcludedWords" h="BED549D0">Ajouter de nouveaux mots exclus</text>
+		<text id="DlgAddTextToBookmark" h="E5B26485">Ajouter du texte au titre d'un signet</text>
+		<text id="DlgAutoGenerateBookmarks.Title" h="0E85373B">Générer les signets à partir d'une page de texte</text>
+		<text id="DlgBookmarkAppearance" h="7544DDCE">Apparence du résultat</text>
+		<text id="DlgBookmarkEveryNthPage" h="B6869582">Signet chaque Nième page</text>
+		<text id="DlgBookmarkLevelDescription" h="186C1D0A">Options de correspondance du texte</text>
+		<text id="DlgBookmarkPropSheet" h="862C67E7">Propriétés de génération des signets</text>
+		<text id="DlgBookmarkTitleFormatting" h="A87502C2">Formatage du titre</text>
+		<text id="DlgBookmarksToNamedDests" h="8A0957E5">Convertir en destinations nommées</text>
+		<text id="DlgBookmarksToTextFile" h="29F18B82">Exporter les signets vers un fichier texte</text>
+		<text id="DlgChangeBookmarkCase" h="4D74C7D9">Changer la casse des signets</text>
+		<text id="DlgEditStopWords" h="911413E7">Éditer les mots d'arrêt</text>
+		<text id="DlgFindReplaceBookmarkText" h="733A7FC1">Rechercher et remplacer le texte des signets</text>
+		<text id="DlgFontNames" h="3C8B1F88">Choisir le(s) nom(s) de police</text>
+		<text id="DlgFromTOC" h="AC2ED85C">Ajout de signets à la table des matières</text>
+		<text id="DlgFromTOCIndentation" h="12688622">Changer les décalages</text>
+		<text id="DlgFromTextFile" h="B3799046">Générer les signets à partir d'un fichier texte</text>
+		<text id="DlgNamedDestsToPageNumbers" h="9CAE5E39">Convertir les destinations nommées en destinations régulières</text>
+		<text id="DlgSheetBttfBookmarkProps" h="4B2F0AA2">Propriétés du signet</text>
+		<text id="DlgSheetBttfSelectBookmarks" h="30673BCD">Général</text>
+		<text id="DlgSortBookmarks" h="8339BB6C">Tri des signets</text>
+		<text id="DlgToTOC" h="2B3E9BF1">Construire la table des matières (TDM)</text>
+		<text id="DlgValidateBookmarks" h="0CD39971">Validation des signets</text>
+		<text id="atb.btn.Macroses" h="81734E4F">Mac</text>
+		<text id="atb.chb.IncludeChildren" h="0AC4CB2B">Inclure tous les sous-niveaux</text>
+		<text id="atb.chb.ProcessAllLevels" h="26C3B2DF">Traiter tous les niveaux de signets</text>
+		<text id="atb.chb.RemoveSpaces" h="ABDEA5BC">Supprimer les espaces excessifs du titre original du signet</text>
+		<text id="atb.gb.AddText" h="E21C9B55">Ajouter du texte</text>
+		<text id="atb.gb.Levels" h="8A668489">Sélectionner les niveaux des signets à traiter</text>
+		<text id="atb.gb.SelectSource" h="1E2E96A4">Sélectionner la source des signets</text>
+		<text id="atb.lbl.BookmarkTitle" h="2DC1254E">"Titre de signet"</text>
+		<text id="atb.lbl.Prefix" h="A51A4726">Ajouter un préfixe au titre du signet</text>
+		<text id="atb.lbl.SelectLevel" h="D1263889">Niveau de traitement :</text>
+		<text id="atb.lbl.Suffix" h="C27741D5">Ajouter un suffixe au titre du signet</text>
+		<text id="atb.lbl.UseBookmarksFrom" h="E770326C">Utiliser les signets :</text>
+		<text id="ba.chb.expand" h="BBA3BD8A">Afficher toute l'arborescence dépliée (voir tous les enfants)</text>
+		<text id="ba.l.expl" h="EE297184">Définir l'apparence visuelle des signets générés</text>
+		<text id="ba.l.textStyle" h="8D5CA9B5">Style du texte :</text>
+		<text id="benp.Gb.Main" h="4B2F0AA2">Propriétés du signet</text>
+		<text id="benp.Label.TitleTemplate" h="5E999567">Modèle de titre de signet :</text>
+		<text id="benp.Label1.SelectN" h="8626E4EA">Chaque signet</text>
+		<text id="benp.Label2.SelectN" h="6270721D">page dans la plage de pages</text>
+		<text id="benp.infoBtn.invalidMacro" h="1561C0F2">La chaîne contient un nom de macro indéfini qui sera ignoré</text>
+		<text id="bft.l.actionSeparator" h="5C05CE1E">Séparateur des paramètres d'action</text>
+		<text id="bft.l.separator" h="A4269065">Séparateur de champ:</text>
+		<text id="bld.btn.selStyle" h="EE213BC5">Obtenir le style depuis le texte sélectionné</text>
+		<text id="bld.chb.fontNames" h="AB457B23">Nom(s) de police</text>
+		<text id="bld.chb.limitToPattern" h="7F0826AB">Limiter aux titres de signet utilisant le modèle uniquement</text>
+		<text id="bld.chb.matchTextPattern" h="5A64E195">Correspond au modèle de texte :</text>
+		<text id="bld.chb.multilineBookmarks" h="CB4817D1">Autoriser les titres de signet utilisant plusieurs lignes</text>
+		<text id="bld.g.textContentRules" h="5B364747">Règles pour le contenu texte</text>
+		<text id="bld.l.description" h="2F770A5B">Combiner les attributs suivants pour générer des signets automatiquement depuis le document</text>
+		<text id="bld.l.matchTextCase" h="43616BDA">Casse du texte :</text>
+		<text id="bld.matchTextCase.allCapital" h="D4E8E731">Tous les caractères en majuscules</text>
+		<text id="bld.matchTextCase.firstCapital" h="CAA2E79D">1er caractère en majuscule</text>
+		<text id="bld.matchTextCase.firstDigit" h="42E73545">1er caractère est un chiffre</text>
+		<text id="bld.matchTextCase.noRestrictions" h="93089981">Pas de restriction</text>
+		<text id="bnd.gb.Main" h="4DDA9780">Titre de destination nommée</text>
+		<text id="bnd.lbl.NDTitle" h="7F7F73EC">Le titre de destination nommée sera créé à partir du modèle entré :</text>
+		<text id="btf.chb.insertAfter" h="DD7B743E">Ajouter ce texte après chaque titre :</text>
+		<text id="btf.chb.insertBefore" h="CBDD1CF8">Insérer ce texte avant chaque titre :</text>
+		<text id="btf.chb.removeDuplicateSpaces" h="2653A648">Supprimer les espaces superflus</text>
+		<text id="btf.chb.replaceLineBreaks" h="0C51EEEB">Remplacer les sauts de ligne par des espaces</text>
+		<text id="btf.chb.replaceTitle" h="097EF3C2">Rechercher et remplacer dans le titre des signets avec le motif de texte</text>
+		<text id="btf.g.advancedFormatting" h="9130441A">Formatage avancé</text>
+		<text id="btf.g.textCase" h="97FCC959">Casse du texte</text>
+		<text id="btf.l.characters" h="189C88D2">(caractères)</text>
+		<text id="btf.l.expl" h="169A084A">Sélectionner les propriétés de texte qui seront appliquées au titre des nouveaux signets</text>
+		<text id="btf.l.leadingNumbers" h="074A1A51">Numéros des titres:</text>
+		<text id="btf.l.maxLength" h="A52EC501">Longueur maxi du titre :</text>
+		<text id="btf.l.replacePattern" h="B54B1F92">Remplacer modèle:</text>
+		<text id="btf.l.searchPattern" h="E87DDC08">Rechercher motif:</text>
+		<text id="btf.l.use" h="46DEA47A">Utiliser :</text>
+		<text id="btf.leadingNumbers.noChange" h="3399B0A0">Pas de changement</text>
+		<text id="btf.rb.doNotChange" h="4CBF2C1B">Ne pas changer</text>
+		<text id="btf.rb.lowercase" h="82451817">minuscule</text>
+		<text id="btf.rb.sentenceCase" h="B26B2798">Casse de la phrase</text>
+		<text id="btf.rb.titleCase" h="2C8DBF1B">Casse du titre</text>
+		<text id="btf.rb.uppercase" h="42F820C7">MAJUSCULE</text>
+		<text id="btf.use.letters" h="6EE7E478">Lettres</text>
+		<text id="btf.use.numbers" h="E2FE5FA7">Nombres</text>
+		<text id="btf.use.romanLetters" h="290A50ED">Chiffres romains</text>
+		<text id="btn.add.custom" h="3080663C">Ajout personnalisé...</text>
+		<text id="btn.highlight" h="2485FBFF">Signet en surbrillance</text>
+		<text id="btn.validate" h="1E91E484">Valider</text>
+		<text id="cbc.aew.label" h="7EC386C0">Ajouter de nouveaux mots exclus en tapant un mot
+ par ligne (faire "Entrée" après chaque mot) </text>
+		<text id="cbc.cb.fromBookmarks" h="CF38CD8D">Sélectionné</text>
+		<text id="cbc.cb.fromDocument" h="424CAFC5">Tous les signets</text>
+		<text id="cbc.chb.EnterCustomWordList" h="EB8ACE1B">Saisir une liste personalisée de mots qui ne seront pas traités</text>
+		<text id="cbc.chb.IncludeChildrenBookmarks" h="051C6219">Inclure tous les sous-signets</text>
+		<text id="cbc.gb.SelectTextCase" h="F9747FC0">Sélectionner la casse du texte</text>
+		<text id="cbc.gb.TextCaseOptions" h="DAD7B4F4">Options</text>
+		<text id="cbc.list.header" h="647D6FC4">Mots exclus</text>
+		<text id="cbc.rbtn.LowerCase" h="82451817">minuscule</text>
+		<text id="cbc.rbtn.SentenceCase" h="B26B2798">Casse de la phrase</text>
+		<text id="cbc.rbtn.TitleCase" h="2C8DBF1B">Casse du titre</text>
+		<text id="cbc.rbtn.UpperCase" h="42F820C7">MAJUSCULE</text>
+		<text id="chb.ignoreDuplicates" h="B30FC50E">Ignorer les signets dupliqués consécutifs</text>
+		<text id="chb.stopWords" h="491ED7FC">Ignorer le texte contenant des mots d'arrêt</text>
+		<text id="chb.verifyLinks" h="7A46B598">Vérifier les liens vers les documents et fichiers externes</text>
+		<text id="chb.warnGoTo" h="911FC68A">Avertir pour les actions GoTo invalides</text>
+		<text id="chb.warnGoToRE" h="C0827D11">Avertir pour un GotoR invalide et les actions GoToE</text>
+		<text id="chb.warnLaunchURI" h="94F27C09">Avertir pour un lancement invalide et les actions URI</text>
+		<text id="chb.warnNoActions" h="FBF997CF">Avertir lorsque la liste d'actions est vide ou pour un noeud enfant invalide</text>
+		<text id="chb.warnNoGoTo" h="66B02339">Avertir lors d'une absence d'action GoTo dans la liste d'actions</text>
+		<text id="chb.warnOther" h="B30D6C64">Avertir pour les autres actions invalides</text>
+		<text id="chb.warnTitle" h="F0B5EE52">Avertir lorsqu'un titre est vide</text>
+		<text id="cmd.addAGBLevel" h="928E2BB5">Attribuer aux signets le style de texte sélectionné...</text>
+		<text id="cmd.addTextToBookmarkTitle" h="C4C93738">Ajouter du texte aux titres des signets...</text>
+		<text id="cmd.addTextToBookmarkTitle.short" h="E21C9B55">Ajouter du texte</text>
+		<text id="cmd.addTextToBookmarkTitle.tip" h="B412507B">Ajoute des préfixes et suffixes aux titres des signets.</text>
+		<text id="cmd.changeBookmarkCase" h="359544B0">Changer la casse des signets...</text>
+		<text id="cmd.changeBookmarkCase.short" h="BC4AE60A">Changer la casse</text>
+		<text id="cmd.changeBookmarkCase.tip" h="48522DE3">Change la casse des titres des signets.</text>
+		<text id="cmd.findReplaceBookmarkText" h="AF996007">Rechercher et remplacer le texte des signets...</text>
+		<text id="cmd.findReplaceBookmarkText.short" h="9F35A871">Rechercher et remplacer</text>
+		<text id="cmd.findReplaceBookmarkText.tip" h="7ED81F66">Cherche et remplace des éléments de texte dans les titres des signets.</text>
+		<text id="cmd.sort" h="B1FFF012">Trier les signets...</text>
+		<text id="cmd.sort.short" h="579162B0">Trier</text>
+		<text id="cmd.sort.tip" h="90B74C06">Trie les signets en fonction des critères définis.</text>
+		<text id="cmd.validate" h="E61D60D2">Valider les signets...</text>
+		<text id="cmd.validate.short" h="1E91E484">Valider</text>
+		<text id="cmd.validate.tip" h="AF7C0DD0">Vérifie la validité des signets par rapport aux critères donnés.</text>
+		<text id="cmd.toTOC" h="9B7AEEEA">Construire la table des matières...</text>
+		<text id="cmd.toTOC.short" h="2B3E9BF1">Construire la table des matières</text>
+		<text id="cmd.toTOC.tip" h="E92DA1A8">Crée une table des matières basée sur la structure des signets et les pages qu'ils désignent.</text>
+		<text id="cmd.bookmarksToNamedDests" h="9A9E5CF2">Convertir en destinations nommées...</text>
+		<text id="cmd.bookmarksToNamedDests.short" h="9226CE11">Convertir en dest. nommées</text>
+		<text id="cmd.bookmarksToNamedDests.tip" h="76CA39A1">Convertit les destinations régulières dans les listes d'actions des signets en destinations nommées. Ensuite, lorsque les pages sont déplacées ou supprimées, les signets pointeront vers les mêmes pages qu'auparavant.</text>
+		<text id="cmd.bookmarksToTextFile" h="DBEBEEB8">Exporter les signets vers un fichier texte...</text>
+		<text id="cmd.bookmarksToTextFile.short" h="738D44A8">Exporter en fichier texte</text>
+		<text id="cmd.bookmarksToTextFile.tip" h="2F1DD236">Sauvegarde la structure des signets dans un fichier texte.</text>
+		<text id="cmd.bookmarksToHtmlFile" h="EFF75744">Exporter les signets vers un fichier HTML...</text>
+		<text id="cmd.bookmarksToHtmlFile.short" h="76C20816">Exporter en HTML</text>
+		<text id="cmd.bookmarksToHtmlFile.tip" h="8968844D">Sauvegarde la structure des signets dans un fichier HTML.</text>
+		<text id="cmd.namedDestsToPageNumbers" h="3A651CA9">Convertir les destinations nommées en destinations régulières...</text>
+		<text id="cmd.namedDestsToPageNumbers.short" h="74C22304">Dest. nommées en régulières</text>
+		<text id="cmd.namedDestsToPageNumbers.tip" h="2ABF8034">Convertit les destinations nommées dans les listes d'actions des signets en destinations régulières. Ensuite, lorsque les pages sont déplacées ou supprimées, les signets pointeront vers les pages correspondant aux numéros de page des destinations.</text>
+		<text id="cmd.bookmarkEveryNthPage" h="940FCD39">Signet toutes les N pages...</text>
+		<text id="cmd.bookmarkEveryNthPage.short" h="71BCE832">Signet toutes les N pages</text>
+		<text id="cmd.bookmarkEveryNthPage.tip" h="B60E23D7">Créer des signets par rapport aux numéros de page du document.</text>
+		<text id="cmd.generate" h="2147DF79">Générer des signets à partir du texte de la page...</text>
+		<text id="cmd.generate.short" h="8BE514A6">À partir du texte de la page</text>
+		<text id="cmd.generate.tip" h="2A03253C">Crée des signets à partir du texte du document courant en utilisant le style et les paramètres de police donnés.</text>
+		<text id="cmd.fromTOC" h="D15400EB">Générer un signet à partir de la table des matières....</text>
+		<text id="cmd.fromTOC.short" h="3AB39C50">À partir de la table des matières</text>
+		<text id="cmd.fromTOC.tip" h="D4170828">Crée des signets à partir d'une table des matières existante. La table des matières doit d'abord être sélectionnée à l'aide de l'outil Sélectionner texte pour que cette fonctionnalité fonctionne.</text>
+		<text id="cmd.fromTextFile" h="55CA46BC">Générer des signets à partir d'un fichier texte...</text>
+		<text id="cmd.fromTextFile.short" h="3619B3DB">À partir d'un fichier texte</text>
+		<text id="cmd.fromTextFile.tip" h="11167525">Crée des signets à partir du fichier texte. Notez que le format des données du fichier texte doit suivre les règles de la fonction Exporter des signets vers un fichier texte.</text>
+		<text id="cmd.name" h="E2032460">Signets</text>
+		<text id="cmd.macro.firstLine" h="613F14A5">Première page, ligne de texte</text>
+		<text id="cmd.macro.hierIndex" h="7DCA5F4D">Index hiérarchique</text>
+		<text id="cmd.macro.hierTitle" h="0E7B4B6F">Titre du signet hiérarchique</text>
+		<text id="cmd.macro.indexInParent" h="1B41AFB1">Indice parent</text>
+		<text id="cmd.macro.label" h="EEE40FF3">Étiquette de page</text>
+		<text id="cmd.macro.launch" h="87D9EB8D">Fichier à ouvrir</text>
+		<text id="cmd.macro.level" h="B863033F">Niveau de signet</text>
+		<text id="cmd.macro.namedDest" h="C4E8D8F5">Destination nommée</text>
+		<text id="cmd.macro.sequentialNum" h="CDF4EA5E">Numéro séquentiel</text>
+		<text id="cmd.macro.title" h="3AB782A4">Titre de signet</text>
+		<text id="cmd.macro.uri" h="6C21F7EF">Lien Web à ouvrir</text>
+		<text id="ebttf.actType.all" h="B8B21253">Signets avec tous types d'actions hyperliens</text>
+		<text id="ebttf.actType.goto" h="05B4C93C">Signets avec actions 'Aller à la page'</text>
+		<text id="ebttf.actType.gotoR" h="41E1955E">Signets avec actions 'Aller à distance'</text>
+		<text id="ebttf.actType.js" h="07676EBA">Signets avec actions Javascript</text>
+		<text id="ebttf.actType.launch" h="38537D36">Signets avec actions 'Ouverture de fichier'</text>
+		<text id="ebttf.actType.uri" h="F39B51AE">Signets avec actions 'Ouverture de lien Web'</text>
+		<text id="ebttf.cb.separator.comma" h="827998F7">Virgule</text>
+		<text id="ebttf.cb.separator.semi" h="988594A6">Point-virgule</text>
+		<text id="ebttf.ch.doNotEscape" h="09B53F9F">Pas de séquence d'échappement telle que @ # { }  : etc.</text>
+		<text id="ebttf.ch.expClosedState" h="46E4EC7E">Exporter les signets à l'état "Fermé"</text>
+		<text id="ebttf.ch.expDetailedGotoDescr" h="18B9C243">Exporter la description détaillée de la destination</text>
+		<text id="ebttf.ch.exportActions" h="3444FE51">Exporter les actions des signets</text>
+		<text id="ebttf.ch.exportGoto" h="37493654">Exporter la page sur laquelle pointe le signet</text>
+		<text id="ebttf.ch.exportGotoR" h="92C06BA6">Exporter la description des actions 'Aller à distance'</text>
+		<text id="ebttf.ch.exportJS" h="9362EAE3">Exporter le code des actions Javascript</text>
+		<text id="ebttf.ch.exportLaunch" h="1B39BF89">Exporter la description des actions 'Ouvrir un fichier'</text>
+		<text id="ebttf.ch.exportStyle" h="A6713F10">Exporter le style de texte des signets et propriétés des couleurs</text>
+		<text id="ebttf.ch.exportWebLinks" h="3C61424C">Exporter les liens internet</text>
+		<text id="ebttf.ch.includeSubBookmarks" h="051C6219">Inclure tous les sous-signets</text>
+		<text id="ebttf.ch.openContFolder" h="80BDDAAC">Ouvrir le répertoire contenant</text>
+		<text id="ebttf.ch.overwriteExistingFiles" h="29981774">Écraser le(s) fichier(s) existant(s)</text>
+		<text id="ebttf.ch.resloveNamedDests" h="D1E8A9BC">Résoudre les destinations nommées en numéro de page</text>
+		<text id="ebttf.gb.actionExportParams" h="DA853D34">Sélectionner les propriétés de signet à exporter</text>
+		<text id="ebttf.gb.savingResults" h="49571A59">Paramètres en sortie :</text>
+		<text id="ebttf.gb.selectBookmarks" h="E2AFC2C6">Sélectionner les signets à exporter</text>
+		<text id="ebttf.infoBtn.doNotEscape" h="93A6DD6C">Ne pas mettre de séquence d'échappement aux symboles de service n'est pas recommandé si vous utilisez un fichier en sortie avec la fonction "Générer les signets à partir d'un fichier texte".</text>
+		<text id="ebttf.infoBtn.invalidSeparator" h="44875D1F">Le séparateur de propriétés ne peut être une chaîne vide, ou contenir des caractères alphanumériques ou espaces et ne doit pas être un de ces caractères @ # : { } </text>
+		<text id="ebttf.lbl.folder" h="3F9ED2F9">Répertoire :</text>
+		<text id="ebttf.lbl.separator" h="E9D351AC">Séparateur propriétés :</text>
+		<text id="ebttf.rb.exportActionTypes" h="533F8EA6">Exporter les signets réalisant des actions hyperlink :</text>
+		<text id="ebttf.rb.exportAll" h="8F2ED544">Exporter tout</text>
+		<text id="ebttf.rb.exportSelected" h="69FB5145">Exporter les signets sélectionnés</text>
+		<text id="ebttf.rb.useDefaultFilename" h="0E7FC989">Utiliser le nom du fichier PDF pour sauvegarder les résultats</text>
+		<text id="esw.chb.matchCase" h="2E5EFD7E">Casse texte correspond</text>
+		<text id="esw.chb.matchWhole" h="17009870">Correspond aux mots entiers</text>
+		<text id="esw.chb.useRegExp" h="7FC6EB4F">Utiliser les expressions régulières (Regex)</text>
+		<text id="esw.l.explanation" h="2C312B17">Le texte qui contient ces 'mots d'arrêt' sera ignoré et non utilisé pour créer des signets.</text>
+		<text id="fn.l.selectFontNames" h="0CCEF1FA">Sélectionner le(s) nom(s) de police :</text>
+		<text id="frbt.chb.MatchCase" h="12EB8088">La casse correspond</text>
+		<text id="frbt.chb.MatchWholeWord" h="FE8CC762">Correspond au mot entier</text>
+		<text id="frbt.chb.UseRegex" h="7FC6EB4F">Utiliser les expressions régulières (Regex)</text>
+		<text id="frbt.gb.FindReplace" h="BA012728">Options Rechercher et remplacer</text>
+		<text id="frbt.lbl.FindWhat" h="D0A8A2C5">Rechercher quoi :</text>
+		<text id="frbt.lbl.ReplaceWith" h="3BE65784">Remplacer par :</text>
+		<text id="ftoc.allIncluded" h="C994FC1B">Inclure tout</text>
+		<text id="ftoc.b.indents" h="48800D32">Changer les décalages</text>
+		<text id="ftoc.chb.addBookmarks" h="CBBAE768">Ajouter des signets aux pages qui utilisent la table des matières</text>
+		<text id="ftoc.chb.addLinks" h="68456DBA">Ajouter des liens aux entrées de la table des matières</text>
+		<text id="ftoc.chb.createLevels" h="58CF083A">Utiliser l'indentation de la table des matières pour créer une hiérarchie</text>
+		<text id="ftoc.chb.improveDest" h="417AD7B0">Améliorer la destination des signets en se basant sur le texte</text>
+		<text id="ftoc.chb.trimNumbers" h="40ACC5F5">Supprimer les numéros de préfixes du titre des signets </text>
+		<text id="ftoc.chb.trimSpaces" h="5A27A063">Supprimer les espaces superflus du nom des signets</text>
+		<text id="ftoc.chb.useExistingLinks" h="E214DBE7">Utiliser les liens existants comme destination des nouveaux signets</text>
+		<text id="ftoc.l.bottomIndent" h="C983AD6F">Décalage en bas :</text>
+		<text id="ftoc.l.expl" h="1FAB779E">Ceci va ajouter des signets aux pages, en fonction des entrées sélectionnées de la table des matières. En outre, les liens peuvent être ajoutés à la table des entrées de contenu, ou les liens existants peuvent être utilisés comme destinations de signets.</text>
+		<text id="ftoc.l.offsetExpl" h="9D6C25F6">C'est une différence entre les numéros de pages physiques, le document et les numéros de pages imprimés, qui peut être positive ou négative.</text>
+		<text id="ftoc.l.pageOffset" h="9E563407">Décalage de page :</text>
+		<text id="ftoc.l.separator" h="45CF4893">Choisir le type de séparateur :</text>
+		<text id="ftoc.l.topIndent" h="FA827580">Début du décalage :</text>
+		<text id="msg.bft.warning" h="726201E6">Choisissez des symboles différents pour le délimiteur de champ et le séparateur d'action !</text>
+		<text id="msg.cbc.excludedwords.add.title" h="9ADE883B">Ajouter un nouveau mot exclu</text>
+		<text id="msg.cbc.excludedwords.caption" h="6B29D4B4">Entrer le nouveau mot à exclure :</text>
+		<text id="msg.cbc.excludedwords.edit.title" h="82F8AAA6">Éditer le mot sélectionné exclu</text>
+		<text id="msg.dlg.bookmarksToTextFile.done" h="8E1397E9">Les signets ont été correctement exportés</text>
+		<text id="msg.dlg.emptyFilename.warning" h="96A438DA">Le nom de fichier ne peut être vide.</text>
+		<text id="msg.dlg.invalidFilename.slashes" h="626318B0">Le nom de fichier ne doit contenir ni consécutifs \ ou symbole /, ni se terminer par l'un d'entre eux.</text>
+		<text id="msg.dlg.invalidFilename.warning" h="46CD566C">Les noms de fichier Windows ne doivent contenir aucun des symboles suivants : * ? : | " &lt; &gt;</text>
+		<text id="msg.dlg.noActionsSelected.warning" h="933F1901">La case à cocher "Actions d'export des signets" a été sélectionnée sans type d'action spécifié. Sélectionner un ou plusieurs types d'action ou bien décocher la case ""Actions d'export des signets"</text>
+		<text id="msg.dlg.noSelectedBookmarks.warning" h="21F37C67">Aucun signet n'a été sélectionné. Sélectionner un ou plusieurs signets, ou changer le paramètre "Source des signets" en "Tous les signets".</text>
+		<text id="msg.dlg.pathDoesntExist.warning" h="0804B942">Le répertoire spécifié n'existe pas. Sélectionner un répertoire destination valide et réessayez.</text>
+		<text id="msg.font.addCustom.caption" h="75533687">Entrer le nouveau nom de police :</text>
+		<text id="msg.font.addCustom.title" h="06AFFCAB">Ajouter une nouvelle police personnalisée</text>
+		<text id="msg.frbt.result.bookmarksCount" h="EE00AC0B">La recherche est terminée. Nombre total de signet(s) modifié()s : %1</text>
+		<text id="msg.frbt.result.noBookmarksModified" h="84BE491B">La recherche est terminée. Aucun signet modifié.</text>
+		<text id="msg.levelDesc.title" h="E92EACC5">Spécifications du niveau</text>
+		<text id="msg.levelDesc.warning" h="86A85979">Il n'est pas possible de créer un nouveau niveau de signets avec les données fournies. Veuillez choisir au moins un des critères correspondants dans les Options. Vérifier aussi que les éléments sélectionnés contiennent des données.</text>
+		<text id="msg.oper.noChanges" h="5777DD79">Aucun changement n'a été apporté. Vérifiez vos données d'entrée et réessayez.</text>
+		<text id="msg.oper.warning" h="ABDCBB65">Il y a eu quelques problèmes durant l'exécution de l'opération. Vérifier le résultat.</text>
+		<text id="msg.regex.error" h="D799FCBE">Erreur d'interprétation des Regex</text>
+		<text id="msg.stopWords.add.title" h="F6B54725">Ajouter un nouveau mot d'arrêt</text>
+		<text id="msg.stopWords.caption" h="E2BC1B9E">Entrer un nouveau 'mot d'arrêt' ou une 'phrase d'arrêt'</text>
+		<text id="msg.stopWords.edit.title" h="AFE604DF">Modifier la phrase d'arrêt sélectionnée</text>
+		<text id="msg.validateBookmarks.delete.caption" h="ED4457F4">Voulez-vous effacer le(s) signet(s) sélectionné(s) et ses enfants ?</text>
+		<text id="msg.validateBookmarks.delete.title" h="8FF00765">Effacer le signet invalide</text>
+		<text id="msg.validateBookmarks.rename.caption" h="CE842D61">Entrer le nouveau nom de signet :</text>
+		<text id="msg.validateBookmarks.rename.title" h="ED9AF7FA">Renommer le signet</text>
+		<text id="ndpn.ch.deleteDests" h="BC12FBF0">Supprimer du document les destinations nommées converties</text>
+		<text id="op.GenerateBookmarks" h="05382BCA">Création des signets</text>
+		<text id="op.ValidateBookmarks.msg.emptyActionsList" h="A0A0065C">Aucune action n'est assignée à ce signet.</text>
+		<text id="op.ValidateBookmarks.msg.emptyTitle" h="83F3E965">Le titre du signet est vide.</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidDestName" h="81A40483">L'action GoTo se réfère à une destination nommée invalide.</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidPageNumber" h="C8941D79">L'action GoTo se réfère à une page qui est hors limites.</text>
+		<text id="op.ValidateBookmarks.msg.goto.noAction" h="368F0970">Aucune action GoTo n'est présente dans la liste d'action.</text>
+		<text id="op.ValidateBookmarks.msg.gotoE.invalidTargetPath" h="9D8A50F1">Le chemin cible est vide, ou absent dans l'action GoToE.</text>
+		<text id="op.ValidateBookmarks.msg.gotoR.invalidFile" h="76CCA61D">L'action GoToR se réfère à un fichier invalide.</text>
+		<text id="op.ValidateBookmarks.msg.gotoR.invalidPath" h="560614BE">Le chemin du fichier est invalide</text>
+		<text id="op.ValidateBookmarks.msg.invalidAction" h="84877FDA">L'action %1 est invalide.</text>
+		<text id="progress.BookmarkEveryNthPage.title" h="DA523087">Création des signets de pages</text>
+		<text id="progress.addTextToBookmarkTitle.text" h="BE27C5C9">Ajout de texte au signet : %1...</text>
+		<text id="progress.addTextToBookmarkTitle.title" h="EC7EB408">Ajout de texte aux signets...</text>
+		<text id="progress.addingBookmark" h="45BBB17E">Ajout de signets  : %1 de %2 ...</text>
+		<text id="progress.bookmarksToHtmlFile.status" h="AF1901AD">Export des signets %1 à %2...</text>
+		<text id="progress.bookmarksToHtmlFile.text" h="4DD531FF">Export du signet : %1...</text>
+		<text id="progress.bookmarksToHtmlFile.title" h="E1D21FEE">Export des signets vers un fichier HTML...</text>
+		<text id="progress.bookmarksToNamedDests.text" h="CE73819F">Conversion du signet : %1</text>
+		<text id="progress.bookmarksToNamedDests.title" h="8DB00717">Conversion en destinations nommées</text>
+		<text id="progress.bookmarksToTextFile.text" h="6E74EA26">Traitement du signet pour exporter : %1</text>
+		<text id="progress.bookmarksToTextFile.title" h="D2C04472">Export des signets vers un fichier texte...</text>
+		<text id="progress.calculatingBookmarks" h="4AC26E12">Comptage des signets...</text>
+		<text id="progress.changingBookmarkCase.text" h="107628CA">Changement de la casse : %1...</text>
+		<text id="progress.changingBookmarkCase.title" h="E01AED17">Changement de la casse de signet...</text>
+		<text id="progress.findReplaceBookmarkText.text" h="ABC58F1D">Traitement des signets : %1</text>
+		<text id="progress.findReplaceBookmarkText.title" h="00FEBD2A">Remplacement du texte du signet...</text>
+		<text id="progress.generateBookmarks" h="3D5E30ED">Création des signets depuis la page %1...</text>
+		<text id="progress.generatingBookmarks" h="CFF0F2A9">Création des signets</text>
+		<text id="progress.generatingBookmarks.label" h="043CF7B1">Ajout de signet : %1...</text>
+		<text id="progress.generatingLevels" h="07A22443">Création des niveaux depuis les signets...</text>
+		<text id="progress.generatingTOC" h="A438CB9C">Création de la table des matières</text>
+		<text id="progress.generatingTOCFromBookmark" h="C9213435">Création du contenu depuis le signet: %1...</text>
+		<text id="progress.namedDestsToPageNumbers.deleteNds" h="5DFFFF06">Suppression des destinations nommées...</text>
+		<text id="progress.namedDestsToPageNumbers.title" h="4615CB0B">Conversion des destinations nommées en numéros de page...</text>
+		<text id="progress.parsingFile" h="B2405DA1">Lecture de la stucture des signets à partir du fichier texte...</text>
+		<text id="progress.precalculatingPages" h="DB83BEF7">Création des pages pour la table des matières...</text>
+		<text id="progress.preparingSelected" h="52031EDE">Préparation des signets sélectionnés...</text>
+		<text id="progress.sortingBookmarks" h="99E846CF">Tri signet: %1...</text>
+		<text id="progress.sortingBookmarks.status" h="451C3890">Tri du signet %1 sur %2...</text>
+		<text id="progress.sortingBookmarks.title" h="E134B46E">Tri des signets</text>
+		<text id="progress.statusText.ProcessingBookmarks" h="3836AD6B">Traitement des signets %1 à %2 ...</text>
+		<text id="progress.statusText.ProcessingBookmarksDone" h="67CB6C48">Traitement des signets terminé</text>
+		<text id="progress.undoingChanges" h="BBD3EE96">Annulation des changements...</text>
+		<text id="regex.error.backref" h="3D1C1BE5">L'expression contenait un renvoi invalide</text>
+		<text id="regex.error.badbrace" h="4363EA7D">L'expression contenait une plage invalide entre accolades : '{' et '}'.</text>
+		<text id="regex.error.badrepeat" h="9091944F">L'expression contenait un répéteur de spécification (un parmi *?+{) qui n'était pas précédé d'une expression régulière valide</text>
+		<text id="regex.error.brace" h="3031B0A1">L'expression contenait une erreur d'accolades : '{' et '}'.</text>
+		<text id="regex.error.brack" h="A41AB311">L'expression contenait une erreur de crochets : '[' et ']'.</text>
+		<text id="regex.error.collate" h="D15FB49F">L'expression contenait un nom d'élément d'assemblage invalide.</text>
+		<text id="regex.error.complexity" h="76ADCA5C">La complexité d'une tentative de concordance de l'expression régulière excède le niveau pré-défini.</text>
+		<text id="regex.error.ctype" h="76D6C176">L'expression contenait une classe de nom de caractère invalide.</text>
+		<text id="regex.error.default" h="509A660E">Une erreur est survenue lors du traitement de Regex en entrée</text>
+		<text id="regex.error.escape" h="4BAF1552">L'expression contenait une séquence d'échappement invalide ou un échappement seul</text>
+		<text id="regex.error.paren" h="11F2EE54">L'expression contenait une erreur de parenthèses : '(' et ')'.</text>
+		<text id="regex.error.range" h="CDB00023">L'expression contenait un caractère invalide car hors plage (c.a.d., [z-a])</text>
+		<text id="regex.error.space" h="2FFB9DD7">Il n'y a pas eu assez de mémoire pour supporter cette expression régulière.</text>
+		<text id="regex.error.stack" h="2F47E3EC">Il n'y a pas eu assez de mémoire pour déterminer si l'expression régulière pourrait trouver la séquence de caractères spécifiée.</text>
+		<text id="regex.error.syntax" h="4F399035">Il y a une erreur dans la syntaxe des Regex</text>
+		<text id="sb.ascending" h="59F2363F">Ascendant</text>
+		<text id="sb.chb.ignoreCase" h="E0949C6C">Ignorer la casse du texte</text>
+		<text id="sb.chb.sortAll" h="7BB3E98C">Trier tous les niveaux de l'arborescence</text>
+		<text id="sb.chb.sortChildren" h="B1087C90">Trier les signets enfants</text>
+		<text id="sb.descending" h="74091246">Descendant</text>
+		<text id="sb.g.sortingMethod" h="93D0D863">Méthode de tri</text>
+		<text id="sb.l.selectLevel" h="62FA8E9C">Sélectionner le niveau de signet à trier :</text>
+		<text id="sb.l.sortType" h="85828DAE">Ordre de tri :</text>
+		<text id="sb.rb.sortAlpha" h="F9CD110C">Trier les signets alphabétiquement</text>
+		<text id="sb.rb.sortByPage" h="EB2AF7E4">Trier les signets selon leur numéro de page</text>
+		<text id="test" h="A538F326">Phrase test</text>
+		<text id="tree.fontColor" h="210B1C91">Couleur texte :</text>
+		<text id="tree.fontName" h="ACA86074">Nom de police</text>
+		<text id="tree.fontSize" h="B3CE43BA">Taille de police :</text>
+		<text id="tree.fontTolerance" h="7781AAB6">Tolérance :</text>
+		<text id="tree.level" h="9B075A86">Niveau :</text>
+		<text id="tree.textPattern" h="24121AD7">Modèle de texte :</text>
+		<text id="tree.vb.bookmark" h="9926EC31">&lt;b&gt;%1. Signet:&lt;/b&gt; "%2"</text>
+		<text id="ttoc.b.build" h="DE9A0F1C">Construire</text>
+		<text id="ttoc.b.changeNumber" h="DD04BEA8">Changer le format...</text>
+		<text id="ttoc.b.changeTitle" h="3B951B9A">Changer le format du titre...</text>
+		<text id="ttoc.chb.asLastPage" h="D323F9DD">Comme dernière page</text>
+		<text id="ttoc.chb.end" h="9F41B967">Utiliser tous les niveaux de signets</text>
+		<text id="ttoc.chb.skipInvalid" h="F864C487">Ignorer les signets invalides</text>
+		<text id="ttoc.chb.useDifferentNumberFormatting" h="A39D9F18">Utiliser un format de numérotation 
+personnalisé</text>
+		<text id="ttoc.chb.useDifferentSeparatorFormatting" h="7D6F82B2">Utiliser un format de séparateur 
+personnalisé</text>
+		<text id="ttoc.chb.useSizeFromDoc" h="79C19271">Taille de la page en fonction du document</text>
+		<text id="ttoc.g.pageNumbering" h="21AF4605">Numérotation des pages</text>
+		<text id="ttoc.g.pageSettings" h="D82087B4">Configuration</text>
+		<text id="ttoc.ib.numberFormat" h="D41C6CB8">&lt;b&gt;Format nombre :&lt;/b&gt; &lt;i&gt;Famille police :&lt;/i&gt; %1, &lt;i&gt;Taille police :&lt;/i&gt; %2 pt, &lt;i&gt;Couleur police :&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.ib.separatorFormat" h="14A80F28">&lt;b&gt;Format séparateur :&lt;/b&gt; &lt;i&gt;Famille police :&lt;/i&gt; %1, &lt;i&gt;Taille police :&lt;/i&gt; %2 pt, &lt;i&gt;Couleur police :&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.ib.titleFormat" h="4A9C0388">&lt;b&gt;Format titre :&lt;/b&gt; &lt;i&gt;Famille police :&lt;/i&gt; %1, &lt;i&gt;Taille police :&lt;/i&gt; %2 pt, &lt;i&gt;Couleur police :&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.l.end" h="43FA653A">Dernier signet à inclure dans la table :</text>
+		<text id="ttoc.l.insertAsPage" h="B68AF5B1">Insérer TDM avant la page:</text>
+		<text id="ttoc.l.outputPagesAs" h="96E6A50A">Définir la numérotation comme :</text>
+		<text id="ttoc.l.pageMargins" h="DA4D6B15">Marges des pages :</text>
+		<text id="ttoc.l.start" h="B03149CB">Premier niveau de signet à inclure dans la table :</text>
+		<text id="ttoc.l.title" h="930D3835">Titre :</text>
+		<text id="ttoc.l.titleFormatting" h="21C775EE">Mise à jour du formatage du titre :</text>
+		<text id="ttoc.output.bates" h="ECE56FA9">Nombres Bates (si dispo)</text>
+		<text id="ttoc.output.labels" h="EAE579C1">Étiquettes des pages</text>
+		<text id="ttoc.output.numbers" h="38E0043C">Numéros original des pages</text>
+		<text id="ttoc.style.dots" h="C13D9439">Chapitre..........1</text>
+		<text id="ttoc.style.spaces" h="D9E4F5A0">Chapitre          1</text>
+		<text id="ttoc.style.underline" h="B52B746A">Chapitre______1</text>
+		<text id="ttoc.tableOfContents" h="080B4CC0">Table des matières</text>
+		<text id="undefinedFont" h="06D72DED">Police indéfinie (%1)</text>
+		<text id="vb.invalidALWarining" h="6B3E67E5">Les changements ont été annulés dû au jeu d'actions invalides de la liste</text>
+		<text id="vb.l.invalidBookmarks" h="EE502FFE">%1 signet(s) invalide(s) trouvé(s)</text>
+		<text id="rtab" h="E2032460">Signets</text>
+		<text id="rbar.create" h="EDCA1553">Créer</text>
+		<text id="rbar.modify" h="EA358CAF">Modifier</text>
+		<text id="rbar.convert" h="EFAC3874">Convertir</text>
+	</Strings>
+</Localization>

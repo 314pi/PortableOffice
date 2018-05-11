@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117220831">2.00.00</Version>
+	<Author></Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Finnish (Finland)" lName="Suomi" code="fi-FI" R2L="false"/>
+	<Module name="BookmarksPlugin" namespace="bp" version="6.0.322.7"/>
+	<Strings>
+		<text id="DlgAddExcludedWords" h="BED549D0">Lisää estettyjä sanoja</text>
+		<text id="DlgAddTextToBookmark" h="E5B26485">Kirjanmerkkiotsikon lisääminen</text>
+		<text id="DlgAutoGenerateBookmarks.Title" h="0E85373B">Kirjanmerkkien luominen sivun tekstistä </text>
+		<text id="DlgBookmarkAppearance" h="7544DDCE">Tuloksen ulkoasu</text>
+		<text id="DlgBookmarkEveryNthPage" h="B6869582">Kirjanmerkit määrätyin sivuvälein</text>
+		<text id="DlgBookmarkLevelDescription" h="186C1D0A">Tekstin asetukset</text>
+		<text id="DlgBookmarkPropSheet" h="862C67E7">Kirjanmerkkien luonnin ominaisuudet</text>
+		<text id="DlgBookmarkTitleFormatting" h="A87502C2">Kirjanmerkkien muotoilu</text>
+		<text id="DlgBookmarksToNamedDests" h="8A0957E5">Muunna nimetyiksi kohteiksi </text>
+		<text id="DlgBookmarksToTextFile" h="29F18B82">Vie kirjanmerkit tekstitiedostoon </text>
+		<text id="DlgChangeBookmarkCase" h="4D74C7D9">Kirjanmerkkien koon muuttaminen</text>
+		<text id="DlgEditStopWords" h="911413E7">Estetyt sanat</text>
+		<text id="DlgFindReplaceBookmarkText" h="733A7FC1">Etsi ja korvaa kirjanmerkkien tekstiä</text>
+		<text id="DlgFontNames" h="3C8B1F88">Fonttien valitseminen </text>
+		<text id="DlgFromTOC" h="AC2ED85C">Kirjanmerkit sisällysluettelosta</text>
+		<text id="DlgFromTOCIndentation" h="12688622">Sisennyksien muuttaminen</text>
+		<text id="DlgFromTextFile" h="B3799046">Kirjanmerkkien luominen tekstitiedostosta</text>
+		<text id="DlgNamedDestsToPageNumbers" h="9CAE5E39">Muunna nimetyt kohteet tavallisiksi kohteiksi </text>
+		<text id="DlgSheetBttfBookmarkProps" h="4B2F0AA2">Kirjanmerkin ominaisuudet</text>
+		<text id="DlgSheetBttfSelectBookmarks" h="30673BCD">Yleinen</text>
+		<text id="DlgSortBookmarks" h="8339BB6C">Kirjanmerkkien lajittelu</text>
+		<text id="DlgToTOC" h="2B3E9BF1">Sisällysluettelon luominen</text>
+		<text id="DlgValidateBookmarks" h="0CD39971">Kirjanmerkkien tarkastus</text>
+		<text id="atb.btn.Macroses" h="81734E4F">Mac</text>
+		<text id="atb.chb.IncludeChildren" h="0AC4CB2B">Sisällytä kaikki alatasot</text>
+		<text id="atb.chb.ProcessAllLevels" h="26C3B2DF">Käsittele kaikki kirjanmerkkitasot</text>
+		<text id="atb.chb.RemoveSpaces" h="ABDEA5BC">Poista ylimääräiset välilyönnit kirjanmerkin otsikosta</text>
+		<text id="atb.gb.AddText" h="E21C9B55">Lisää teksti</text>
+		<text id="atb.gb.Levels" h="8A668489">Valitse käsiteltävät kirjanmerkkitasot</text>
+		<text id="atb.gb.SelectSource" h="1E2E96A4">Valitse kirjanmerkkien lähde</text>
+		<text id="atb.lbl.BookmarkTitle" h="2DC1254E">"Otsikko"</text>
+		<text id="atb.lbl.Prefix" h="A51A4726">Lisää otsikkoon etuliite:</text>
+		<text id="atb.lbl.SelectLevel" h="D1263889">Valitse käsiteltävä taso:</text>
+		<text id="atb.lbl.Suffix" h="C27741D5">Lisää otsikkoon loppuliite:</text>
+		<text id="atb.lbl.UseBookmarksFrom" h="E770326C">Käytä kirjanmerkkejä: </text>
+		<text id="ba.chb.expand" h="BBA3BD8A">Näytä laajennettuna (näytä kaikki alatasot)</text>
+		<text id="ba.l.expl" h="EE297184">Valitse luotujen kirjanmerkkien ulkoasu:</text>
+		<text id="ba.l.textStyle" h="8D5CA9B5">Tekstityyli:</text>
+		<text id="benp.Gb.Main" h="4B2F0AA2">Kirjanmerkkien ominaisuudet </text>
+		<text id="benp.Label.TitleTemplate" h="5E999567">Kirjanmerkin otsikon malli: </text>
+		<text id="benp.Label1.SelectN" h="8626E4EA">Kirjanmerkki joka</text>
+		<text id="benp.Label2.SelectN" h="6270721D">sivulle valitulla sivualueella</text>
+		<text id="benp.infoBtn.invalidMacro" h="1561C0F2">Lauseke sisältää makronimen, joka ohitetaan</text>
+		<text id="bft.l.actionSeparator" h="5C05CE1E">Toimintoparametrien erotin: </text>
+		<text id="bft.l.separator" h="A4269065">Kentän erotin: </text>
+		<text id="bld.btn.selStyle" h="EE213BC5">Käytä valitun tekstin tyyliä</text>
+		<text id="bld.chb.fontNames" h="AB457B23">Fontin nimi:</text>
+		<text id="bld.chb.limitToPattern" h="7F0826AB">Rajoita kirjanmerkit vain mallin mukaisiin teksteihin</text>
+		<text id="bld.chb.matchTextPattern" h="5A64E195">Tekstimalli:</text>
+		<text id="bld.chb.multilineBookmarks" h="CB4817D1">Salli moniriviset kirjanmerkit</text>
+		<text id="bld.g.textContentRules" h="5B364747">Tekstisisällön säännöt</text>
+		<text id="bld.l.description" h="2F770A5B">Valitse ominaisuudet teksteille, joista luodaan automaattisesti kirjanmerkit: </text>
+		<text id="bld.l.matchTextCase" h="43616BDA">Kirjainkoko:</text>
+		<text id="bld.matchTextCase.allCapital" h="D4E8E731">Kaikki </text>
+		<text id="bld.matchTextCase.firstCapital" h="CAA2E79D">Ensimmäinen kirjain on Iso</text>
+		<text id="bld.matchTextCase.firstDigit" h="42E73545">Ensimmäinen merkki on numero</text>
+		<text id="bld.matchTextCase.noRestrictions" h="93089981">Ei rajoituksia</text>
+		<text id="bnd.gb.Main" h="4DDA9780">Nimetyn kohteen otsikko</text>
+		<text id="bnd.lbl.NDTitle" h="7F7F73EC">Kohteen otsikko luodaan seuraavan mallin mukaan:</text>
+		<text id="btf.chb.insertAfter" h="DD7B743E">Lisää jokaisen otsikon perään teksti: </text>
+		<text id="btf.chb.insertBefore" h="CBDD1CF8">Lisää jokaisen otsikon eteen teksti: </text>
+		<text id="btf.chb.removeDuplicateSpaces" h="2653A648">Poista kaksinkertaiset välit</text>
+		<text id="btf.chb.replaceLineBreaks" h="0C51EEEB">Korvaa rivinvaihdot välilyönnillä</text>
+		<text id="btf.chb.replaceTitle" h="097EF3C2">Etsi ja korvaa kirjanmerkkien tekstiä </text>
+		<text id="btf.g.advancedFormatting" h="9130441A">Muotoilun lisäasetukset</text>
+		<text id="btf.g.textCase" h="97FCC959">Kirjainkoko</text>
+		<text id="btf.l.characters" h="189C88D2">(merkkiä)</text>
+		<text id="btf.l.expl" h="169A084A">Valitse ominaisuudet, joita käytetään uusiin kirjanmerkkeihin: </text>
+		<text id="btf.l.leadingNumbers" h="074A1A51">Otsikoiden numerointi: </text>
+		<text id="btf.l.maxLength" h="A52EC501">Otsikon enimmäispituus: </text>
+		<text id="btf.l.replacePattern" h="B54B1F92">Korvausmalli: </text>
+		<text id="btf.l.searchPattern" h="E87DDC08">Etsittävä:</text>
+		<text id="btf.l.use" h="46DEA47A">Käytä:</text>
+		<text id="btf.leadingNumbers.noChange" h="3399B0A0">Ei muutoksia</text>
+		<text id="btf.rb.doNotChange" h="4CBF2C1B">Älä muuta</text>
+		<text id="btf.rb.lowercase" h="82451817">pienet kirjaimet</text>
+		<text id="btf.rb.sentenceCase" h="B26B2798">Lausekoko</text>
+		<text id="btf.rb.titleCase" h="2C8DBF1B">Otsikkokoko</text>
+		<text id="btf.rb.uppercase" h="42F820C7">ISOT KIRJAIMET</text>
+		<text id="btf.use.letters" h="6EE7E478">Kirjaimet</text>
+		<text id="btf.use.numbers" h="E2FE5FA7">Numerot</text>
+		<text id="btf.use.romanLetters" h="290A50ED">Roomalaiset numerot</text>
+		<text id="btn.add.custom" h="3080663C">Lisää mukautettu...</text>
+		<text id="btn.highlight" h="2485FBFF">Korosta kirjanmerkki</text>
+		<text id="btn.validate" h="1E91E484">Tarkasta</text>
+		<text id="cbc.aew.label" h="7EC386C0">Lisää uusia estettäviä sanoja. Kirjoita jokainen sana uudelle riville ("Enter" sanan jälkeen):</text>
+		<text id="cbc.cb.fromBookmarks" h="CF38CD8D">Valitut</text>
+		<text id="cbc.cb.fromDocument" h="424CAFC5">Kaikki kirjanmerkit</text>
+		<text id="cbc.chb.EnterCustomWordList" h="EB8ACE1B">Kirjoita luettelo sanoista, joita ei käsitellä </text>
+		<text id="cbc.chb.IncludeChildrenBookmarks" h="051C6219">Sisällytä kaikki alatasot</text>
+		<text id="cbc.gb.SelectTextCase" h="F9747FC0">Valitse tekstikoko</text>
+		<text id="cbc.gb.TextCaseOptions" h="DAD7B4F4">Asetukset</text>
+		<text id="cbc.list.header" h="647D6FC4">Poissuljetut sanat </text>
+		<text id="cbc.rbtn.LowerCase" h="82451817">pienet kirjaimet</text>
+		<text id="cbc.rbtn.SentenceCase" h="B26B2798">Lausekoko</text>
+		<text id="cbc.rbtn.TitleCase" h="2C8DBF1B">Otsikkokoko</text>
+		<text id="cbc.rbtn.UpperCase" h="42F820C7">ISOT KIRJAIMET</text>
+		<text id="chb.ignoreDuplicates" h="B30FC50E">Hylkää peräkkäiset kirjanmerkkien kaksoiskappaleet</text>
+		<text id="chb.stopWords" h="491ED7FC">Hylkää tekstit, jotka sisältävät estettyjä sanoja</text>
+		<text id="chb.verifyLinks" h="7A46B598">Tarkista linkit ulkoisiin tiedostoihin</text>
+		<text id="chb.warnGoTo" h="911FC68A">Varoita virheellisestä GoTo -siirtymistoiminnosta</text>
+		<text id="chb.warnGoToRE" h="C0827D11">Varoita virheellisestä GoToR- ja GoToE-toiminnosta</text>
+		<text id="chb.warnLaunchURI" h="94F27C09">Varoita virheellisestä Launch- tai URL-toiminnosta</text>
+		<text id="chb.warnNoActions" h="FBF997CF">Varoita puuttuvasta toiminnosta tai virheellisestä alatasosta</text>
+		<text id="chb.warnNoGoTo" h="66B02339">Varoita toimintoluettelosta puuttuvasta GoTo -siirtymistoiminnosta</text>
+		<text id="chb.warnOther" h="B30D6C64">Varoita muista virheellisistä toiminnoista</text>
+		<text id="chb.warnTitle" h="F0B5EE52">Varoita tyhjistä otsikoista</text>
+		<text id="cmd.addAGBLevel" h="928E2BB5">Käytä kirjanmerkkien  luonnissa valittua tekstityyliä...</text>
+		<text id="cmd.addTextToBookmarkTitle" h="C4C93738">Lisää kirjanmerkin otsikkotekstiä...</text>
+		<text id="cmd.addTextToBookmarkTitle.short" h="E21C9B55">Lisää tekstiä</text>
+		<text id="cmd.addTextToBookmarkTitle.tip" h="B412507B">Lisää etu- tai jälkiliitteen kirjanmerkin otsikkoon.</text>
+		<text id="cmd.changeBookmarkCase" h="359544B0">Muuta kirjanmerkkien kirjainkokoa...</text>
+		<text id="cmd.changeBookmarkCase.short" h="BC4AE60A">Muuta kirjainkokoa</text>
+		<text id="cmd.changeBookmarkCase.tip" h="48522DE3">Muuttaa kirjanmerkkien otsikoiden kirjainkokoa.</text>
+		<text id="cmd.findReplaceBookmarkText" h="AF996007">Etsi ja korvaa kirjanmerkkien tekstiä...</text>
+		<text id="cmd.findReplaceBookmarkText.short" h="9F35A871">Etsi ja korvaa</text>
+		<text id="cmd.findReplaceBookmarkText.tip" h="7ED81F66">Etsii ja korvaa kirjanmerkkien tekstielementtejä.</text>
+		<text id="cmd.sort" h="B1FFF012">Lajittele kirjanmerkit...</text>
+		<text id="cmd.sort.short" h="579162B0">Lajittele</text>
+		<text id="cmd.sort.tip" h="90B74C06">Lajittelee kirjanmerkit annetun ehdon mukaan.</text>
+		<text id="cmd.validate" h="E61D60D2">Tarkasta kirjanmerkit...</text>
+		<text id="cmd.validate.short" h="1E91E484">Tarkasta</text>
+		<text id="cmd.validate.tip" h="AF7C0DD0">Tarkistaa kirjanmerkit oikeellisuuden annetuilla kriteereillä.</text>
+		<text id="cmd.toTOC" h="9B7AEEEA">Luo sisällysluettelo...</text>
+		<text id="cmd.toTOC.short" h="2B3E9BF1">Luo sisällysluettelo</text>
+		<text id="cmd.toTOC.tip" h="E92DA1A8"> Luo sisällysluettelon kirjanmerkkien rakenteen ja kohdesivujen perusteella.</text>
+		<text id="cmd.bookmarksToNamedDests" h="9A9E5CF2">Muunna nimetyiksi kohteiksi... </text>
+		<text id="cmd.bookmarksToNamedDests.short" h="9226CE11">Muunna nimetyiksi kohteiksi</text>
+		<text id="cmd.bookmarksToNamedDests.tip" h="76CA39A1">Muunna kirjanmerkkien toimintoluettelon tavallisia kohteita nimetyiksi kohteiksi. Kun sivuja siirretään tai poistetaan, kirjanmerkit viittaavat samoihin sivuihin kuin aiemmin.</text>
+		<text id="cmd.bookmarksToTextFile" h="DBEBEEB8">Vie kirjanmerkit tekstitiedostoksi...</text>
+		<text id="cmd.bookmarksToTextFile.short" h="738D44A8">Vie tekstitiedostoksi</text>
+		<text id="cmd.bookmarksToTextFile.tip" h="2F1DD236">Tallentaa kirjanmerkkien rakenteen tekstitiedostoksi.</text>
+		<text id="cmd.bookmarksToHtmlFile" h="EFF75744">Vie kirjanmerkit HTML-tiedostoksi...</text>
+		<text id="cmd.bookmarksToHtmlFile.short" h="76C20816">Vie HTML:ksi</text>
+		<text id="cmd.bookmarksToHtmlFile.tip" h="8968844D">Tallentaa kirjanmerkkien rakenteen HTML-tiedostoksi.</text>
+		<text id="cmd.namedDestsToPageNumbers" h="3A651CA9">Muunna nimetyt kohteet tavallisiksi kohteiksi... </text>
+		<text id="cmd.namedDestsToPageNumbers.short" h="74C22304">Nimetyt kohteet tavallisiksi </text>
+		<text id="cmd.namedDestsToPageNumbers.tip" h="2ABF8034">Muunna kirjanmerkkien toimintoluettelon nimettyjä kohteita tavallisiksi kohteiksi. Kun sivuja siirretään tai poistetaan, kirjanmerkit viittaavat samoihin sivuihin kuin aiemmin.</text>
+		<text id="cmd.bookmarkEveryNthPage" h="940FCD39">Kirjanmerkki määrätyin sivuvälein...</text>
+		<text id="cmd.bookmarkEveryNthPage.short" h="71BCE832">Kirjanmerkki määrätyin sivuvälein</text>
+		<text id="cmd.bookmarkEveryNthPage.tip" h="B60E23D7">Luo kirjanmerkkejä sivunumeroinnin mukaan.</text>
+		<text id="cmd.generate" h="2147DF79">Luo kirjanmerkit sivun tekstistä...</text>
+		<text id="cmd.generate.short" h="8BE514A6">Sivun tekstistä</text>
+		<text id="cmd.generate.tip" h="2A03253C">Luo kirjanmerkkejä nykyisen dokumentin tekstistä käyttäen annettuja fontteja ja parametreja. </text>
+		<text id="cmd.fromTOC" h="D15400EB">Luo kirjanmerkit sisällysluettelosta...</text>
+		<text id="cmd.fromTOC.short" h="3AB39C50">Sisällysluettelosta</text>
+		<text id="cmd.fromTOC.tip" h="D4170828">Luo kirjanmerkit olemassa olevasta sisällysluettelosta. luettelo täytyy ensin valita käyttäen tekstin valinta -työkalua.</text>
+		<text id="cmd.fromTextFile" h="55CA46BC">Luo kirjanmerkit tekstitiedostosta...</text>
+		<text id="cmd.fromTextFile.short" h="3619B3DB">Tekstitiedostosta</text>
+		<text id="cmd.fromTextFile.tip" h="11167525">Luo kirjanmerkit tekstitiedostosta. Huomaa, että tekstitiedostomuodon tulee noudattaa Kirjanmerkkien tekstiedostoon vientiominaisuuden sääntöjä.</text>
+		<text id="cmd.name" h="E2032460">Kirjanmerkit</text>
+		<text id="cmd.macro.firstLine" h="613F14A5">Sivun ensimmäinen tekstirivi</text>
+		<text id="cmd.macro.hierIndex" h="7DCA5F4D">Hierarkkinen luettelo</text>
+		<text id="cmd.macro.hierTitle" h="0E7B4B6F">Kirjanmerkin hierarkkinen nimi</text>
+		<text id="cmd.macro.indexInParent" h="1B41AFB1">Pääluettelo</text>
+		<text id="cmd.macro.label" h="EEE40FF3">Sivun otsikko</text>
+		<text id="cmd.macro.launch" h="87D9EB8D">Avattava tiedosto </text>
+		<text id="cmd.macro.level" h="B863033F">Kirjanmerkkitaso</text>
+		<text id="cmd.macro.namedDest" h="C4E8D8F5">Nimetty kohde</text>
+		<text id="cmd.macro.sequentialNum" h="CDF4EA5E">Peräkkäinen numero</text>
+		<text id="cmd.macro.title" h="3AB782A4">Kirjanmerkin otsikko</text>
+		<text id="cmd.macro.uri" h="6C21F7EF">Avattava Web-linkki </text>
+		<text id="ebttf.actType.all" h="B8B21253">Kirjanmerkit, joissa jokin hyperlinkkitoiminto</text>
+		<text id="ebttf.actType.goto" h="05B4C93C">Kirjanmerkit, joissa Siirry sivulle -toiminto </text>
+		<text id="ebttf.actType.gotoR" h="41E1955E">Kirjanmerkit, joissa Siirry-toiminto </text>
+		<text id="ebttf.actType.js" h="07676EBA">Kirjanmerkit, joissa Javascript-toiminto</text>
+		<text id="ebttf.actType.launch" h="38537D36">Kirjanmerkit, joissa Avaa tiedosto -toiminto </text>
+		<text id="ebttf.actType.uri" h="F39B51AE">Kirjanmerkit, joissa Avaa web-sivu -toiminto </text>
+		<text id="ebttf.cb.separator.comma" h="827998F7">Pilkku</text>
+		<text id="ebttf.cb.separator.semi" h="988594A6">Puolipiste</text>
+		<text id="ebttf.ch.doNotEscape" h="09B53F9F">Älä käytä palvelumerkkejä, kuten @ # { }  : jne.</text>
+		<text id="ebttf.ch.expClosedState" h="46E4EC7E">Vie kirjanmerkkipuut suljettu-tilassa</text>
+		<text id="ebttf.ch.expDetailedGotoDescr" h="18B9C243">Vie yksityiskohtainen kohdekuvaus</text>
+		<text id="ebttf.ch.exportActions" h="3444FE51">Vie kirjanmerkin toiminnot</text>
+		<text id="ebttf.ch.exportGoto" h="37493654">Vie sivut, joihin kirjanmerkki osoittaa</text>
+		<text id="ebttf.ch.exportGotoR" h="92C06BA6">Vie Siirry-toiminnon kuvaus </text>
+		<text id="ebttf.ch.exportJS" h="9362EAE3">Vie Javascript-toimintokoodi</text>
+		<text id="ebttf.ch.exportLaunch" h="1B39BF89">Vie Avaa tiedosto -toiminnon kuvaus </text>
+		<text id="ebttf.ch.exportStyle" h="A6713F10">Vie kirjanmerkin tyyli ja väriominaisuudet</text>
+		<text id="ebttf.ch.exportWebLinks" h="3C61424C">Vie web-linkit</text>
+		<text id="ebttf.ch.includeSubBookmarks" h="051C6219">Sisällytä kaikki alatasot</text>
+		<text id="ebttf.ch.openContFolder" h="80BDDAAC">Avaa kansio</text>
+		<text id="ebttf.ch.overwriteExistingFiles" h="29981774">Korvaa olemassa olevat tiedostot </text>
+		<text id="ebttf.ch.resloveNamedDests" h="D1E8A9BC">Muunna nimetyt kohteet sivunumeroiksi</text>
+		<text id="ebttf.gb.actionExportParams" h="DA853D34">Valitse vietävät kirjanmerkkien ominaisuudet</text>
+		<text id="ebttf.gb.savingResults" h="49571A59">Luontiparametrit:</text>
+		<text id="ebttf.gb.selectBookmarks" h="E2AFC2C6">Valitse vietävät kirjanmerkit</text>
+		<text id="ebttf.infoBtn.doNotEscape" h="93A6DD6C">Poistumispalvelumerkkien käyttöä suositellaan, jos jatkossa halutaan tuoda kirjanmerkit luodusta tekstitiedostosta.</text>
+		<text id="ebttf.infoBtn.invalidSeparator" h="44875D1F">Ominaisuuserotin ei voi olla tyhjä, numero, symboli, välilyönti tai jokin seuraavista merkeistä @ # : { } </text>
+		<text id="ebttf.lbl.folder" h="3F9ED2F9">Kansio:</text>
+		<text id="ebttf.lbl.separator" h="E9D351AC">Ominaisuuserotin:</text>
+		<text id="ebttf.rb.exportActionTypes" h="533F8EA6">Vie kirjanmerkit, joissa on hyperlinkkitoiminto:</text>
+		<text id="ebttf.rb.exportAll" h="8F2ED544">Vie kaikki</text>
+		<text id="ebttf.rb.exportSelected" h="69FB5145">Vie valitut kirjanmerkit</text>
+		<text id="ebttf.rb.useDefaultFilename" h="0E7FC989">Käytä tulosten tallentamiseen PDF-dokumenttia</text>
+		<text id="esw.chb.matchCase" h="2E5EFD7E">Sama kirjainkoko</text>
+		<text id="esw.chb.matchWhole" h="17009870">Kokonaiset sanat</text>
+		<text id="esw.chb.useRegExp" h="7FC6EB4F">Käytä täsmällisiä sanontoja</text>
+		<text id="esw.l.explanation" h="2C312B17">Estettyjä sanoja sisältävästä tekstistä ei luoda kirjanmerkkejä. </text>
+		<text id="fn.l.selectFontNames" h="0CCEF1FA">Valitse fonttien nimi/nimet:</text>
+		<text id="frbt.chb.MatchCase" h="12EB8088">Sama koko</text>
+		<text id="frbt.chb.MatchWholeWord" h="FE8CC762">Kokonainen sana</text>
+		<text id="frbt.chb.UseRegex" h="7FC6EB4F">Käytä täsmällisiä sanontoja</text>
+		<text id="frbt.gb.FindReplace" h="BA012728">Etsinnän ja korvaamisen asetukset</text>
+		<text id="frbt.lbl.FindWhat" h="D0A8A2C5">Etsittävä:</text>
+		<text id="frbt.lbl.ReplaceWith" h="3BE65784">Korvaava:</text>
+		<text id="ftoc.allIncluded" h="C994FC1B">Sisällytä kaikki</text>
+		<text id="ftoc.b.indents" h="48800D32">Muuta sisennyksiä...</text>
+		<text id="ftoc.chb.addBookmarks" h="CBBAE768">Lisää kirjanmerkit sivuille sisällysluettelon mukaisesti</text>
+		<text id="ftoc.chb.addLinks" h="68456DBA">Lisää linkit sisällysluettelokohteisiin</text>
+		<text id="ftoc.chb.createLevels" h="58CF083A">Käytä sisällysluettelokohtia kirjanmerkkihierarkian luomiseen </text>
+		<text id="ftoc.chb.improveDest" h="417AD7B0">Yritä luoda kirjanmerkkien kohteet tekstin perusteella </text>
+		<text id="ftoc.chb.trimNumbers" h="40ACC5F5">Poista etunumerot kirjanmerkkien otsikoista</text>
+		<text id="ftoc.chb.trimSpaces" h="5A27A063">Poista peräkkäiset välilyönnit kirjanmerkkien otsikoista</text>
+		<text id="ftoc.chb.useExistingLinks" h="E214DBE7">Käytä olemassa olevia linkkejä uusina kirjanmerkkien kohteina </text>
+		<text id="ftoc.l.bottomIndent" h="C983AD6F">Alasisennys: </text>
+		<text id="ftoc.l.expl" h="1FAB779E">Toiminto lisää sivuille kirjanmerkit sisällysluettelon kohtien mukaisesti. Vaihtoehtoisesti toiminto voi luoda linkit sisällysluettelon kohteisiin tai käyttää olemassa olevia linkkejä kirjanmerkkien kohteina. </text>
+		<text id="ftoc.l.offsetExpl" h="9D6C25F6">Ero PDF-dokumentin sivunumeroiden ja tulostussivunumeroiden välillä. Luku voi olla positiivinen tai negatiivinen. </text>
+		<text id="ftoc.l.pageOffset" h="9E563407">Sivujen siirtymä:</text>
+		<text id="ftoc.l.separator" h="45CF4893">Valitse erotintyyppi:</text>
+		<text id="ftoc.l.topIndent" h="FA827580">Yläsisennys: </text>
+		<text id="msg.bft.warning" h="726201E6">Valitse eri symbolit kentän erottimeksi ja toimintoerottimeksi!</text>
+		<text id="msg.cbc.excludedwords.add.title" h="9ADE883B">Lisää uusi estettävä sana</text>
+		<text id="msg.cbc.excludedwords.caption" h="6B29D4B4">Lisää uusi estettävä sana: </text>
+		<text id="msg.cbc.excludedwords.edit.title" h="82F8AAA6">Muokkaa valittua estettyä sanaa</text>
+		<text id="msg.dlg.bookmarksToTextFile.done" h="8E1397E9">Kirjanmerkkien vienti tiedostoon onnistui. </text>
+		<text id="msg.dlg.emptyFilename.warning" h="96A438DA">Tiedostonimi ei voi olla tyhjä.</text>
+		<text id="msg.dlg.invalidFilename.slashes" h="626318B0">Tiedostonimi ei voi sisältää peräkkäin  tai / merkkejä eikä voi päättyä niihin.</text>
+		<text id="msg.dlg.invalidFilename.warning" h="46CD566C">Hyväksyttävä Windows-tiedostonimi ei voi sisältää seuraavia merkkejä: * ? : | " &lt; &gt; </text>
+		<text id="msg.dlg.noActionsSelected.warning" h="933F1901">"Vie kirjanmerkin toiminnot" -ruutu on merkitty, mutta toimintotyyppiä ei ole valittu. Valitse yksi tai useampia toimintoja tai poista niiden vienti. </text>
+		<text id="msg.dlg.noSelectedBookmarks.warning" h="21F37C67">Valittuna ei ole yhtään kirjanmerkkiä. Valitse yksi tai useampi kirjanmerkki tai muuta kirjanmerkkien lähteeksi parametri "Kaikki kirjanmerkit". </text>
+		<text id="msg.dlg.pathDoesntExist.warning" h="0804B942">Määrittämääsi kansiota ei ole. Valitse olemassa oleva kansio ja yritä uudelleen. </text>
+		<text id="msg.font.addCustom.caption" h="75533687">Kirjoita uusi PDF-fontin nimi:</text>
+		<text id="msg.font.addCustom.title" h="06AFFCAB">Lisää uusi mukautettu fontti</text>
+		<text id="msg.frbt.result.bookmarksCount" h="EE00AC0B">Haku suoritettu loppuun. Muokattujen kirjanmerkkien määrä: %1</text>
+		<text id="msg.frbt.result.noBookmarksModified" h="84BE491B">Haku suoritettu loppuun. Kirjanmerkkejä ei muokattu.</text>
+		<text id="msg.levelDesc.title" h="E92EACC5">Tasomääritykset</text>
+		<text id="msg.levelDesc.warning" h="86A85979">Valittujen parametrien mukaan ei ole mahdollista luoda uutta kirjanmerkkitasoa. Valitse ainakin yksi ehto tekstin sopivuusasetuksista ja tarkista, että valitut kohteet sisältävät tietoja. </text>
+		<text id="msg.oper.noChanges" h="5777DD79">Toimintoa suoritettaessa ei tehty muutoksia. Tarkista syöttötiedot ja yritä uudelleen.</text>
+		<text id="msg.oper.warning" h="ABDCBB65">Toiminnon suorittamisessa ilmeni virheitä. Tarkista tulos.</text>
+		<text id="msg.regex.error" h="D799FCBE">Jäsentämisvirhe</text>
+		<text id="msg.stopWords.add.title" h="F6B54725">Lisää uusi estetty ilmaisu</text>
+		<text id="msg.stopWords.caption" h="E2BC1B9E">Kirjoita uusi estetty sana tai ilmaisu: </text>
+		<text id="msg.stopWords.edit.title" h="AFE604DF">Muokkaa valittua estettyä ilmaisua.</text>
+		<text id="msg.validateBookmarks.delete.caption" h="ED4457F4">Haluatko poistaa valitun kirjanmerkin/merkit alatasoineen? </text>
+		<text id="msg.validateBookmarks.delete.title" h="8FF00765">Poista virheellinen kirjanmerkki</text>
+		<text id="msg.validateBookmarks.rename.caption" h="CE842D61">Kirjoita uusi kirjanmerkin nimi:</text>
+		<text id="msg.validateBookmarks.rename.title" h="ED9AF7FA">Nimeä kirjanmerkit uudelleen</text>
+		<text id="ndpn.ch.deleteDests" h="BC12FBF0">Poista dokumentista muunnetut nimetyt kohteet</text>
+		<text id="op.GenerateBookmarks" h="05382BCA">Luo kirjanmerkit</text>
+		<text id="op.ValidateBookmarks.msg.emptyActionsList" h="A0A0065C">Kirjanmerkkiin ei ole liitetty toimintoa.</text>
+		<text id="op.ValidateBookmarks.msg.emptyTitle" h="83F3E965">Kirjanmerkillä ei ole otsikkoa.</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidDestName" h="81A40483">GoTo -siirtymistoiminto viittaa virheelliseen nimettyyn kohteeseen.</text>
+		<text id="op.ValidateBookmarks.msg.goto.invalidPageNumber" h="C8941D79">GoTo -siirtymistoiminto viittaa sivuun, joka on rajojen ulkopuolella.</text>
+		<text id="op.ValidateBookmarks.msg.goto.noAction" h="368F0970">Toimintoluettelossa ei ole GoTo -siirtymistoimintoa.</text>
+		<text id="op.ValidateBookmarks.msg.gotoE.invalidTargetPath" h="9D8A50F1">Siirtymistoiminnossa annettu kohde on tyhjä tai polkua ei ole olemassa. </text>
+		<text id="op.ValidateBookmarks.msg.gotoR.invalidFile" h="76CCA61D">GoToR -siirtymistoiminto viittaa virheelliseen tiedostoon.</text>
+		<text id="op.ValidateBookmarks.msg.gotoR.invalidPath" h="560614BE">Polku tiedostoon on virheellinen.</text>
+		<text id="op.ValidateBookmarks.msg.invalidAction" h="84877FDA">%1 toiminto on virheellinen.</text>
+		<text id="progress.BookmarkEveryNthPage.title" h="DA523087">Luodaan sivujen kirjanmerkkejä...</text>
+		<text id="progress.addTextToBookmarkTitle.text" h="BE27C5C9">Lisätään tekstiä kirjanmerkkiin: %1...</text>
+		<text id="progress.addTextToBookmarkTitle.title" h="EC7EB408">Lisätään tekstiä kirjanmerkkeihin...</text>
+		<text id="progress.addingBookmark" h="45BBB17E">Lisätään kirjanmerkkejä: %1 / %2...</text>
+		<text id="progress.bookmarksToHtmlFile.status" h="AF1901AD">Viedään kirjanmerkkejä %1 / %2...</text>
+		<text id="progress.bookmarksToHtmlFile.text" h="4DD531FF">Viedään kirjanmerkkiä: %1...</text>
+		<text id="progress.bookmarksToHtmlFile.title" h="E1D21FEE">Viedään kirjanmerkkejä HTML-tiedostoon... </text>
+		<text id="progress.bookmarksToNamedDests.text" h="CE73819F">Muunnetaan kirjanmerkkiä: %1...</text>
+		<text id="progress.bookmarksToNamedDests.title" h="8DB00717">Muunnetaan nimettyihin kohteisiin...</text>
+		<text id="progress.bookmarksToTextFile.text" h="6E74EA26">Käsitellään vietävää kirjanmerkkiä: %1</text>
+		<text id="progress.bookmarksToTextFile.title" h="D2C04472">Viedään kirjanmerkkejä tekstitiedostoon...</text>
+		<text id="progress.calculatingBookmarks" h="4AC26E12">Lasketaan kirjanmerkkejä...</text>
+		<text id="progress.changingBookmarkCase.text" h="107628CA">Muutetaan kirjanmerkin kirjainkokoa: %1...</text>
+		<text id="progress.changingBookmarkCase.title" h="E01AED17">Muutetaan kirjanmerkin kirjainkokoa...</text>
+		<text id="progress.findReplaceBookmarkText.text" h="ABC58F1D">Käsitellään kirjanmerkkiä %1</text>
+		<text id="progress.findReplaceBookmarkText.title" h="00FEBD2A">Korvataan kirjanmerkin tekstiä...</text>
+		<text id="progress.generateBookmarks" h="3D5E30ED">Luodaan kirjanmerkkejä sivulta %1...</text>
+		<text id="progress.generatingBookmarks" h="CFF0F2A9">Kirjanmerkkien luominen</text>
+		<text id="progress.generatingBookmarks.label" h="043CF7B1">Lisätään kirjanmerkkiä: %1...</text>
+		<text id="progress.generatingLevels" h="07A22443">Luodaan tasoja kirjanmerkeistä...</text>
+		<text id="progress.generatingTOC" h="A438CB9C">Luodaan sisällysluetteloa...</text>
+		<text id="progress.generatingTOCFromBookmark" h="C9213435">Luodaan sisältöä kirjanmerkistä %1...</text>
+		<text id="progress.namedDestsToPageNumbers.deleteNds" h="5DFFFF06">Poistetaan nimettyjä kohteita...</text>
+		<text id="progress.namedDestsToPageNumbers.title" h="4615CB0B">Muunnetaan nimettyjä kohteita sivunumeroiksi...</text>
+		<text id="progress.parsingFile" h="B2405DA1">Luetaan kirjanmerkkien rakennetta tekstitiedostosta...</text>
+		<text id="progress.precalculatingPages" h="DB83BEF7">Luodaan sivuja sisällysluetteloa varten... </text>
+		<text id="progress.preparingSelected" h="52031EDE">Valmistellaan valittuja kirjanmerkkejä...</text>
+		<text id="progress.sortingBookmarks" h="99E846CF">Lajitellaan kirjanmerkkiä: %1...</text>
+		<text id="progress.sortingBookmarks.status" h="451C3890">Lajitellaan kirjanmerkkiä %1 / %2...</text>
+		<text id="progress.sortingBookmarks.title" h="E134B46E">Kirjanmerkkien lajittelu</text>
+		<text id="progress.statusText.ProcessingBookmarks" h="3836AD6B">Käsitellään kirjanmerkkiä %1 / %2...</text>
+		<text id="progress.statusText.ProcessingBookmarksDone" h="67CB6C48">Kirjanmerkkien käsittely valmis.</text>
+		<text id="progress.undoingChanges" h="BBD3EE96">Kumotaan muutokset...</text>
+		<text id="regex.error.backref" h="3D1C1BE5">Lauseke sisälsi virheellisen viittauksen.</text>
+		<text id="regex.error.badbrace" h="4363EA7D">Lauseke sisälsi virheellisen alueen sulkeiden välissä: '{' ja '}'.</text>
+		<text id="regex.error.badrepeat" h="9091944F">Lauseke sisälsi toistotunnisteen (*?+{), jota ei voi käyttää tavallisessa lausekkeessa.</text>
+		<text id="regex.error.brace" h="3031B0A1">Lauseke sisälsi parittomat sulkeet: '{' ja '}'.</text>
+		<text id="regex.error.brack" h="A41AB311">Lauseke sisälsi parittomat sulkeet: [' ja ']'.</text>
+		<text id="regex.error.collate" h="D15FB49F">Lauseke sisälsi virheellisen lajitteluelementin nimen.</text>
+		<text id="regex.error.complexity" h="76ADCA5C">Ehdotetun lausekkeen monimutkaisuus ylittää esiasetetun tason.</text>
+		<text id="regex.error.ctype" h="76D6C176">Lauseke sisälsi virheellisen merkkiluokan nimen.</text>
+		<text id="regex.error.default" h="509A660E">Virhe jäsennystä luotaessa.</text>
+		<text id="regex.error.escape" h="4BAF1552">Lauseke sisälsi vältettävän merkin.</text>
+		<text id="regex.error.paren" h="11F2EE54">Lauseke sisälsi parittomat sulkeet: '(' ja ')'.</text>
+		<text id="regex.error.range" h="CDB00023">Lauseke sisälsi virheellisen merkkialueen.</text>
+		<text id="regex.error.space" h="2FFB9DD7">Muistia ei ole tarpeeksi tämän vakiolausekkeen käsittelyyn.</text>
+		<text id="regex.error.stack" h="2F47E3EC">Muistia ei ole tarpeeksi määrittämään, vastaako vakiolauseke määriteltyä merkkisarjaa.</text>
+		<text id="regex.error.syntax" h="4F399035">Jäsentämisvirhe.</text>
+		<text id="sb.ascending" h="59F2363F">Nouseva</text>
+		<text id="sb.chb.ignoreCase" h="E0949C6C">Ohita tekstikoko</text>
+		<text id="sb.chb.sortAll" h="7BB3E98C">Lajittele kaikki kirjanmerkkitasot</text>
+		<text id="sb.chb.sortChildren" h="B1087C90">Lajittele alatasot</text>
+		<text id="sb.descending" h="74091246">Laskeva</text>
+		<text id="sb.g.sortingMethod" h="93D0D863">Lajittelutapa</text>
+		<text id="sb.l.selectLevel" h="62FA8E9C">Valitse lajiteltavat tasot: </text>
+		<text id="sb.l.sortType" h="85828DAE">Lajittelusuunta:</text>
+		<text id="sb.rb.sortAlpha" h="F9CD110C">Lajittele kirjanmerkit aakkosjärjestykseen</text>
+		<text id="sb.rb.sortByPage" h="EB2AF7E4">Lajittele kirjanmerkit sivunumeroiden mukaan</text>
+		<text id="test" h="A538F326">Testijono</text>
+		<text id="tree.fontColor" h="210B1C91">Tekstin väri:</text>
+		<text id="tree.fontName" h="ACA86074">Fontin nimi:</text>
+		<text id="tree.fontSize" h="B3CE43BA">Fonttikoko:</text>
+		<text id="tree.fontTolerance" h="7781AAB6">Poikkeama:</text>
+		<text id="tree.level" h="9B075A86">Taso:</text>
+		<text id="tree.textPattern" h="24121AD7">Tekstimalli:</text>
+		<text id="tree.vb.bookmark" h="9926EC31">&lt;b&gt;%1. Kirjanmerkki:&lt;/b&gt; "%2"</text>
+		<text id="ttoc.b.build" h="DE9A0F1C">Luo</text>
+		<text id="ttoc.b.changeNumber" h="DD04BEA8">Muuta muotoilua...</text>
+		<text id="ttoc.b.changeTitle" h="3B951B9A">Muuta otsikon muotoilua...</text>
+		<text id="ttoc.chb.asLastPage" h="D323F9DD">Viimeiseksi sivuksi</text>
+		<text id="ttoc.chb.end" h="9F41B967">Käytä kaikkia kirjanmerkkitasoja</text>
+		<text id="ttoc.chb.skipInvalid" h="F864C487">Ohita virheelliset kirjanmerkit</text>
+		<text id="ttoc.chb.useDifferentNumberFormatting" h="A39D9F18">Käytä omaa numeron muotoilua</text>
+		<text id="ttoc.chb.useDifferentSeparatorFormatting" h="7D6F82B2">Käytä omaa erotinmuotoilua</text>
+		<text id="ttoc.chb.useSizeFromDoc" h="79C19271">Määritä sivukoko dokumentin mukaan </text>
+		<text id="ttoc.g.pageNumbering" h="21AF4605">Sivun numerointi</text>
+		<text id="ttoc.g.pageSettings" h="D82087B4">Sivun asetukset</text>
+		<text id="ttoc.ib.numberFormat" h="D41C6CB8">&lt;b&gt;Numeron muotoilu:&lt;/b&gt; &lt;i&gt;Fontti:&lt;/i&gt; %1, &lt;i&gt;Fontin koko:&lt;/i&gt; %2 pt, &lt;i&gt;Fontin väri:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.ib.separatorFormat" h="14A80F28">&lt;b&gt;Erottimen muotoilu:&lt;/b&gt; &lt;i&gt;Fontti:&lt;/i&gt; %1, &lt;i&gt;Fontin koko:&lt;/i&gt; %2 pt, &lt;i&gt;Fontin väri:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.ib.titleFormat" h="4A9C0388">&lt;b&gt;Otsikon muotoilu:&lt;/b&gt; &lt;i&gt;Fontti:&lt;/i&gt; %1, &lt;i&gt;Fontin koko:&lt;/i&gt; %2 pt, &lt;i&gt;Fontin väri:&lt;/i&gt; RGB(%3)</text>
+		<text id="ttoc.l.end" h="43FA653A">Viimeinen sisällysluetteloon tuleva taso: </text>
+		<text id="ttoc.l.insertAsPage" h="B68AF5B1">Sisällysluettelo ennen sivua:</text>
+		<text id="ttoc.l.outputPagesAs" h="96E6A50A">Numerointitapa:</text>
+		<text id="ttoc.l.pageMargins" h="DA4D6B15">Reunukset:</text>
+		<text id="ttoc.l.start" h="B03149CB">Ensimmäinen sisällysluetteloon tuleva taso: </text>
+		<text id="ttoc.l.title" h="930D3835">Otsikko:</text>
+		<text id="ttoc.l.titleFormatting" h="21C775EE">Päivitä otsikon mutoilu:</text>
+		<text id="ttoc.output.bates" h="ECE56FA9">Bates-numerointi (jos on)</text>
+		<text id="ttoc.output.labels" h="EAE579C1">Sivuosoitteiden mukaan</text>
+		<text id="ttoc.output.numbers" h="38E0043C">Alkuperäiset sivunumerot</text>
+		<text id="ttoc.style.dots" h="C13D9439">Otsikko..........1</text>
+		<text id="ttoc.style.spaces" h="D9E4F5A0">Otsikko          1</text>
+		<text id="ttoc.style.underline" h="B52B746A">Otsikko______1</text>
+		<text id="ttoc.tableOfContents" h="080B4CC0">Sisällysluettelo</text>
+		<text id="undefinedFont" h="06D72DED">Määrittämätön fontti (%1)</text>
+		<text id="vb.invalidALWarining" h="6B3E67E5">Muutokset hylättiin viallisen toimintolistan vuoksi. Jätä ainakin yksi toiminto!</text>
+		<text id="vb.l.invalidBookmarks" h="EE502FFE">Löydetty %1 virheellistä kirjanmerkkiä.</text>
+		<text id="rtab" h="E2032460">Kirjanmerkit</text>
+		<text id="rbar.create" h="EDCA1553">Luo</text>
+		<text id="rbar.modify" h="EA358CAF">Muokkaa</text>
+		<text id="rbar.convert" h="EFAC3874">Muunna</text>
+	</Strings>
+</Localization>

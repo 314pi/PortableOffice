@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20171117213643">2.00.00</Version>
+	<Author>Alfonso Seoage</Author>
+	<Copyright></Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Galician (Galician)" lName="Galego" code="gl-ES" R2L="false"/>
+	<Module name="Dropbox" namespace="db" version="6.0.322.7"/>
+	<Strings>
+		<text id="btn.cancel" h="3D302A38">&amp;Cancelar</text>
+		<text id="btn.chooseUser" h="4E5DDBFB">Elixir &amp;usuario</text>
+		<text id="btn.ok" h="FEF0C771">Ace&amp;ptar</text>
+		<text id="btn.open" h="B1A510F0">&amp;Abrir</text>
+		<text id="btn.save" h="F363C410">&amp;Gardar</text>
+		<text id="btn.saveReplace" h="11BF9724">Gardar e &amp;substituír</text>
+		<text id="cmd.cmdsCategory" h="22B8ECE9">Dropbox</text>
+		<text id="cmd.open" h="028048E8">&amp;Dropbox...</text>
+		<text id="cmd.open.tip" h="683AE278">Abrir un documento desde Dropbox.</text>
+		<text id="cmd.save" h="028048E8">&amp;Dropbox...</text>
+		<text id="cmd.save.tip" h="B5D0B78F">Gardar en Dropbox o documento activo.</text>
+		<text id="cmd.dropbox" h="6616FE70">&amp;Dropbox</text>
+		<text id="dlg.authenticate" h="E6E77652">Autentificar</text>
+		<text id="dlg.openFile" h="435887CD">Abrir un arquivo</text>
+		<text id="dlg.saveFile" h="520CB069">Gardar un arquivo</text>
+		<text id="lb.itemsInFolder" h="8F56A98C">%d elementos</text>
+		<text id="lb.name" h="F7B9E475">Arquivo:</text>
+		<text id="ls.column.created" h="9E0B497D">Data de creación</text>
+		<text id="ls.column.created.hint" h="291F5AEC">Data e hora na que se creou o arquivo, cartafol ou listaxe</text>
+		<text id="ls.column.extension" h="14FEB836">Extensión</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Extensión do arquivo</text>
+		<text id="ls.column.modified" h="691C3610">Data de modificación</text>
+		<text id="ls.column.modified.hint" h="2C2CF8F2">Data e hora na que se modificou por última vez o arquivo, cartafol ou listaxe</text>
+		<text id="ls.column.size" h="17A58A52">Tamaño</text>
+		<text id="ls.column.size.hint" h="E79CA174">Tamaño do arquivo</text>
+		<text id="ls.column.title" h="D18643E3">Nome</text>
+		<text id="ls.column.title.hint" h="D883F263">Nome de arquivo ou cartafol</text>
+		<text id="msg.connectError" h="A594B0D5">Non foi posible conectarse a Dropbox. Comprobe a súa conexión a internet e que teña os permisos para poder acceder ao recurso Dropbox solicitado.</text>
+		<text id="msg.fileNotFound" h="381368F8">Non existe o arquivo &lt;b&gt;"%1"&lt;/b&gt; no cartafol actual.</text>
+		<text id="msg.invalidFileName" h="6BE657E3">&lt;b&gt;"%1"&lt;/b&gt; non é un nome de arquivo válido: non se permiten os símbolos " / \ | ?* </text>
+		<text id="msg.navigateError" h="8BCFBD0F">Non foi posible navegar ata o recurso Dropbox. Comprobe a súa conexión a internet, que a dirección sexa correcta e que teña os permisos para poder acceder a el.</text>
+		<text id="msg.openFailed" h="794811DE">Non é posible abrir ese arquivo. Asegúrese de que existe e de que ten permisos para lelo.</text>
+		<text id="msg.saveFailed" h="36780EC6">Non é posible gravar ese arquivo. Asegúrese de que o nome de arquivo é correcto e de que ten permisos de escritura.</text>
+		<text id="msg.saveReplace" h="B1889DFB">O arquivo &lt;b&gt;"%1"&lt;/b&gt; xa existe. Desexa substituílo?</text>
+		<text id="msg.wrongUser" h="27773B86">Non é posible abrir este recurso porque pertence ao espazo Dropbox doutro usuario. Quere elixir outro usuario?</text>
+	</Strings>
+</Localization>

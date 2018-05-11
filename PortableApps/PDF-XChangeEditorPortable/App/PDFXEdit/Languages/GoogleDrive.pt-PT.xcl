@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Localization>
+	<Version date="20161130215843">2.00.00</Version>
+	<Author>Nuno Filipe Rego</Author>
+	<Copyright>Nuno Filipe Rego ©
+
+Coments and\or suggestions about the translations:
+Comentários e\ou sugestões sobre as traduções: 
+
+nunito.mokito@gmail.com</Copyright>
+	<Product id="PDFXEditor"/>
+	<Language eName="Portuguese (Portugal)" lName="português" code="pt-PT" R2L="false"/>
+	<Module name="GoogleDrivePlugin" namespace="gd" version="0.0.0.0"/>
+	<Strings>
+		<text id="DlgOpenFile" h="B98AB29D">Abrir Ficheiro apartir do Google Drive</text>
+		<text id="DlgSaveFile" h="81F99046">Guardar Ficheiro no Google Drive</text>
+		<text id="GDPlugin" h="32B7E3E0">Extra Google Drive</text>
+		<text id="btn.connectToAnother" h="508BDBC5">Novo Acesso...</text>
+		<text id="cmd.cmdsCategory" h="AD23B285">Google Drive</text>
+		<text id="cmd.googledrive" h="1D28DF85">Google Drive</text>
+		<text id="cmd.open" h="F32ECED5">Google Drive...</text>
+		<text id="cmd.open.tip" h="933837A2">Abre um documento guardado no Google Drive.</text>
+		<text id="cmd.save" h="F32ECED5">Google Drive...</text>
+		<text id="cmd.save.tip" h="948C3269">Guarda o documento atual no Google Drive.</text>
+		<text id="cpt.fileNotFound" h="A7F5FA7A">Ficheiro não Encontrado</text>
+		<text id="cpt.invalidFileName" h="79C1387C">Nome de Ficheiro Inválido</text>
+		<text id="cpt.navigateError" h="3D300A1C">Erro de Navegação</text>
+		<text id="cpt.saveReplace" h="520CB069">Guardar Ficheiro</text>
+		<text id="cpt.selectFile" h="C55D68B0">Selecionando ficheiro</text>
+		<text id="dlg.googleAuth" h="E5642F22">Autenticação no Google Drive</text>
+		<text id="fileName" h="DEC92488">Nome do Ficheiro...</text>
+		<text id="lb.CurrentFolder" h="44158804">Pasta Atual:</text>
+		<text id="lb.Test" h="273F3E5B">Teste Teste Teste!</text>
+		<text id="lb.googleAccName" h="C94645A3">Conta Google:</text>
+		<text id="msg.fileNotFound" h="430E08B1">O ficheiro "%1" não encontrado na pasta atual.</text>
+		<text id="msg.invalidFileName" h="7C0655B5">"%1" não é um nome de ficheiro válido.</text>
+		<text id="msg.navigateError" h="2FCAA72A">Falha ao navegar até o recurso no Google Drive. Verifique a ligação à Internet e se tem permissões de acesso ao recurso requerido no Google Drive.</text>
+		<text id="msg.openFailed" h="AC94D960">Erro ao abrir o ficheiro. Verifique se o ficheiro existe, não está atribuído a outro utilizador e se tem permissões de leitura para o mesmo.</text>
+		<text id="msg.saveFailed" h="4D413392">Erro ao guardar o ficheiro. Verifique se o nome do ficheiro é válido e se tem permissões de escrita para o mesmo.</text>
+		<text id="msg.saveReplace" h="5D56833E">O ficheiro %1 já existe. Deseja substituí-lo?</text>
+		<text id="msg.selectFile" h="2530C20F">Por favor selecione o ficheiro antes de premir OK</text>
+		<text id="ls.column.created" h="FE6510B7">Data da criação</text>
+		<text id="ls.column.created.hint" h="35DF3A4F">Data e hora da criação do ficheiro, pasta ou lista</text>
+		<text id="ls.column.extension" h="14FEB836">Extensão</text>
+		<text id="ls.column.extension.hint" h="A8E5A550">Extensão do ficheiro</text>
+		<text id="ls.column.modified" h="7E234D6D">Data da modificação</text>
+		<text id="ls.column.modified.hint" h="12933E76">Data e hora da última modificação do ficheiro, pasta ou lista</text>
+		<text id="ls.column.size" h="17A58A52">Tamanho</text>
+		<text id="ls.column.size.hint" h="9C4BD847">Tamanho do ficheiro</text>
+		<text id="ls.column.title" h="D18643E3">Nome</text>
+		<text id="ls.column.title.hint" h="6A895576">Nome do ficheiro, nome da pasta ou título da lista</text>
+		<text id="virtualfolder.mydrive" h="84C2D3A6">Meu Drive</text>
+		<text id="virtualfolder.sharedwithme" h="8B65307E">Partilhados Comigo</text>
+		<text id="cpt.unableToSaveToVirtualFolder" h="778EF99A">Erro ao Guardar Ficheiro na Pasta</text>
+		<text id="msg.unableToSaveToVirtualFolder" h="A6644426">O ficheiro não pôde ser guardado no local selecionado. Por favor escolha a pasta "Minha Drive", uma das suas sub-pastas ou uma das sub-pastas de "Partilhado Comigo" para guardar o ficheiro.</text>
+	</Strings>
+</Localization>
