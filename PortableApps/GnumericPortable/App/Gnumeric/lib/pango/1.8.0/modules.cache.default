@@ -1,0 +1,19 @@
+# Pango Modules file
+# Automatically generated file, do not edit
+#
+# ModulesPath = C:\Program Files (x86)\Gnumeric\1.12.17\lib\pango\1.8.0\modules
+#
+"GNUMERICPATHREPLACE\\lib\\pango\\1.8.0\\modules\\pango-arabic-lang.dll" ArabicScriptEngineLang PangoEngineLang PangoRenderNone arabic:*
+"GNUMERICPATHREPLACE\\lib\\pango\\1.8.0\\modules\\pango-basic-fc.dll" BasicScriptEngineFc PangoEngineShape PangoRenderFc common:
+"GNUMERICPATHREPLACE\\lib\\pango\\1.8.0\\modules\\pango-basic-win32.dll" BasicScriptEngineWin32 PangoEngineShape PangoRenderWin32 common:
+"GNUMERICPATHREPLACE\\lib\\pango\\1.8.0\\modules\\pango-indic-lang.dll" devaIndicScriptEngineLang PangoEngineLang PangoRenderNone devanagari:*
+"GNUMERICPATHREPLACE\\lib\\pango\\1.8.0\\modules\\pango-indic-lang.dll" bengIndicScriptEngineLang PangoEngineLang PangoRenderNone bengali:*
+"GNUMERICPATHREPLACE\\lib\\pango\\1.8.0\\modules\\pango-indic-lang.dll" guruIndicScriptEngineLang PangoEngineLang PangoRenderNone gurmukhi:*
+"GNUMERICPATHREPLACE\\lib\\pango\\1.8.0\\modules\\pango-indic-lang.dll" gujrIndicScriptEngineLang PangoEngineLang PangoRenderNone gujarati:*
+"GNUMERICPATHREPLACE\\lib\\pango\\1.8.0\\modules\\pango-indic-lang.dll" oryaIndicScriptEngineLang PangoEngineLang PangoRenderNone oriya:*
+"GNUMERICPATHREPLACE\\lib\\pango\\1.8.0\\modules\\pango-indic-lang.dll" tamlIndicScriptEngineLang PangoEngineLang PangoRenderNone tamil:*
+"GNUMERICPATHREPLACE\\lib\\pango\\1.8.0\\modules\\pango-indic-lang.dll" teluIndicScriptEngineLang PangoEngineLang PangoRenderNone telugu:*
+"GNUMERICPATHREPLACE\\lib\\pango\\1.8.0\\modules\\pango-indic-lang.dll" kndaIndicScriptEngineLang PangoEngineLang PangoRenderNone kannada:*
+"GNUMERICPATHREPLACE\\lib\\pango\\1.8.0\\modules\\pango-indic-lang.dll" mlymIndicScriptEngineLang PangoEngineLang PangoRenderNone malayalam:*
+"GNUMERICPATHREPLACE\\lib\\pango\\1.8.0\\modules\\pango-indic-lang.dll" sinhIndicScriptEngineLang PangoEngineLang PangoRenderNone sinhala:*
+"GNUMERICPATHREPLACE\\lib\\pango\\1.8.0\\modules\\pango-thai-lang.dll" ThaiScriptEngineLang PangoEngineLang PangoRenderNone thai:*

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin id="Gnumeric_paradox">
+	<information>
+		<name>Paradox</name>
+		<name xml:lang="ast">Paradox</name>
+		<name xml:lang="bg">Paradox</name>
+		<name xml:lang="ca">Paradox</name>
+		<name xml:lang="ca@valencia">Paradox</name>
+		<name xml:lang="cs">Paradox</name>
+		<name xml:lang="de">Paradox</name>
+		<name xml:lang="dz">པེ་ར་ཌོགསི་</name>
+		<name xml:lang="el">Paradox</name>
+		<name xml:lang="en_CA">Paradox</name>
+		<name xml:lang="en_GB">Paradox</name>
+		<name xml:lang="es">Paradox</name>
+		<name xml:lang="et">Paradox</name>
+		<name xml:lang="eu">Paradox</name>
+		<name xml:lang="fi">Paradox</name>
+		<name xml:lang="fr">Paradox</name>
+		<name xml:lang="gl">Paradox</name>
+		<name xml:lang="gu">Paradox</name>
+		<name xml:lang="hu">Paradox</name>
+		<name xml:lang="id">Paradox</name>
+		<name xml:lang="it">Paradox</name>
+		<name xml:lang="ja">Paradox</name>
+		<name xml:lang="ko">Paradox</name>
+		<name xml:lang="lt">Paradox</name>
+		<name xml:lang="lv">Paradox</name>
+		<name xml:lang="nb">Paradox</name>
+		<name xml:lang="ne">प्याराडोक्स</name>
+		<name xml:lang="nl">Paradox</name>
+		<name xml:lang="nn">Paradox</name>
+		<name xml:lang="pl">Paradox</name>
+		<name xml:lang="pt_BR">Paradox</name>
+		<name xml:lang="ru">Paradox</name>
+		<name xml:lang="sl">Paradox</name>
+		<name xml:lang="sr">Парадокс</name>
+		<name xml:lang="sr@latin">Paradoks</name>
+		<name xml:lang="sv">Paradox</name>
+		<name xml:lang="vi">Paradox</name>
+		<name xml:lang="zh_CN">Paradox</name>
+		<name xml:lang="zh_HK">Paradox</name>
+		<name xml:lang="zh_TW">Paradox</name>
+		<description>Imports Paradox files</description>
+		<description xml:lang="ast">Importa ficheros Paradox</description>
+		<description xml:lang="bg">Внасяне на файлове, формат Paradox</description>
+		<description xml:lang="ca">Importa fitxers Paradox</description>
+		<description xml:lang="ca@valencia">Importa fitxers Paradox</description>
+		<description xml:lang="cs">Importuje soubory Paradox</description>
+		<description xml:lang="de">Importiert Paradox-Dateien</description>
+		<description xml:lang="dz">པེ་ར་ཌོགསི་ཡིག་སྣོད་ཚུ་ནང་འདྲེན་འབདཝ་ཨིན་</description>
+		<description xml:lang="el">Εισάγει αρχεία Paradox</description>
+		<description xml:lang="en_CA">Imports Paradox files</description>
+		<description xml:lang="en_GB">Imports Paradox files</description>
+		<description xml:lang="es">Importa archivos Paradox</description>
+		<description xml:lang="et">Impordib Paradox'i faile</description>
+		<description xml:lang="eu">Paradox fitxategiak inportatzen ditu</description>
+		<description xml:lang="fi">Tuo Paradox-tiedostoja</description>
+		<description xml:lang="fr">Importe les fichiers Paradox</description>
+		<description xml:lang="gl">Importa ficheiros de Paradox</description>
+		<description xml:lang="gu">Paradox ફાઇલો ને આયાત કરો</description>
+		<description xml:lang="hu">Paradox fájlokat importál</description>
+		<description xml:lang="id">Impor berkas Paradox</description>
+		<description xml:lang="it">Importa file Paradox</description>
+		<description xml:lang="ja">Paradox ファイルをインポートします</description>
+		<description xml:lang="ko">Paradox 파일 가져오기</description>
+		<description xml:lang="lt">Importuoja Paradox failus</description>
+		<description xml:lang="lv">Importē Paradox datnes</description>
+		<description xml:lang="nb">Importerer Paradox-filer</description>
+		<description xml:lang="ne">प्याराडोक्स फाइल आयात गर्छ</description>
+		<description xml:lang="nl">Importeert Paradox-bestanden</description>
+		<description xml:lang="nn">Importerar ei Paradox-fil</description>
+		<description xml:lang="pl">Importuje pliki Paradox</description>
+		<description xml:lang="pt_BR">Importa arquivos Paradox</description>
+		<description xml:lang="ru">Импортирует файлы Paradox</description>
+		<description xml:lang="sl">Uvažanje datotek programa Paradox</description>
+		<description xml:lang="sr">Увози Парадокс датотеке</description>
+		<description xml:lang="sr@latin">Uvozi Paradoks datoteke</description>
+		<description xml:lang="sv">Importerar Paradox-filer</description>
+		<description xml:lang="vi">Nhập tập tin Paradox</description>
+		<description xml:lang="zh_CN">导入 Paradox 文件</description>
+		<description xml:lang="zh_HK">可匯入 Paradox 檔案</description>
+		<description xml:lang="zh_TW">可匯入 Paradox 檔案</description>
+	</information>
+	<loader type="Gnumeric_Builtin:module">
+		<attribute value="paradox" name="module_file"/>
+	</loader>
+	<services>
+		<service type="file_opener" probe="FALSE" priority="100" id="paradox">
+			<information>
+				<description>Paradox database or primary index file (*.db, *.px)</description>
+				<description xml:lang="ca">Base de dades Paradox o fitxer d'índex primari (*.db, *.px)</description>
+				<description xml:lang="ca@valencia">Base de dades Paradox o fitxer d'índex primari (*.db, *.px)</description>
+				<description xml:lang="cs">Databáze nebo soubor primárního indexu Paradox (*.db, *.px)</description>
+				<description xml:lang="de">Paradox-Datenbank oder vorrangige Indexdatei (*.db, *.px)</description>
+				<description xml:lang="el">Βάση δεδομένων Paradox ή αρχείο πρωτεύοντος ευρετηρίου (*.db, *.px)</description>
+				<description xml:lang="en_GB">Paradox database or primary index file (*.db, *.px)</description>
+				<description xml:lang="es">Base de datos Paradox o archivo de índices primarios (*.db, *.px)</description>
+				<description xml:lang="eu">Paradox datu-basea edo indize-fitxategi primarioa (*.db, *.px)</description>
+				<description xml:lang="fi">Paradoxin tietokanta tai päähakemistotiedosto (*.db, *.px)</description>
+				<description xml:lang="fr">Base de données Paradox ou fichier d'index primaire (*.db, *.px)</description>
+				<description xml:lang="lt">Paradox duombazė ar pagrindinis rodyklės failas (*.db, *.px)</description>
+				<description xml:lang="lv">Paradox datubāze vai primārā indeksu datne (*.db, *.px)</description>
+				<description xml:lang="nb">Paradox-database eller primær indeksfil (*.db, *.px)</description>
+				<description xml:lang="pl">Baza danych Paradox lub pierwotny plik indeksu (*.db, *.px)</description>
+				<description xml:lang="ru">Файл базы данных или первичного индекса Paradox (*.db, *.px)</description>
+				<description xml:lang="sl">Paradox in Primary index (*.db, *.px)</description>
+				<description xml:lang="sr">База података Парадокса или датотека првог пописа (*.db, *.px)</description>
+				<description xml:lang="sr@latin">Baza podataka Paradoksa ili datoteka prvog popisa (*.db, *.px)</description>
+				<description xml:lang="zh_CN">Paradox 数据库或主索引文件(*.db, *.px)</description>
+				<description xml:lang="zh_HK">Paradox 資料庫或主索引檔 (*.db, *.px)</description>
+				<description xml:lang="zh_TW">Paradox 資料庫或主索引檔 (*.db, *.px)</description>
+			</information>
+			<suffixes>
+				<suffix>db</suffix>
+				<suffix>px</suffix>
+			</suffixes>
+		</service>
+		<service type="file_saver" id="paradox" format_level="write_only" file_extension="db">
+			<information>
+				<description>Paradox database (*.db)</description>
+				<description xml:lang="ca">Base de dades Paradox (*.db)</description>
+				<description xml:lang="ca@valencia">Base de dades Paradox (*.db)</description>
+				<description xml:lang="cs">Databáze Paradox (*.db)</description>
+				<description xml:lang="de">Paradox-Datenbank (*.db)</description>
+				<description xml:lang="el">Βάση δεδομένων Paradox (*.db)</description>
+				<description xml:lang="en_GB">Paradox database (*.db)</description>
+				<description xml:lang="es">Base de datos Paradox (*.db)</description>
+				<description xml:lang="eu">Paradox datu-basea (*.db)</description>
+				<description xml:lang="fi">Paradox-tietokanta (*.db)</description>
+				<description xml:lang="fr">Base de données Paradox (*.db)</description>
+				<description xml:lang="gl">Base de datos de Paradox (*.db)</description>
+				<description xml:lang="id">Paradox database (*.db)</description>
+				<description xml:lang="lt">Paradox duombazė (*.db)</description>
+				<description xml:lang="lv">Paradox datubāze (*db)</description>
+				<description xml:lang="nb">Paradox-database (*.db)</description>
+				<description xml:lang="pl">Baza danych Paradox (*.db)</description>
+				<description xml:lang="pt_BR">Banco de dados Paradox (*.db)</description>
+				<description xml:lang="ru">База данных Paradox (*.db)</description>
+				<description xml:lang="sl">Paradox (*.db)</description>
+				<description xml:lang="sr">База података Парадокса (*.db)</description>
+				<description xml:lang="sr@latin">Baza podataka Paradoksa (*.db)</description>
+				<description xml:lang="zh_CN">Paradox 数据库(*.db)</description>
+				<description xml:lang="zh_HK">Paradox 資料庫 (*.db)</description>
+				<description xml:lang="zh_TW">Paradox 資料庫 (*.db)</description>
+			</information>
+		</service>
+	</services>
+</plugin>

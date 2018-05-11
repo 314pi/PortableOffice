@@ -1,0 +1,19 @@
+# Pango Modules file
+# Automatically generated file, do not edit
+#
+# ModulesPath = C:\Program Files (x86)\Gnumeric\1.12.17\lib\pango\1.8.0\modules
+#
+"D:\\Development\\Portable Apps\\Gnumeric\\Releases\\GnumericPortable - Copy\\App\\Gnumeric\\lib\\pango\\1.8.0\\modules\\pango-arabic-lang.dll" ArabicScriptEngineLang PangoEngineLang PangoRenderNone arabic:*
+"D:\\Development\\Portable Apps\\Gnumeric\\Releases\\GnumericPortable - Copy\\App\\Gnumeric\\lib\\pango\\1.8.0\\modules\\pango-basic-fc.dll" BasicScriptEngineFc PangoEngineShape PangoRenderFc common:
+"D:\\Development\\Portable Apps\\Gnumeric\\Releases\\GnumericPortable - Copy\\App\\Gnumeric\\lib\\pango\\1.8.0\\modules\\pango-basic-win32.dll" BasicScriptEngineWin32 PangoEngineShape PangoRenderWin32 common:
+"D:\\Development\\Portable Apps\\Gnumeric\\Releases\\GnumericPortable - Copy\\App\\Gnumeric\\lib\\pango\\1.8.0\\modules\\pango-indic-lang.dll" devaIndicScriptEngineLang PangoEngineLang PangoRenderNone devanagari:*
+"D:\\Development\\Portable Apps\\Gnumeric\\Releases\\GnumericPortable - Copy\\App\\Gnumeric\\lib\\pango\\1.8.0\\modules\\pango-indic-lang.dll" bengIndicScriptEngineLang PangoEngineLang PangoRenderNone bengali:*
+"D:\\Development\\Portable Apps\\Gnumeric\\Releases\\GnumericPortable - Copy\\App\\Gnumeric\\lib\\pango\\1.8.0\\modules\\pango-indic-lang.dll" guruIndicScriptEngineLang PangoEngineLang PangoRenderNone gurmukhi:*
+"D:\\Development\\Portable Apps\\Gnumeric\\Releases\\GnumericPortable - Copy\\App\\Gnumeric\\lib\\pango\\1.8.0\\modules\\pango-indic-lang.dll" gujrIndicScriptEngineLang PangoEngineLang PangoRenderNone gujarati:*
+"D:\\Development\\Portable Apps\\Gnumeric\\Releases\\GnumericPortable - Copy\\App\\Gnumeric\\lib\\pango\\1.8.0\\modules\\pango-indic-lang.dll" oryaIndicScriptEngineLang PangoEngineLang PangoRenderNone oriya:*
+"D:\\Development\\Portable Apps\\Gnumeric\\Releases\\GnumericPortable - Copy\\App\\Gnumeric\\lib\\pango\\1.8.0\\modules\\pango-indic-lang.dll" tamlIndicScriptEngineLang PangoEngineLang PangoRenderNone tamil:*
+"D:\\Development\\Portable Apps\\Gnumeric\\Releases\\GnumericPortable - Copy\\App\\Gnumeric\\lib\\pango\\1.8.0\\modules\\pango-indic-lang.dll" teluIndicScriptEngineLang PangoEngineLang PangoRenderNone telugu:*
+"D:\\Development\\Portable Apps\\Gnumeric\\Releases\\GnumericPortable - Copy\\App\\Gnumeric\\lib\\pango\\1.8.0\\modules\\pango-indic-lang.dll" kndaIndicScriptEngineLang PangoEngineLang PangoRenderNone kannada:*
+"D:\\Development\\Portable Apps\\Gnumeric\\Releases\\GnumericPortable - Copy\\App\\Gnumeric\\lib\\pango\\1.8.0\\modules\\pango-indic-lang.dll" mlymIndicScriptEngineLang PangoEngineLang PangoRenderNone malayalam:*
+"D:\\Development\\Portable Apps\\Gnumeric\\Releases\\GnumericPortable - Copy\\App\\Gnumeric\\lib\\pango\\1.8.0\\modules\\pango-indic-lang.dll" sinhIndicScriptEngineLang PangoEngineLang PangoRenderNone sinhala:*
+"D:\\Development\\Portable Apps\\Gnumeric\\Releases\\GnumericPortable - Copy\\App\\Gnumeric\\lib\\pango\\1.8.0\\modules\\pango-thai-lang.dll" ThaiScriptEngineLang PangoEngineLang PangoRenderNone thai:*

@@ -1,0 +1,15 @@
+REGEDIT4
+
+[HKEY_USERS\.DEFAULT\Software\gnumeric]
+
+[HKEY_USERS\.DEFAULT\Software\gnumeric\plugin]
+
+[HKEY_USERS\.DEFAULT\Software\gnumeric\plugin\glpk]
+"glpsol-path"=""
+
+[HKEY_USERS\.DEFAULT\Software\gnumeric\plugin\latex]
+"use-utf8"=hex:00
+
+[HKEY_USERS\.DEFAULT\Software\gnumeric\plugin\lpsolve]
+"lpsolve-path"=""
+

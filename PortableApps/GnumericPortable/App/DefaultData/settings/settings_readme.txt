@@ -1,0 +1,1 @@
+Your Gnumeric settings registry files will go here
