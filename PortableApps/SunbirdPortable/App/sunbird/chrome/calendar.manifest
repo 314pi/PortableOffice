@@ -1,0 +1,4 @@
+content calendar jar:calendar.jar!/content/calendar/
+skin calendar classic/1.0 jar:calendar.jar!/skin/calendar/
+content branding jar:calendar.jar!/content/branding/ xpcnativewrappers=yes
+style chrome://calendar/content/calendar-event-dialog.xul chrome://global/skin/toolbar.css

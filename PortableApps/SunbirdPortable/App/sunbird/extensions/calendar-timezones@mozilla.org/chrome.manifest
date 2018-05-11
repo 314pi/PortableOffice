@@ -1,0 +1,2 @@
+locale calendar-timezones en-US jar:chrome/calendar-timezones-en-US.jar!/locale/en-US/
+skin calendar-timezones classic/1.0 jar:chrome/calendar-timezones.jar!/skin/

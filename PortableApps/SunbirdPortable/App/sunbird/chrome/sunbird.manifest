@@ -1,0 +1,5 @@
+skin sunbird classic/1.0 jar:sunbird.jar!/skin/sunbird/
+style chrome://global/content/customizeToolbar.xul chrome://calendar/skin/calendar-event-dialog.css
+content sunbird jar:sunbird.jar!/content/sunbird/
+style chrome://global/content/customizeToolbar.xul chrome://sunbird/skin/calendar.css
+style chrome://global/content/customizeToolbar.xul chrome://sunbird/skin/toolbar.css
