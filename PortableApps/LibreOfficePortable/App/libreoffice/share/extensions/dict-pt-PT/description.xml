@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description xmlns="http://openoffice.org/extensions/description/2006" xmlns:d="http://openoffice.org/extensions/description/2006"  xmlns:xlink="http://www.w3.org/1999/xlink">
+    <version value="16.10.1.2" />
+    <identifier value="Natura.OOo3.pt-PT-dictionary" />
+    <display-name>
+        <name lang="en-US">European Portuguese spelling dictionary, hyphenation rules, and thesaurus</name>
+        <name lang="af">European Portuguese spelling dictionary, hyphenation rules, and thesaurus</name>
+        <name lang="am">European Portuguese spelling dictionary, hyphenation rules, and thesaurus</name>
+        <name lang="ar">قاموس التدقيق الإملائي للُّغة البرتغالية الأوروبية، قواعد الواصلة والمترادفات</name>
+        <name lang="as">ইউৰোপীয়ান পৰ্তুগিচ বানান শব্দকোষ, হাইফেনেষণ নিয়মসমূহ, আৰু সমাৰ্থশব্দকোষ</name>
+        <name lang="ast">Diccionariu ortográficu, regles de separación silábica y sinónimos pal portugués européu</name>
+        <name lang="be">Партугальскі (Партугалія) правапісны слоўнік, правілы пераносаў і тэзаўрус</name>
+        <name lang="bg">Португалски речници за правопис, сричкопренасяне и синоними (Европа)</name>
+        <name lang="bn">European Portuguese spelling dictionary, hyphenation rules, and thesaurus</name>
+        <name lang="bn-IN">ইউরোপিয়ান পোর্তুগিজ বানান পরীক্ষণের অভিধান এবং হাইফেন প্রয়োগের নিয়ম</name>
+        <name lang="bo">European Portuguese spelling dictionary, hyphenation rules, and thesaurus</name>
+        <name lang="br">Geriadur ar reizhskrivañ, reolennoù an troc'hañ-gerioù ha geriadur an heñvelsterioù evit ar portugaleg europat</name>
+        <name lang="brx">European Portuguese spelling dictionary, hyphenation rules, and thesaurus</name>
+        <name lang="bs">Rječnik pravopisa i sinonima, te pravila rastavljanja riječi na kraju reda za portugalski jezik (Portugal)</name>
+        <name lang="ca">Portuguès (Portugal): corrector ortogràfic, partició de mots i tesaurus (sinònims i termes relacionats)</name>
+        <name lang="ca-valencia">Portugués (Portugal): corrector ortogràfic, partició de mots i tesaurus (sinònims i termes relacionats)</name>
+        <name lang="cs">Slovník kontroly pravopisu, dělení slov a slovník synonym pro evropskou portugalštinu</name>
+        <name lang="cy">Portiwgaleg Ewropeaidd - geiriadur sillafu a rheolau cyplysnodi a thesawrws</name>
+        <name lang="da">Europæisk portugisisk stavekontrol, orddelingsregler og synonymordbog</name>
+        <name lang="de">Europäisch Portugiesisches Wörterbuch für Rechtschreibprüfung, Silbentrennung und Thesaurus</name>
+        <name lang="dgo">पुर्तगाली शब्द-जोड़ शब्दकोश, जोड़-चिʼन्नीकरण नियम ते पर्यायकोश</name>
+        <name lang="dz">European Portuguese spelling dictionary, hyphenation rules, and thesaurus</name>
+        <name lang="el">Ευρωπαϊκό πορτογαλικό ορθογραφικό λεξικό, συλλαβισμός και θησαυρός</name>
+        <name lang="en-GB">European Portuguese spelling dictionary, hyphenation rules, and thesaurus</name>
+        <name lang="en-ZA">European Portuguese spelling dictionary, hyphenation rules, and thesaurus</name>
+        <name lang="eo">Eŭrope portugala ortografia vortaro, vortdividaj reguloj, kaj tezaŭro</name>
+        <name lang="es">Portugués (Portugal): corrector ortográfico, sinónimos y reglas de división de palabras</name>
+        <name lang="et">Euroopa portugali keele õigekirjakontrolli sõnastik, poolitusreeglid ja tesaurus</name>
+        <name lang="eu">Portugesaren ortografia-egiaztatzailea, hitzak zatitzeko arauak eta thesaurusa</name>
+        <name lang="fa">European Portuguese spelling dictionary, hyphenation rules, and thesaurus</name>
+        <name lang="fi">Portugalin (Eurooppa) oikolukusanasto, tavutussäännöt ja synonyymisanasto</name>
+        <name lang="fr">Dictionnaires orthographique, des synonymes et règles de coupure des mots portugais européens</name>
+        <name lang="ga">Foclóir litrithe Phortaingéilis na hEorpa, rialacha fleiscínithe, agus teasáras</name>
+        <name lang="gd">Faclair litreachadh, riaghailtean tàthanachadh ⁊ co-fhaclair Portagailis na Roinn-Eòrpa</name>
+        <name lang="gl">Dicionario ortográfico, sinónimos e guionizador do portugués europeo</name>
+        <name lang="gu">યુરોપિયન પોર્ટુગીઝ જોડણી ચકાસણી શબ્દકોષ, હાઇફનેશન નિયમો, અને માહિતી ભંડાર</name>
+        <name lang="gug">European Portuguese spelling dictionary, hyphenation rules, and thesaurus</name>
+        <name lang="he">רשימת מילים לבודק איות, כללי מיקוף ואגרון בפורטוגלית אירופית</name>
+        <name lang="hi">यूरोपीय पुर्तगाली वर्तनी शब्दकोश, समासन नियम और थिसारस</name>
+        <name lang="hr">Pravopisni rječnik, rastavljanje riječi i rječnik sinonima europskog portugalskog jezika</name>
+        <name lang="hsb">Prawopisny słownik, prawidła dźělenja złóžkow a tezawrus za europsku portugalšćinu</name>
+        <name lang="hu">Portugál helyesírási szótár, elválasztási szabályok és szinonimaszótár</name>
+        <name lang="id">Kamus ejaan, aturan pemutusan suku kata, dan tesaurus bahasa Portugis Eropa</name>
+        <name lang="is">Evrópsk-portúgalskt stafsetningarorðasafn, orðskiptireglur og samheitaorðasafn</name>
+        <name lang="it">Dizionario ortografico portoghese, regole di sillabazione e dizionario di sinonimi</name>
+        <name lang="ja">ポルトガル語 (ヨーロッパ) スペル辞書、ハイフネーション規則と類義語辞典</name>
+        <name lang="ka">European Portuguese spelling dictionary, hyphenation rules, and thesaurus</name>
+        <name lang="kk">Португал (Еуропа) емле сөздігі, тасымалдау ережелері және тезаурус</name>
+        <name lang="km">វចនានុក្រម​អក្ខរាវិរុទ្ធ​ភាសា​ព័រទុយហ្គាល់​អឺរ៉ុប គោលការណ៍​ដាក់​សហសញ្ញា និង​កម្រង​វេវចនសព្ទ</name>
+        <name lang="kmr-Latn">European Portuguese spelling dictionary, hyphenation rules, and thesaurus</name>
+        <name lang="kn">ಯುರೋಪಿಯನ್ ಪೋರ್ಚುಗೀಸ್ ಕಾಗುಣಿತ ಪರೀಕ್ಷಕ ಶಬ್ಧಕೋಶ, ಹೈಫನೇಶನ್ ನಿಯಮಗಳು, ಹಾಗು ಸಮಾನಾರ್ಥಕ ಪದಕೋಶ</name>
+        <name lang="ko">유럽 포르투갈어 맞춤법 사전, 하이픈 규칙 및 동의어 사전</name>
+        <name lang="kok">युरोपियन पोर्तुगेज वर्णरचना शब्दकोश, संयोगचिन्नाचे नेम आनी थेसोरसYeropi Portuguese OkxorRochona Xobdkox, Xobdkox, somyog chinna Niyom ani 
+ MahetiKox</name>
+        <name lang="ks">European Portuguese spelling dictionary, hyphenation rules, and thesaurus</name>
+        <name lang="lb">European Portuguese spelling dictionary, hyphenation rules, and thesaurus</name>
+        <name lang="lo">European Portuguese spelling dictionary, hyphenation rules, and thesaurus</name>
+        <name lang="lt">Portugalų (Europa) kalbos rašybos tikrinimo, žodžių kėlybos ir tezauro žodynai</name>
+        <name lang="lv">Eiropas portugāļu pareizrakstības vārdnīca, zilbjdales kārtulas un tēzaurs</name>
+        <name lang="mai">European Portuguese spelling dictionary, hyphenation rules, and thesaurus</name>
+        <name lang="mk">European Portuguese spelling dictionary, hyphenation rules, and thesaurus</name>
+        <name lang="ml">യൂറോപ്പ്യന്‍ പോര്‍ച്ചുഗീസ് സ്പെല്ലിങ് നിഘണ്ടുവും ഹൈഫനേഷന്‍ നിയമങ്ങളും തെസോറസും</name>
+        <name lang="mn">Европын Португал хэлний зөв бичгийн ба үеэр таслах дүрмийн болон нэвтэрхий толь бичиг</name>
+        <name lang="mni">ইউরোপিযান পোর্তুগিজ বানানগী দিক্সনারি, অমসুং হাইফেনেসনগী রুলশিং, অমসুং 
+ থেসোরস</name>
+        <name lang="mr">युरोपियन पॉर्ट्युगिज शुध्दलेखन शब्दकोश, हायफेनेशन नियम, व थिसॉरस्</name>
+        <name lang="my">ပိုလန် စာလုံးပေါင်းစစ်အဘိဓာန်၊ စကားလုံးခွဲမျဉ်းတို စည်းမျဉ်းများနှင့်  ဝေါဟာရပဒေသာကျမ်း</name>
+        <name lang="nb">Portugisisk stavekontroll, orddeling og synonymordbok</name>
+        <name lang="ne">यूरोपीय पुर्तगाली हिज्जे शब्दकोश, योजकचिन्ह राख्ने कार्य नियमहरू, र पर्यायकोश</name>
+        <name lang="nl">Europees Portugees spelling woordenboek, woordafbrekingsregels en thesaurus</name>
+        <name lang="nn">Portugisisk stavekontroll, orddeling og synonymordbok</name>
+        <name lang="nr">European Portuguese spelling dictionary, hyphenation rules, and thesaurus</name>
+        <name lang="nso">European Portuguese spelling dictionary, hyphenation rules, and thesaurus</name>
+        <name lang="oc">Diccionaris ortografic, dels sinonims e règlas de copadura de mots portugueses d'Euròpa</name>
+        <name lang="om">European Portuguese spelling dictionary, hyphenation rules, and thesaurus</name>
+        <name lang="or">ୟୁରୋପିଆନ ପର୍ତ୍ତୁଗିଜ ବନାନ ଅବିଧାନ, ସମାସ ଚିହ୍ନ ନିୟମାବଳୀ, ଏବଂ ଶବ୍ଦାକୋଷ</name>
+        <name lang="pa-IN">ਯੂਰਪੀਅਨ ਪੋਰਤੂਗੂਈਸ ਸਪੈਲਿੰਗ ਡਿਕਸ਼ਨਰੀ, ਅਤੇ ਹਾਈਫਨੇਸ਼ਨ ਰੂਲ, ਅਤੇ ਕੋਸ਼</name>
+        <name lang="pl">Europejska odmiana języka portugalskiego słownik ortograficzny, reguły dzielenia wyrazów i słownik wyrazów bliskoznacznych</name>
+        <name lang="pt">Dicionário ortográfico, sinónimos e regras de hifenização em português europeu</name>
+        <name lang="pt-BR">Dicionário ortográfico, sinônimos e regras de hifenização em português europeu</name>
+        <name lang="ro">Dicționar ortografic, despărțire în silabe și de sinonime portugheză din europa</name>
+        <name lang="ru">Португальский (Европа) орфографический словарь, правила переноса и тезаурус</name>
+        <name lang="rw">European Portuguese spelling dictionary, hyphenation rules, and thesaurus</name>
+        <name lang="sa-IN">यूरोपियन् पोर्चुगीस् वर्णविन्यासकोशः, समासकरणनियमाः तथा च कोशः</name>
+        <name lang="sat">योरोपियान पोरतुगिज बानान ञेल साबाद गादेल, फारका गार नियोम को, आर मित् लेकान मानेयानाक् साबाद गादेल बाबोत</name>
+        <name lang="sd">يوروپي پرتگالي هجي ڊڪشنري، ننڍي ليڪ (-) ڏيڻ جا قاعدا، ۽ پريايواچي ڪوش</name>
+        <name lang="si">European Portuguese spelling dictionary, hyphenation rules, and thesaurus</name>
+        <name lang="sid">Awuroppu Portugaalete fidalishshsi qaallate fichaancho, haawiiccisha wodhonna xaadigurchu qaallate fichaancho</name>
+        <name lang="sk">Európsky portugalský slovník na kontrolu pravopisu, pravidlá na delenie slov a tezaurus</name>
+        <name lang="sl">Evropski portugalski jezik – slovar za preverjanje črkovanja, vzorci za deljenje besed in slovar sopomenk</name>
+        <name lang="sq">Fjalor drejtshkrimi i gjuhës Portugeze Europiane, rregullat fonetike dhe enciklopedi</name>
+        <name lang="sr">Европски португалски: провера писања, прелом речи и речник синонима</name>
+        <name lang="sr-Latn">Evropski portugalski: provera pisanja, prelom reči i rečnik sinonima</name>
+        <name lang="ss">European Portuguese spelling dictionary, hyphenation rules, and thesaurus</name>
+        <name lang="st">European Portuguese spelling dictionary, hyphenation rules, and thesaurus</name>
+        <name lang="sv">Europeisk portugisisk stavningsordlista, böjningsregler och synonymlexikon</name>
+        <name lang="sw-TZ">European Portuguese spelling dictionary, hyphenation rules, and thesaurus</name>
+        <name lang="ta">ஐரோப்பிய போர்த்துகீஸ் எழுத்துக்கூட்டு அகராதி, நடுக்கோடு விதிகள் மற்றும் நிகண்டு</name>
+        <name lang="te">యూరోపియన్ పోర్చుగీస్  వుచ్ఛారణా నిఘంటువు, హైఫనేషన్ నియమాలు, మరియు పదకోశాలు</name>
+        <name lang="tg">European Portuguese spelling dictionary, hyphenation rules, and thesaurus</name>
+        <name lang="th">European Portuguese spelling dictionary, hyphenation rules, and thesaurus</name>
+        <name lang="tn">European Portuguese spelling dictionary, hyphenation rules, and thesaurus</name>
+        <name lang="tr">Avrupa Portekizce yazım sözlüğü, heceleme kuralları, ve eş anlamlılar</name>
+        <name lang="ts">European Portuguese spelling dictionary, hyphenation rules, and thesaurus</name>
+        <name lang="tt">Португалия (Аурупа) теленең орфография сүзлеге, күчерү кагыйдәләре һәм тезаурус</name>
+        <name lang="ug">ياۋرۇپا پورتۇگالچە ئىملا لۇغىتى، ھەرپ ئۇلىنىش قائىدىسى ۋە مەنىداش سۆزلەر لۇغىتى</name>
+        <name lang="uk">Португальський (Європа) орфографічний словник, правила переносу та тезаурус</name>
+        <name lang="uz">European Portuguese spelling dictionary, hyphenation rules, and thesaurus</name>
+        <name lang="ve">European Portuguese spelling dictionary, hyphenation rules, and thesaurus</name>
+        <name lang="vec">Disionaro ortogràfego Portogheze, règołe de siłabasion e disionaro de i sinònemi</name>
+        <name lang="vi">Từ điển chính tả, luật gạch ngang, từ điển đồng nghĩa tiếng Bồ Đào Nha châu Âu</name>
+        <name lang="xh">European Portuguese spelling dictionary, hyphenation rules, and thesaurus</name>
+        <name lang="zh-CN">欧洲葡萄牙语拼写词典、连字符规则及同义词库</name>
+        <name lang="zh-TW">歐洲葡萄牙文拼寫詞典、斷字與禁忌規則、同義詞庫</name>
+        <name lang="zu">European Portuguese spelling dictionary, hyphenation rules, and thesaurus</name>
+    </display-name>
+    <platform value="all" />
+    <dependencies>
+        <OpenOffice.org-minimal-version value="3.0" d:name="OpenOffice.org 3.0" />
+    </dependencies>
+    <publisher>
+        <name xlink:href="http://natura.di.uminho.pt/wiki/doku.php?id=dicionarios:main" lang="en">Natura</name>
+    </publisher>
+  <icon>
+    <default xlink:href="icon.png" />
+  </icon>
+</description>

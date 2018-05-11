@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description xmlns="http://openoffice.org/extensions/description/2006" xmlns:d="http://openoffice.org/extensions/description/2006"  xmlns:xlink="http://www.w3.org/1999/xlink">
+    <version value="3.2.13" />
+    <identifier value="brazilian.portuguese.reform1990-dictionary.from.vero.by.raimundomoura" />
+    <display-name>
+        <name lang="en-US">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="af">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="am">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="ar">أدوات التحقق من التهجئة, الواصلة و النحو للغة البرتغالية البرازيلية</name>
+        <name lang="as">বানান, ব্ৰাজিলিয়ান পৰ্তুগিজৰ বাবে হাইফেনেষণ আৰু ব্যাকৰণ নীৰিক্ষণ সঁজুলিসমূহ</name>
+        <name lang="ast">Ortografía, separación silábica y ferramientes de comprobación gramatical pal portugués del Brasil</name>
+        <name lang="be">Партугальскі (Бразілія) правапісны слоўнік, правілы пераносаў і праверка граматыкі</name>
+        <name lang="bg">Проверка на правопис и граматика и сричкопренасяне за бразилски португалски</name>
+        <name lang="bn">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="bn-IN">ব্রাজিলিয়ান পর্তুগিজ ভাষার বানান, যতিচিহ্ন, এবং ব্যাকরণ যাচাইয়ের সরঞ্জাম</name>
+        <name lang="bo">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="br">Gwiriadur reizhskrivadurel, troc'hoù-gerioù ha binvioù evit ar yezhadur evit portugaleg Brazil</name>
+        <name lang="brx">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="bs">Rječnik pravopisa i sinonima, te pravila rastavljanja riječi na kraju reda za portugalski jezik (Brazil)</name>
+        <name lang="ca">Portuguès (Brasil): corrector ortogràfic i gramatical i partició de mots</name>
+        <name lang="ca-valencia">Portugués (Brasil): corrector ortogràfic i gramatical i partició de mots</name>
+        <name lang="cs">Portugalský (brazilský) slovník pro kontrolu pravopisu a dělení slov a nástroje pro kontrolu gramatiky</name>
+        <name lang="cy">Portiwgaleg Brasil - offer gwirio sillafu, gramadeg a chyplysnodi</name>
+        <name lang="da">Kontrolværktøjer til brasiliansk portugesisk stavning, orddeling og grammatik </name>
+        <name lang="de">Brasilianisch-portugiesisches Wörterbuch für Rechtschreibprüfung, Silbentrennung und Thesaurus</name>
+        <name lang="dgo">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="dz">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="el">Ορθογραφικός έλεγχος, συλλαβισμός και εργαλεία γραμματικού ελέγχου για τα βραζιλιάνικα πορτογαλικά</name>
+        <name lang="en-GB">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="en-ZA">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="eo">Literumada kaj vortdivida vortaroj, kaj gramatikokontrolilo por brazila portugala</name>
+        <name lang="es">Portugués (Brasil): corrector ortográfico y gramatical y reglas de división de palabras</name>
+        <name lang="et">Brasiilia portugali keele õigekirjakontrolli-, poolitus- ja grammatikakontrollitööriistad</name>
+        <name lang="eu">Brasilgo portugesaren ortografia-egiaztatzailea, hitzak zatitzeko arauak eta thesaurusa</name>
+        <name lang="fa">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="fi">Brasilian portugalin oikolukusanasto, tavutussäännöt ja kieliopin tarkistin</name>
+        <name lang="fr">Correcteurs orthographique, grammatical et dictionnaire de coupure des mots portugais brésiliens</name>
+        <name lang="ga">Litreoir, rialacha fleiscínithe, agus gramadóir do Phortaingéilis na Brasaíle</name>
+        <name lang="gd">Dearbhadh-litreachadh, tàthanachadh is sgrùdadh gràmair airson Portagailis Bhraisil</name>
+        <name lang="gl">Corrector ortográfico, gramatical e guionizador do portugués brasileiro</name>
+        <name lang="gu">બ્રાઝિલીયન પોર્ટુગીઝ માટે જોડણી ચકાસણી, હાઇફનેશન અને વ્યાકરણ ચકાસણી</name>
+        <name lang="gug">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="he">מילון בדיקת איות, כללי מיקוף וכלי בדיקת תחביר בפורטוגזית ברזילאית</name>
+        <name lang="hi">ब्राजिलियाई पुर्तगाली के लिए वर्तनी, समासन, और व्याकरण जाँच</name>
+        <name lang="hr">Pravopisni rječnik, rastavljanje riječi i gramatika brazilskog portugalskog jezika</name>
+        <name lang="hsb">Prawopis, dźělenje złóžkow a gramatikowa kontrola za brazilsku portugalšćinu</name>
+        <name lang="hu">Brazíliai portugál helyesírási, elválasztási és nyelvhelyesség-ellenőrzési eszközök</name>
+        <name lang="id">Perkakas pemeriksaan ejaan, pemutusan suku kata, dan tata bahasa bagi bahasa Portugis Brasilia.</name>
+        <name lang="is">Brasilísk-portúgalskt stafsetningarorðasafn, orðskiptireglur og samheitaorðasafn</name>
+        <name lang="it">Strumenti di controllo ortografico, di sillabazione e grammaticale per il Portoghese brasiliano</name>
+        <name lang="ja">ポルトガル語 (ブラジル)用のスペル、ハイフネーションと文法チェックツール</name>
+        <name lang="ka">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="kk">Португал (Бразилия) емле сөздігі, тасымалдау ережелері және грамматиканы тексеру саймандары</name>
+        <name lang="km">ពិនិត្យ​អក្ខរាវិរុទ្ធ ការ​ដាក់​សហសញ្ញា និង​កម្មវិ​ធីពិនិត្យ​វេយ្យាករណ៍​សម្រាប់​ភាសា​ប្រេស៊ីល ព័រទុយហ្គាល់</name>
+        <name lang="kmr-Latn">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="kn">ಬ್ರೆಝಿಲಿಯನ್ ಪೋರ್ಚುಗೀಸ್‌ಗಾಗಿ ಕಾಗುಣಿತ, ಹೈಫನೇಶನ್ ಮತ್ತು ವ್ಯಾಕರಣ ಪರೀಕ್ಷಕ ಉಪಕರಣಗಳು</name>
+        <name lang="ko">포르투갈어(브라질) 맞춤법 검사, 하이픈, 문법 검사 도구</name>
+        <name lang="kok">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="ks">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="lb">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="lo">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="lt">Portugalų (Brazilija) kalbos rašybos, gramatikos tikrinimo ir žodžių kėlybos žodynai</name>
+        <name lang="lv">Pareizrakstības, zilbjdales un gramatikas pārbaudes rīki Brazīlijas portugāļu valodai</name>
+        <name lang="mai">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="mk">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="ml">ബ്രസീലിയന് പോര്‍ച്ചുഗീസിനുള്ള സ്പെല്ലിങ്, ഹൈഫനേഷന്‍, വ്യാകരണം പരിശോധനയ്ക്കുള്ള പ്രയോഗങ്ങള്‍</name>
+        <name lang="mn">Бразилийн Португаль хэлний зөв бичгийн ба үеэр таслах дүрмийн толь бичиг ба дүрмийн шалгалт</name>
+        <name lang="mni">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="mr">ब्रजिलिअन पॉर्ट्युगिजकरीता शुध्दलेखन, हायफेनेशन नियम व व्याकरण तपासणीचे साधन</name>
+        <name lang="my">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="nb">Stavekontroll, orddeling og stavekontrollverktøy for brasiliansk-portugisisk</name>
+        <name lang="ne">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="nl">Hulpmiddelen voor controle van spelling, afbreken en grammatica voor Braziliaans-Portugees</name>
+        <name lang="nn">Portugisisk (Brasil) stavekontroll, orddeling og synonymordbok</name>
+        <name lang="nr">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="nso">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="oc">Corrector ortografic, gamatical e diccionari de copadura dels mots portugueses brasilians</name>
+        <name lang="om">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="or">ବ୍ରାଜିଲିଆନ ପର୍ତ୍ତୁଗିଜ ପାଇଁ ବନାନ, ସମାସ ଚିହ୍ନ ଏବଂ ବ୍ୟାକରଣ ଯାଞ୍ଚ ଉପକରଣଗୁଡ଼ିକ</name>
+        <name lang="pa-IN">ਬਰਾਜ਼ੀਲੀ ਪੁਰਤਗਾਲੀ ਲਈ ਸ਼ਬਦ-ਜੋੜ, ਸਮਸ ਚਿਨ੍ਹੀਕਰਣ ਅਤੇ ਸ਼ਬਦ-ਜੋੜ ਜਾਂਚ ਸੰਦ</name>
+        <name lang="pl">Narzędzia sprawdzania pisowni, dzielenia wyrazów i gramatyki dla języka portugalskiego brazylijskiego</name>
+        <name lang="pt">Dicionário ortográfico, sinónimos e regras de hifenização em português brasileiro</name>
+        <name lang="pt-BR">Ortografia, gramática e hifenização para Português Brasileiro</name>
+        <name lang="ro">Dicționar ortografic, despărțire în silabe și gramatical portugheză brazilă</name>
+        <name lang="ru">Португальский (Бразилия) орфографический словарь, инструменты для расстановки переносов и проверки грамматики</name>
+        <name lang="rw">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="sa-IN">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="sat">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="sd">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="si">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="sid">Lowo afuu jirtete soro buuxate Birazile Portugale</name>
+        <name lang="sk">Portugalský (brazílsky) slovník na kontrolu pravopisu a  delenie slov a nástroje na kontrolu gramatiky.</name>
+        <name lang="sl">Orodja za preverjanje črkovanja, deljenje besed in preverjanje slovnice za brazilsko portugalščino</name>
+        <name lang="sq">Mjete kontrolli drejtshkrimi, fonetike dhe gramatike për Portugezen Braziliane</name>
+        <name lang="sr">Бразилски португалски: провера писања, прелом речи и речник синонима</name>
+        <name lang="sr-Latn">Brazilski portugalski: provera pisanja, prelom reči i rečnik sinonima</name>
+        <name lang="ss">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="st">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="sv">Stavning-, avstavning- och grammatikverktyg för brasiliansk portugisiska</name>
+        <name lang="sw-TZ">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="ta">பிரேசிலிய போர்த்துக்கீசிய மொழிக்கான எழுத்துக்கூட்டு, நடுக்கோடாக்கம் மற்றும் இலக்கண சரிபார்ப்பு கருவிகள்</name>
+        <name lang="te">బ్రెజిలియన్ పోర్చుగీస్ కొరకు స్పెల్లింగ్, హైఫనేషన్ మరియు వ్యాకరణ పరిశీలన సాధనాలు</name>
+        <name lang="tg">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="th">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="tn">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="tr">Brezilya Portekizcesi için yazım sözlüğü, heceleme ve dilbilgisi denetimi araçları</name>
+        <name lang="ts">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="tt">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="ug">بىرازىلىيە پورتۇگالچە ئىملا لۇغىتى، ھەرپ ئۇلاش قائىدىسى ۋە مەنىداش سۆزلەر لۇغىتى</name>
+        <name lang="uk">Орфографія, правила переносу та перевірка граматики для португальської (Бразилія)</name>
+        <name lang="uz">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="ve">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="vec">Strumenti de controło ortogràfego, de siłabasion e gramategałe par el Portogheze Braziłian</name>
+        <name lang="vi">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="xh">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="zh-CN">巴西葡萄牙语拼写检查、断字规则与语法检查工具</name>
+        <name lang="zh-TW">巴西葡萄牙文拼寫、斷字與禁忌規則、文法檢查工具</name>
+        <name lang="zu">Spelling, hyphenation and grammar checking tools for Brazilian Portuguese</name>
+        <name lang="pt-BR">Ortografia, gramática e hifenização para Português Brasileiro</name>
+    </display-name>
+    <platform value="all" />
+    <icon>
+        <default xlink:href="icons/VERO-logo.png" />
+    </icon>
+    <dependencies>
+        <OpenOffice.org-minimal-version value="3.0" d:name="BrOffice.org / OpenOffice.org 3.0" />
+    </dependencies>
+    <publisher>
+        <name xlink:href="http://pt-br.libreoffice.org/projetos/projeto-vero-verificador-ortografico" lang="pt-BR">VERO</name>
+    </publisher>
+</description>
+
